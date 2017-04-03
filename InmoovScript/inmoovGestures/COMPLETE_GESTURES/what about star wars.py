@@ -7,8 +7,7 @@ def whataboutstarwars():
     if x == 1:
             fullspeed()
             i01.moveHead(130,149,87,80,100)
-            #audiofile.play(mp3Path + "R2D2.mp3")
-            i01.mouth.speak("R2D2")
+            AudioPlayer.playFile(RuningFolder+'/system/sounds/R2D2.mp3')
             sleep(1)
             i01.moveHead(155,31,87,80,100)
             sleep(1)
@@ -21,11 +20,7 @@ def whataboutstarwars():
             relax()
     if x == 2:
             fullspeed()
-            #mouth.setAudioEffects("Volume(amount=0)")
-            #mouth.speak("Hello sir, I am C3po unicyborg relations")
-            #audiofile.playFileBlocking(mp3Path + "Hello sir, I am C3po unicyborg relations")
-            #mouth.setAudioEffects("Volume(amount=1.70)")
-            i01.mouth.speak("Hello sir, I am C3po unicyborg relations")
+            AudioPlayer.playFile(RuningFolder+'/system/sounds/Hello sir, I am C3po unicyborg relations.mp3')
             i01.moveHead(138,80)
             i01.moveArm("left",79,42,23,41)
             i01.moveArm("right",71,40,14,39)
@@ -54,8 +49,7 @@ def whataboutstarwars():
             i01.moveHand("left",180,180,180,180,180,90)
             i01.moveHand("right",180,2,175,160,165,180)
             i01.moveTorso(90,90,90)
-            #audiofile.play(mp3Path + "mmmmmmh, from the dark side you are")
-            i01.mouth.speak("mmmmmmh, from the dark side you are")
+            AudioPlayer.playFile(RuningFolder+'/system/sounds/mmmmmmh, from the dark side you are.mp3')
             sleep(4.5)
             relax()      
             
