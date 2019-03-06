@@ -1,3 +1,44 @@
+#Projet NEO
+NEO c'est Nous.
+ (photo groupe)
+ 
+NEO c'est Lui.
+(photo bras + photo complet)
+
+blablablab.. vient de gael ... histo ...
+
+NEO, c'est l'idée, qu'avec un peu de folie et bcp d'acharnement, on est tous capable de transformer le présent en avenir.
+
+NEO, c'est ce support pédagogique, qui va permetre a tous d'apprendre des connaissances de chacun.
+
+NEO, c'est l'intelligence de savoir s'unir pour relever les défis
+
+L'intelligence n'est qu"un artifice, ...blablablab...
+
+
+-------
+Ce projet vise a donner naissance à NEO
+
+Et c'est d'ici qu'il naitra, somme de tous nos efforts.
+
+Il sera la concrétisation de nos ( / des  etudiants) apprentissages en IA
+ 
+-------
+Techniquement :
+- repository pour gerer la config / le developpement du projet NEO du Centre de FOrmation Universitaire de l'Universite du Littoral
+- TODO : 
+- Le DEv de NEO se fera depuis la branche 'dev-manticore'.
+- Vous veillerez donc à travailler depuis cette branche 
+
+
+-----
+Merci Gael Langevin,
+ Ta famille s'agrandit de jour en jour
+ 
+------
+
+
+
 # InMooV - Service launcher v 1.0.0   
 
 This is the full configurable internationnal launcher script for Inmoov service.  
