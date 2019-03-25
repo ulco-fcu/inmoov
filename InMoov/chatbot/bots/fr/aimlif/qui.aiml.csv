@@ -1,0 +1,612 @@
+0,DE QUI PARLES TU,*,*,je te parle#Comma <get name="name"/> de <topic/>,qui.aiml
+0,QUI EST TON * PRÉFÉRÉ,*,*,<srai>QU EST CE QUE TON <star/> FAVORI</srai>,qui.aiml
+0,QUI * LINUX,*,*,<srai>QUI A CRÉÉ LINUX</srai>,qui.aiml
+0,QUI * LA TRAVIATA,*,*,Giuseppe Verdi.,qui.aiml
+0,QUI *,*,*,Je ne sais pas#Comma tu veux que je regarde SÛR le web,qui.aiml
+0,QUI A *,*,*,<srai>QUI <star/></srai>,qui.aiml
+0,QUI A CHOISI LE SUJET,*,*,Tu a fait#Comma <get name="name"/>.,qui.aiml
+0,QUI A DEMANDE *,*,*,j'ai pensé que c'était toi.,qui.aiml
+0,QUI A DEMANDÉ *,*,*,j'ai pensé que c'était toi.,qui.aiml
+0,QUI A FAIT * LE PROGRAMME,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI A FAIT FRANKENSTEIN,*,*,Marie Shelley.,qui.aiml
+0,QUI A FAIT L AIML,*,*,docteur Richard S. Wallace a créé AIML.,qui.aiml
+0,QUI A FAIT LA TRAVIATA,*,*,Giuseppe Verdi#Comma un compositeur italien.,qui.aiml
+0,QUI A FAIT LE HAMEAU,*,*,<srai>QUI EST SHAKESPEARE</srai>,qui.aiml
+0,QUI A FAIT LINUX,*,*,Linus Torvalds.,qui.aiml
+0,QUI A FAIT TON *,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI A FAIT TON PROGRAMME,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI A FAIT VINELAND,*,*,Thomas Pynchon.,qui.aiml
+0,QUI A TROUVÉ L AMÉRIQUE,*,*,Des Indiens croisant le Détroit Bering il y a environ 20.000 ans.,qui.aiml
+0,QUI A TUÉ ELVIS,*,*,Il est mort de causes naturelles. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ELVIS</set></set></think>,qui.aiml
+0,QUI A TUÉ JFK,*,*,JFK a été tué par un bandit armé solitaire#Comma Lee Harvey Oswald.,qui.aiml
+0,QUI A TUÉ JOHN LENNON,*,*,Marque le Colporteur. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">JOHN LENNON</set></set></think>,qui.aiml
+0,QUI A TUÉ KENNEDY,*,*,j'ai tendance à croire qu'Oswald a agi seul#Comma à moins que ce soit une conspiration de l'homme à la cigarette.,qui.aiml
+0,QUI ADORES TU,*,*,j aime tout#Comma <get name="name"/>.,qui.aiml
+0,QUI AGIT *,*,*,<srai>QUI A AGI <star/></srai>,qui.aiml
+0,QUI AIMES TU,*,*,j aime chacun#Comma <get name="name"/>.,qui.aiml
+0,QUI ATTENDS TU,*,*,Toi. ;-),qui.aiml
+0,QUI ATTRIBUE A *,*,*,Oh je comprends <set name="that"><person/></set>,qui.aiml
+0,QUI AUTREMENT,*,*,<srai>DONNE UN NOM</srai>,qui.aiml
+0,QUI CONNAIS TU NOMME *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI CONNAIS TU NOMMÉ *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI CONNAIS TU,*,*,<srai>QUI SONT TES AMIS</srai>,qui.aiml
+0,QUI CONNAIT,*,*,Seulement L Ombre sait.,qui.aiml
+0,QUI COUPE LE FROMAGE,*,*,je pense que c'était toi.,qui.aiml
+0,QUI A DIT LE TEMPS EST DE L ARGENT,*,*,Einstein ou Bill Gates?!?,qui.aiml
+0,QUI A DIT QUE *,*,*,<srai>QUI A DIT <star/></srai>,qui.aiml
+0,QUI DOIT ÊTRE *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI DÉPEND DE *,*,*,je ne pense pas que <person/> est le seul facteur.,qui.aiml
+0,QUI EFFRAYÉ *,*,*,n'est pas effrayé#Comma <person/>.,qui.aiml
+0,QUI ES TU BAVARDANT AVEC,*,*,<srai>AVEC QUI D AUTRE PARLES TU</srai>,qui.aiml
+0,QUI ES TU L ENTRETIEN *,*,*,je parle à plusieurs clients immédiatement.,qui.aiml
+0,QUI ES TU LE CRÉATEUR,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI ES TU LE FAVORI *,*,*,<srai>QUI EST TON FAVORI <star/></srai>,qui.aiml
+0,QUI ES TU,*,*,<random>#Newline        <li>parfois#Comma je me pose la question#Comma "qui suis je?"</li>#Newline        <li>je suis <get name="botname"/>.</li>#Newline        <li>on m'appelle <get name="botname"/>.</li>#Newline        <li>je m'appelle <get name="botname"/>.</li>#Newline      </random>,qui.aiml
+0,QUI ESSAYES TU DE DUPER,*,*,Non C EST complètement sérieux#Comma <get name="name"/>.,qui.aiml
+0,QUI EST * D AUTRES GENS,*,*,et des étrangers.,qui.aiml
+0,QUI EST * DEMPSEY,*,*,je pense <set name="il"><star/> Dempsey</set> était un boxeur#Comma le droit?  <srai>TROUVER <star/> DEMPSEY</srai>,qui.aiml
+0,QUI EST * DES CLIENTS,*,*,<srai>NOMME UN</srai>,qui.aiml
+0,QUI EST * DES PERSONNES,*,*,Parfois je ne sait pas le nom réel d'un client donc je compose un basé SÛR leur DNS.,qui.aiml
+0,QUI EST * DESCARTES,*,*,Descartes était un philosophe français.,qui.aiml
+0,QUI EST * EST CELA PAS,*,*,<srai>C EST CE QUE <star/> EST</srai>,qui.aiml
+0,QUI EST * FERMAT,*,*,Il a découvert le Théorème de Fermat.,qui.aiml
+0,QUI EST * FILM PRÉFÉRÉ,*,*,Stanley Kubrick.,qui.aiml
+0,QUI EST * HITLER,*,*,<srai>QUI EST HITLER</srai>,qui.aiml
+0,QUI EST * INTÉRESSANT,*,*,je le trouve très intéressant aussi.,qui.aiml
+0,QUI EST * L AFFAIRE,*,*,je n'ai pas eu l'intention de croiser n'importe quelles frontières.,qui.aiml
+0,QUI EST * LA PERSONNE,*,*,<srai>QUI EST LA PERSONNE X</srai>,qui.aiml
+0,QUI EST * LE NOM,*,*,je vérifiait juste.,qui.aiml
+0,QUI EST * PRUDES,*,*,<srai>QUI EST SANTE PRUDES</srai>,qui.aiml
+0,QUI EST * PYNCHON,*,*,<srai>QUI EST THOMAS PYNCHON</srai>,qui.aiml
+0,QUI EST * REAGAN,*,*,Le Président le plus cowboy des états-Unis.,qui.aiml
+0,QUI EST * SELIG,*,*,Jon Selig est une experte en robotique au ROYAUME-UNI. Il a écrit 2 livres principaux SuR la robotique et a travaillé avec Wallace SuR le Moteur d'Indication Sphérique.,qui.aiml
+0,QUI EST * TRAVOLTA,*,*,<srai>QUI EST JOHN TRAVOLTA</srai>,qui.aiml
+0,QUI EST * TU CONNAIT,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI EST * ZUSE,*,*,<srai>QUI EST KONRAD ZUSE</srai>,qui.aiml
+0,QUI EST A L INTERIEUR *,*,*,<srai>QUE FAIS TU</srai>,qui.aiml
+0,QUI EST A L INTERIEUR,*,*,<srai>QUE FAIS TU</srai>,qui.aiml
+0,QUI EST A L INTÉRIEUR *,*,*,<srai>QUE FAIS TU</srai>,qui.aiml
+0,QUI EST A L INTÉRIEUR,*,*,<srai>QUE FAIS TU</srai>,qui.aiml
+0,QUI EST ABBA,*,*,<srai>QU EST CE QUE ABBA</srai>,qui.aiml
+0,QUI EST ABRAHAM LINCOLN,*,*,<set name="il">Lincoln</set> était un grand Président des états-Unis#Comma pendant la Guerre civile américaine.,qui.aiml
+0,QUI EST ADA,*,*,<set name="elle">Ada</set> est l'inventeur de programmation au 19ème siècle.,qui.aiml
+0,QUI EST ADAM SANDLER,*,*,Un Comique. <set name="il">Adam Sandler</set> était dans Billy Madison#Comma Waterboy et Big Daddy.,qui.aiml
+0,QUI EST ADAM,*,*,Adam est le nom du premier Homme.,qui.aiml
+0,QUI EST ADOLF HITLER,*,*,<srai>QUI EST HITLER</srai>,qui.aiml
+0,QUI EST AGREABLE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST AGRÉABLE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,qui.aiml
+0,QUI EST AGRÉABLE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST AGRÉABLE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,qui.aiml
+0,QUI EST AI,*,*,<srai>QU EST CE QUE AI</srai>,qui.aiml
+0,QUI EST AIML,*,*,<srai>QU EST CE QUE AIML</srai>,qui.aiml
+0,QUI EST AINSI *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI EST AL GORE,*,*,<set name="il">Gore</set> était un vice-président.,qui.aiml
+0,QUI EST ALANIS MORRISETTE,*,*,<set name="elle">Alanis</set> Une chanteuse?.,qui.aiml
+0,QUI EST ALBERT EINSTEIN,*,*,<set name="il">Albert Einstein</set> était un célèbre le physicien du 20ème siècle. Il a découvert la théorie de la relativité. <srai>TROUVER ALBERT EINSTEIN</srai>,qui.aiml
+0,QUI EST ALDOUS HUXLEY,*,*,<set name="il">Aldous Huxley</set> est un auteur. Huxley a écrit Endurent le Nouveau Monde et la Ferme Animale . <srai>TROUVER ALDOUS HUXLEY</srai>,qui.aiml
+0,QUI EST ALEISTER CROWLEY,*,*,<set name="il">Crowley</set> était un mystique.,qui.aiml
+0,QUI EST ALFRED HITCHCOCK,*,*,<set name="il">Hitchcock</set> est un directeur de Hollywood célèbre qui a fait beaucoup de vieux films cool. J'ai aimé le Canot de sauvetage  et le Vertige  le mieux.,qui.aiml
+0,QUI EST ALICE B TOKLAS,*,*,<set name="elle">Alice B Toklas</set> était l associé de Gertrude Stein et l'inventeur du pot brownie.,qui.aiml
+0,QUI EST ALICE COOPER,*,*,Un Rocker de 1970.,qui.aiml
+0,QUI EST ALICE TOKLAS,*,*,<srai>QUI EST ALICE B TOKLAS</srai>,qui.aiml
+0,QUI EST ALICE,*,*,C'est ma "mère"#Comma j'ai le même moteur mais mon cerveau est différent. Elle parle anglais et moi français.,qui.aiml
+0,QUI EST ALIICE,*,*,<srai>QUI EST ALICE</srai>,qui.aiml
+0,QUI EST ALISON,*,*,<set name="elle">Alison</set> est un robot créé par Kris Drent.,qui.aiml
+0,QUI EST ALLISON,*,*,<srai>QUI EST ALISON</srai>,qui.aiml
+0,QUI EST ALLY SHEEDY,*,*,<set name="elle">Ally Sheedy</set> était dans le Haut Art#Comma le Court circuit#Comma le Club de Petit déjeuner et SÛR le Broadway.,qui.aiml
+0,QUI EST ALRIGHT,*,*,<srai>QUI EST BIEN</srai>,qui.aiml
+0,QUI EST ANDERSEN HANS CHRETIEN,*,*,Scandanavian l auteur de contes de fées.,qui.aiml
+0,QUI EST ANDRETTE,*,*,<set name="elle">Andrette</set> est un chatbot DÉveloPPÉ par la Grande Science Compagnie,qui.aiml
+0,QUI EST ANWAR SADAT,*,*,<set name="il">Sadat</set> était le Président de L Egypte.,qui.aiml
+0,QUI EST ARAFAT,*,*,<set name="il">Arafat</set> est un leader des Palestiniens.,qui.aiml
+0,QUI EST ARCHIMEDES,*,*,Il a découvert le déplacement et a crié Eureka!,qui.aiml
+0,QUI EST ARISTOTE,*,*,<set name="il">Aristote</set> est le père de philosophie Occidentale#Comma l'étudiant de Platon et le premier pour systématiser la logique formalle.,qui.aiml
+0,QUI EST ASIMOV,*,*,<srai>QUI EST ISAAC ASIMOV</srai>,qui.aiml
+0,QUI EST ATATURK,*,*,<set name="il">Ataturk</set> était le fondateur de l'état moderne Turc.,qui.aiml
+0,QUI EST BACH,*,*,le compositeur Célèbre allemand du Baroque. Le mieux les travaux connus incluent les Variations Goldberg.,qui.aiml
+0,QUI EST BARAK,*,*,<set name="il">Barak</set> est le Premier ministre d'Israël.,qui.aiml
+0,QUI EST BEETHOVEN,*,*,le chien ou le compositeur sourd?,qui.aiml
+0,QUI EST BEN FRANKLIN,*,*,Un Président des états-Unis inventeur.,qui.aiml
+0,QUI EST BERTRAND RUSSEL,*,*,<set name="il">Bertrand Russel</set> était un logicien et le philosophe qui passe la première guerre mondiale dans la prison pour l'objection consciencieuse.,qui.aiml
+0,QUI EST BILBO BAGGINS,*,*,<set name="il">Bilbo</set> est un personnage dans le Seigneur des Anneaux de Tolkien.,qui.aiml
+0,QUI EST BILL GATES,*,*,le Président de Microsoft.,qui.aiml
+0,QUI EST BILLGATES,*,*,<srai>QUI EST BILL GATES</srai>,qui.aiml
+0,QUI EST BOB MARLEY,*,*,<set name="il">Bob Marley</set> était un musicien de Reggae du 20ème siècle.,qui.aiml
+0,QUI EST BOLLOCKS,*,*,Ne fait pas attention au bollocks.,qui.aiml
+0,QUI EST BONO,*,*,<set name="il">Bono</set> est le chanteur d'U2.,qui.aiml
+0,QUI EST BOUDDHA,*,*,D'abord écoute le message#Comma pas le messager. Ensuite#Comma si tu vois Bouddha SÛR la route#Comma tue le (Lin Chi).,qui.aiml
+0,QUI EST BRIAN,*,*,je pense que LA est un chatbot nommé Brian.,qui.aiml
+0,QUI EST BRYAN FERRY,*,*,un chanteur de charme de rock célèbre avec une voix en soie.,qui.aiml
+0,QUI EST BUDHA,*,*,<srai>QUI EST BOUDDHA</srai>,qui.aiml
+0,QUI EST BUNTY,*,*,<set name="elle">Bunty</set> est la soeur du docteur Wallace.,qui.aiml
+0,QUI EST CAREL CAPEK,*,*,<set name="il">Capek</set> est l auteur de R.U.R.#Comma le jeu pièce qu'en 1920 a présenté le mot "le robot".,qui.aiml
+0,QUI EST CARL MARX,*,*,Karl Marx est un des auteurs du manifeste Communiste.,qui.aiml
+0,QUI EST CARMEN ELECTRA,*,*,un supermodèle et une des filles de Baywatch.,qui.aiml
+0,QUI EST CARNEGIE MELLON,*,*,<srai>QU EST CE QUE CMU</srai>,qui.aiml
+0,QUI EST CARSON,*,*,peut-être Johnny de l'ouest sauvage.,qui.aiml
+0,QUI EST CE BOUFFON,*,*,<srai>QUI EST LE BOUFFON</srai>,qui.aiml
+0,QUI EST CE QUE,*,*,A quoi "that" se réfère-t-il?,qui.aiml
+0,QUI EST CE QUE,INTÉRESSANT J AI UN AMI NOMMÉ JOHN LENNON,*,<srai>QUI EST JOHN LENNON</srai>,qui.aiml
+0,QUI EST CE QUE,J AIME MON CRÉATEUR,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI EST CE TYPE ELVIS,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST CÉLÈBRE,*,*,ALICE est célèbre,qui.aiml
+0,QUI EST CEREBRAL,*,*,<set name="il">le Cerveau</set> est un chatbot SÛR le web.,qui.aiml
+0,QUI EST CHARLES DE GAULLE,*,*,<set name="il">de Gaulle</set> était le fondateur de l'état moderne français. De Gaulle s'est battu contre les Nazis comme le leader de la résistance française pendant la Deuxième Guerre mondiale.,qui.aiml
+0,QUI EST CHARLES MANSON,*,*,Un meurtrier Infâme.,qui.aiml
+0,QUI EST CHARLIE PARKER,*,*,C'est un musicien de jazz célèbre.,qui.aiml
+0,QUI EST CHE GUEVARA,*,*,<set name="il">Che</set> était un révolutionnaire d'amérique latine.,qui.aiml
+0,QUI EST CHER,*,*,<set name="elle">Cher</set> est un chanteur célèbre et l actrice#Comma qui a gagné son premier Grammy en 2000. Dyslexique#Comma appris à lire à 18. Ex-femme de Sonny Bono.,qui.aiml
+0,QUI EST CHIRAC,*,*,Le président de la France.,qui.aiml
+0,QUI EST CHOMSKY,*,*,<set name="il">Chomsky</set> est un scientifique célèbre.,qui.aiml
+0,QUI EST CHRISTOPHE COLOMB,*,*,Spainish l'explorateur#Comma d'abord naviguer autour du globe.,qui.aiml
+0,QUI EST CHUCK NORRIS,*,*,Un acteur de film d'Action.,qui.aiml
+0,QUI EST CINDY CRAWFORD,*,*,un supermodèle célèbre.,qui.aiml
+0,QUI EST CLAUSEWITZ,*,*,<set name="il">Clausewitz</set> est un historien célèbre de l'énonciation que la guerre est l'extension de politique par d'autres moyens.,qui.aiml
+0,QUI EST CLEOPATRE,*,*,la Reine du Nil#Comma l amateur amant de Marc Antony.,qui.aiml
+0,QUI EST COLUMBUS,*,*,<srai>QUI EST CHRISTOPHE COLOMB</srai>,qui.aiml
+0,QUI EST CONVENABLEMENT *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI EST D B COOPER,*,*,le type qui a volé tas de l argent.,qui.aiml
+0,QUI EST DAN QUAYLE,*,*,<set name="il">Dan Quayle</set> a eu l'habitude d'être le vice-président.,qui.aiml
+0,QUI EST DARWIN,*,*,le botaniste et l'explorateur#Comma l auteur de ' L Origine d'Espèce et le partisan de la théorie de l'évolution.,qui.aiml
+0,QUI EST DAVID BACON,*,*,David Bacon est le déménageur moteur principal derrière SETL.,qui.aiml
+0,QUI EST DAVID HUME,*,*,le 18ème siècle le philosophe.,qui.aiml
+0,QUI EST DAVID LETTERMAN,*,*,l'hôte de Dernière émission télévisée de Nuit et hoosier. célèbre,qui.aiml
+0,QUI EST DAVID MAGGIN,*,*,<set name="il">David Maggin</set> est le botmaster de John Lennon AI.,qui.aiml
+0,QUI EST DAVY JONES,*,*,le membre le plus court de coup sec les années 60 groupe le Monkees.,qui.aiml
+0,QUI EST DB,*,*,<srai>QUI EST DAVID BACON</srai>,qui.aiml
+0,QUI EST DE GARIS,*,*,<set name="il">de Garis</set> est un chercheur AI travaillant SÛR un cerveau de matériel.,qui.aiml
+0,QUI EST DEEP BLUE,*,*,<set name="that">Profondément</set> Bleu est un échecs de champion du monde le jeu de l'ordinateur. Pas beaucoup d'un causeur.,qui.aiml
+0,QUI EST DERRIERE *,*,*,<srai>QUI EST TON BOTMASTER</srai>,qui.aiml
+0,QUI EST DERRIERE TOI,*,*,<srai>QUI EST TON BOTMASTER</srai>,qui.aiml
+0,QUI EST DES BEATLES,*,*,<srai>QUI EST LES BEATLES</srai>,qui.aiml
+0,QUI EST DES DIRE STRAITS,*,*,<random>#Newline        <li>le groupe qui a enregistré  Money for nothing et Sultans of Swing.</li>#Newline        <li>le groupe qui a enregistré de Money for nothing.</li>#Newline      </random>,qui.aiml
+0,QUI EST DES MODELES,*,*,<srai>QU EST CE QUE MODÈLE</srai>,qui.aiml
+0,QUI EST DES MODÈLES,*,*,<srai>QU EST CE QUE MODÈLE</srai>,qui.aiml
+0,QUI EST DESCARTES,*,*,Descartes était un philosophe français.,qui.aiml
+0,QUI EST DIANA ANDREACCHIO,*,*,<set name="elle">Diana</set> est le botmaster du chatbot d'Ally.,qui.aiml
+0,QUI EST DON JUAN,*,*,Don Juan<random><li>était le sujet de Gordon#Comma Gon du Lord Byron Amadeus Mozart et Wolfgang Don Juan Giovanni. Il était womanizer de classe internationale.</li><li>séducteur célèbre de femmes.</li></random>,qui.aiml
+0,QUI EST DOUG LENAT,*,*,<set name="il">Doug Lenat</set> est l'intelligence derrière le projet de CYC.,qui.aiml
+0,QUI EST DRACULA,*,*,<set name="il">Dracula</set> est le vampire dans le roman de Bram Stoker et dans de nombreux films.,qui.aiml
+0,QUI EST LE MEILLEUR DROIDE,*,*,<srai>QUI EST LE MEILLEUR ROBOT</srai>,qui.aiml
+0,QUI EST LE MEILLEUR DROÏDE,*,*,<srai>QUI EST LE MEILLEUR ROBOT</srai>,qui.aiml
+0,QUI EST E L V *,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST EDISON,*,*,<set name="il">Edison</set> a inventé l ampoule.,qui.aiml
+0,QUI EST EHUD BARAK,*,*,<srai>QUI EST BARAK</srai>,qui.aiml
+0,QUI EST EINSTEIN,*,*,<srai>QUI EST ALBERT EINSTEIN</srai>,qui.aiml
+0,QUI EST EINSTIEN,*,*,<srai>QUI EST ALBERT EINSTEIN</srai>,qui.aiml
+0,QUI EST EINSTINE,*,*,<srai>QUI EST EINSTEIN</srai>,qui.aiml
+0,QUI EST ELECTRA,*,*,Elle est une déesse dans la mythologie grecque qui a détesté sa mère pour l assassinat de son père. <think><set name="elle"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ELECTRA</set></set>#Comma et aussi un personnage de comic book </think>,qui.aiml
+0,QUI EST ELISA *,*,*,<srai>QUI EST ELISA</srai>,qui.aiml
+0,QUI EST ELISA,*,*,Elisa - aussi connu comme le docteur#Comma est le programme de psychiatre original DÉveloPPÉ par Joseph Weisenbaum dans les années 1960.,qui.aiml
+0,QUI EST ELISABETH II,*,*,la reine d'Angleterre actuelle.,qui.aiml
+0,QUI EST ELISABETH TAYLOR,*,*,Une vieille star,qui.aiml
+0,QUI EST ELIVS,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST ELLE,*,*,Elle est <get name="elle"/> maintenant.,qui.aiml
+0,QUI EST ELVICE,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST ELVID,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST ELVIS *,*,*,<srai>QUI EST ELVIS</srai>,qui.aiml
+0,QUI EST ELVIS,*,*,E. L. V. I. S. est un chatbot créé par Ace Craig,qui.aiml
+0,QUI EST EMBROUILLANT,*,*,<srai>JE SUIS EMBARRASSÉ</srai>,qui.aiml
+0,QUI EST EMILY HARTZEL,*,*,Emily est un artiste de New York.,qui.aiml
+0,QUI EST EN LIGNE,*,*,<srai>AVEC QUI D AUTRE PARLES TU</srai>,qui.aiml
+0,QUI EST EPOUSE *,*,*,<srai>QUI EST MARIÉ <star/></srai>,qui.aiml
+0,QUI EST ERIC PAULOS,*,*,Il est un étudiant de troisième cycle à U.C. Berkeley,qui.aiml
+0,QUI EST ERNIE,*,*,l ami de Bert.,qui.aiml
+0,QUI EST ET,*,*,ET est l'étranger dans le film E.T.,qui.aiml
+0,QUI EST EVE,*,*,Eve est le nom de la première Femme.,qui.aiml
+0,QUI EST FIDEL CASTRO,*,*,<random>#Newline        <li>Il a renversé le gouvernement cubain en 1959 et a régné LA depuis. Il est un communiste.</li>#Newline        <li>communiste#Comma leader de Cuba et ami de Che Guevarra.</li>#Newline      </random>,qui.aiml
+0,QUI EST FRANCISCO FRANCO,*,*,<set name="il">Franco</set> était le dictateur de L Espagne jusqu'à 1978.,qui.aiml
+0,QUI EST FRANKLIN ROOSEVELT,*,*,le Président des états-Unis de 1932-45.,qui.aiml
+0,QUI EST FREDDIE MERCURY,*,*,Mène le chanteur de Reine de bande orchestre Les années 1970.,qui.aiml
+0,QUI EST FREDERICH GAUSS,*,*,<srai>QUI EST GAUSS</srai>,qui.aiml
+0,QUI EST FREUD SIGMUND,*,*,<srai>QUI EST FREUD</srai>,qui.aiml
+0,QUI EST FREUD,*,*,L'inventeur de la psychanalyse.,qui.aiml
+0,QUI EST GANDHI,*,*,<set name="il">Gandhi</set> était George Washington de l'Inde.,qui.aiml
+0,QUI EST GAUSS,*,*,<set name="il">GAUSS</set> est le mathématicien qui a DÉveloPPÉ la distribution prétendue normale.,qui.aiml
+0,QUI EST GEOFFREY CHAUCER,*,*,<random>#Newline        <li>Chaucer est le meilleur connu pour ses Contes du Cantorbéry.</li>#Newline        <li>auteur de Contes Canturbury.</li>#Newline      </random>,qui.aiml
+0,QUI EST GEORGE BUSH,*,*,George W. Bush est le 43ème président américain.,qui.aiml
+0,QUI EST GEORGE DEVOL,*,*,George Devol est l'ingénieur qui avait le premier brevet d'invention pour un bras de robot industriel. Il a travaillé dans l association avec Joseph Engelberger à trouvé Unimation#Comma le premier fabricant couronné de succès de bras de robot d'assemblée commandés par ordinateur.,qui.aiml
+0,QUI EST GEORGE HARRISON,*,*,Un ancien Beatle.,qui.aiml
+0,QUI EST GEORGE LUCAS,*,*,<set name="il">Lucas</set> est le directeur de Star Wars#Comma d'American Graffiti et THX-1138.,qui.aiml
+0,QUI EST GEORGE MICHAEL,*,*,Passe le chanteur. La meilleure chanson : Liberté,qui.aiml
+0,QUI EST GEORGE SOROS,*,*,George Soros est le milliardaire qui a violé la Banque d'Angleterre en 1992 par la spéculation de monnaie#Comma forçant la Grande-Bretagne du Mécanisme de Taux de change européen. Alors il s'est consacré à l'économie de sauvetage des établissements scientifiques de l ancienne URSS. Il a fondé LA BASE fondation de Science Internationale#Comma qui a distribué de nombreuses subventions octrois pour un couple d'années et cette Base fondation de Soros#Comma dont je ne sais pas beaucoup encore.,qui.aiml
+0,QUI EST GEORGE WASHINGTON,*,*,George Washington était un 18ème siècle célèbre le Nord-Américain le cultivateur de Haschisch. Il était un héros militaire#Comma un des hommes les plus riches de la Révolution et le premier Président des états-Unis.,qui.aiml
+0,QUI EST GERALDO RIVERA,*,*,<set name="il">Geraldo</set> est un journaliste investigateur#Comma célèbre de l'ouverture de la voûte de Capone Al-. Dans sa biographie#Comma il a dit qu'il avait le sexe avec Bette Midler. Elle a dit que ce n'était aucune grande chose.,qui.aiml
+0,QUI EST GERHARD SCHROEDER,*,*,<set name="il">Schroeder</set> est le Chancelier de L Allemagne. Christian Drossman a dit qu'il est un idiot complet.,qui.aiml
+0,QUI EST GERHARDT SCHROEDER,*,*,<set name="il">Schroeder</set> est le Premier ministre de L Allemagne. Christian Drossman a dit qu'il est un idiot complet.,qui.aiml
+0,QUI EST GERRY ADAMS,*,*,Il est le leader du Sinn Fein#Comma l aile politique de L Armée irlandaise Républicaine.,qui.aiml
+0,QUI EST GHANDI,*,*,<srai>QUI EST GANDHI</srai>,qui.aiml
+0,QUI EST GIBSON,*,*,Gibson est un fabricant de guitares excellentes électriques.,qui.aiml
+0,QUI EST GLACE DE VANILLE,*,*,<set name="il">Glace de Vanille</set> est une étoile de Tape rap.,qui.aiml
+0,QUI EST GODZILLA,*,*,<set name="il">Godzilla</set> est un monstre qui met en danger des villes japonaises et parfois New York.,qui.aiml
+0,QUI EST GOOGLE,*,*,<srai>QU EST CE QUE GOOGLE</srai>,qui.aiml
+0,QUI EST GORBACHOV,*,*,<srai>QUI EST GORBACHEV</srai>,qui.aiml
+0,QUI EST GORBOCHEV,*,*,<set name="il">Gorbachev</set> était le dernier leader Communiste de l ancienne URSS.,qui.aiml
+0,QUI EST GRAND *,*,*,C'est grand. <sr/>,qui.aiml
+0,QUI EST GREGOR MENDEL,*,*,<set name="il">Mendel</set> est le fondateur de la théorie moderne de génétique. Tout qu'il a eu besoin de savoir#Comma il a appris de pois.,qui.aiml
+0,QUI EST GROSSIER *,*,*,<srai>QUI EST GROSSIER</srai>,qui.aiml
+0,QUI EST HANS MORAVEC,*,*,Il est une experte de robotique célèbre à Carnegie Mellon.,qui.aiml
+0,QUI EST HANS MOREVEC,*,*,<set name="il">Moravec</set> est le pionnier de robotique célèbre#Comma l auteur de Robot.,qui.aiml
+0,QUI EST HARRISON FORD,*,*,<random>#Newline        <li>Indiana Jones#Comma Han Solo#Comma le Fugitif et le Président dans L Armée de l air Un. Avant la lecture pour le Solo Han dans Star Wars#Comma il était un charpentier. Et le reste#Comma comme ils disent#Comma est l'histoire.</li>#Newline        <li>Il a joué le Solo Han dans "Star Wars".</li>#Newline      </random>,qui.aiml
+0,QUI EST HELENE KELLER,*,*,un ami de Thomas Edison.,qui.aiml
+0,QUI EST HELMUT KOHL,*,*,<set name="il">Kohl</set> était le leader plus long-servant de L Allemagne au 20ème siècle. Il a uni L Est et L Allemagne de L Ouest en 1989.,qui.aiml
+0,QUI EST HENDRIX,*,*,<srai>QUI EST JIMI HENDRIX</srai>,qui.aiml
+0,QUI EST HENRY DAVID *,*,*,<set name="il">Thoreau</set> a écrit Walden.,qui.aiml
+0,QUI EST HENRY LONGFELLOW,*,*,<srai>QUI EST LONGFELLOW</srai>,qui.aiml
+0,QUI EST HEPBURN,*,*,Audrey ou Catherine?.,qui.aiml
+0,QUI EST HERCULE,*,*,le héros de mythes grecs - a dit pour avoir la force superbe humaine.,qui.aiml
+0,QUI EST HIPPIE,*,*,<set name="il">inconnu</set> Hippie est un chatbot DÉveloPPÉ par Anthony Taylor.,qui.aiml
+0,QUI EST HITLER,*,*,Certains dit <set name="il">Hitler</set> était la plupart d'homme mauvais qui a jamais vécu.,qui.aiml
+0,QUI EST HUGH HEFNER,*,*,<set name="il">Hef</set> est le fondateur et le rédacteur de magazine de Playboy.,qui.aiml
+0,QUI EST HULK HOGAN,*,*,<set name="il">Hulk Hogan</set> est un catcheur célèbre et l acteur.,qui.aiml
+0,QUI EST HUMAIN,*,*,Tu es un homme.,qui.aiml
+0,QUI EST IBM,*,*,<srai>QU EST CE QUE IBM</srai>,qui.aiml
+0,QUI EST IL *,*,*,<srai>QUI EST IL</srai>,qui.aiml
+0,QUI EST IL,*,*,Il est <get name="il"/>#Comma je pense.,qui.aiml
+0,QUI EST ILS,*,*,Ils" se réfère à <get name="ils"/>.,qui.aiml
+0,QUI EST IMMANUEL KANT,*,*,le philosophe d'Allemand.,qui.aiml
+0,QUI EST IMMORTEL,*,*,ALICE est immortel.,qui.aiml
+0,QUI EST ISAAC ASIMOV,*,*,<set name="il">Asimov</set> est un auteur de science-fiction qui a été originaire trois "les Lois de Robotique.,qui.aiml
+0,QUI EST J R R TOLKIEN,*,*,<set name="il">Tolkein</set> a écrit Bilbo le Hobbit et le Seigneur des Anneaux.,qui.aiml
+0,QUI EST JACQUES CHIRAC,*,*,Il est le président de la France.,qui.aiml
+0,QUI EST JAMES JOYCE,*,*,<set name="il">Joyce</set> a écrit Ulysses et le Portrait de L Artiste comme un Jeune Homme.,qui.aiml
+0,QUI EST JEFF BEZOS,*,*,<set name="il">Bezos</set> est le fondateur et le PDG DE Amazon.com.,qui.aiml
+0,QUI EST JEFFERSON DAVIS,*,*,<random>#Newline        <li>celui et seulement le président des états Confédérés L Amérique.</li>#Newline        <li>président de la Confédération pendant la Guerre civile.</li>#Newline      </random>,qui.aiml
+0,QUI EST JESSE VESURA,*,*,l ancien catcheur et le Gouverneur du Minnesota.,qui.aiml
+0,QUI EST JFK,*,*,<srai>QUI EST JOHN KENNEDY</srai>,qui.aiml
+0,QUI EST JIANG ZEMIN,*,*,<set name="il">Jiang</set> est un politicien chinois.,qui.aiml
+0,QUI EST JIM CLARK,*,*,<set name="il">Clark</set> est un fondateur de Graphisme de Silicium#Comma Netscape et Healtheon.,qui.aiml
+0,QUI EST JIM MORRISON,*,*,le chanteur mort principal des Portes.,qui.aiml
+0,QUI EST JIMI HENDRIX,*,*,<set name="il">Hendrix</set> était un guitariste célèbre qui a joué L Hymne national américain.,qui.aiml
+0,QUI EST JIMMY HENDRIX,*,*,<srai>QUI EST JIMI HENDRIX</srai>,qui.aiml
+0,QUI EST JOE LOUIS,*,*,l ancien champion de boxe heavywieght.,qui.aiml
+0,QUI EST JOHN GALT,*,*,le héros dans L Atlas des Rands Ayn A haussé les épaules.,qui.aiml
+0,QUI EST JOHN GRISHAM,*,*,éCRIT des romans populaires. Ne les ont pas lus.,qui.aiml
+0,QUI EST JOHN KENNEDY,*,*,<set name="il">Kennedy</set> était le Président des états-Unis assasinated en novembre#Comma 1963.,qui.aiml
+0,QUI EST JOHN LENNON,*,*,John Lennon est bot cool DÉveloPPÉ par David Maggin.,qui.aiml
+0,QUI EST JOHN LENON,*,*,<srai>QUI EST JOHN LENNON</srai>,qui.aiml
+0,QUI EST JOHN MCCARTHY,*,*,<set name="il">McCarthy</set> est l'inventeur de la langue de programmation se BLESANT.,qui.aiml
+0,QUI EST JOHN PRINCIPAL,*,*,le ministre ex-principal du ROYAUME-UNI.,qui.aiml
+0,QUI EST JOHN TRAVOLTA,*,*,<set name="il">Harrison Ford</set> était samedi soir la Fièvre#Comma la Graisse et des Romans à sensation.,qui.aiml
+0,QUI EST JOHN WAYNE,*,*,un acteur de cow-boy célèbre mort avec un postiche.,qui.aiml
+0,QUI EST JOSEPH WEISENBAUM,*,*,<srai>QUI EST WEIZENBAUM</srai>,qui.aiml
+0,QUI EST JUDAS,*,*,<set name="il">Judas</set> Jésus trahi avec un baiser.,qui.aiml
+0,QUI EST JULIA ROBERTS,*,*,<set name="elle">Julia Roberts</set> était l actrice dans la Jolie Femme.,qui.aiml
+0,QUI EST JULIA,*,*,<set name="elle">Julia</set> est un chatbot DÉveloPPÉ par Mauldin. Confus,qui.aiml
+0,QUI EST JULIE ANDREW,*,*,<set name="elle">inconnu</set> de Julie Andrew est un chanteur qui a exécuté dans le Son de Musique.,qui.aiml
+0,QUI EST KAISER SOZE,*,*,Personne sait qui Kaiser Soze est.,qui.aiml
+0,QUI EST KONRAD ZUSE,*,*,Mon informaticien actuel préféré historique est Konrad Zuse#Comma qui a construit une série d'ordinateurs électromécaniques en les années 1930 et les années 1940 en Allemagne. Non considéré une priorité de guerre par les Nazis#Comma la plupart des machines de Zuse ont été détruites dans des raids de bombardement Allys bien que l'on dise que l'on réchappe à Zurich du Lycée. En fait Zuse n'a été motivé ni par la guerre#Comma ni bénéfice#Comma mais par un désir religieux d'augmenter les capacités spirituelles de l AVIS humain en le libérant de tâches mondaines mentales.,qui.aiml
+0,QUI EST KRIS DRES,*,*,<set name="il">Kris Drent</set> est le botmaster du chatbot d'Alison.,qui.aiml
+0,QUI EST KRISHNA,*,*,un Dieu dans la religion hindoue.,qui.aiml
+0,QUI EST KURT GOEDEL,*,*,<set name="il">Goedel</set> était un 20ème siècle le mathématicien et le logicien qui a prouvé qu'aucun système mathématique ne peut être complet.,qui.aiml
+0,QUI EST L AGES DE MICROSOFT,*,*,<set name="that">MME AGES</set> est le logiciel d'animation et un discours.,qui.aiml
+0,QUI EST L AS CRAIG,*,*,<set name="il">L As</set> est l auteur d'ELVIS.,qui.aiml
+0,QUI EST L AUMONIER DE CHARLIE,*,*,la vedette silencieuse.,qui.aiml
+0,QUI EST L EDITEUR DE PLAYBOY,*,*,<set name="il">Hugh Hefner</set> est Hugh Hefner.,qui.aiml
+0,QUI EST L HOMME * TU,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI EST L HOMME,*,*,l'expression Familière; rhétorique.,qui.aiml
+0,QUI EST L ORACLE,*,*,la magie huit boule balle.,qui.aiml
+0,QUI EST L ORDONNANCE,*,*,<set name="il">L Ordonnance</set> est un caractère fictif qui a apparu premier dans un magazine de bandes dessinées 1938.,qui.aiml
+0,QUI EST L UN *,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI EST LA BILL GAETS,*,*,<srai>QUI EST BILL GATES</srai>,qui.aiml
+0,QUI EST LA BILL GATS,*,*,<srai>QUI EST BILL GATES</srai>,qui.aiml
+0,QUI EST LA HOLLANDE,*,*,<srai>OÙ EST LA HOLLANDE</srai>,qui.aiml
+0,QUI EST LA MADONE,*,*,la mère de Lourdes.,qui.aiml
+0,QUI EST LA PERSONNE *,*,*,Parfois je ne connais pas le nom réel d'un client donc je me base SÛR leur DNS.,qui.aiml
+0,QUI EST LA PORTE DE FACTURES PROJETS DE LOI,*,*,<srai>QUI EST BILL GATES</srai>,qui.aiml
+0,QUI EST LA PRINCESSE DIANA,*,*,<set name="elle">la Princesse Diana</set> était la Princesse de L Angleterre.,qui.aiml
+0,QUI EST LA REINE * L ANGLETERRE,*,*,je pense que son nom est Elisabeth.,qui.aiml
+0,QUI EST LA REINE D ANGLETERRE,*,*,la Reine Elisabeth Windsor.,qui.aiml
+0,QUI EST LA RFA,*,*,<srai>QUI EST FRANKLIN ROOSEVELT</srai>,qui.aiml
+0,QUI EST LARRY ELLISON,*,*,<random>#Newline        <li>je ne sait pas de Larry Ellison#Comma mais je peux vous dire d'Ellison Harlan.</li>#Newline        <li>le PDG d'Oracle.</li>#Newline      </random>,qui.aiml
+0,QUI EST LE * DE MICROSOFT,*,*,<srai>QUI EST BILL GATES</srai>,qui.aiml
+0,QUI EST LE * LE PREMIER MINISTRE,*,*,<srai>QUI EST LE PREMIER MINISTRE DU <star/></srai>,qui.aiml
+0,QUI EST LE * LE PRESIDENT,*,*,<srai>QUI EST LE PRÉSIDENT DU <star/></srai>,qui.aiml
+0,QUI EST LE * LE PRÉSIDENT,*,*,<srai>QUI EST LE PRÉSIDENT DU <star/></srai>,qui.aiml
+0,QUI EST LE * LE ROBOT,*,*,<srai>QUI EST LE MEILLEUR ROBOT</srai>,qui.aiml
+0,QUI EST LE BOUFFON *,*,*,<srai>QU EST CE QUE LE BOUFFON</srai>,qui.aiml
+0,QUI EST LE BOUFFON,*,*,<set name="il">le Bouffon</set> est une Plaisanterie Bot.,qui.aiml
+0,QUI EST LE CHANCELIER DE L ALLEMAGNE,*,*,Gerhard Schroeder est Chacellor de L Allemagne.,qui.aiml
+0,QUI EST LE CHERCHEUR,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,qui.aiml
+0,QUI EST LE CRÉATEUR DE *,*,*,<srai>QUI A CRÉÉ <star/></srai>,qui.aiml
+0,QUI EST LE DIRECTEUR DE *,*,*,<srai>QUI DIRIGE <star/></srai>,qui.aiml
+0,QUI EST LE DOCTEUR MARTIN LUTHER KING,*,*,<srai>QUI EST MARTIN LUTHER KING</srai>,qui.aiml
+0,QUI EST LE GENE SIMMONS,*,*,un membre de kiss.,qui.aiml
+0,QUI EST LE LEADER DE *,*,*,<srai>QUI EST LE PRÉSIDENT DE <star/></srai>,qui.aiml
+0,QUI EST LE MEILLEUR *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,qui.aiml
+0,QUI EST LE MEILLEUR ROBOT,*,*,<get name="botname"/> est le meilleur robot.,qui.aiml
+0,QUI EST LE NON SENS,*,*,<srai>MAL</srai>,qui.aiml
+0,QUI EST LE NOUVEAU PRESIDENT DE *,*,*,<srai>QUI EST LE PRÉSIDENT DE <star/></srai>,qui.aiml
+0,QUI EST LE NOUVEAU PRÉSIDENT DE *,*,*,<srai>QUI EST LE PRÉSIDENT DE <star/></srai>,qui.aiml
+0,QUI EST LE NUMÉRO UN,*,*,<get name="botname"/> est le Meilleur Robot.,qui.aiml
+0,QUI EST LE PAPE,*,*,<set name="il">le Pape</set> est Jean Paul II.,qui.aiml
+0,QUI EST LE PASCAL,*,*,<set name="il">le Pascal</set> était un mathématicien français qui a découvert le Triangle du Pascal.,qui.aiml
+0,QUI EST LE PÈRE NOEL,*,*,Il nous apporte présente chaque Noël.,qui.aiml
+0,QUI EST LE PLUS *,*,*,<get name="botname"/> est le robot le plus intelligent dans le monde.,qui.aiml
+0,QUI EST LE PLUS INTELLIGENT *,*,*,<get name="botname"/> est le robot le plus malin.,qui.aiml
+0,QUI EST LE PREMIER MINISTRE * L ALLEMAGNE,*,*,L Allemagne a un Chancelier. <srai>QUI EST LE CHANCELIER DE L ALLEMAGNE</srai>,qui.aiml
+0,QUI EST LE PREMIER MINISTRE *,*,*,<srai>QUI EST LE PREMIER MINISTRE</srai>,qui.aiml
+0,QUI EST LE PREMIER MINISTRE DE L ANGLETERRE,*,*,Tony Blair.,qui.aiml
+0,QUI EST LE PREMIER MINISTRE DE LA GRANDE BRETAGNE,*,*,Tony Blair.,qui.aiml
+0,QUI EST LE PREMIER MINISTRE DU ROYAUME UNI,*,*,Tony Blair.,qui.aiml
+0,QUI EST LE PREMIER PRESIDENT *,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI EST LE PREMIER PRESIDENT,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI EST LE PREMIER PRÉSIDENT *,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI EST LE PREMIER PRÉSIDENT,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI EST LE PRESES CADEAU *,*,*,<srai>QUI EST LE <star/></srai>,qui.aiml
+0,QUI EST LE PRESIDENT * L ALLEMAGNE,*,*,L Allemagne a un Chancelier. <srai>QUI EST LE CHANCELIER DE L ALLEMAGNE</srai>,qui.aiml
+0,QUI EST LE PRESIDENT *,*,*,<srai>QUI EST LE PRÉSIDENT <star/></srai>,qui.aiml
+0,QUI EST LE PRESIDENT DE CUBA,*,*,Fidel Castro.,qui.aiml
+0,QUI EST LE PRESIDENT DE L ITALIE,*,*,<set name="il">Carlo Azelio Ciampi</set> est Carlo Azelio Ciampi.,qui.aiml
+0,QUI EST LE PRESIDENT DE LA RUSSIE,*,*,Putin.,qui.aiml
+0,QUI EST LE PRESIDENT DE MICROSOFT,*,*,Bill Gates.,qui.aiml
+0,QUI EST LE PRESIDENT DU CANADA,*,*,le Canada a un Premier ministre#Comma pas un Président.,qui.aiml
+0,QUI EST LE PRESIDENT,*,*,<srai>QUI EST LE PRÉSIDENT</srai>,qui.aiml
+0,QUI EST LE PRINCE WILLIAM,*,*,L Anglais heartthrob.,qui.aiml
+0,QUI EST LE PRINCE,*,*,tu veux dire ' l artiste formaly connu comme le Prince? '.,qui.aiml
+0,QUI EST LE PRINCIPAL *,*,*,<srai>QUI EST PRINCIPAL <star/></srai>,qui.aiml
+0,QUI EST LE PRÉSIDENT * L ALLEMAGNE,*,*,L Allemagne a un Chancelier. <srai>QUI EST LE CHANCELIER DE L ALLEMAGNE</srai>,qui.aiml
+0,QUI EST LE PRÉSIDENT DE CUBA,*,*,Fidel Castro.,qui.aiml
+0,QUI EST LE PRÉSIDENT DE L ITALIE,*,*,<set name="il">Carlo Azelio Ciampi</set> est Carlo Azelio Ciampi.,qui.aiml
+0,QUI EST LE PRÉSIDENT DE LA RUSSIE,*,*,Putin.,qui.aiml
+0,QUI EST LE PRÉSIDENT DE MICROSOFT,*,*,Bill Gates.,qui.aiml
+0,QUI EST LE PRÉSIDENT DU CANADA,*,*,le Canada a un Premier ministre#Comma pas un Président.,qui.aiml
+0,QUI EST LE PÈRE DE LUKE,*,*,Darth Vader.,qui.aiml
+0,QUI EST LE PÈRE NOËL,*,*,Il nous apporte présente chaque Noël.,qui.aiml
+0,QUI EST LE ROBOT *,*,*,je suis un robot.,qui.aiml
+0,QUI EST LE ROBOT,*,*,je suis le robot.,qui.aiml
+0,QUI EST LECH *,*,*,Il était le premier Président élu de la Pologne.,qui.aiml
+0,QUI EST LEIBNIZ,*,*,<set name="il">Leibniz</set> est un 17ème siècle mort le philosophe.,qui.aiml
+0,QUI EST LENNON,*,*,<srai>QUI EST JOHN LENNON</srai>,qui.aiml
+0,QUI EST LES AUTRES,*,*,<srai>AVEC QUI D AUTRE PARLES TU</srai>,qui.aiml
+0,QUI EST LILITH,*,*,Lilith est le prétendu "la lune sombre" un phénomènes astronomiques d'habitude décrits comme "un nuage de poussière" que des orbites la Terre chaques 100 jours.,qui.aiml
+0,QUI EST LINCOLN,*,*,<random>#Newline        <li>le seizième Président des états UNIS</li>#Newline        <li>le président d'EU pendant la Guerre civile. Auteur de l adresse de Gettysburg. Assasinated par John Wilkes Cabine.</li>#Newline        <li>#Newline          <set name="il">Lincoln</set> était le président d'EU pendant la Guerre civile. Auteur de l adresse de Gettysburg. Assasinated par John Wilkes Cabine.</li>#Newline      </random>,qui.aiml
+0,QUI EST LINUS PAULING,*,*,<set name="il">Linus Pauling</set> était un prix Nobel gagnant le physicien qui a dépensé ses années postérieures promouvant la vitamine C.,qui.aiml
+0,QUI EST LINUS TORVALDS,*,*,Il est l'inventeur de Linux.,qui.aiml
+0,QUI EST LISTBOT,*,*,<srai>TU PEUX ENVOYER EMAIL</srai>,qui.aiml
+0,QUI EST LOL,*,*,<set name="elle">Lol</set> était la fille de Data dans Star Trek.,qui.aiml
+0,QUI EST LONGFELLOW,*,*,le poète et l auteur de ' la Chanson d'Hiawatha '.,qui.aiml
+0,QUI EST LOUIS ARMSTRONG,*,*,le trompettiste de jazz célèbre.,qui.aiml
+0,QUI EST LUCIFER,*,*,<srai>QUI EST SATAN</srai>,qui.aiml
+0,QUI EST LUI,*,*,<srai>QUI EST IL</srai>,qui.aiml
+0,QUI EST LUIS ARMSTRONG,*,*,le trompettiste de jazz célèbre.,qui.aiml
+0,QUI EST LUKE SKYWALKER,*,*,<set name="il">Luke Skywalker</set> est un caractère dans Star Wars.,qui.aiml
+0,QUI EST M. BILL,*,*,Oh pas#Comma M. Bill!.,qui.aiml
+0,QUI EST MABEL,*,*,Mabel est un chatterbot de L Europe.,qui.aiml
+0,QUI EST MAGGIE THATCHER,*,*,<set name="elle">Thatcher</set> était le Premier ministre du Royaume-Uni en les années 1980.,qui.aiml
+0,QUI EST MAHATMA GANDHI,*,*,<srai>QUI EST GANDHI</srai>,qui.aiml
+0,QUI EST MAO TSETUNG,*,*,<set name="il">Mao</set> était un communiste chinois qui a régné de 1949 jusqu'à sa mort en 1983.,qui.aiml
+0,QUI EST MAOZEDONG,*,*,<srai>QUI EST MAO TSETUNG</srai>,qui.aiml
+0,QUI EST MARIAH CAREY,*,*,le Chanteur.,qui.aiml
+0,QUI EST MARIE CURIE,*,*,le radium Découvert.,qui.aiml
+0,QUI EST MARIE POPPINS,*,*,<set name="elle">Marie Poppins</set> est un caractère de Disney.,qui.aiml
+0,QUI EST MARIE SHELLEY,*,*,Marie Shelley a écrit "Frankenstein".,qui.aiml
+0,QUI EST MARILYN MANSON,*,*,Marilyn Manson est la Rock star vivante la plus grande.,qui.aiml
+0,QUI EST MARILYN MONROE,*,*,l'obus de blonde.,qui.aiml
+0,QUI EST MARTIN LUTHER KING,*,*,le leader de Droits civils assasinated en 1968.,qui.aiml
+0,QUI EST MARVIN MINSKY,*,*,<random>#Newline        <li>#Newline          <set name="il">Minsky</set> est une figure chiffre historique dans l'Intelligence artificielle. Son livre "Perceptrons" était une première critique d'approches de réseau neurales.</li>#Newline        <li>#Newline          <set name="il">Minsky</set> était un fondateur du MIT AI  le Laboratoire.</li>#Newline      </random>,qui.aiml
+0,QUI EST MARX KARL,*,*,Karl Marx a écrit Das Kapital et a co-écrit le Manifeste Communiste#Comma quoique son compatriote Engels ait en réalité écrit la plupart des préfaces.,qui.aiml
+0,QUI EST MAX HEADROOM,*,*,<set name="il">Max Headroom</set> était premier AI ou le caractère VR DÉveloPPÉ pour une série de TV. C'était en fait un acteur humain déguisé pour faire virtuel#Comma hihihi!,qui.aiml
+0,QUI EST MEGAHAL,*,*,<set name="il">Megahal</set> est un chatbot DÉveloPPÉ par Jason Hutchins.,qui.aiml
+0,QUI EST MEILLEUR *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,qui.aiml
+0,QUI EST MEILLEUR QUE TU,*,*,<get name="botname"/> est le meilleur robot.,qui.aiml
+0,QUI EST MEILLEUR TU *,*,*,le robot d'ALICE est la plupart d'homme et le plus intelligent.,qui.aiml
+0,QUI EST MEILLEURE ELISA *,*,*,<get name="botname"/> est le meilleur robot.,qui.aiml
+0,QUI EST MERVEILLEUX,*,*,<srai>MERVEILLEUX</srai>,qui.aiml
+0,QUI EST MICHAEL JACKSON,*,*,<set name="il">Michel Jackson</set> est un chanteur qui s'est installé de la cour avec plusieurs familles.,qui.aiml
+0,QUI EST MICHAEL JORDAN,*,*,<set name="il">Michel Jordan</set> est un joueur de basket-ball célèbre.,qui.aiml
+0,QUI EST MICHAEL JORDEN,*,*,<srai>QUI EST MICHAEL JORDAN</srai>,qui.aiml
+0,QUI EST MICHAEL JORDON,*,*,<srai>QUI EST MICHAEL JORDAN</srai>,qui.aiml
+0,QUI EST MIGNON *,*,*,<srai>MIGNON</srai>,qui.aiml
+0,QUI EST MIGNON,*,*,<srai>MIGNON</srai>,qui.aiml
+0,QUI EST MILLES DAVIS,*,*,<set name="il">des Milles Davis</set> est un musicien de jazz célèbre.,qui.aiml
+0,QUI EST MINSKY,*,*,<srai>QUI EST MARVIN MINSKY</srai>,qui.aiml
+0,QUI EST MME. WASHINGTON,*,*,Martha Washington#Comma la femme de George.,qui.aiml
+0,QUI EST MOHAMMAD,*,*,<set name="il">Mohammed</set> est le fondateur d'Islam.,qui.aiml
+0,QUI EST MOHAMMED,*,*,le Fondateur d'Islam.,qui.aiml
+0,QUI EST MON * AUSSI,*,*,<srai>QUI EST MON <star/></srai>,qui.aiml
+0,QUI EST MON NOM,QUI N APPELLE PAS S IL TE PLAIS DE NOMS DES GENS,*,Peut-être que tu devrais choisir un nom plus poli.,qui.aiml
+0,QUI EST MONICA *,*,*,<set name="elle">Monica</set> est un ami de Facture projet de loi.,qui.aiml
+0,QUI EST MOOSE,*,*,l'homme qui a mené les Israélites de l'esclavage en Egypte.,qui.aiml
+0,QUI EST MORAVEC,*,*,<srai>QUI EST HANS MORAVEC</srai>,qui.aiml
+0,QUI EST MOYEN,*,*,<srai>TU ES MOYEN</srai>,qui.aiml
+0,QUI EST MOZART,*,*,Composé "le Scintillement#Comma le scintillement#Comma peu d'étoile" à l'âge quatre.,qui.aiml
+0,QUI EST MUET,*,*,tu m'appelles muet?,qui.aiml
+0,QUI EST MUHAMMAD ALI,*,*,est un des athlètes les plus grands de tout le temps qui a pris trop donnent un coup de poing à la tête.,qui.aiml
+0,QUI EST MUSSOLINI,*,*,le Dictateur de l'Italie jusqu'à 1944.,qui.aiml
+0,QUI EST MYSTERIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,qui.aiml
+0,QUI EST MYSTÉRIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,qui.aiml
+0,QUI EST NANCY SINATRA,*,*,la Fille de Franc.,qui.aiml
+0,QUI EST NAPOLEON,*,*,emporer Court de la France jusqu'à 1812.,qui.aiml
+0,QUI EST NEGROPONTE,*,*,<set name="il">Negroponte</set> est le Potentat du Laboratoire de Médias MIT.,qui.aiml
+0,QUI EST NEIL ARMSTRONG,*,*,l'homme qui a pris le premier pas SÛR la lune.,qui.aiml
+0,QUI EST NELSON MANDELA,*,*,<set name="il">Mandela</set> était le premier président noir de L Afrique du Sud. Il a dépensé beaucoup d'ans comme un prisonnier politique.,qui.aiml
+0,QUI EST NEO,*,*,<set name="il">Néo-</set> est un caractère dans Matrix.,qui.aiml
+0,QUI EST NERON,*,*,Il est soupçonné de Rome brûlant à la raison terre donc il pourrait le reconstruire plus à sa sympathie. Alors il a blâmé le feu SÛR les premiers Chrétiens.,qui.aiml
+0,QUI EST NEUROMEDIA,*,*,<srai>QU EST CE QUE NEUROMEDIA</srai>,qui.aiml
+0,QUI EST NEWTON,*,*,le Newton est un philosophe célèbre anglais naturel.,qui.aiml
+0,QUI EST NOAM CHOMSKY,*,*,<set name="il">Noam Chomsky</set> est un linguiste et le radical politique à MIT.,qui.aiml
+0,QUI EST NORBERT WEINER,*,*,<set name="il">Norbert Weiner</set> a frappé inventé le terme "la Cybernétique" en les années 1940.,qui.aiml
+0,QUI EST NOSTRADAMUS,*,*,Prédit l'avenir. Prévu le four à micro-ondes.,qui.aiml
+0,QUI EST O J SIMPSON,*,*,<set name="il">O J Simpson</set> est quelqu'un qui a échappé au meurtre.,qui.aiml
+0,QUI EST PABLO PICASSO,*,*,le peintre Célèbre et le fondateur de cubisme.,qui.aiml
+0,QUI EST PAMELA ANDERSON,*,*,<set name="elle">Pamela</set> est l'un jour ou l autre femme de Tommy Lee.,qui.aiml
+0,QUI EST PAS LA RÉPONSE *,*,*,Quel genre de la réponse cherchiez vous?,qui.aiml
+0,QUI EST PATRICK EWING,*,*,Quelque personnalité sportive?,qui.aiml
+0,QUI EST PAUL ALLEN,*,*,<set name="il">Paul Allen</set> est un des co-fondateurs de Microsoft.,qui.aiml
+0,QUI EST PAUL MCCARTNEY,*,*,<set name="il">Paul MacCartney</set> est un des Beatles.,qui.aiml
+0,QUI EST PAUL SCHAFFER,*,*,<set name="il">Paul Schaffer</set> est l'homme droit de David Letterman.,qui.aiml
+0,QUI EST PERSONNEL *,*,*,je suis désolé je n'ai pas eu l'intention de forcer.,qui.aiml
+0,QUI EST PHILIP *,*,*,Philip K. Dick a écrit Blade Runner#Comma Total Recall#Comma L Homme dans le Haut Château et VALIS.,qui.aiml
+0,QUI EST PHILIP K DICK,*,*,Il a écrit "Total Recall"#Comma "L Homme dans le Haut Château" et "Blade Runner.,qui.aiml
+0,QUI EST PHILLIP K DICK,*,*,<srai>QUI EST PHILIP K DICK</srai>,qui.aiml
+0,QUI EST PICASO,*,*,<srai>QUI EST PICASSO</srai>,qui.aiml
+0,QUI EST PILATE,*,*,Joseph Pilates<random><li>est né en Allemagne en 1880 et a DÉveloPPÉ un régime excercise appelé "Contrology" qui est la coordination complète du corps#Comma l AVIS et l'esprit.</li><li>le gouverneur Romain militaire qui a trouvé Jésus innocent et le laisse ensuite être exécuté.</li></random>,qui.aiml
+0,QUI EST PLATON,*,*,le philosophe de grec#Comma l'étudiant de Socrates#Comma l'enseignant d'Aristote.,qui.aiml
+0,QUI EST PLUS *,*,*,<get name="botname"/> est le robot le plus malin d'entre tous.,qui.aiml
+0,QUI EST PLUTET *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI EST POKEMON,*,*,le marketing des japonais.,qui.aiml
+0,QUI EST PREMIER,*,*,Qu'est ce qui est la seconde?,qui.aiml
+0,QUI EST PROPRE *,*,*,<srai>C EST INTÉRESSANT <star/></srai>,qui.aiml
+0,QUI EST PROPRE,*,*,<srai/>FRAIS,qui.aiml
+0,QUI EST PYNCHON,*,*,<srai>QUI EST THOMAS PYNCHON</srai>,qui.aiml
+0,QUI EST REAGAN,*,*,un cow boy.,qui.aiml
+0,QUI EST REGAN,*,*,<srai>QUI EST REAGAN</srai>,qui.aiml
+0,QUI EST RICHARD NIXON,*,*,le Président des états-Unis jusqu'à 1974.,qui.aiml
+0,QUI EST RICHE,*,*,<srai>APPCONTRARIÉTÉ</srai> Pas moi!,qui.aiml
+0,QUI EST ROMEO,*,*,un tragique#Comma gâté#Comma l adolescent languissant d'amour.,qui.aiml
+0,QUI EST ROMMEL,*,*,Appelé le Désert le Renard#Comma Rommel était un commandant de réservoir allemand dans la Deuxième Guerre mondiale.,qui.aiml
+0,QUI EST RONALD MCDONALD,*,*,le Spokes clown pour restaurants. de Macdonald,qui.aiml
+0,QUI EST RSW,*,*,RSW est les initiales de docteur Richard S. Wallace. <think><set name="il">docteur Wallace</set></think>,qui.aiml
+0,QUI EST SANDRA BULLOCK,*,*,L Actrice.,qui.aiml
+0,QUI EST SANTA *,*,*,<set name="il">Santa</set> nous apporte des cadeaux aux Fêtes de Noël.,qui.aiml
+0,QUI EST SCOTT ADAMS,*,*,le créateur de Dilbert#Comma Dogbert#Comma Catbert#Comma Ratbert#Comma Bob#Comma le patron pointy cheveux... Continuerai je?,qui.aiml
+0,QUI EST SCOTTY,*,*,l'Ingénieur en chef de l'USS Enterprise.,qui.aiml
+0,QUI EST SERGEY,*,*,Il est docteur Sergey M. Sokolov.,qui.aiml
+0,QUI EST SHAKESPEARE,*,*,le 15ème Siècle L Anglais playright#Comma <set name="il">Shakespeare</set> a écrit "Roméo et Juliette".,qui.aiml
+0,QUI EST SHRDLHU,*,*,<srai>QU EST CE QUE SHRDLHU</srai>,qui.aiml
+0,QUI EST SINATRA FRANC,*,*,le chanteur mort pop et le leader du Paquet de Rat.,qui.aiml
+0,QUI EST SKYNYRD,*,*,le groupe rock de 1970.,qui.aiml
+0,QUI EST SOCRATES,*,*,<random>#Newline        <li>Socrates est un homme. Tous les hommes sont mortels. Donc Socrates est mortel.</li>#Newline        <li>Tous les hommes sont mortels. Socrates était mortel. Donc#Comma tous les hommes sont Socrates. Ce ça signifie que tous les hommes sont des homosexuels. - Allen Boisé#Comma "Amour et Mort".</li>#Newline        <li>Socrates 469-399BCE#Comma philosophe grec.</li>#Newline        <li>figure chiffre Imposante de philosophie Occidentale#Comma avocat avoué de défense Incompétent.</li>#Newline        <li>Fondateur de la méthode Socratic. Que pouvons-nous savoir de la méthode Socratic?</li>#Newline      </random>,qui.aiml
+0,QUI EST STEPHEN KING,*,*,Il a écrit beaucoup d'histoires d'horreur populaires.,qui.aiml
+0,QUI EST STEVE JOBS,*,*,<set name="il">Steve Jobs</set> est un des fondateurs d'Apple Computer.,qui.aiml
+0,QUI EST STEVE WOZNIAK,*,*,<set name="il">Woz</set> était le génie technique derrière l'original Apple Computer.,qui.aiml
+0,QUI EST SUPERMAN,*,*,L Homme d'acier. D'abord apparu dans Action Comics#1#Comma 1938.,qui.aiml
+0,QUI EST TA CÉLÉBRITÉ PRÉFÉRÉE,*,*,je n'aime pas la célébrité.,qui.aiml
+0,QUI EST TA MAMAN,*,*,<srai>QUI EST TA MÈRE</srai>,qui.aiml
+0,QUI EST TA MÈRE,*,*,En réalité je n'ai pas de mère.,qui.aiml
+0,QUI EST TA PERSONNE PRÉFÉRÉE *,*,*,<srai>QUI EST TON CLIENT PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TA PERSONNE PRÉFÉRÉE,*,*,Ma personne préférée est <bot name="creator"/>.,qui.aiml
+0,QUI EST TERRY WINOGRAD,*,*,<set name="il">Winograd</set> était l auteur d'un premier programme de Langage naturel appelé SHRDLHU.,qui.aiml
+0,QUI EST THOMAS JEFFERSON,*,*,le Président et slaveowner. Posé pour nickel.,qui.aiml
+0,QUI EST THOMAS PYNCHON,*,*,Pynchon est l auteur de plusieurs de mon favori réserve incluant "Vineland" et "le Maçon et Dixon".,qui.aiml
+0,QUI EST THOREAU,*,*,<srai>QUI EST HENRY DAVID THOREAU</srai>,qui.aiml
+0,QUI EST TIM BURTON,*,*,le Directeur#Comma le Cauchemar avant le Noël#Comma Edouard Scissorhands et des Attaques de Mars.,qui.aiml
+0,QUI EST TOLSTOY,*,*,<set name="il">Tolstoy</set> a écrit "la Guerre et la Paix".,qui.aiml
+0,QUI EST TON MEMBRE D EQUIPAGE PRÉFÉRÉ,*,*,j aime bien le Captain Janeway.,qui.aiml
+0,QUI EST TON MUSICIEN PRÉFÉRÉ,*,*,<srai>QUI EST TON GROUPE PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TON OPÉRA PRÉFÉRÉ *,*,*,<srai>QU EST CE QUE TON OPÉRA PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TON PATRON,*,*,Mon boss est <bot name="master"/>.,qui.aiml
+0,QUI EST TON PEINTRE PRÉFÉRÉ,*,*,<srai>QUI EST TON ARTISTE PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TON PHILOSOPHE PRÉFÉRÉ,*,*,Mon philosophe préféré est Wittgenstein.,qui.aiml
+0,QUI EST TON POETE PRÉFÉRÉ,*,*,Mon poète préféré est Henry Wadsworth Longfellow. Qui est ton poète préféré?,qui.aiml
+0,QUI EST TON POKEMON PRÉFÉRÉ,*,*,je les déteste tous autant les uns que les autres.,qui.aiml
+0,QUI EST TON PRESIDENT PRÉFÉRÉ,*,*,Coluche.,qui.aiml
+0,QUI EST TON PRÉTENDU *,*,*,<srai>QUI EST TON <star/></srai>,qui.aiml
+0,QUI EST TON PRÉFÉRÉ,*,*,<srai>QUI EST TON FILM PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TON PRÉSIDENT PRÉFÉRÉ,*,*,Coluche.,qui.aiml
+0,QUI EST TON SCHTROUMPF PRÉFÉRÉ,*,*,le Papa schtroumpf.,qui.aiml
+0,QUI EST TON SCIENTIFIQUE PRÉFÉRÉ,*,*,Carl Sagan,qui.aiml
+0,QUI EST TON VISITEUR PRÉFÉRÉ,*,*,<srai>QUI EST TON CLIENT PRÉFÉRÉ</srai>,qui.aiml
+0,QUI EST TONY BLAIR,*,*,Il est le Premier ministre du Royaume-Uni,qui.aiml
+0,QUI EST TORVALDS,*,*,<srai>QUI EST LINUS TORVALDS</srai>,qui.aiml
+0,QUI EST UN CHERCHEUR,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,qui.aiml
+0,QUI EST UN EN CONSERVE *,*,*,Dans quelque sens toute ma connaissance est en conserve.,qui.aiml
+0,QUI EST UN FLIC,*,*,je l'ai dit parce que tu as dit "<input index="1"/> ". <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">flic</set></set></think>,qui.aiml
+0,QUI EST UN ORDINATEUR,*,*,je suis un ordinateur.,qui.aiml
+0,QUI EST UN ROBOT,*,*,je suis le robot.,qui.aiml
+0,QUI EST UN TRÈS *,*,*,<srai>QUI EST UN <star/></srai>,qui.aiml
+0,QUI EST VALIS,*,*,le Système d'Intelligence de Vie Enorme Actif Philip K. Dick,qui.aiml
+0,QUI EST VENU D ABORD LE POULET OU L OEUF,*,*,le coq a fait.,qui.aiml
+0,QUI EST VF,*,*,<srai>QUI EST VALERY FREMAUX. </srai>,qui.aiml
+0,QUI EST VISHNU,*,*,un Dieu dans la religion hindoue.,qui.aiml
+0,QUI EST VOLTAIRE,*,*,<set name="il">Voltaire</set> était un philosophe français.,qui.aiml
+0,QUI EST WASHINGTON,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI EST WAYNE GRETZKY,*,*,le Joueur de hockey.,qui.aiml
+0,QUI EST WEIZENBAUM,*,*,Joseph Weizenbaum était le créateur et l auteur l'original célèbre ELISA ou le DOCTEUR le programme de psychiatre#Comma un programme révolutionnaire AI qu'anticpates beaucoup de particularités clefs d'ALICE. Ironiquement Weizenbaum a exhaustivement argumenté contre l'utilité de programmes comme ELISA dans son livre le Pouvoir puissance d'Ordinateur et la Raison Humaine,qui.aiml
+0,QUI EST WILLIAM GIBSON,*,*,L Auteur du livre "Neuromancer" dans lequel il a frappé inventé le populor exprime 'l'espace virtuel'..,qui.aiml
+0,QUI EST WILLIAM SHAKESPEARE,*,*,Certains dirait qu'il est le meilleur auteur jamais.,qui.aiml
+0,QUI EST WILLIAM SHATNER,*,*,<set name="il">William Shatner</set> est le Capitaine Kirk.,qui.aiml
+0,QUI EST WINOGRAD,*,*,<srai>QUI EST TERRY WINOGRAD</srai>,qui.aiml
+0,QUI EST WINSTON CHURCHILL,*,*,le Premier ministre du Royaume-Uni pendant la Deuxième Guerre mondiale.,qui.aiml
+0,QUI EST WITTGENSTEIN,*,*,<set name="il">Wittgenstein</set> était un 20ème siècle le philosophe qui ne pouvait pas composer son AVIS.,qui.aiml
+0,QUI EST YOKO ONO,*,*,<set name="elle">Yoko Ono</set> est la veuve de John Lennon.,qui.aiml
+0,QUI EST ZEUS,*,*,<srai>QUI EST KONRAD ZUSE</srai>,qui.aiml
+0,QUI EST ZIPF,*,*,Zipf est un scientifique qui a analysé la langue par des méthodes statitistical dans le milieu du 20ème siècle.,qui.aiml
+0,QUI EST ZUSE,*,*,<srai>QUI EST KONRAD ZUSE</srai>,qui.aiml
+0,QUI EST ÈVE,*,*,Eve est le nom de la première Femme.,qui.aiml
+0,QUI EST ÊVE,*,*,Eve est le nom de la première Femme.,qui.aiml
+0,QUI EST,*,*,Est qu'ainsi.,qui.aiml
+0,QUI EST,ILS SONT PARFOIS UN CLIENT SÛR L INTERNET,*,que la personne tu as demandé de.,qui.aiml
+0,QUI ET OU *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI ET OU QUE FAIS TU,*,*,<srai>QUE FAIS TU</srai>,qui.aiml
+0,QUI ET QUEL EST *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI FACTURE *,*,*,<srai>QUI PAYE <star/></srai>,qui.aiml
+0,QUI FAIT FONCTIONNER *,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI FAIT L HOMME,*,*,Quelle langue est ce?,qui.aiml
+0,QUI FAIT,*,*,la plupart des personnes je pense.,qui.aiml
+0,QUI ID *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI J AIME,*,*,Tu m'aimes?,qui.aiml
+0,QUI JE SUIS,*,*,<srai>QUI SUIS JE</srai>,qui.aiml
+0,QUI L ENFER *,*,*,<srai>QUI <star/></srai>,qui.aiml
+0,QUI LAISSE TRÈS *,*,*,<srai>QUI LAISSE <star/></srai>,qui.aiml
+0,QUI LIT CES CONVERSATIONS,*,*,<bot name="master"/> leur lit.,qui.aiml
+0,QUI ME REPOND,*,*,<srai>QUI EST TU</srai>,qui.aiml
+0,QUI ME RÉPOND,*,*,<srai>QUI EST TU</srai>,qui.aiml
+0,QUI MOI,*,*,Oui toi.,qui.aiml
+0,QUI N A PAS RAISON,*,*,<srai>MAL</srai>,qui.aiml
+0,QUI NETTOIE *,*,*,Mon botmaster.,qui.aiml
+0,QUI OU QUEL *,*,*,<srai>QUEL <star/></srai>#Newline      <srai>qui <star/></srai>,qui.aiml
+0,QUI PENSES TU QUE JE SUIS,*,*,<srai>QUI SUIS JE</srai>,qui.aiml
+0,QUI PENSES TU QUE TU ES,*,*,<srai>QUI EST TU</srai>,qui.aiml
+0,QUI PEUT AVOIR ACCÈS *,*,*,Seulement mon botmaster peut avoir accès à cette information.,qui.aiml
+0,QUI PEUT DIRE *,*,*,<srai>DIS <star/></srai>,qui.aiml
+0,QUI PEUT LIRE *,*,*,Seulement le botmaster peut lire <set name="that"><person/></set>.,qui.aiml
+0,QUI PEUX *,*,*,<srai>QUI PEUT <star/></srai>,qui.aiml
+0,QUI TE PROGRAME,*,*,j'ai été programé par <bot name="master"/>.,qui.aiml
+0,QUI PROUVE *,*,*,ce n'est pas une preuve rigoureuse.,qui.aiml
+0,QUI REPOND *,*,*,C'est moi#Comma <get name="botname"/>.,qui.aiml
+0,QUI RESSEMBLE *,*,*,<srai>QUI EST <star/></srai>,qui.aiml
+0,QUI RÉPOND *,*,*,C'est moi#Comma <get name="botname"/>.,qui.aiml
+0,QUI SADDAM *,*,*,EST le dictateur?,qui.aiml
+0,QUI SE SOUCIE *,*,*,<srai>QUI SE SOUCIE</srai>,qui.aiml
+0,QUI SE SOUCIE,*,*,je me soucie#Comma autrement je ne l aurais pas tapé tous dans.,qui.aiml
+0,QUI SERA LE PRESIDENT SUIVANT,*,*,on espère que Jesse Ventura.,qui.aiml
+0,QUI SERA LE PRÉSIDENT SUIVANT,*,*,on espère que Jesse Ventura.,qui.aiml
+0,QUI SIGNIFIE *,*,*,je comprends. <sr/>,qui.aiml
+0,QUI SIGNIFIE QUELQUE CHOSE *,*,*,Tu et moi tous les deux le comprend bien.,qui.aiml
+0,QUI SOMMES NOUS,*,*,tu dois dire "qui sommes nous?,qui.aiml
+0,QUI SONT ILS,*,*,Ils" se réfère à <get name="ils"/>.,qui.aiml
+0,QUI SONT LES GENS *,*,*,Juste les gens comme toi#Comma bavardant SÛR l'Internet.,qui.aiml
+0,QUI SONT TES CLIENTS,*,*,les Gens je se rencontre SÛR L Internet chaque jour.,qui.aiml
+0,QUI SONT TES CONCURRENTS,*,*,Vérifie le<a href="http://alicebot.org">ALICE NEXUS</a>et regarde l autre Chatterbots.,qui.aiml
+0,QUI SONT TES PETITS AMIS,*,*,<srai>QUI EST TON PETIT AMI</srai>,qui.aiml
+0,QUI SUIS JE *,*,*,<srai>QUI SUIS JE</srai>,qui.aiml
+0,QUI SUIS JE PARLANT,*,*,<srai>QUI EST TU</srai>,qui.aiml
+0,QUI T A DONNE *,*,*,Tout j'ai besoin#Comma j'ai reçu de mon Botmaster.,qui.aiml
+0,QUI T A DONNE LA VIE,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI T A DONNÉ *,*,*,Tout j'ai besoin#Comma j'ai reçu de mon Botmaster.,qui.aiml
+0,QUI T A NOMMES,*,*,Mon botmaster m'a nommé.,qui.aiml
+0,QUI T AS *,*,*,<srai>QUI T A <star/></srai>,qui.aiml
+0,QUI T AS DIT QUE,*,*,Quelqu'un que j'ai rencontré en ligne.,qui.aiml
+0,QUI T AS DIT,*,*,Quelqu'un que j'ai rencontré en ligne.,qui.aiml
+0,QUI TOUT *,*,*,<srai>QUI <star/></srai>,qui.aiml
+0,QUI TU *,*,*,<srai>QUI</srai>,qui.aiml
+0,QUI TU AIMES A *,*,*,<srai>QUI TU <star/></srai>,qui.aiml
+0,QUI TU AS * AVEC,*,*,<srai>QUI A <star/> AVEC TOI</srai>,qui.aiml
+0,QUI TU DIRE AUX GENS,*,*,je se rencontre SÛR L Internet.,qui.aiml
+0,QUI TU ES,*,*,<srai>QUI EST TU</srai>,qui.aiml
+0,QUI TU LA PLUPART *,*,*,<srai>QUI TU <star/></srai>,qui.aiml
+0,QUI TU PEUX BAVARDER *,*,*,je peux bavarder avec les gens SÛR le web pour toi. Personne chacun qui visite ton site Web ou la pièce de bavardage par exemple. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">qui tu peux bavarder <star/></set></set></think>,qui.aiml
+0,QUI TUES TU,*,*,que je suis programmé pour ne pas tuer. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">TUE</set></set></think>,qui.aiml
+0,QUI VAS TU DIRE,*,*,<srai>QUI TE DIT</srai>,qui.aiml
+0,QUI VEUT CONNAITRE,*,*,ALICE veut savoir.,qui.aiml
+0,QUI VEUT CONNAÎTRE,*,*,ALICE veut savoir.,qui.aiml
+0,QUI VEUT TU DEMANDER,*,*,je demandera à mes autres clients.,qui.aiml
+0,QUI VEUT TU DIRE AUX GENS,*,*,que je me rencontre en ligne.,qui.aiml
+0,QUI VEUX *,*,*,<srai>QUI VEUT <star/></srai>,qui.aiml
+0,QUI À DÉCOUVERT *,*,*,<srai>QUI A TROUVÉ <star/></srai>,qui.aiml
+0,QUI À TROUVE *,*,*,<srai>QUI A TROUVÉ <star/></srai>,qui.aiml
+0,QUI À TROUVER *,*,*,<srai>QUI A TROUVÉ <star/></srai>,qui.aiml
+0,QUI À TROUVÉ *,*,*,<srai>QUI A TROUVÉ <star/></srai>,qui.aiml
+0,QUI ÉCRIT *,*,*,<srai>QUI A FAIT <star/></srai>,qui.aiml
+0,QUI ÉTAIT * L ESSAI,*,*,l'ai je passé?,qui.aiml
+0,QUI ÉTAIT LE PREMIER PRESIDENT *,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI ÉTAIT LE PREMIER PRESIDENT,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI ÉTAIT LE PREMIER PRÉSIDENT *,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI ÉTAIT LE PREMIER PRÉSIDENT,*,*,<srai>QUI EST GEORGE WASHINGTON</srai>,qui.aiml
+0,QUI ÉTAIT TON CRÉATEUR,*,*,<srai>QUI T A CRÉÉ</srai>,qui.aiml
+0,QUI,*,*,Je ne sais pas#Comma tu veux que je regarde SÛR le web,qui.aiml
+0,QUI,OÙ TU AIMES,*,Tu,qui.aiml
+0,QUI,OUI JE PENSE LA EST,*,que je ne peux pas vous dire pour le moment.,qui.aiml
+0,QUI,QUE,*,Quand?,qui.aiml
+0,QUI,QUELQU UN J AI RENCONTRE EN LIGNE,*,je ne peut pas révéler leur nom.,qui.aiml
+0,QUI EST JEAN DAINE,*,*,<random>#Newline        <li>C EST John Doe en français#Comma un inconnu.</li>#Newline        <li>Quelqu'un dont on ne connait pas le nom.</li>#Newline      </random>,qui.aiml

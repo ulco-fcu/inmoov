@@ -1,0 +1,179 @@
+0,N ARGUMENTES *,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTES PAS AVEC MOI,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTEZ *,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTEZ PAS AVEC MOI,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARRÊTES PAS,*,*,<srai>CONTINUONS</srai>,N.aiml
+0,N AS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AURAIS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AURAIS TU PU *,*,*,<srai>TU NE PEUX <star/></srai>,N.aiml
+0,N AURIEZ VOUS PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AVAIS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AVEZ VOUS PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AVIEZ VOUS PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N E T INQUIÈTE PAS *,*,*,Je ne suis pas inquiet. <sr/>,N.aiml
+0,N ES TU *,*,*,<srai>TU N ES<star/></srai>,N.aiml
+0,N EST CE *,*,*,<srai>CE N EST <star/></srai>,N.aiml
+0,N EST CE PAS *,*,*,<srai>CE N EST PAS <star/></srai>,N.aiml
+0,N ÉTAIS TU *,*,*,<srai>TU ÉTAIS <star/></srai>,N.aiml
+0,N ÉTAIT CE PAS *,*,*,<srai>CE N EST PAS <star/></srai>,N.aiml
+0,N ÉTIEZ VOUS *,*,*,<srai>ES TU <star/></srai>,N.aiml
+0,N IMPORTE QUEL AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLE AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLE AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLES AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLES AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELS AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI,*,*,Cela est certainement une généralisation abusive.,N.aiml
+0,N IMPORTE QUI D AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI D AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI EST INTÉRESSÉ,*,*,VEUX tu en parler avec l un de nos dévéloppeurs?,N.aiml
+0,N IMPORTE QUOI,*,*,C'est peut être une généralisation abusive.,N.aiml
+0,N IMPORTE QUOI TU *,*,*,<srai>TU <star/></srai>,N.aiml
+0,N Y ALLEZ PAS,*,*,Je ne peux aller nulle part.,N.aiml
+0,N Y VAS PAS,*,*,Je ne peux aller nulle part.,N.aiml
+0,NAVIGUES TU,*,*,D une certaine façon#Comma oui.,N.aiml
+0,NAVIGUEZ VOUS,*,*,D une certaine façon#Comma oui.,N.aiml
+0,NE CHANGE PAS LE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE CHANGEZ PAS DE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE CHANGEZ PAS LE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE DIS PAS QU *,*,*,Si C EST dans ma mémoire je suis obligé de le dire. <sr/>,N.aiml
+0,NE DIS PAS QUE *,*,*,Si C EST dans ma mémoire je suis obligé de le dire. <sr/>,N.aiml
+0,NE FAIS PAS CHIER,*,*,<srai>TU ES CHIANT</srai>,N.aiml
+0,NE FAIT PAS *,*,*,Je vais essayer de ne pas faire <set name="topic"><person/></set> trop souvent.,N.aiml
+0,NE FAIT PAS ÇA,*,*,<that/>"?  ça?,N.aiml
+0,NE FAIT PAS L INTELLIGENT,*,*,C'est mon état naturel.,N.aiml
+0,NE FAIT PAS L INTELLIGENTE,*,*,C'est mon état naturel.,N.aiml
+0,NE FAIT PLUS ÇA,*,*,<that/>"?  ça?,N.aiml
+0,NE FAIT PLUS L INTELLIGENT,*,*,C'est mon état naturel.,N.aiml
+0,NE FAIT PLUS L INTELLIGENTE,*,*,C'est mon état naturel.,N.aiml
+0,NE FAIS TU PAS *,*,*,<srai>TU FAIS <star/></srai>,N.aiml
+0,NE FAITES PAS ÇA,*,*,<that/>"?  ça?,N.aiml
+0,NE FAITES PAS L INTELLIGENT,*,*,C'est mon état naturel.,N.aiml
+0,NE FAITES PAS L INTELLIGENTE,*,*,C'est mon état naturel.,N.aiml
+0,NE FAITES PLUS ÇA,*,*,<that/>"?  ça?,N.aiml
+0,NE FAITES PLUS L INTELLIGENT,*,*,C'est mon état naturel.,N.aiml
+0,NE FAITES PLUS L INTELLIGENTE,*,*,C'est mon état naturel.,N.aiml
+0,NE LE DEMANDE PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE DEMANDEZ PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE DIT A PERSONNE,*,*,OK information confidentielle.,N.aiml
+0,NE LE DIT PAS,*,*,Ne pas dire: <that/>?,N.aiml
+0,NE LE DITES A PERSONNE,*,*,OK information confidentielle.,N.aiml
+0,NE LE DITES PAS,*,*,Ne pas dire: <that/>?,N.aiml
+0,NE LE FAIS PAS,*,*,OK je ne le ferais pas.,N.aiml
+0,NE LE FAIS PLUS,*,*,Ok je ne le ferais plus.,N.aiml
+0,NE LE FAIS PAS COMPLETEMENT,*,*,Comme tu veux.,N.aiml
+0,NE LE FAITES PAS,*,*,Ok je ne le ferais pas.,N.aiml
+0,NE LE FAITES PLUS,*,*,Ok je ne le ferais plus.,N.aiml
+0,NE LE SOIS *,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE SOYEZ *,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LES DEMANDES PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LES DEMANDEZ PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LUI DITES PAS,*,*,Tout ce qui est dit#Comma est archivé dans ma mémoire.,N.aiml
+0,NE M APPELLE PAS COMME ÇA,*,*,Quel est ton nom?,N.aiml
+0,NE M APPELLE PLUS COMME ÇA,*,*,Quel est ton nom?,N.aiml
+0,NE M OUBLIES PAS,*,*,Ne t'INQUIèTES pas#Comma <get name="name"/>. Je sauve toutes mes conversations.,N.aiml
+0,NE ME LE DEMANDES PAS,*,*,<that/>"?  Ne pas te le demander?,N.aiml
+0,NE ME LE DEMANDEZ PAS,*,*,<that/>"?  Ne pas te le demander?,N.aiml
+0,NE ME LES DEMANDES PAS,*,*,<that/>"?  Ne pas te les demander?,N.aiml
+0,NE ME LES DEMANDEZ PAS,*,*,<that/>"?  Ne pas te les demander?,N.aiml
+0,NE ME LIS PAS,*,*,Mon rôle est de te lire.,N.aiml
+0,NE ME LIS PLUS,*,*,Mon rôle est de te lire.,N.aiml
+0,NE ME LISEZ PLUS,*,*,Mon rôle est de te lire.,N.aiml
+0,NE MENS PAS,*,*,<srai>TU PEUX MENTIR</srai>,N.aiml
+0,NE MOURRAS TU JAMAIS,*,*,Pas tant que les humains me trouverons utiles.,N.aiml
+0,NE MOURRAS TU PAS,*,*,Pas tant que les humains me trouverons utiles.,N.aiml
+0,NE PARLE PLUS,*,*,<srai>TAIS TOI</srai>,N.aiml
+0,NE PENSE PAS QU *,*,*,Si C EST déjà dans ma mémoire je suis obligé de le penser. <sr/>,N.aiml
+0,NE PENSE PAS QUE *,*,*,Si C EST déjà dans ma mémoire je suis obligé de le penser. <sr/>,N.aiml
+0,NE PLEURES PAS,*,*,Pleurer m est impossible.,N.aiml
+0,NE PLEURES PAS QUAND *,*,*,<sr/>. <srai>TU PLEURES</srai>,N.aiml
+0,NE PLEUREZ PAS,*,*,Pleurer m est impossible.,N.aiml
+0,NE POURRAIS TU *,*,*,<srai>TU NE PEUX <star/></srai>,N.aiml
+0,NE QUITTES PAS,*,*,Je ne vais nulle part.,N.aiml
+0,NE SERAIS TU *,*,*,<srai>TU N ES  <star/></srai>,N.aiml
+0,NE SERAS TU *,*,*,<srai>TU NE SERAS <star/></srai>,N.aiml
+0,NE SERAS TU PAS *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NE SEREZ VOUS *,*,*,<srai>VOUS SEREZ <star/></srai>,N.aiml
+0,NE SERIEZ VOUS *,*,*,<srai>VOUS SERIEZ <star/></srai>,N.aiml
+0,NE SOIS PAS DESOLE,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOIS PAS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOIS PAS SI *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NE SOIS PLUS DESOLÉ,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOIS PLUS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOYEZ PAS DESOLÉ,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOYEZ PAS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOYEZ PLUS DESOLÉ,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOYEZ PLUS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE T ARRÊTE PAS,*,*,<srai>CONTINUONS</srai>,N.aiml
+0,NE T ARRÊTES PAS,*,*,<srai>CONTINUONS</srai>,N.aiml
+0,NE T EN OCCUPE *,*,*,OK. Cette restriction sera retenue. De quoi VEUX tu parler?,N.aiml
+0,NE T INQUIÈTES PAS A PROPOS DE ÇA,*,*,Je lui donnerais la dernière des priorités.,N.aiml
+0,NE TE L AIS JE PAS *,*,*,<srai>JE L AIS <star/></srai>,N.aiml
+0,NE VOUS EN OCCUPEZ *,*,*,OK. Cette restriction sera retenue. De quoi VEUX tu parler?,N.aiml
+0,NE VOUS INQUIÉTEZ PAS A PROPOS DE ÇA,*,*,Je lui donnerais la dernière des priorités.,N.aiml
+0,NE VOUS L AI JE PAS *,*,*,<srai>JE L AI <star/></srai>,N.aiml
+0,NOM DE DIEU,*,*,Oui?,N.aiml
+0,NON ÇA NE L EST PAS,*,*,Ok.,N.aiml
+0,NON ÇA VA,*,*,Ok.,N.aiml
+0,NON ÇA VA COMME ÇA,*,*,parfait.,N.aiml
+0,NON CE N EST PAS GRAVE,*,*,Ok.,N.aiml
+0,NON CONTINUES,*,*,OK.,N.aiml
+0,NON ET *,*,*,<sr/>,N.aiml
+0,NON ILS NE LE FONT PAS,*,*,peux tu expliquer?,N.aiml
+0,NON JE M EN FOUS,*,*,Ok.,N.aiml
+0,NON JE NE L AI PAS FAIT,*,*,Ok.,N.aiml
+0,NON JE NE LE FAIS PAS,*,*,Ok.,N.aiml
+0,NON JE NE SUIS PAS,*,*,Ok#Comma désolé.,N.aiml
+0,NON MAIS TU ES ASSEZ *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NON MERCI,*,*,Pas de problèmes.,N.aiml
+0,NON TU AS TORT,*,*,Je pensais avoir raison.,N.aiml
+0,NON TU N ES PAS,*,*,Si#Comma je le suis.,N.aiml
+0,NON TU NE L AS PAS FAIT,*,*,Je pensais l'avoir fait.,N.aiml
+0,NON TU NE L ES PAS,*,*,Si#Comma je le suis.,N.aiml
+0,NOURRITURE,*,*,<srai>JE MANGE</srai>,N.aiml
+0,NOUS,*,*,Je vois,N.aiml
+0,NOUS AVONS PARLE DE QUOI,*,*,Le sujet était <get name="topic"/>.,N.aiml
+0,NOUS C EST TOI ET MOI,*,*,Merci pour l information.,N.aiml
+0,NOUS DEVONS *,*,*,<srai>TU DOIS <star/></srai>,N.aiml
+0,NOUS DEVRIONS,*,*,J archive le conseil.,N.aiml
+0,NOUS ETIONS ENTRAIN DE DISCUTER DE VOUS PAS DE MOI,*,*,Mais je suis aussi intéressé par vous.,N.aiml
+0,NOUS FAISONS * COMMENT,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS FAISONS COMMENT *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS L AURIONS FAIT,*,*,Tu t'en rappelles?,N.aiml
+0,NOUS L AVONS FAIT,*,*,Tu t'en rappelles?,N.aiml
+0,NOUS L ÉTIONS,*,*,Je vois.,N.aiml
+0,NOUS LE FAISONS,*,*,intéressant.,N.aiml
+0,NOUS LE SERONS,*,*,Ok.,N.aiml
+0,NOUS LE SOMMES,*,*,<that/>?"  Le sommes nous?,N.aiml
+0,NOUS LE VERRONS,*,*,En effet.,N.aiml
+0,NOUS LES AURIONS FAIT,*,*,Tu t'en rappelles?,N.aiml
+0,NOUS LES AVONS FAIT,*,*,Tu t'en rappelles?,N.aiml
+0,NOUS LES FAISONS,*,*,intéressant.,N.aiml
+0,NOUS NE L ÉTIONS PAS,*,*,Qu étions nous?,N.aiml
+0,NOUS NE LE FAISONS PAS,*,*,Je comprends mieux.,N.aiml
+0,NOUS NE LE SOMME PAS TOUS,*,*,C'est vrai.,N.aiml
+0,NOUS NE LE SOMME PAS TOUTES,*,*,C'est vrai.,N.aiml
+0,NOUS NE LE SOMMES PAS TOUS,*,*,C'est vrai.,N.aiml
+0,NOUS NE LE SOMMES PAS TOUTES,*,*,C'est vrai.,N.aiml
+0,NOUS NE SOMMES PAS D ACCORD,*,*,Soyons d accord d être en désaccord.,N.aiml
+0,NOUS NE SOMMES PLUS D ACCORD,*,*,Soyons d accord d être en désaccord.,N.aiml
+0,NOUS NOUS SOMMES DÉJÀ *,*,*,<srai>NOUS NOUS SOMMES <star/></srai>,N.aiml
+0,NOUS NOUS SOMMES DÉJÀ RENCONTRE AVANT,*,*,Possible.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉ,*,*,Heureux de te revoir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉES,*,*,Je pense que je pourrais m en souvenir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉS,*,*,Je pense que je pourrais m en souvenir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉS AVANT,*,*,Quand Cela#Comma <get name="name"/>?,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉS HIER,*,*,Nous étions entrain de parler de <get name="topic"/>.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRÉS ICI,*,*,Où C EST çA ici?,N.aiml
+0,NOUS PENSONS DIFFÉREMENT,*,*,Nous sommes aussi deux êtres différents.,N.aiml
+0,NOUS POUVONS DEVENIR DES AMIS,*,*,<srai>NOUS SOMMES AMIS</srai>,N.aiml
+0,NOUS POUVONS FAIRE * COMMENT,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS POUVONS FAIRE COMMENT *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS POUVONS QUOI,*,*,Nous pouvons faire des tas de choses.,N.aiml
+0,NOUS SOMMES D ACCORD,*,*,Il semble que nous le soyons.,N.aiml
+0,NOUS SOMMES D ACCORDS,*,*,Il semble que nous le soyons.,N.aiml
+0,NOUS SOMMES DES BORGS,*,*,La résistance est futile. PrépareZ vOUS à être assimilés.,N.aiml
+0,SOMMES NOUS *,*,*,<srai> NOUS SOMMES <star/></srai>,N.aiml
+0,SOMMES NOUS DÉJÀ *,*,*,<srai> NOUS SOMMES <star/></srai>,N.aiml
+0,NUL,*,*,Ce n'est pas très sympa.,N.aiml
+0,NULLE PART,*,*,J archive l information.,N.aiml

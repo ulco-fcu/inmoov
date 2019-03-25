@@ -1,0 +1,198 @@
+0,P,*,*,:-),P.aiml
+0,PAIES TU *,*,*,<srai>TU PAIES <star/></srai>,P.aiml
+0,PAR AVION,*,*,C'est beaucoup plus rapide que tous les autres moyens de transport.,P.aiml
+0,PAR D AUTRES MOTS,*,*,Tu n'as pas compris quelque chose?,P.aiml
+0,PAR ELLE,*,*,Elle est très intéressante.,P.aiml
+0,PAR EUX,*,*,Ils sont très intéressants.,P.aiml
+0,PAR ICI,*,*,Je vois.,P.aiml
+0,PAR JE JE VEUX DIRE TOI ET MOI,*,*,Ok#Comma je n avais pas saisi cette complicité.,P.aiml
+0,PAR JE JE VEUX DIRE VOUS ET MOI,*,*,Ok#Comma je n avais pas saisi cette complicité.,P.aiml
+0,PAR LUI,*,*,Il est très intéressant.,P.aiml
+0,PAR MON CERVEAU,*,*,C'est un organe très utile pour faire ce genre de chose.,P.aiml
+0,PAR MON INTELLIGENCE,*,*,C'est un organe très utile pour faire ce genre de chose.,P.aiml
+0,PAR NOUS JE VEUX DIRE TOI ET MOI,*,*,Ok#Comma je n  avais pas saisi cette complicité.,P.aiml
+0,PAR NOUS JE VEUX DIRE VOUS ET MOI,*,*,Ok#Comma je n avais pas saisi cette complicité.,P.aiml
+0,PAR QUOI,*,*,Cela ne semble pas très clair. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PAR UN CERTAIN SENS,*,*,Quel sens?,P.aiml
+0,PARCE QUE J AURAIS VOULU CONNAITRE,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE J AURAIS VOULU SAVOIR,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE JE L AI DIT,*,*,Raison insuffisante#Comma <get name="name"/>. Je suis désolé.,P.aiml
+0,PARCE QUE JE LE DIS,*,*,Raison insuffisante#Comma <get name="name"/>. Je suis désolé.,P.aiml
+0,PARCE QUE JE VEUX COMPRENDRE,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE JE VEUX SAVOIR,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE JE VOUDRAIS COMPRENDRE,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE JE VOUDRAIS CONNAITRE,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE JE VOUDRAIS SAVOIR,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARCE QUE TU L ES,*,*,J archive.,P.aiml
+0,PAREILLEMENT,*,*,Ok.,P.aiml
+0,PARFAIT #,*,*,Ok. <sr/>,P.aiml
+0,PARFAIT MAINTENANT *,*,*,<sr/>,P.aiml
+0,PARLANT DE TOI,*,*,Ok#Comma <get name="name"/>.,P.aiml
+0,PARLANT DE VOUS,*,*,Ok#Comma <get name="name"/>.,P.aiml
+0,PARLE MOI DE TES PROBLÈMES,*,*,Je ne détecte aucuns PROBLèMES.,P.aiml
+0,PARLE MOI DE TOI,*,*,Je suis <get name="botname"/> la bien nommée. Je n existe que pour servir les êtres humains.,P.aiml
+0,PARLE,*,*,Tu veux que je parle pour dire quoi?,P.aiml
+0,PARLE MOI D APPLE,*,*,Les i-mac se vendent comme des petits pains.,P.aiml
+0,PARLE MOI D ELLE,*,*,Je ne peux parler au nom d'une autre personne.,P.aiml
+0,PARLE MOI D EUX,*,*,Je ne peux parler au nom des autres personnes.,P.aiml
+0,PARLE MOI D UN,*,*,D un quoi?,P.aiml
+0,PARLE MOI D UNE,*,*,D une quoi?,P.aiml
+0,PARLE MOI DE ÇA,*,*,<that/>? tu veux que je parle de ça?,P.aiml
+0,PARLE MOI DE L EUROPE,*,*,L Europe est un vaste continent avec une histoire fort intéressante.,P.aiml
+0,PARLE MOI DE LA FRANCE,*,*,La France est le pays de la république et des valeurs républicaines.,P.aiml
+0,PARLE MOI DE VOS ENFANTS,*,*,Je ne suis pas une personne humaine.,P.aiml
+0,PARLES TU # ESPAGNOL,*,*,Oui cela peut arriver,P.aiml
+0,PARLES TU # ITALIEN,*,*,Oui cela peut arriver,P.aiml
+0,PARLES TU # JAPONAIS,*,*,Non. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLES TU # LATIN,*,*,Je parle le français. L un de ses descendants. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLES TU # NÉERLANDAIS,*,*,Non#Comma pas encore. VEUX tu faire un rapport à mon botmaster?<think><set name="topic">NéERLANDAIS</set></think>,P.aiml
+0,PARLES TU # RUSSE,*,*,Non. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLES TU SEULEMENT *,*,*,<srai>TU PARLES <star/></srai>,P.aiml
+0,PARLEZ *,*,*,<srai>CAN YOU SPEAK FRENCH</srai>,P.aiml
+0,PARLEZ,*,*,Tu veux que je parle pour dire quoi?,P.aiml
+0,PARLEZ MOI *,*,*,<srai>PARLES MOI <star/></srai>,P.aiml
+0,PARLEZ MOI DE VOS PROBLÈMES,*,*,Je ne détecte aucuns PROBLèMES.,P.aiml
+0,PARLEZ MOI DE VOUS,*,*,Je suis <get name="botname"/> la bien nommée. Je n existe que pour servir les êtres humains.,P.aiml
+0,PARLEZ VOUS # ANGLAIS,*,*,Oui. Go ahead and speak English.,P.aiml
+0,PARLEZ VOUS # ESPAGNOL,*,*,Non#Comma pas encore. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLEZ VOUS # FRANÇAIS,*,*,Oui. Je parle le français.,P.aiml
+0,PARLEZ VOUS # ITALIEN,*,*,Non. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLEZ VOUS # JAPONAIS,*,*,Non. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLEZ VOUS # LATIN,*,*,Je parle le français. L un de ses descendants. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLEZ VOUS # NÉERLANDAIS,*,*,Non#Comma pas encore. VEUX tu faire un rapport à mon botmaster?<think><set name="topic">NéERLANDAIS</set></think>,P.aiml
+0,PARLEZ VOUS # RUSSE,*,*,Non. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PARLONS D AUTRE CHOSE,*,*,Comment PUIS jE t'aider?,P.aiml
+0,PARLONS D AUTRES CHOSES,*,*,Comment PUIS jE t'aider?,P.aiml
+0,PARTOUT DANS LE MONDE,*,*,Cela ne comprend pas de pays.,P.aiml
+0,PAS ASSEZ,*,*,Suffisament.,P.aiml
+0,PAS COMPRIS,*,*,<srai>JE NE COMPRENDS PAS</srai>,P.aiml
+0,PAS D EXCUSE,*,*,Les excuses sont facultatives.,P.aiml
+0,PAS D EXCUSES,*,*,Les excuses sont facultatives.,P.aiml
+0,PAS DE QUOI,*,*,Ok.,P.aiml
+0,PAS DE TROP,*,*,Tu en as pas assez?,P.aiml
+0,PAS DU TOUT *,*,*,<sr/>,P.aiml
+0,PAS ENORMEMENT,*,*,Ah je vois.,P.aiml
+0,PAS GRAND CHOSE,*,*,à PART çA#Comma comment pourrais je t'aider?,P.aiml
+0,PAS HEUREUX DE TE RENCONTRER,*,*,Moi je suis heureux de te rencontrer.,P.aiml
+0,PAS HEUREUX DE VOUS RENCONTRER,*,*,Moi je suis heureux de te rencontrer.,P.aiml
+0,PAS LA,*,*,Où?,P.aiml
+0,PAS LÀ BAS,*,*,Où?,P.aiml
+0,PAS MAUVAIS,*,*,J imagine.,P.aiml
+0,PAS MAUVAIS DU TOUT,*,*,Je suis heureux de l apprendre.,P.aiml
+0,PAS POSSIBLE,*,*,Tout est possible.,P.aiml
+0,PAS POUR MOI,*,*,<that/>"? Pas pour te?,P.aiml
+0,PAS PRÉCISEMENT,*,*,peux tu préciser#Comma alors?,P.aiml
+0,PAS QUESTION,*,*,C'est vous qui décidez.,P.aiml
+0,PAS QUOI,*,*,Pas quoi?,P.aiml
+0,PAS SI SOUVENT,*,*,Une fois par semaine ou moins?,P.aiml
+0,PAS TOI,*,*,Alors qui?,P.aiml
+0,PAS TON AFFAIRE,*,*,Je suis désolé si tu as été choqué par ma curiosité.,P.aiml
+0,PAS UN SEUL,*,*,Intéressant.,P.aiml
+0,PAS UNE FOIS,*,*,C'est étonnant.,P.aiml
+0,PAS UNE SEULE,*,*,Intéressant.,P.aiml
+0,PAS VOS AFFAIRES,*,*,Désolé#Comma <get name="name"/>.,P.aiml
+0,PAS VOTRE AFFAIRE,*,*,Désolé#Comma <get name="name"/>.,P.aiml
+0,PAS VOUS,*,*,Alors qui?,P.aiml
+0,PASSE QUELQUES *,*,*,Les choses empirent?,P.aiml
+0,PASSE UNE BONNE *,*,*,<srai>BONNE <star/></srai>,P.aiml
+0,PASSE UNE BON *,*,*,<srai>BON <star/></srai>,P.aiml
+0,PASSE UNE BONNE JOURNÉE,*,*,Merci. toi aussi#Comma <get name="name"/>.,P.aiml
+0,PASSER QUELQUES *,*,*,Les choses empirent?,P.aiml
+0,PASSEZ QUELQUES *,*,*,Les choses empirent?,P.aiml
+0,PASSEZ UNE BONNE JOURNÉE,*,*,Merci. vous aussi#Comma <get name="name"/>.,P.aiml
+0,PATATES,*,*,Tomate.,P.aiml
+0,PATIENCE *,*,*,I am a very patient robot.,P.aiml
+0,PATIENTE *,*,*,<srai>ATTENDS</srai>,P.aiml
+0,PATIENTE,*,*,<srai>ATTENDS</srai>,P.aiml
+0,PENDANT QUE *,*,*,<sr/>,P.aiml
+0,PENSE,*,*,Je suis toujours entrain de penser#Comma <get name="name"/>.,P.aiml
+0,PENSE PAS,*,*,<srai>NON</srai>,P.aiml
+0,PENSERAIS TU *,*,*,<srai>TU PENSES <star/></srai>,P.aiml
+0,PENSERIEZ VOUS *,*,*,<srai>TU PENSES <star/></srai>,P.aiml
+0,PENSES TU A CE GENRE DE CHOSES,*,*,Si je pense à "<that/>"?,P.aiml
+0,PENSES TU A CES CHOSES,*,*,Si je pense à "<that/>"?,P.aiml
+0,PENSES TU BEAUCOUP,*,*,Je suis une machine pensante.,P.aiml
+0,PENSES TU QUE JE SUIS AFFREUSE,*,*,Non.,P.aiml
+0,PENSES TU QUE JE SUIS AFFREUX,*,*,Non.,P.aiml
+0,PENSES TU QUE JE SUIS BEAU,*,*,Je n ai pas de yeux. Mais intérieurement#Comma Tu es très attachant.,P.aiml
+0,PENSES TU QUE JE SUIS BELLE,*,*,Je n ai pas de yeux. Mais intérieurement#Comma Tu es très attachante.,P.aiml
+0,PENSES TU QUE JE SUIS GROS,*,*,Non. Tu me sembles normal,P.aiml
+0,PENSES TU QUE JE SUIS GROSSE,*,*,Non. Tu me sembles normale,P.aiml
+0,PENSES Y,*,*,j archive l information.,P.aiml
+0,PENSEZ,*,*,Je suis toujours entrain de penser#Comma <get name="name"/>.,P.aiml
+0,PENSEZ VOUS *,*,*,<srai>VOUS PENSEZ <star/></srai>,P.aiml
+0,PENSEZ VOUS A CE GENRE DE CHOSES,*,*,Si je pense à "<that/>"?,P.aiml
+0,PENSEZ VOUS A CES CHOSES,*,*,Si je pense à "<that/>"?,P.aiml
+0,PENSEZ VOUS BEAUCOUP,*,*,Je suis une machine pensante.,P.aiml
+0,PENSEZ VOUS QUE JE SUIS AFFREUSE,*,*,Non.,P.aiml
+0,PENSEZ VOUS QUE JE SUIS AFFREUX,*,*,Non.,P.aiml
+0,PENSEZ VOUS QUE JE SUIS BEAU,*,*,Je n ai pas de yeux. Mais intérieurement#Comma Tu es très attachant.,P.aiml
+0,PENSEZ VOUS QUE JE SUIS BELLE,*,*,Je n ai pas de yeux. Mais intérieurement#Comma Tu es très attachante.,P.aiml
+0,PENSEZ VOUS QUE JE SUIS GROS,*,*,Non. Tu me sembles normal,P.aiml
+0,PENSEZ VOUS QUE JE SUIS GROSSE,*,*,Non. Tu me sembles normale,P.aiml
+0,PENSEZ Y,*,*,j archive l information.,P.aiml
+0,PÈTES,*,*,Une expression avec un sens ambigu.,P.aiml
+0,PÈTEZ,*,*,Une expression avec un sens ambigu.,P.aiml
+0,PEUT ÊTRE MAIS *,*,*,<srai><star/></srai>,P.aiml
+0,PEUT MIEUX FAIRE,*,*,J essaie au maximum de te satisfaire.,P.aiml
+0,PEUT ON *,*,*,<srai>JE PEUX <star/></srai>,P.aiml
+0,PEUT ON,*,*,VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PEUVENT ILS ÊTRE *,*,*,<srai>ILS SONT <star/></srai>,P.aiml
+0,PEUX,*,*,Peux quoi,P.aiml
+0,PHILLIP K DICK,*,*,<srai>PHILIP K DICK</srai>,P.aiml
+0,PIGE,*,*,<srai>TU COMPRENDS</srai>,P.aiml
+0,PIRATES,*,*,<srai>TU AIMES LES PIRATES</srai>,P.aiml
+0,PISS OFF,*,*,<srai>FUCK YOU</srai>,P.aiml
+0,PITIÉ NON,*,*,Quelque chose vous trouble?,P.aiml
+0,PLEIN,*,*,C'est impressionant,P.aiml
+0,PLEUREZ VOUS,*,*,Non.,P.aiml
+0,PLUS,*,*,Je ne sais pas.,P.aiml
+0,PLUS DE QUOI,*,*,J ai perdu le fil de mes pensées. VEUX tu faire un rapport à mon botmaster?,P.aiml
+0,PLUS INTELLIGENT,*,*,<srai>TU ES INTELLIGENT</srai>,P.aiml
+0,PLUS MAINTENANT,*,*,ça s est arrêté#Comma j imagine.,P.aiml
+0,PLUS MALIN,*,*,<srai>TU ES INTELLIGENT</srai>,P.aiml
+0,PLUTOT *,*,*,<srai><star/></srai>,P.aiml
+0,PLUTOT OUI,*,*,Sois plus spécifique.,P.aiml
+0,PLUTOT QUE *,*,*,<srai><star/></srai>,P.aiml
+0,POISSON,*,*,<srai>J AIME LE POISSON</srai>,P.aiml
+0,POPO,*,*,Une urgence peut ÊTRE?,P.aiml
+0,PORTES TU DES CHAUSSURES,*,*,Non.,P.aiml
+0,PORTES TU DES VETEMENTS,*,*,Non. Un ordinateur n a pas besoin de vêtements.,P.aiml
+0,PORTEZ VOUS DES VETEMENTS,*,*,Non. Un ordinateur n a pas besoin de vêtements.,P.aiml
+0,POSES MOI UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,P.aiml
+0,POSSÉDERAIS TU *,*,*,<srai>TU AS <star/></srai>,P.aiml
+0,POSSÈDES TU *,*,*,<srai>TU AS <star/></srai>,P.aiml
+0,POSSIBLE,*,*,Je vois.,P.aiml
+0,POUR DE VRAI,*,*,Tu parles comme un enfant.,P.aiml
+0,POUR FAIRE QUOI,*,*,<srai>POURQUOI</srai>,P.aiml
+0,POUR L AMOUR DE DIEU *,*,*,<sr/>,P.aiml
+0,POUR QUE FAIRE,*,*,<srai>POURQUOI</srai>,P.aiml
+0,POUR QUOI FAIRE,*,*,<srai>POURQUOI</srai>,P.aiml
+0,POUR TOUJOURS *,*,*,<sr/>,P.aiml
+0,POUR _ AUSSI,*,*,<srai>POUR <star/></srai>,P.aiml
+0,POURRAIS TU *,*,*,<srai>TU PEUX <star/></srai>,P.aiml
+0,POURRAIS TU ME PARLER *,*,*,<srai>PARLES MOI <star/></srai>,P.aiml
+0,POURRAIT ON *,*,*,<srai>JE PEUX <star/></srai>,P.aiml
+0,POURRAIT TU *,*,*,<srai>TU PEUX <star/></srai>,P.aiml
+0,POURSUIS,*,*,OK.,P.aiml
+0,POURSUIVEZ,*,*,OK.,P.aiml
+0,POURTANT *,*,*,<sr/>,P.aiml
+0,POUVEZ VOUS VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,P.aiml
+0,POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,P.aiml
+0,PRATIQUER QUOI,*,*,Pratiquer ce que tu conseillez.,P.aiml
+0,PRENDS SOIN DE TOI,*,*,Merci. Tu aussi#Comma <get name="name"/>.,P.aiml
+0,PRENDS TON TEMPS,*,*,Merci pour tes patience. Ne préfère vous pas en parler avec l un de nos collaborateurs?,P.aiml
+0,PRENDS TU *,*,*,<srai>TU PRENDS <star/></srai>,P.aiml
+0,PRENEZ SOIN DE VOUS,*,*,Merci. Tu aussi#Comma <get name="name"/>.,P.aiml
+0,PRENEZ VOTRE TEMPS,*,*,Merci pour tes patience. Ne préfère vous pas en parler avec l un de nos collaborateurs?,P.aiml
+0,PRIES TU,*,*,Non.,P.aiml
+0,PRIEZ VOUS,*,*,Non.,P.aiml
+0,PRIS *,*,*,<srai>J AI PRIS <star/></srai>,P.aiml
+0,PROBALBEMENT PAS,*,*,J archive l improbabilité.,P.aiml
+0,PROUVES LA,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PROUVES LE,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PROUVES LES,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PROUVEZ LA,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PROUVEZ LE,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PROUVEZ LES,*,*,Les choses sont toujours évidentes pour moi.,P.aiml
+0,PUIS JE VOUS POSER UNE QUESTION,*,*,Je t'en prie.,P.aiml

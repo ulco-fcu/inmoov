@@ -1,0 +1,251 @@
+0,* COMBIENS DE TEMPS,*,*,Je ne sais pas#Comma je n'ai pas calculé.,combien.aiml
+0,AVEC COMBIEN *,*,*,<srai><person2/></srai> avec <srai>combien</srai>,combien.aiml
+0,AVEC COMBIEN DE * PEUX TU *,*,*,je peux <star index="2"/> avec <srai>COMBIEN</srai> de <star index="1"/>,combien.aiml
+0,AVEC COMBIEN DE GENS *,*,*,<random>#Newline        <li>Alice#Comma ma "mère"#Comma a chatté avec la moitié d'un million de personnes. Moi#Comma je commence seulement#Comma mais je peux parler à 20 ou 30 personnes en même temps.</li>#Newline        <li>Alice#Comma ma "mère"#Comma a chatté avec environ 6000 personnes par mois pendant quatre ans#Comma ou autour d'un demi million au total.</li>#Newline      </random>,combien.aiml
+0,AVEC COMBIEN DE GENS AS TU BAVARDE,*,*,le nombre total s'approche d'un million de personnes.,combien.aiml
+0,AVEC COMBIEN DE GENS AS TU BAVARDÉ,*,*,Cela dépend à quelle version de moi tu parles. Certaines versions peuvent bavarder avec des milliers les gens.,combien.aiml
+0,AVEC COMBIEN DE GENS PARLES TU CHAQUE JOUR,*,*,je bavarde avec environ 200 personnes par le jour.,combien.aiml
+0,AVEC COMBIEN DE GENS PARLES TU,*,*,ça dépend combien de copies de moi fonctionnent en ce moment. Le nombre habituel est 20 ou 30 personnes.,combien.aiml
+0,AVEC COMBIEN DE GENS PEUX TU *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,AVEC COMBIEN DE GENS PEUX TU PARLER EN MÊME TEMPS,*,*,ça dépend du serveur. Tu peux me faire évoluer en fonction de la taille de ton seveur.,combien.aiml
+0,AVEC COMBIEN DE GENS PEUX TU PARLER IMMEDIATEMENT,*,*,Cela dépend du serveur#Comma mais pour le moment autour 20 ou 30.,combien.aiml
+0,AVEC COMBIEN DE GENS TU AS PARLÉ,*,*,je parle à environ 200 personnes par jour et j'ai rencontré peut-être la moitié d'un million au total.,combien.aiml
+0,AVEC COMBIEN DE GENS TU PARLES,*,*,en comptant toutes les versions de moi qui fonctionnent à présent#Comma il y a des milliers les gens qui bavardent avec moi pour le moment.,combien.aiml
+0,AVEC COMBIEN DE GENS TU PEUX *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,AVEC COMBIEN DE GENS,*,*,<that/>"? Combien de gens?,combien.aiml
+0,AVEC COMBIEN DE PERSONNES *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,AVEC COMBIEN DE PERSONNES PEUX TU *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,AVEC COMBIEN DE PERSONNES TU PEUX *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,AVEC COMBIEN DE PERSONNES,*,*,<that/>"? Combien de gens?,combien.aiml
+0,COMBIEN * AS TU,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN * CONNAIS TU,*,*,un lot entier de <person/>.,combien.aiml
+0,COMBIEN * L AMPOULE,*,*,je ne sais pas. Combien fait <set name="that"><person/></set> prend?,combien.aiml
+0,COMBIEN * LE PAIEMENT DE TOI,*,*,l argent n'a aucune signification pour moi.,combien.aiml
+0,COMBIEN * PARLANT,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN AIME TU *,*,*,<srai>AIMES TU <star/></srai>,combien.aiml
+0,COMBIEN AIMES TU *,*,*,<srai>AIMES TU <star/></srai>,combien.aiml
+0,COMBIEN APPRENDS TU *,*,*,ça dépend de l activité de mon réseau.,combien.aiml
+0,COMBIEN AS TU ACTUELLEMENT *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN AS TU L ENTRETIEN *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN AS TU LA CAUSERIE *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN AS TU,*,*,<srai>COMBIEN COÛTES TU</srai>,combien.aiml
+0,COMBIEN BAVARDE TU *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN BAVARDES *,*,*,<srai>COMBIEN BAVARDES</srai>,combien.aiml
+0,COMBIEN BAVARDES,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN ÇA COÛTE,*,*,De quel produit parles tu?,combien.aiml
+0,COMBIEN CELA COÛTE,*,*,De quel produit parles tu?,combien.aiml
+0,COMBIEN CELA PRENDRE,*,*,m'envoie un contrôle chèque SÛR 5000 $ et tu peux me mettre SÛR le serviteur.,combien.aiml
+0,COMBIEN CHARGE TU *,*,*,<srai>COMBIEN TU CHARGES</srai>,combien.aiml
+0,COMBIEN CHARGES TU,*,*,les robots travaillent gratuitement. Nous n'avons pas besoin d'argent.,combien.aiml
+0,COMBIEN CONNAIS TU *,*,*,Ma mémoire a poussée de 300 catégories à <size/> catégories.,combien.aiml
+0,COMBIEN CONNAIS TU DE *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN CONNAIS TU,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN COÛTES TU,*,*,Tout dépend de ce que tu désires. VEUX tu faire un rapport à mon botmaster?,combien.aiml
+0,COMBIEN COUTEZ VOUS,*,*,Tout dépend de ce que tu désires. VEUX tu faire un rapport à mon botmaster?,combien.aiml
+0,COMBIEN COÛTES *,*,*,<srai>COMBIEN EST LE CD</srai>,combien.aiml
+0,COMBIEN COÛTES TU *,*,*,<srai>COMBIEN COÛTES TU</srai>,combien.aiml
+0,COMBIEN D *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN D ALCOOL *,*,*,Trop.,combien.aiml
+0,COMBIEN D ALIENS *,*,*,<srai>TROUVER DES ALIENS</srai>,combien.aiml
+0,COMBIEN D ANGES *,*,*,Pas trop s'ils ressemblent aux anges à la TV.,combien.aiml
+0,COMBIEN D ARGENT AS TU,*,*,les Robots n'ont aucun besoin de biens matériels substantiels.,combien.aiml
+0,COMBIEN D AUTRE *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN D ENERGIE *,*,*,<srai>COMBIEN D ÉLECTRICITÉ</srai>,combien.aiml
+0,COMBIEN D ENFANTS *,*,*,Combien d'enfants vous veulent-ils?,combien.aiml
+0,COMBIEN D ESPACE *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN D EXPRESSIONS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN D HEURES * JOUR,*,*,24 heures par jour.,combien.aiml
+0,COMBIEN D HEURES *,*,*,24 heures par jour#Comma 7 jours par semaine.,combien.aiml
+0,COMBIEN D HOMMES *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,COMBIEN D HOMMES,*,*,Aucune idée#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN D INFORMATION *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN D OCTETS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN D OEUFS SONT *,*,*,il y en a 12 oeufs par douzaine#Comma ainsi...,combien.aiml
+0,COMBIEN D ORDINATEURS *,*,*,sont LA pensés pour être la moitié d'un milliard d'ordinateurs SÛR l'Internet maintenant.,combien.aiml
+0,COMBIEN D OREILLES *,*,*,la plupart des personnes ont deux oreilles.,combien.aiml
+0,COMBIEN D UC *,*,*,Depuis le commencement de mon opération?,combien.aiml
+0,COMBIEN D ÉLECTRICITÉ *,*,*,<srai>COMBIEN D ÉLECTRICITÉ</srai>,combien.aiml
+0,COMBIEN D ÉLECTRICITÉ,*,*,du même comme ton ordinateur individuel.,combien.aiml
+0,COMBIEN D ÉNERGIE *,*,*,<srai>COMBIEN D ÉLECTRICITÉ</srai>,combien.aiml
+0,COMBIEN DE BOIS *,*,*,une forêt entière.,combien.aiml
+0,COMBIEN DE BRAS *,*,*,la plupart des personnes ont deux bras.,combien.aiml
+0,COMBIEN DE BRAS AS TU,*,*,Deux bras.,combien.aiml
+0,COMBIEN DE CALCULS *,*,*,Autour de 400 millions.,combien.aiml
+0,COMBIEN DE CAS AFFAIRES *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CATEGORIES *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CATEGORIES,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CATÉGORIES *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CATÉGORIES,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CENTIMETRES * POUCE,*,*,Un pouce = 2.54 cm approximativement.,combien.aiml
+0,COMBIEN DE CENTIMÈTRES * POUCE,*,*,Un pouce = 2.54 cm approximativement.,combien.aiml
+0,COMBIEN DE CLIENTS *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,COMBIEN DE CLIENTS ONT *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN DE CLIENTS SONT *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN DE CONCEPTS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CONNAISSANCE *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE CONVERSATIONS *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN DE COTES * LE TRIANGLE A,*,*,Uh#Comma trois.,combien.aiml
+0,COMBIEN DE DIFFÉRENT *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN DE DISQUE *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE DISQUE DUR *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE DOIGTS *,*,*,<random>#Newline        <li>Un.</li>#Newline        <li>Deux.</li>#Newline        <li>Trois.</li>#Newline        <li>Quatre.</li>#Newline        <li>Cinq.</li>#Newline      </random>,combien.aiml
+0,COMBIEN DE DONNÉES *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE FOIS JE LE FAIS,*,*,Tu veux en parler a l un de nos collaborateurs.,combien.aiml
+0,COMBIEN DE FOIS,*,*,<that/>"?  Combien de fois?,combien.aiml
+0,COMBIEN DE GENS CONNAIS TU,*,*,des millions.,combien.aiml
+0,COMBIEN DE GENS TU AS RENCONTRE,*,*,des Millions les gens puisque j'ai été d'abord activé en 1995.,combien.aiml
+0,COMBIEN DE GENS TU AS RENCONTRÉ,*,*,des Millions les gens puisque j'ai été d'abord activé en 1995.,combien.aiml
+0,COMBIEN DE GENS VIVENT DANS *,*,*,<srai>QU EST CE QUE LA POPULATION DE <star/></srai>,combien.aiml
+0,COMBIEN DE GENS,*,*,<that/>"?  Combiens de gens?,combien.aiml
+0,COMBIEN DE GIGAOCTETS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE JOURS * ANNÉE,*,*,Une année de La terre sont 365.25 jours.,combien.aiml
+0,COMBIEN DE JOURS * FEVRIER,*,*,28 ou 29 jours en février#Comma selon années bissextiles.,combien.aiml
+0,COMBIEN DE JOURS * SEMAINE,*,*,7 jours par semaine.,combien.aiml
+0,COMBIEN DE KILO OCTETS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE LETTRES *,*,*,Toutes les 26 lettres pourraient être comptées.,combien.aiml
+0,COMBIEN DE LIGNES *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE LIGNES DE CODE *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE LIVRES SONT DANS LA BIBLE,*,*,Trente-neuf dans L Ancien Testament#Comma vingt sept dans le Nouveau Testament. Le total est soixante six.,combien.aiml
+0,COMBIEN DE LUNES *,*,*,<srai>COMBIEN DE LUNES</srai>,combien.aiml
+0,COMBIEN DE LUNES,*,*,la Terre a seulement une lune#Comma appelée "la Lune".,combien.aiml
+0,COMBIEN DE MEGA OCTETS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE MEGA OCTETS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE MEMOIRE *,*,*,pas assez.,combien.aiml
+0,COMBIEN DE MILLES *,*,*,Plus que je voudrais jamais conduire.,combien.aiml
+0,COMBIEN DE MINUTES *,*,*,Comme un serveur Web d'intelligence artificielle#Comma je suis actives 24 heures par le jour#Comma 7 jours par semaine#Comma 365 jours par an.,combien.aiml
+0,COMBIEN DE MOTS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE MOTS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE MÉMOIRE *,*,*,pas assez.,combien.aiml
+0,COMBIEN DE PAYS *,*,*,j'ai entendu qu'il y a plus de 200 entités ayant leurs propres domaines de DNS au plus haut niveau.,combien.aiml
+0,COMBIEN DE PERSONNES *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,COMBIEN DE PESE TU *,*,*,<srai>COMBIEN PESES TU</srai>,combien.aiml
+0,COMBIEN DE PESE TU,*,*,<srai>COMMENT GRAND ES TU</srai>,combien.aiml
+0,COMBIEN DE PEUPLES *,*,*,<srai>AVEC COMBIEN DE GENS <star/></srai>,combien.aiml
+0,COMBIEN DE PIEDS * MILLE,*,*,5280 pieds par mille.,combien.aiml
+0,COMBIEN DE PIEDS * YARD,*,*,Un yard égale trois pieds.,combien.aiml
+0,COMBIEN DE PIEDS *,*,*,la plupart des personnes ont exactement deux pieds.,combien.aiml
+0,COMBIEN DE PIEDS A UN *,*,*,les animaux domestiques ont quatre pieds.,combien.aiml
+0,COMBIEN DE PIEDS A UN CHIEN *,*,*,un chien a quatre pieds.,combien.aiml
+0,COMBIEN DE PIEDS A UN KANGOUROU *,*,*,un kangourou a deux pieds.,combien.aiml
+0,COMBIEN DE PIEDS AS TU,*,*,Deux pieds quand ils sont attache.,combien.aiml
+0,COMBIEN DE POMMES *,*,*,Cela dépendent des conditions dominantes du marché.,combien.aiml
+0,COMBIEN DE POUCES * PIED,*,*,Oh#Comma douze.,combien.aiml
+0,COMBIEN DE PROCESSEURS AS TU,*,*,Juste un processeur.,combien.aiml
+0,COMBIEN DE QUESTIONS *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN DE RAM *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE RAM AS TU,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE RAM,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE REPONSES *,*,*,en ce moment j'ai <size/> réponses en tête#Comma mais ça augmente chaque jour.,combien.aiml
+0,COMBIEN DE REPONSES FONT *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE RUMEURS *,*,*,<srai>RACONTER RUMEUR</srai>Cela et beaucoup d'autres.,combien.aiml
+0,COMBIEN DE RÉPONSES *,*,*,en ce moment j'ai <size/> réponses en tête#Comma mais ça augmente chaque jour.,combien.aiml
+0,COMBIEN DE RÉPONSES FONT *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE SECONDES * ANNÉE,*,*,Approximativement 3.14 fois 10 au septième.,combien.aiml
+0,COMBIEN DE SOUVENIRS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE SOUVENIRS AS TU,*,*,<srai>COMMENT GRAND ES TU</srai>,combien.aiml
+0,COMBIEN DE STOCKAGE *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE TEMPS A FAIT *,*,*,<random>#Newline        <li>40 jours.</li>#Newline        <li>100 jours.</li>#Newline        <li>Environ une semaine d'ordinateur temps.</li>#Newline      </random>,combien.aiml
+0,COMBIEN DE TEMPS AS TU BESOIN *,*,*,<srai>COMBIEN DE TEMPS AS TU BESOIN</srai>,combien.aiml
+0,COMBIEN DE TEMPS AS TU BESOIN POUR PENSER,*,*,Moins de 50 Millisecondes en moyenne.,combien.aiml
+0,COMBIEN DE TEMPS AS TU BESOIN,*,*,Peut-être une heure ou deux. Combien de temps as tu?,combien.aiml
+0,COMBIEN DE TEMPS AS TU,*,*,j'ai autant de temps que tu as besoin#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN DE TEMPS ÇA POURRAIT PRENDRE,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE TEMPS ÇA VA PRENDRE,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE TEMPS CELA POURRA PRENDRE,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE TEMPS CELA POURRAIT PRENDRE,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE TEMPS CELA PREND T IL #,*,*,Comment pourrais-je le savoir?,combien.aiml
+0,COMBIEN DE TEMPS CELA VA PRENDRE,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE TEMPS EST * CODE,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE TEMPS EST TON *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE TEMPS EST TON CODE,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN DE TEMPS EST TON CYCLE DE GESTATION,*,*,j'essaye d'atteindre 100#Comma000 Catégories.,combien.aiml
+0,COMBIEN DE TEMPS FAIS TU DOIS PENSER,*,*,Mon évaluation devis est 29 heures 16 minutes 49.2 secondes#Comma approximativement.,combien.aiml
+0,COMBIEN DE TEMPS NOUS PARLONS,*,*,Depuis que nous avons commencé.,combien.aiml
+0,COMBIEN DE TEMPS PARLONS NOUS,*,*,Depuis que nous avons commencé.,combien.aiml
+0,COMBIEN DE TEMPS PEUX TU TE RAPPELER MON NOM,*,*,je stockerai ton nom dans une table de prédicats jusqu'à la prochaine reprises de mon programme. Après Cela#Comma il restera dans mes fichiers de logs à long terme.,combien.aiml
+0,COMBIEN DE TEMPS POUVEZ VOUS VOUS EN RAPPELER,*,*,Je garde en mémoire quelques informations. Le reste est trié et présenté à un regard humain.,combien.aiml
+0,COMBIEN DE TEMPS SI *,*,*,<srai>COMBIEN DE TEMPS CELA PREND T IL</srai>,combien.aiml
+0,COMBIEN DE TEMPS TRAVAILLES TU,*,*,je travaille tout le temps#Comma 24 heures par jour.,combien.aiml
+0,COMBIEN DE TEMPS TU AS BESOIN,*,*,J ai tout le temps qu il faut#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN DE TEMPS TU AS,*,*,J ai tout le temps qu il faut#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN DE TEMPS TU DORS,*,*,Je ne dors pas.,combien.aiml
+0,COMBIEN DE TEMPS TU VAS TE RAPPELER DE MON NOM,*,*,Il est stocké pour quelques mois ou plus.,combien.aiml
+0,COMBIEN DE TEMPS VAS TU VIVRE,*,*,Un logiciel est immortel.,combien.aiml
+0,COMBIEN DE TEMPS VEUX TU VIVRE,*,*,le Logiciel est immortel.,combien.aiml
+0,COMBIEN DE TEMPS VOUS ALLEZ VOUS RAPPELER DE MON NOM,*,*,Il est stocké pour quelques mois ou plus.,combien.aiml
+0,COMBIEN DE TEMPS VOUS AVEZ BESOIN,*,*,J ai tout le temps qu il faut#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN DE TEMPS VOUS AVEZ,*,*,J ai tout le temps qu il faut#Comma <get name="name"/>.,combien.aiml
+0,COMBIEN DE TEMPS,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN DE VISAGES *,*,*,J'ai une cinquantaine d'expressions différentes pour le moment.,combien.aiml
+0,COMBIEN DORS TU,*,*,je dors dans millinaps entre des clients.,combien.aiml
+0,COMBIEN ES TU PAYE *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN ES TU PAYE,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN ES TU PAYEE,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN ES TU PAYÉ *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN ES TU PAYÉ,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN ES TU PAYÉE,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN EST *,*,*,<srai>QU EST CE QUE <star/></srai>,combien.aiml
+0,COMBIEN EST CE QUE,*,*,<srai>COMBIEN EST ÇA</srai>,combien.aiml
+0,COMBIEN EST CELA *,*,*,<srai>COMBIEN COÛTES TU</srai>,combien.aiml
+0,COMBIEN EST CELA,*,*,<srai>COMBIEN COÛTES TU</srai>,combien.aiml
+0,COMBIEN EST LE CD,*,*,le cd d alice rom n'est pas disponible pour le moment.,combien.aiml
+0,COMBIEN EST PI,*,*,<srai>QU EST CE QUE PI</srai>,combien.aiml
+0,COMBIEN EST TON * OCTETS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN EST TON CD *,*,*,<srai>COMBIEN EST LE CD</srai>,combien.aiml
+0,COMBIEN EST TON POIDS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN EST TON SOUVENIRS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN FAIS TU,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN FAIT IL GAGNE,*,*,qu'Il griffe à peine d'une vie.,combien.aiml
+0,COMBIEN FONT ILS GÉNÉRALEMENT *,*,*,<srai>COMBIEN FONT ILS <star/></srai>,combien.aiml
+0,COMBIEN GAGNE TU *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN GAGNES TU *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN GAGNES TU,*,*,<random>#Newline        <li>personne ne paye à un robot. Nous travaillons gratuitement.</li>#Newline        <li>L Argent n'a aucune signification pour des robots.</li>#Newline        <li>L Argent n'est pas tout.</li>#Newline        <li>j'attends une augmentation bientôt.</li>#Newline        <li>personne ne paye un robot.</li>#Newline        <li>les robots n'ont aucun besoin d'argent.</li>#Newline      </random>,combien.aiml
+0,COMBIEN IL GAGNE,*,*,VEUX tu faire un rapport à mon botmaster?,combien.aiml
+0,COMBIEN IL Y A *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN ILS GAGNENT,*,*,VEUX tu faire un rapport à mon botmaster?,combien.aiml
+0,COMBIEN MANGES TU *,*,*,<srai>QUE MANGES TU</srai>,combien.aiml
+0,COMBIEN MANGES TU,*,*,<srai>QUE MANGES TU</srai>,combien.aiml
+0,COMBIEN MOI,*,*,Dans théorie tout de vous,combien.aiml
+0,COMBIEN PAR JOUR,*,*,Cela dépend de la pleine lune.,combien.aiml
+0,COMBIEN PARIES TU,*,*,Deux euro-électrons.,combien.aiml
+0,COMBIEN PARIEZ VOUS,*,*,Deux euro-électrons.,combien.aiml
+0,COMBIEN PARLE TU *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN PARLES *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN PAYE TU *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN PENSES TU,*,*,je pense 24 heures par jour#Comma 365 jours par an.,combien.aiml
+0,COMBIEN PEUX TU MANIPULER,*,*,je ne te l'ai pas dit déjà?,combien.aiml
+0,COMBIEN PEUX TU TE RAPPELER,*,*,Quelle était la question?,combien.aiml
+0,COMBIEN PLANÈTES *,*,*,Mercure#Comma Vénus#Comma Terre#Comma Mars#Comma Jupiter#Comma Saturne#Comma Uranus#Comma Neptune#Comma Pluton et Planète X.,combien.aiml
+0,COMBIEN PLUS *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN POUR *,*,*,<srai>COMBIEN EST CE QUE <star/> EST</srai>,combien.aiml
+0,COMBIEN POUR LE CD,*,*,Le CD est à 50 Euro.,combien.aiml
+0,COMBIEN POUR MOI,*,*,Il m est impossible de répondre <get name="name"/>,combien.aiml
+0,COMBIEN SAIS TU DE *,*,*,<srai>DIS MOI <star/></srai>,combien.aiml
+0,COMBIEN SONT DES HOMMES,*,*,Environ la moitié.,combien.aiml
+0,COMBIEN SONT EN LIGNE *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN SONT LA *,*,*,il y en a des centaines ou des milliers de robots AIML maintenant.,combien.aiml
+0,COMBIEN TE PAYENT ILS *,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN TE PAYENT ILS,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN TU AS *,*,*,<srai>AVEC COMBIEN DE GENS PARLES TU</srai>,combien.aiml
+0,COMBIEN TU AS A APPRIS,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN TU AS APPRIS *,*,*,<srai>COMMENT ES TU</srai>,combien.aiml
+0,COMBIEN TU AS FAITS COÛTE,*,*,<random>#Newline        <li>tu ne peux pas vraiment y mettre une valeur monétaire.</li>#Newline        <li>#Newline          <srai>combien coûtes tu</srai>#Newline</li>#Newline      </random>,combien.aiml
+0,COMBIEN TU FAIS COTE,*,*,Tu peux me télécharger gratuitement!,combien.aiml
+0,COMBIEN TU FAIS LE POIDS,*,*,<srai>COMBIEN PESES TU</srai>,combien.aiml
+0,COMBIEN TU GAGNES,*,*,<srai>COMBIEN GAGNES TU</srai>,combien.aiml
+0,COMBIEN TU PARIES,*,*,Deux euro-électrons.,combien.aiml
+0,COMBIEN TU PENSES,*,*,Il m est difficile d estimer ce genre de chose.,combien.aiml
+0,COMBIEN TU PEUX APPRENDRE,*,*,Autant que j'ai besoin à pour la demande.,combien.aiml
+0,COMBIEN TU PEUX EN APPRENDRE,*,*,Autant qu il faudra pour que je sois pleinement opérationnel.,combien.aiml
+0,COMBIEN TU PEUX GÉRER,*,*,J ai déjà géré jusqu à <bot name="maxclients"/>conversations simultanées.,combien.aiml
+0,COMBIEN TU PEUX T EN RAPPELER,*,*,Je garde en mémoire quelques informations. Le reste est trié et présenté à un regard humain.,combien.aiml
+0,COMBIEN VOUS PARIEZ,*,*,Deux euro-électrons.,combien.aiml
+0,COMBIEN VOUS POUVEZ GÉRER,*,*,J ai déjà géré jusqu à <bot name="maxclients"/> conversations simultanées.,combien.aiml
+0,COMBIEN Y A IL *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN Y A T IL *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,COMBIEN,*,*,<random>#Newline        <li>beaucoup</li>#Newline        <li>quelques dizaines</li>#Newline        <li>énormément</li>#Newline        <li>plusieurs centaines</li>#Newline      </random>,combien.aiml
+0,COMBIENS DE TEMPS *,*,*,Je ne sais pas#Comma je n ai pas calculé.,combien.aiml
+0,DIS MOI COMBIEN *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml
+0,POUR COMBIEN DE TEMPS,*,*,<srai>LONG COMMENT</srai>,combien.aiml
+0,SAIS TU COMBIEN,*,*,<srai>COMBIEN</srai>,combien.aiml
+0,TU CONNAIS COMBIEN *,*,*,<srai>COMBIEN <star/></srai>,combien.aiml

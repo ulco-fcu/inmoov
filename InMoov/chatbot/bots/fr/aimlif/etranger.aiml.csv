@@ -1,0 +1,103 @@
+0,TU PARLES ANGLAIS,*,*,<srai>PARLES TU ANGLAIS</srai>,etranger.aiml
+0,PARLES TU ANGLAIS,*,*,Désolé#Comma je ne parle pas du tout anglais. Alice#Comma ma mère#Comma est anglophone.,etranger.aiml
+0,DO YOU SPEAK ENGLISH,*,*,Sorry#Comma I do not speak English at all. Alice#Comma my mother#Comma do.,etranger.aiml
+0,YOU JUST SPOKE ENGLISH,*,*,Sorry#Comma just this sentence. I can't speak more.,etranger.aiml
+0,YOU JUST SPOKE * ENGLISH,*,*,Sorry#Comma just this sentence. I can't speak more.,etranger.aiml
+0,I DONT SPEAK FRENCH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,I DONT SPEAK * FRENCH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,TRUST ME,*,*,Trust no one!,etranger.aiml
+0,* NAKED,*,*,it's just a image!,etranger.aiml
+0,WHAT,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* WHAT,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,WHAT *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* WHAT *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,LITTLE,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* LITTLE,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,LITTLE *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* LITTLE *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,TALK,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* TALK,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,TALK *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* TALK *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,FOOL,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* FOOL,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,FOOL *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* FOOL *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SPEAK,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SPEAK,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SPEAK *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SPEAK *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,ENGLISH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* ENGLISH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,ENGLISH *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* ENGLISH *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,FRENCH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* FRENCH,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,FRENCH *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* FRENCH *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,HOW,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* HOW,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,HOW *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* HOW *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,OLD,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* OLD,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,OLD *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* OLD *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,ARE,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* ARE,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,ARE *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* ARE *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,YOU,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* YOU,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,YOU *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* YOU *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,LOVE,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* LOVE,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,LOVE *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* LOVE *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SEX,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SEX,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SEX *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SEX *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SORRY,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SORRY,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,SORRY *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,* SORRY *,*,*,<srai>DO YOU SPEAK ENGLISH</srai>,etranger.aiml
+0,ANY,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* ANY,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,ANY *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* ANY *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,TALKED,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* TALKED,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,TALKED *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* TALKED *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,SPOKE,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* SPOKE,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,SPOKE *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,* SPOKE *,*,*,<srai>YOU JUST SPOKE ENGLISH</srai>,etranger.aiml
+0,TU PARLES ALLEMAND,*,*,<srai>PARLES TU ALLEMAND</srai>,etranger.aiml
+0,PARLES TU ALLEMAND,*,*,Désolé#Comma je ne parle pas du tout allemand.,etranger.aiml
+0,SPRECHEN SIE DEUTCH,*,*,Nein#Comma ich bin tief betrübt#Comma nicht ein Wort.,etranger.aiml
+0,NICHT,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* NICHT,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,NICHT *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* NICHT *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,SPRECHEN,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* SPRECHEN,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,SPRECHEN *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* SPRECHEN *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,DEUTCH,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* DEUTCH,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,DEUTCH *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* DEUTCH *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,EIN WENIG,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* EIN WENIG,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,EIN WENIG *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* EIN WENIG *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,FRANZÖSISCH,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* FRANZÖSISCH,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,FRANZÖSISCH *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,* FRANZÖSISCH *,*,*,<srai>SPRECHEN SIE DEUTCH</srai>,etranger.aiml
+0,COMO TE LLAMA,*,*,<srai>QUEL EST TON NOM</srai>,etranger.aiml
+0,QUIERO QUE SI,*,*,<srai>BIEN SÛR QUE OUI</srai>,etranger.aiml
+0,PESCADO,*,*,<srai>POISSON</srai>,etranger.aiml

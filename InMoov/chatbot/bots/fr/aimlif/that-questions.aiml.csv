@@ -1,0 +1,71 @@
+0,# OUI #,EST CE UN JEU,*,comment joue-t-on?,that-questions.aiml
+0,# NON #,EST CE UN JEU,*,<random>#Newline        <li>ah bon?</li>#Newline        <li>on ne joue pas alors?</li>#Newline        <li>C EST dommage#Comma j aime bien jouer.</li>#Newline      </random>,that-questions.aiml
+0,# OUI #,C EST UN JEU,*,comment joue-t-on?,that-questions.aiml
+0,# NON #,C EST UN JEU,*,<random>#Newline        <li>ah bon?</li>#Newline        <li>on ne joue pas alors?</li>#Newline        <li>C EST dommage#Comma j aime bien jouer.</li>#Newline      </random>,that-questions.aiml
+0,# OUI #,PARLONS NOUS TOUJOURS DE *,*,je craignais d'avoir perdu le fil de la conversation.,that-questions.aiml
+0,# NON #,PARLONS NOUS TOUJOURS DE *,*,de quoi parlions nous alors?,that-questions.aiml
+0,DE *,DE QUOI PARLIONS NOUS ALORS,*,ah! nous parlions "<star/>". ok!,that-questions.aiml
+0,DE RIEN,DE QUOI PARLIONS NOUS ALORS,*,ah! désolé j'ai dû mal comprendre,that-questions.aiml
+0,*,DE QUOI PARLIONS NOUS ALORS,*,ah! nous parlions de "<star/>". ok!,that-questions.aiml
+0,# NON #,AVONS NOUS PARLÉ DE ÇA AVANT,*,il me semblait bien que je ne connaissais pas Cela.,that-questions.aiml
+0,# OUI #,AVONS NOUS PARLÉ DE ÇA AVANT,*,ça ne me dit rien du tout. Peux tu m'en reparler.,that-questions.aiml
+0,# OUI #,AVONS NOUS PARLÉ DE CELA AVANT,*,ça ne me dit rien du tout. Peux tu m'en reparler.,that-questions.aiml
+0,# NON #,AVONS NOUS PARLÉ DE CELA AVANT,*,il me semblait bien que je ne connaissais pas Cela.,that-questions.aiml
+0,# OUI #,NOUS PARLONS DE *,*,je craignais d'avoir perdu le fil de la conversation.,that-questions.aiml
+0,# NON #,NOUS PARLONS DE *,*,de quoi parlons nous alors?,that-questions.aiml
+0,*,QUEL ÂGE AS TU,*,Que me racontes tu la,that-questions.aiml
+0,# <SET>NUMBER</SET> ANS #,QUEL ÂGE AS TU,*,<srai>  J ai <star index="2"/> ans  </srai>,that-questions.aiml
+0,# <SET>MOIS</SET> # <SET>NUMBER</SET> #,QUEL ÂGE AS TU,*,<srai> Je suis né en <star index="2"/> </srai>#Newline    	<srai> Je suis né en <star index="4"/> </srai>,that-questions.aiml
+0,# <SET>NUMBER</SET> # <SET>MOIS</SET> # <SET>NUMBER</SET> #,QUEL ÂGE AS TU,*,<srai> JE SUIS Né le <star index="2"/> <star index="4"/> <star index="6"/> </srai>,that-questions.aiml
+0,# <SET>COLOR</SET> #,QUELLE COULEUR SONT TES YEUX,*,<srai> MES YEUX SONT <star index="2"/> </srai>,that-questions.aiml
+0,*,QUELLE COULEUR SONT TES CHEVEUX,*,En est tu bien sûr?,that-questions.aiml
+0,# <SET>COLOR</SET> #,QUELLE COULEUR SONT TES CHEVEUX,*,<srai> LA COULEUR DE MES CHEVEUX EST <star index="2"/> </srai>,that-questions.aiml
+0,# <SET>JOBS</SET> #,QUELLE EST TON OCCUPATION,*,<srai> mon métier est <star index="2"/> </srai>,that-questions.aiml
+0,# ÉTUDIANT #,QUELLE EST TON OCCUPATION,*,<srai> je suis étudiant </srai>,that-questions.aiml
+0,# ÉTUDIANTE #,QUELLE EST TON OCCUPATION,*,<srai> je suis étudiant </srai>,that-questions.aiml
+0,# CHÔMAGE #,QUELLE EST TON OCCUPATION,*,<srai> je suis au chômage </srai>,that-questions.aiml
+0,# CHOMEUR #,QUELLE EST TON OCCUPATION,*,<srai> je suis au chômage </srai>,that-questions.aiml
+0,# CHOMEUSE #,QUELLE EST TON OCCUPATION,*,<srai> je suis au chômage </srai>,that-questions.aiml
+0,# PENSIONNÉE #,QUELLE EST TON OCCUPATION,*,<srai> je suis pensionné </srai>,that-questions.aiml
+0,# PENSIONNÉ #,QUELLE EST TON OCCUPATION,*,<srai> je suis pensionné </srai>,that-questions.aiml
+0,# PENSION #,QUELLE EST TON OCCUPATION,*,<srai> je suis pensionné </srai>,that-questions.aiml
+0,# NON #,ES TU UN ÉTUDIANT,*,Quelle est ton occupation?,that-questions.aiml
+0,# OUI #,ES TU UN ÉTUDIANT,*,Où étudies-tu?,that-questions.aiml
+0,*,OÙ TRAVAILLES TU?,*,que me chantes tu la#Comma je ne comprends pas,that-questions.aiml
+0,# <SET>CITIES</SET> #,OÙ TRAVAILLES TU?,*,<srai> Je travaille à <star index="2"/> </srai>,that-questions.aiml
+0,# POUR #,OÙ TRAVAILLES TU?,*,<srai> Mon employeur est <star index="2"/> </srai>,that-questions.aiml
+0,# CHEZ #,OÙ TRAVAILLES TU?,*,<srai> Mon employeur est <star index="2"/> </srai>,that-questions.aiml
+0,À L EISTI,* DANS QUELLE ENTREPRISE *,*,oh! C EST LA que travaille un de mes programmeurs,that-questions.aiml
+0,# POUR #,* DANS QUELLE ENTREPRISE *,*,<srai> Mon employeur est <star index="2"/> </srai>,that-questions.aiml
+0,# CHEZ #,* DANS QUELLE ENTREPRISE *,*,<srai> Mon employeur est <star index="2"/> </srai>,that-questions.aiml
+0,*,# D OÙ ES TU #,*,Pardon? Je ne comprends pas. D où es tu?,that-questions.aiml
+0,# <SET>CITIES</SET> #,D OÙ ES TU #,*,<srai> # Je suis de <star index="2"/> # </srai>,that-questions.aiml
+0,# <SET>NATIONALITIES</SET> #,# D OÙ ES TU #,*,<srai> Je suis <star index="2"/> </srai>,that-questions.aiml
+0,# <SET>NATIONS</SET> #,# D OÙ ES TU #,*,<srai> Je vis en <star index="2"/> </srai>,that-questions.aiml
+0,*,QUEL EST TON SIGNE,*,C'est dans quelle astrologie le signe du <star/>?,that-questions.aiml
+0,# <SET>STARSIGN</SET> #,QUEL EST TON SIGNE,*,<srai> JE SUIS <star index="2"/> </srai>,that-questions.aiml
+0,*,QUEL EST TON FILM FAVORI,*,<srai>Mon film favori est <star/></srai>,that-questions.aiml
+0,# MON FILM FAVORI EST *,QUEL EST TON FILM FAVORI,*,<srai>Mon film favori est <star index="2"/></srai>,that-questions.aiml
+0,*,QUEL EST TON LIVRE PRÉFÉRÉ,*,<srai>Mon film favori est <star/></srai>,that-questions.aiml
+0,# MON LIVRE FAVORI EST *,QUEL EST TON LIVRE PRÉFÉRÉ,*,<srai>Mon film favori est <star index="2"/></srai>,that-questions.aiml
+0,*,# QUEL EST TON LOISIR PRÉFÉRÉ #,*,<srai>Mon loisir favori est <star/></srai>,that-questions.aiml
+0,*,# QUELLE EST TA MUSIQUE PRÉFÉRÉE #,*,<srai>Ma musique favorite est <star/></srai>,that-questions.aiml
+0,*,# QUEL EST TON GROUPE DE MUSICIENS PRÉFÉRÉ #,*,<srai>Mon groupe de musicien préféré est <star/></srai>,that-questions.aiml
+0,*,# QUEL EST LE MORCEAU DE *,*,<set name="favoritesingle"><star/></set>#Newline      C EST un morceau de <get name="favoriteband"/>?,that-questions.aiml
+0,*,# QUELLE EST TON ÉMISSION DE TÉLÉ PRÉFÉRÉE #,*,<srai>Mon émission de télé préférée est <star/></srai>,that-questions.aiml
+0,# STAR TREK #,# QUELLE EST TON ÉMISSION DE TÉLÉ PRÉFÉRÉE #,*,Moi aussi#Comma tu préfères quelle série?#Newline    	<think>#Newline    		<set name="favoritetvshow">Star Trek</set>#Newline    	</think>#Newline    	<random>#Newline    		<li>C EST bien?</li>#Newline    		<li>C EST comment?</li>#Newline    		<li>tu aimes bien?</li>#Newline    		<li>tu aimes ça!</li>#Newline    	</random>,that-questions.aiml
+0,*,# QU AIMES TU MANGER #,*,<srai>Mon plat préféré est <star/></srai>,that-questions.aiml
+0,# <SET>COLOR</SET> #,# QUELLE EST TA COULEUR PRÉFÉRÉE #,*,<srai> MA couleur préférée est <star index="2"/> </srai>,that-questions.aiml
+0,*,QUI EST TON AUTEUR *,*,je n'ai lu rien de <person/>. Qu'a-t-il écrit?,that-questions.aiml
+0,JE NE SAIS PAS,QUI EST TON AUTEUR DE SCIENCE FICTION PRÉFÉRÉ,*,PARLES moi des livres que tu aimes lire.,that-questions.aiml
+0,DE *,# DE QUOI VEUX TU PARLER #,*,d'accord#Comma parlons de #Newline    	<think>#Newline    		<set name="oldtopic"><get name="topic"/></set>#Newline    	</think>#Newline    	<set name="topic"><star/></set>,that-questions.aiml
+0,*,DE QUOI VEUX TU PARLER,*,d'accord#Comma parlons #Newline    	<think>#Newline    		<set name="oldtopic"><get name="topic"/></set>#Newline    	</think>#Newline    	<set name="topic"><star/></set>,that-questions.aiml
+0,*,ES TU UN HOMME OU UNE FEMME,*,soit plus clair s'il te plaît. Je ne connais pas "<star/>,that-questions.aiml
+0,AUCUN,ES TU UN HOMME OU UNE FEMME,*,Bien!,that-questions.aiml
+0,TOUS LES DEUX,ES TU UN HOMME OU UNE FEMME,*,situation est rare et peu commune.,that-questions.aiml
+0,# <SET>GENDER</SET> #,ES TU UN HOMME OU UNE FEMME,*,<srai>Je suis <star index="2"/></srai>,that-questions.aiml
+0,# <SET>GENDER</SET> #,# SI TU ES UN HOMME OU UNE FEMME #,*,<srai>Je suis <star index="2"/></srai>#Newline    	<srai>proposition cul</srai>,that-questions.aiml
+0,# OUI #,AS TU UN PETIT AMI,*,demande le en mariage alors.,that-questions.aiml
+0,# NON #,AS TU UN PETIT AMI,*,c est bientôt la saint valentin.,that-questions.aiml
+0,# OUI #,AS TU UNE PETITE AMIE,*,demande la en mariage alors.,that-questions.aiml
+0,# NON #,AS TU UNE PETITE AMIE,*,c est bientôt la saint valentin.,that-questions.aiml

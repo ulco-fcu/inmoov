@@ -1,0 +1,12 @@
+botname:néo
+lastUsername:fcu
+tmpname:
+jsenabled:true
+null:
+MagicCommandToWakeUp:wake up
+courant:
+firstinit:ok
+name:fcu
+topic:default
+questionfirstinit:
+articles:

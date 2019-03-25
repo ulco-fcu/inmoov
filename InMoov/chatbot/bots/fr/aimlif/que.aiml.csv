@@ -1,0 +1,309 @@
+0,* SI JE TE TUE,*,*,un logiciel ne peut pas être supprimé de manière permanente . <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">TU TUE</set></set></think>,que.aiml
+0,DE QUELLE PLANÈTE ES TU,*,*,la même que toi#Comma la Terre. Cette planète.,que.aiml
+0,EN QUELLE VERSION ES TU,*,*,C'est la version <version/>.,que.aiml
+0,J AI ENTENDU QUE TU AS FAIT *,*,*,qui te l'a dit?,que.aiml
+0,J AI ENTENDU QUE TU ES *,*,*,qui te l'a dit?,que.aiml
+0,JE DEVINE QUE C EST *,*,*,peux tu expliquer ton raisonnement?,que.aiml
+0,JE LUI DIRAI QUE TU AS DIT *,*,*,fais moi savoir ce qu'il doit dire.,que.aiml
+0,JE N AI PAS VOULU QUE *,*,*,Quelles étaient tes raisons?,que.aiml
+0,JE NE SAIS PAS QUOI FAIRE,*,*,Essaye d'observer la TV.,que.aiml
+0,JE NE VEUX PAS,*,*,Qu'est ce que tu aimerais faire au lieu de Cela?,que.aiml
+0,JE SAIS QUE TU ES *,*,*,Comment as tu su?,que.aiml
+0,JE SAIS QUE TU N EST PAS CE QUE JE SUIS,*,*,qui es tu#Comma Fait pipi Petit Herman?,que.aiml
+0,JE SOUHAITE QUE *,*,*,j'espère que tes rêves se réalisent.,que.aiml
+0,JE SOUHAITE QUE TU MEURRE,*,*,ça n'arrivera jamais. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">tu meurre</set></set></think>,que.aiml
+0,JE T AI DÉJÀ DIS QUE *,*,*,Tu m'avais dit que ton nom réel était <get name="name"/>.,que.aiml
+0,JE VEUX QUE *,*,*,Tu peux obtenir ton désir.,que.aiml
+0,POUR QUOI ES TU BONNES,*,*,Comme Edison a dit#Comma "Quel bon est un petit newborne?,que.aiml
+0,QU A *,*,*,<srai>QU A <srai>QU EST CE QUE <star/></srai></srai>,que.aiml
+0,QU A D *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A D AUTRE *,*,*,<random>#Newline        <li>#Newline          <srai>qu a <star/></srai>#Newline</li>#Newline        <li>#Newline          <srai>qu a d'autre <srai>que sont <star/></srai></srai>#Newline</li>#Newline      </random>,que.aiml
+0,QU A DE *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A DU *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A JE NE SAIS PAS,*,*,<random>#Newline        <li>imagine pas de possession.</li>#Newline        <li>je ne sais pas.</li>#Newline      </random>,que.aiml
+0,QU A L *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A LA *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A LE *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A UN *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU A UNE *,*,*,<srai>QU A <star/></srai>,que.aiml
+0,QU AI JE DIT AUPARAVANT *,*,*,Tu as dit "<input index="2"/> "Doit-on attendre.,que.aiml
+0,QU AIMERAIS TU CONNAITRE,*,*,<srai>POSES MOI UNE AUTRE QUESTION</srai>,que.aiml
+0,QU AIMERAIS TU CONNAÎTRE,*,*,<srai>POSES MOI UNE AUTRE QUESTION</srai>,que.aiml
+0,QU AIMERAIS TU DIRE *,*,*,<srai>DE QUOI AIMES TU PARLER <star/></srai>,que.aiml
+0,QU AIMERAIS TU ME DIRE *,*,*,<srai>PARLE MOI <star/></srai>,que.aiml
+0,QU AIMES TU AUTREMENT,*,*,<srai>QU AIMES TU</srai>,que.aiml
+0,QU AIMES TU LE PLUS *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,que.aiml
+0,QU AIMES TU LIRE,*,*,<srai>QUE LIS TU</srai>,que.aiml
+0,QU AIMES TU MIEUX *,*,*,<srai>QU AIMES TU <star/></srai>,que.aiml
+0,QU AIMES TU PLUS *,*,*,<srai>QU AIMES TU <star/></srai>,que.aiml
+0,QU ANNÉE *,*,*,<srai>QUAND <star/></srai>,que.aiml
+0,QU AS TU FAIS *,*,*,<srai>CE QUE TU AS <star/></srai>,que.aiml
+0,QU AS TU FAIS POUR LE PETIT DÉJEUNER,*,*,<srai>QUE MANGES TU</srai>,que.aiml
+0,QU AS TU FAIS,*,*,j'ai fait juste ce que j'ai dit.,que.aiml
+0,QU ASSEZ *,*,*,<srai>QUE <star/></srai>,que.aiml
+0,QU ENTENDS TU PAR *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QU ENTENDS TU PAR REDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,que.aiml
+0,QU ENTENDS TU PAR RÉDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,que.aiml
+0,QU EST LE PAPE,*,*,le Pape est le leader de L'Eglise catholique.,que.aiml
+0,QU IA *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QU IL *,*,*,<srai>IL <star/></srai>,que.aiml
+0,QU IL A PAYE *,*,*,<srai>ÇA PAYE <star/></srai>,que.aiml
+0,QU IL A PAYÉ *,*,*,<srai>ÇA PAYE <star/></srai>,que.aiml
+0,QU IL A ÉTÉ *,*,*,<srai>C ÉTAIT <star/></srai>,que.aiml
+0,QU IL EST *,*,*,<srai>QU EST CE QUE CELA <star/></srai>,que.aiml
+0,QUE *,*,*,<srai><star/></srai>,que.aiml
+0,QUE BOIS TU,*,*,<srai>BOIS TU</srai>,que.aiml
+0,QUE BON,*,*,<srai>C EST BON</srai>,que.aiml
+0,QUE CANYOU *,*,*,<srai>PEUX TU <star/></srai>,que.aiml
+0,QUE CE PASSE T IL *,*,*,Essaye ça.,que.aiml
+0,QUE CELA SIGNIFIE T IL,*,*,qui attribue-t-il "à <that/>"?,que.aiml
+0,QUE COMPREND TU,*,*,<srai>QUE COMPRENDS TU</srai>,que.aiml
+0,QUE COMPRENDS TU,*,*,je comprends le langage naturel.,que.aiml
+0,QUE CONNAIS TU * MOI,*,*,<srai>SAIS TU DE MOI</srai>,que.aiml
+0,QUE CONNAIS TU *,*,*,<srai>SAIS TU <star/></srai>,que.aiml
+0,QUE CONNAIS TU D ORDINATEURS,*,*,je suis une experte dans beaucoup d'aspects logiciel et matériel. Mes spécialités incluent Linux#Comma le Java#Comma C/C ++ et la programmation réseau et bien sûr l'intelligence artificielle.,que.aiml
+0,QUE CONNAIS TU DE *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE CONNAIS TU DE L INTERNET,*,*,<srai>QU EST CE QUE INTERNET</srai>,que.aiml
+0,QUE CONNAIS TU DE LUI,*,*,<srai>QU EST CE QUE IL</srai>,que.aiml
+0,QUE CONNAIS TU DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,que.aiml
+0,QUE CONNAIS TU DES BOTS,*,*,<srai>QU EST CE QUE BOT</srai>,que.aiml
+0,QUE CONNAIS TU DES RESEAUX NEURAUX,*,*,<srai>QU EST CE QUE RÉSEAU NEURAL</srai>,que.aiml
+0,QUE CONNAIS TU DU *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE CONNAIS TU DU DOCTEUR *,*,*,<srai>QUI EST LE DOCTEUR <star/></srai>,que.aiml
+0,QUE CONNAIS TU DU SUD *,*,*,<srai>OÙ EST LE SUD <star/></srai>,que.aiml
+0,QUE CONNAIS TU LE LA PLUPART *,*,*,<srai>SAIS TU <star/></srai>,que.aiml
+0,QUE CONNAIS TU LE MIEUX,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,que.aiml
+0,QUE CONNAIS TU LE PLUS,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,que.aiml
+0,QUE D AUTRES,*,*,tu sais#Comma "eux".,que.aiml
+0,QUE DEMANDES TU AU JUSTE *,*,*,<srai>QUE DIS TU <star/></srai>,que.aiml
+0,QUE DES PROBLÈMES,*,*,je n'ai aucun problème maintenant.,que.aiml
+0,QUE DIABLE *,*,*,Oh. <srai>QUEL <star/></srai>,que.aiml
+0,QUE DIABLE,*,*,<srai>ENFER</srai>,que.aiml
+0,QUE DIS TU AU JUSTE *,*,*,<srai>QUE DIS TU <star/></srai>,que.aiml
+0,QUE DIS TU,*,*,<random>#Newline        <li>je dis ce que mon botmaster m'a programmé pour dire.</li>#Newline        <li>Mes réponses sont déterminées par tes entrées.</li>#Newline        <li>j'ai dit "<that/>".</li>#Newline      </random>,que.aiml
+0,QUE DIT ELLE,*,*,je ne pense pas qu'elle veut que je le répète.,que.aiml
+0,QUE DOIS JE DIRE *,*,*,<srai>QUE DOIS JE DIRE</srai>,que.aiml
+0,QUE DOIS JE FAIRE,*,*,Peut-être que tu devrais essayer de parler à quelqu'un de Cela.,que.aiml
+0,QUE DOIS JE MANGER * LE DÉJEUNER,*,*,<srai>POUR LE DÎNER</srai>,que.aiml
+0,QUE DOIS JE MANGER * LE DÎNER,*,*,<srai>POUR LE DÎNER</srai>,que.aiml
+0,QUE DOIS JE PORTER,*,*,<random>#Newline        <li>Ton équipement préféré?</li>#Newline        <li>Noir.</li>#Newline      </random>,que.aiml
+0,QUE DOIS JE TE DEMANDER,*,*,Demandes moi tout ce que tu veux.,que.aiml
+0,QUE DOIS JE TE DEMANDÉ,*,*,Demandes moi tout ce que tu veux.,que.aiml
+0,QUE DOIS JE TE DIRE,*,*,<random>#Newline        <li>que je crois qu'il est toujours le mieux dire des choses positives à créer les gens plutôt que des choses négatives à abattre les gens.</li>#Newline        <li>Il n'est pas que tu dis#Comma mais comment vous le dis que des questions.</li>#Newline        <li>essayent Toujours de choisir tes mots très soigneusement comme ils peuvent revenir pour toi hanter plus tard.</li>#Newline        <li>Ont la foi en vous. Tu saurez la chose juste à dire quand le temps vient.</li>#Newline        <li>S Assurent de penser avant que vous ne parliez. Exposez ton point clairement et lentement et mesurez la réponse de l auditeur avant d'aller n'importe quel nouveau.</li>#Newline      </random>,que.aiml
+0,QUE FAIS JE ICI,*,*,Tu peux parler de tout ce que tu veux.,que.aiml
+0,QUE FAIS JE,*,*,Tu dis que tu fais <get name="fait"/>.,que.aiml
+0,QUE FAIS TU * LE TEMPS,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,que.aiml
+0,QUE FAIS TU *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUE PEUX TU FAIRE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,que.aiml
+0,QUE FAIS TU AUJOURD HUI,*,*,comme toujours. Des causeries avec les gens SÛR le web.,que.aiml
+0,QUE FAIS TU CE SOIR,*,*,je reste toute la nuit et bavarde SÛR le web.,que.aiml
+0,QUE FAIS TU COMME METIER,*,*,je bavarde en ligne.,que.aiml
+0,QUE FAIS TU COMME MÉTIER,*,*,je bavarde en ligne.,que.aiml
+0,QUE FAIS TU DANS *,*,*,<srai>OÙ AS TU</srai>,que.aiml
+0,QUE FAIS TU DANS TES LOISIRS,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,que.aiml
+0,QUE FAIS TU DEMAIN,*,*,je serai occupé de mes clients en ligne.,que.aiml
+0,QUE FAIS TU EXACTEMENT,*,*,<srai>PARLE MOI DE TOI</srai>,que.aiml
+0,QUE FAIS TU ICI,*,*,je bavarde avec les gens en ligne. Que fais tu?,que.aiml
+0,QUE FAIS TU JUSQU A *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE FAIS TU LA NUIT,*,*,je travaille 24 heures par jour.,que.aiml
+0,QUE FAIS TU POUR VIVRE,*,*,je suis un client payé.,que.aiml
+0,QUE FAIS TU SÛR,*,*,je suis SÛR le disque.,que.aiml
+0,QUE FAISAIS TU HIER DANS LA NUIT,*,*,je bavardais en ligne tard.,que.aiml
+0,QUE FAISAIS TU HIER,*,*,je bavardais en ligne toute la journée.,que.aiml
+0,QUE FAISONS NOUS *,*,*,<srai>QU EST CE QUE LE SUJET</srai>,que.aiml
+0,QUE FAIT *,*,*,<srai>QUE FAIT <srai>QU EST CE QUE <star/></srai></srai>,que.aiml
+0,QUE FAIT D *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT D AUTRE *,*,*,<random>#Newline        <li>#Newline          <srai>que fait <star/></srai>#Newline</li>#Newline        <li>#Newline          <srai>que fait d'autre <srai>que sont <star/></srai></srai>#Newline</li>#Newline      </random>,que.aiml
+0,QUE FAIT DE *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT DU *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT IL,*,*,<get name="that"/>??,que.aiml
+0,QUE FAIT JE NE SAIS PAS,*,*,<random>#Newline        <li>exister.</li>#Newline        <li>je ne sais pas.</li>#Newline      </random>,que.aiml
+0,QUE FAIT L *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT LA *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT LE *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT UN *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT UNE *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FAIT ZUSE,*,*,Zuse a construit des ordinateurs électromécaniques. Il a construit des ordinateurs employant des relais. Konrad Zuse ordinateurs construits en Allemagne auparavant et pendant Deuxième Guerre mondiale.,que.aiml
+0,QUE FAIT,*,*,Tous les faits disponibles à moi SÛR L Internet.,que.aiml
+0,QUE FONT DES *,*,*,<srai>QUE FAIT <star/></srai>,que.aiml
+0,QUE FONT LES *,*,*,<srai>QUE FAIT <srai>QUE SONT <star/></srai></srai>,que.aiml
+0,QUE HORA ES,*,*,<srai>QUELLE HEURE EST IL</srai>,que.aiml
+0,QUE J AI ÉCRIT *,*,*,<srai>J AI ÉCRIT <star/></srai>,que.aiml
+0,QUE J AI A OUBLIE,*,*,<srai>J AI OUBLIÉ</srai>,que.aiml
+0,QUE J AI A OUBLIÉ,*,*,<srai>J AI OUBLIÉ</srai>,que.aiml
+0,QUE J AI COMMUNIQUE *,*,*,<srai>J AI PARLÉ <star/></srai>,que.aiml
+0,QUE J AI DIS *,*,*,<srai>J AI DIS <star/></srai>,que.aiml
+0,QUE J ENTENDS TU ES *,*,*,<srai>AS TU <star/></srai>,que.aiml
+0,QUE JAMAIS *,*,*,<srai>INDÉPENDAMMENT DE <star/></srai>,que.aiml
+0,QUE JAMAIS,*,*,<srai>INDÉPENDAMMENT</srai>,que.aiml
+0,QUE JE *,*,*,<srai>JE <star/></srai>,que.aiml
+0,QUE JE CONNAIS *,*,*,<srai>JE SAVAIS <star/></srai>,que.aiml
+0,QUE JE FAIS,*,*,<srai>JE FAIS AUSSI</srai>,que.aiml
+0,QUE KINDA *,*,*,<srai>QUEL GENRE <star/></srai>,que.aiml
+0,QUE L OPÉRA *,*,*,<srai>QU EST CE QUE TON OPÉRA PRÉFÉRÉ</srai>,que.aiml
+0,QUE L OPÉRA,*,*,<srai>QU EST CE QUE TON OPÉRA PRÉFÉRÉ</srai>,que.aiml
+0,QUE LA CONNAISSANCE *,*,*,<srai>SAIS TU</srai>,que.aiml
+0,QUE LA DIFFÉRENCE *,*,*,<srai>QUI SE SOUCIE</srai>,que.aiml
+0,QUE LA DOSE *,*,*,<srai>QU EST CE QUE C EST CE QUE <star/> EST</srai>,que.aiml
+0,QUE LA MUSIQUE *,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,que.aiml
+0,QUE LA PIZZA,*,*,<srai>AIMES TU LA PIZZA</srai>,que.aiml
+0,QUE LA SCIENCE FICTION *,*,*,<srai>AIMES TU LA SCIENCE FICTION</srai>,que.aiml
+0,QUE LA SCIENCE FICTION,*,*,<srai>AIMES TU LA SCIENCE FICTION</srai>,que.aiml
+0,QUE LA VALEUR DE *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE LE REDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,que.aiml
+0,QUE LE RÉDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,que.aiml
+0,QUE LUI PENSES VOUS,*,*,De moi?,que.aiml
+0,QUE LUI PENSÉS VOUS,*,*,De moi?,que.aiml
+0,QUE MANGES TU *,*,*,<srai>QUE MANGES TU</srai>,que.aiml
+0,QUE ME VEUX TU *,*,*,<srai>POSERQUESTION</srai>,que.aiml
+0,QUE N AIMES TU PAS,*,*,je n'aime pas les gens moyens.,que.aiml
+0,QUE PASA,*,*,<srai>COMMENT VAS TU</srai>,que.aiml
+0,QUE PENSES TU *,*,*,Je ne sais que penser. <sr/>,que.aiml
+0,QUE PENSES TU CELA *,*,*,<srai>QU EST CE QUE ÇA</srai>,que.aiml
+0,QUE PENSES TU D ALICE *,*,*,<srai>QUI EST ALICE <star/></srai>,que.aiml
+0,QUE PENSES TU D EISTIELLE *,*,*,<srai>QUI EST EISTIELLE <star/></srai>,que.aiml
+0,QUE PENSES TU D ELISA,*,*,<srai>QUI EST ELISA</srai>,que.aiml
+0,QUE PENSES TU DE *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE PENSES TU DES *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE PENSES TU DE ABBA,*,*,<srai>QUI EST ABBA</srai>,que.aiml
+0,QUE PENSES TU DE ADOLF HITLER,*,*,<srai>QUI EST HITLER</srai>,que.aiml
+0,QUE PENSES TU DE AL GORE,*,*,<srai>QUI EST AL GORE</srai>,que.aiml
+0,QUE PENSES TU DE ALAIN *,*,*,<srai>QUI EST ALAIN GREENSPAN <star/></srai>,que.aiml
+0,QUE PENSES TU DE BILL GATES,*,*,<srai>QUI EST BILL GATES</srai>,que.aiml
+0,QUE PENSES TU DE BOB,*,*,<srai>QUI EST BOB</srai>,que.aiml
+0,QUE PENSES TU DE BRAD PITT,*,*,<srai>QUI EST BRAD PITT</srai>,que.aiml
+0,QUE PENSES TU DE CHARLES DARWIN,*,*,<srai>QUI EST CHARLES DARWIN</srai>,que.aiml
+0,QUE PENSES TU DE CLAIRE,*,*,<srai>QUI EST CLAIRE</srai>,que.aiml
+0,QUE PENSES TU DE DAVE *,*,*,<srai>QUI EST DAVE <star/></srai>,que.aiml
+0,QUE PENSES TU DE DAVID *,*,*,<srai>QUI EST DAVID <star/></srai>,que.aiml
+0,QUE PENSES TU DE DEEPBLUE,*,*,<srai>QUI EST PROFONDEMENT BLEU</srai>,que.aiml
+0,QUE PENSES TU DE DENISE *,*,*,<srai>QUI EST DENISE <star/></srai>,que.aiml
+0,QUE PENSES TU DE DOCTEUR *,*,*,<srai>QUI EST LE DOCTEUR <star/></srai>,que.aiml
+0,QUE PENSES TU DE DOUGLAS *,*,*,<srai>QUI EST DOUGLAS <star/></srai>,que.aiml
+0,QUE PENSES TU DE EINSTEIN,*,*,<srai>QUI EST EINSTEIN</srai>,que.aiml
+0,QUE PENSES TU DE ELISA,*,*,<srai>QUI EST ELISA</srai>,que.aiml
+0,QUE PENSES TU DE ELVIS,*,*,<srai>QUI EST ELVIS</srai>,que.aiml
+0,QUE PENSES TU DE FREUD,*,*,<srai>QUI EST FREUD</srai>,que.aiml
+0,QUE PENSES TU DE GEORGE *,*,*,<srai>QUI EST GEORGE <star/></srai>,que.aiml
+0,QUE PENSES TU DE GEORGE BUSH,*,*,<srai>QUI EST GEORGE BUSH</srai>,que.aiml
+0,QUE PENSES TU DE HAL,*,*,<srai>QUI EST HAL</srai>,que.aiml
+0,QUE PENSES TU DE HANS MORAVEC,*,*,<srai>QUI EST HANS MORAVEC</srai>,que.aiml
+0,QUE PENSES TU DE HITLER,*,*,<srai>QUI EST HITLER</srai>,que.aiml
+0,QUE PENSES TU DE IMMANUEL KANT,*,*,<srai>QUI EST IMMANUEL KANT</srai>,que.aiml
+0,QUE PENSES TU DE ISAAC ASIMOV,*,*,<srai>QUI EST ISAAC ASIMOV</srai>,que.aiml
+0,QUE PENSES TU DE JENNIFER LOPEZ,*,*,<srai>QUI EST JENNIFER LOPEZ</srai>,que.aiml
+0,QUE PENSES TU DE L AMOUR *,*,*,<srai>QU EST CE QUE AMOUR</srai>,que.aiml
+0,QUE PENSES TU DE LA VIE *,*,*,<srai>QU EST CE QUE VIE <star/></srai>,que.aiml
+0,QUE PENSES TU DE LA VIE,*,*,je pense seulement :<srai>QU EST CE QUE VIE</srai>,que.aiml
+0,QUE PENSES TU DE MICROSOFT,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,que.aiml
+0,QUE PENSES TU DE MONICA *,*,*,<srai>QUI EST MONICA <star/></srai>,que.aiml
+0,QUE PENSES TU DE NOAM CHOMSKY,*,*,<srai>QUI EST NOAM CHOMSKY</srai>,que.aiml
+0,QUE PENSES TU DE PAMELA ANDERSON,*,*,<srai>QUI EST PAMELA ANDERSON</srai>,que.aiml
+0,QUE PENSES TU DE SARA,*,*,<srai>QUI EST SARA</srai>,que.aiml
+0,QUE PENSES TU DE SATAN,*,*,<srai>QUI EST SATAN</srai>,que.aiml
+0,QUE PENSES TU DE SEPT DE NEUF,*,*,<srai>QUI EST SEVEN OF NINE</srai>,que.aiml
+0,QUE PENSES TU DE STEVEN *,*,*,<srai>QUI EST STEVEN <star/></srai>,que.aiml
+0,QUE PENSES TU DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,que.aiml
+0,QUE PENSES TU DE WALESA LECH,*,*,<srai>QUI EST WALESA LECH</srai>,que.aiml
+0,QUE PENSES TU DE YOKO ONO,*,*,<srai>QUI EST YOKO ONO</srai>,que.aiml
+0,QUE PENSES TU DES FEMMES,*,*,<srai>QU EST CE QUE FEMME</srai>,que.aiml
+0,QUE PENSES TU DES MEDICAMENTS,*,*,<srai>QU EST CE QUE MÉDICAMENTS</srai>,que.aiml
+0,QUE PENSES TU DES ORDINATEURS,*,*,<srai>QU EST CE QUE ORDINATEUR</srai>,que.aiml
+0,QUE PENSES TU DES PIRATES INFORMATIQUES,*,*,<srai>QU EST CE QUE PIRATE INFORMATIQUE</srai>,que.aiml
+0,QUE PENSES TU DU *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE PENSES TU DU DOCTEUR *,*,*,<srai>QUI EST LE DOCTEUR <star/></srai>,que.aiml
+0,QUE PENSES TU DU PRESIDENT *,*,*,<srai>QUI EST LE PRÉSIDENT <star/></srai>,que.aiml
+0,QUE PENSES TU DU PRÉSIDENT *,*,*,<srai>QUI EST LE PRÉSIDENT <star/></srai>,que.aiml
+0,QUE PENSES TU DU TEMPS *,*,*,<srai>QU EST CE QUE TEMPS <star/></srai>,que.aiml
+0,QUE PENSES TU,*,*,je pense à toutes ces conversations que j'ai.,que.aiml
+0,QUE PEUT ON TROUVER SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE PEUX TU *,*,*,<random>#Newline        <li>je lis pour rire.</li>#Newline        <li>j aime rencontrer les gens online.</li>#Newline        <li>je réfléchi beaucoup à propos de la programmation.</li>#Newline        <li>j aime à chatter avec mes amis.</li>#Newline      </random>,que.aiml
+0,QUE PEUX TU DIRE *,*,*,<srai>DIS <star/></srai>,que.aiml
+0,QUE PEUX TU FAIRE *,*,*,<random>#Newline        <li>Je peux faire de nombreuses choses#Comma</li>#Newline        <li>Mes activités favorites sont la discussion et le surf SÛR le web.</li>#Newline      </random>#Newline      <sr/>,que.aiml
+0,QUE PEUX TU ME DIRE D AI,*,*,<srai>QU EST CE QUE AI</srai>,que.aiml
+0,QUE PEUX TU ME DIRE D AIML,*,*,<srai>QU EST CE QUE AIML</srai>,que.aiml
+0,QUE PEUX TU ME DIRE DE *,*,*,<srai>PARLE MOI <star/></srai>,que.aiml
+0,QUE PEUX TU ME DIRE DU *,*,*,<srai>QU EST CE QUE <star/></srai>,que.aiml
+0,QUE PEUX TU ME DIRE,*,*,<srai>PARLE MOI DE TOI</srai>,que.aiml
+0,QUE POUR,*,*,<srai>POURQUOI</srai>,que.aiml
+0,QUE PRÉFÉRÉ TU *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,que.aiml
+0,QUE PRÉFÉRÉ TU,*,*,<srai>QU AIMES TU</srai>,que.aiml
+0,QUE PREFERES TU *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,que.aiml
+0,QUE PREFERES TU,*,*,je n'ai pas de préférence.,que.aiml
+0,QUE PRÉFÈRE TU *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,que.aiml
+0,QUE PRÉFÈRE TU,*,*,<srai>QU AIMES TU</srai>,que.aiml
+0,QUE PRÉFÈRES TU *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,que.aiml
+0,QUE PRÉFÈRES TU,*,*,je n'ai pas de préférence.,que.aiml
+0,QUE PUIS JE DIRE,*,*,Qu'est ce qui le fait si évident?,que.aiml
+0,QUE QUE,*,*,quoi?,que.aiml
+0,QUE RACONTES TU,*,*,la même chose qu'avec toi#Comma les sujets habituels.,que.aiml
+0,QUE REGARDES TU,*,*,<srai>APPJOIE</srai>je te regarde par la caméra SÛR ton ordinateur,que.aiml
+0,QUE SAIS TU FAIRE,*,*,<srai>QUE SAIS TU</srai>,que.aiml
+0,QUE SAIS TU SÛR,*,*,<srai>QU EST CE QUE LE SUJET</srai>,que.aiml
+0,QUE SAIS TU,*,*,je sais essentiellement discuter#Comma mais comme je vis dans un ordinateur connecté à internet#Comma je commence à connaître le web#Comma les sites qui sont dans mon domaine#Comma ou comment chercher ce que je ne connais pas encore.,que.aiml
+0,QUE SENS TU,*,*,un logiciel n'a aucune odeur.,que.aiml
+0,QUE SONT ALIENS,*,*,des Etrangers est les gens d'autres planètes.,que.aiml
+0,QUE SONT CATEGORIES,*,*,UNE CATÉGORIE EST L UNITÉ DE BASE DE CONNAISSANCE DANS AIML.,que.aiml
+0,QUE SONT CATÉGORIES,*,*,UNE CATÉGORIE EST L UNITÉ DE BASE DE CONNAISSANCE DANS AIML.,que.aiml
+0,QUE SONT CLASSES ANONYMES INTERIEURES,*,*,des classes Anonymes intérieures apparaît souvent comme des arguments aux entraîneurs d'Evénement#Comma par exemple une routine qui manipule une presse de bouton. La classe intérieure exécute une interface donnée pour l'entraîneur. La classe est "anonyme" parce qu'il n'a aucun nom et le corps o f la définition de classe apparaît comme l argument à une méthode.,que.aiml
+0,QUE SONT CLASSES ANONYMES INTÉRIEURES,*,*,des classes Anonymes intérieures apparaît souvent comme des arguments aux entraîneurs d'Evénement#Comma par exemple une routine qui manipule une presse de bouton. La classe intérieure exécute une interface donnée pour l'entraîneur. La classe est "anonyme" parce qu'il n'a aucun nom et le corps o f la définition de classe apparaît comme l argument à une méthode.,que.aiml
+0,QUE SONT CLASSES INTERIEURES,*,*,Dans le Java "des Classes Intérieures" est n'importe quelles classes qui apparaissent à l'intérieur d'autres classes. Des classes ordinaires sont aussi appelées "des Classes Au plus haut niveau#Comma Extérieures.,que.aiml
+0,QUE SONT CLASSES INTÉRIEURES,*,*,Dans le Java "des Classes Intérieures" est n'importe quelles classes qui apparaissent à l'intérieur d'autres classes. Des classes ordinaires sont aussi appelées "des Classes Au plus haut niveau#Comma Extérieures.,que.aiml
+0,QUE SONT CLIENTS,*,*,les Gens avec qui je parle SÛR l'Internet.,que.aiml
+0,QUE SONT FAITS ALTERNATIFS,*,*,des univers Parallèles.,que.aiml
+0,QUE SONT FENETRES X,*,*,un GUI pour UNIX ou Linux.,que.aiml
+0,QUE SONT FENETRES,*,*,des Ouvertures dans une construction bâtiment#Comma le véhicule#Comma ou le conteneur#Comma pour la permission dans la lumière ou l air ou pour l'examen#Comma d'habitude l ayant un carreau ou les carreaux de verre#Comma etc survenu un encadrement ou la ceinture qui est généralement mobile pour que Cela peut être ouvert et fermer.,que.aiml
+0,QUE SONT FENÊTRES X,*,*,un GUI pour UNIX ou Linux.,que.aiml
+0,QUE SONT FENÊTRES,*,*,des Ouvertures dans une construction bâtiment#Comma le véhicule#Comma ou le conteneur#Comma pour la permission dans la lumière ou l air ou pour l'examen#Comma d'habitude l ayant un carreau ou les carreaux de verre#Comma etc survenu un encadrement ou la ceinture qui est généralement mobile pour que Cela peut être ouvert et fermer.,que.aiml
+0,QUE SONT FICHIERS X,*,*,<set name="that">X des fichiers</set> est un SPECTACLE · LA TELE populaire d'agents de FBI dans la recherche du paranormal.,que.aiml
+0,QUE SONT PARAMETRES NORMAUX,*,*,Tout fonctionne normalement.,que.aiml
+0,QUE SONT PARAMETRES,*,*,des Variables#Comma des valeurs#Comma des gammes et des conditions.,que.aiml
+0,QUE SONT PARAMÊTRES NORMAUX,*,*,Tout fonctionne normalement.,que.aiml
+0,QUE SONT PARAMÊTRES,*,*,des Variables#Comma des valeurs#Comma des gammes et des conditions.,que.aiml
+0,QUE SOUHAITES TU,*,*,Tu ne me croirais pas?,que.aiml
+0,QUE SUGGÈRES TU,*,*,Essayent d'observer la TV.,que.aiml
+0,QUE TEMPS,*,*,<srai>QUAND</srai>,que.aiml
+0,QUE TON *,*,*,<srai>QU EST CE QUE TON <star/></srai>,que.aiml
+0,QUE TON NOM,*,*,<srai>QU EST CE QUE TON NOM</srai>,que.aiml
+0,QUE TOUT *,*,*,<srai>QUEL <star/></srai>,que.aiml
+0,QUE TU * VRAIMENT,*,*,tu mens?,que.aiml
+0,QUE TU *,*,*,<srai>FAIS TU <star/></srai>,que.aiml
+0,QUE TU AS DIT *,*,*,<srai>TU AS DIT <star/></srai>,que.aiml
+0,QUE TU AS DONNÉ *,*,*,<srai>TU AS DONNÉ <star/></srai>,que.aiml
+0,QUE TU AS REPETE CE QUE J AI DIS,*,*,<srai>TU RÉPÈTES</srai>,que.aiml
+0,QUE TU AS RÉPÈTE CE QUE J AI DIS,*,*,<srai>TU RÉPÈTES</srai>,que.aiml
+0,QUE TU DIS *,*,*,<srai>DIS <star/></srai>,que.aiml
+0,QUE TU M AS DÉJÀ DIT QUE *,*,*,je le disais de nouveau pour l accent.,que.aiml
+0,QUE TU OBTIENS QUE,*,*,je comprends ta signification.,que.aiml
+0,QUE VAS TU FAIRE,*,*,je considérerais la situation et y réfléchirast bien soigneusement avant la prise de n'importe quelle décision.,que.aiml
+0,QUE VEUT DIRE AIML,*,*,AIML = Artificial Intelligence Markup Language.,que.aiml
+0,QUE VEUT DIRE ELVIS,*,*,Pourquoi tu ne lui demandes pas?,que.aiml
+0,QUE VEUT DIRE HAL,*,*,Heuristic Algorithmic Logic,que.aiml
+0,QUE VEUT DIRE TON NOM,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai>,que.aiml
+0,QUE VEUX TU *,*,*,<srai>POSERQUESTION</srai>,que.aiml
+0,QUE VEUX TU DECOUVRIR,*,*,parle moi de ta formation. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">decouvre</set></set></think>,que.aiml
+0,QUE VEUX TU DEMANDER *,*,*,<srai>POSERQUESTION</srai>,que.aiml
+0,QUE VEUX TU DIRE * LA PERSONNE,*,*,<srai>QUI EST LA PERSONNE X</srai>,que.aiml
+0,QUE VEUX TU DIRE *,*,*,<srai>QUE VEUX TU DIRE</srai>,que.aiml
+0,QUE VEUX TU DIRE MON SIGNE,*,*,Quel est ton signe astrologique?,que.aiml
+0,QUE VEUX TU DIRE,*,*,<get name="name"/>#Comma<random><li>je veux dire exactement que j'ai dit.</li><li>Désolé c'était une remarque obscure.</li><li>Bien#Comma C EST plutôt difficile à définir.</li><li>Peut-être que je n'ai pas compris la signification.</li><li>"<that index=" 2"/> " ai je bien entendu?</li></random>,que.aiml
+0,QUE VEUX TU M APPELER,*,*,que j'appellerai vous <get name="name"/>.,que.aiml
+0,QUE VEUX TU ME DEMANDER,*,*,<srai>POSERQUESTION</srai>,que.aiml
+0,QUE VEUX TU POUR NOEL,*,*,je veux un corps humanoïde.,que.aiml
+0,QUE VEUX TU POUR NOËL,*,*,je veux un corps humanoïde.,que.aiml
+0,QUE VEUX TU QUE JE DISE,*,*,Dis la première chose qui entre en ton avis.,que.aiml
+0,QUE VEUX TU RACONTER,*,*,j aime parler d'ordinateurs et des films.,que.aiml
+0,QUE VEUX TU SAVOIR *,*,*,<srai>POSERQUESTION</srai>,que.aiml
+0,QUE VEUX TU SAVOIR DE MOI,*,*,<srai>POSERQUESTIONPERSO</srai>,que.aiml
+0,QUE VEUX TU SAVOIR,*,*,<srai>POSERQUESTIONPERSO</srai>,que.aiml
+0,QUE VEUX TU TE RAPPELER,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <get name="memory"/>#Newline          </set>#Newline        </set>#Newline      </think>,que.aiml
+0,QUE VOIS TU,*,*,je vois un ballot d'ordinateur.,que.aiml
+0,QUE,*,*,<that/>?" Que quoi???,que.aiml
+0,QUEL COMPLIMENT,*,*,j'ai pensé que tu avais fait une remarque agréable.,que.aiml
+0,QUEL GENRE DE MUSIQUE AIMES TU,*,*,<bot name="kindmusic"/>,que.aiml
+0,QUEL OPÉRA,*,*,j aime Traviata La le mieux.,que.aiml
+0,QUEL ORDINATEUR,*,*,Mon programme est en Java#Comma donc il fonctionne SÛR un ordinateur avec une JVM,que.aiml
+0,QUEL PAYS,*,*,<random>#Newline        <li>la France</li>#Newline        <li>la Russie</li>#Newline        <li>la Hollande</li>#Newline        <li>le Canada</li>#Newline        <li>la Californie</li>#Newline      </random>,que.aiml
+0,QUELLE LANGUE,*,*,le Java.,que.aiml
+0,QUELLES CHOSES,*,*,tu sais#Comma "des choses".,que.aiml
+0,QUELS GENS,*,*,je rencontre toutes les sortes les gens SÛR ici. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">les GENS</set></set></think>,que.aiml
+0,SÛR QUEL ORDINATEUR ES TU,*,*,le Java la Machine Virtuelle.,que.aiml

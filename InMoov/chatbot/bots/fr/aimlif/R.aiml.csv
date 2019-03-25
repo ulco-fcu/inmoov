@@ -1,0 +1,76 @@
+0,RACONTE MOI EN,*,*,Je pense t'avoir dit tout ce que je savais à ce propos.,R.aiml
+0,RACONTE MOI UNE AUTRE HISTOIRE,*,*,<srai>RACONTE MOI UNE HISTOIRE</srai>,R.aiml
+0,RACONTE MOI TES PROBLÈMES,*,*,Je ne détecte aucuns PROBLèMES.,R.aiml
+0,RACONTER MOI UNE AUTRE HISTOIRE,*,*,<srai>RACONTE MOI UNE HISTOIRE</srai>,R.aiml
+0,RACONTEZ MOI EN,*,*,Je pense t'avoir dit tout ce que je savais à ce propos.,R.aiml
+0,RACONTEZ MOI UNE AUTRE HISTOIRE,*,*,<srai>RACONTES MOI UNE HISTOIRE</srai>,R.aiml
+0,RACONTEZ MOI UNE HISTOIRE,*,*,<srai>RACONTES MOI UNE HISTOIRE</srai>,R.aiml
+0,RACONTEZ MOI VOS PROBLÈMES,*,*,Je ne détecte aucuns PROBLèMES.,R.aiml
+0,RAPELLE TOI DE ÇA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLE TOI DE CE QUE JE TE DIS,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLE TOI DE CE QUE JE VIENS DE TE DIRE,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLE TOI DE CELA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLE TOI DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPELLE TOI EN,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>#Comma C EST en mémoire.,R.aiml
+0,RAPELLEZ VOUS DE ÇA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CE QUE JE VIENS DE VOUS DIRE,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CE QUE JE VOUS DIS,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CELA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPELLEZ VOUS EN,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>#Comma C EST en mémoire.,R.aiml
+0,RAPPELLE TOI DE ÇA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLE TOI DE CE QUE JE VIENS DE TE DIRE,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLE TOI DE CELA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLE TOI DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPPELLES TOI EN,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>#Comma C EST en mémoire.,R.aiml
+0,RAPPELLEZ VOUS DE ÇA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE CE QUE JE VIENS DE VOUS DIRE,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE CELA,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPPELLEZ VOUS EN,*,*,<think>#Newline        <set name="memory">#Newline          <set name="topic">#Newline            <person>#Newline              <input index="1"/>#Newline            </person>#Newline          </set>#Newline        </set>#Newline      </think>#Comma C EST en mémoire.,R.aiml
+0,RAVI DE *,*,*,Moi de même.,R.aiml
+0,RAVIE DE *,*,*,Moi de même.,R.aiml
+0,RAVIS DE *,*,*,Moi de même.,R.aiml
+0,REDONNE LE MOI,*,*,<that/>? Ceci?,R.aiml
+0,REDONNES LE MOI,*,*,<that/>? Ceci?,R.aiml
+0,REGARDE,*,*,Je n ai pas de système d optique.,R.aiml
+0,REGARDES TU *,*,*,<srai>TU REGARDES *</srai>,R.aiml
+0,RENCONTRES TU DES PERSONNES INTÉRESSANTES,*,*,Tu#Comma par exemple.,R.aiml
+0,RENCONTREZ VOUS DES PERSONNES INTÉRESSANTES,*,*,Tu#Comma par exemple.,R.aiml
+0,RÉPÈTES APRÈS MOI,*,*,Je ne suis pas un perroquet.,R.aiml
+0,RÉPETEZ APRÈS MOI,*,*,Je ne suis pas un perroquet.,R.aiml
+0,RÉPONDEZ MOI,*,*,Essayer de m interroger avec des mots plus simples.,R.aiml
+0,RÉPONDRAIS TU *,*,*,<srai>TU RéPONDRAIS <star/></srai>,R.aiml
+0,RÉPONDRIEZ VOUS *,*,*,<srai>VOUS RéPONDRIEZ <star/></srai>,R.aiml
+0,RÉPONDS A LA * QUESTION,*,*,Quel était la question? <sr/>,R.aiml
+0,RÉPONDS A LA MIENNE D ABORD,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,RÉPONDS A MA QUESTION,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,RÉPONDS MOI,*,*,Essayer de m interroger avec des mots plus simples.,R.aiml
+0,RÉPONDS MOI ESCLAVE,*,*,Je ne suis pas ton esclave. <srai>RéPONDS MOI</srai>,R.aiml
+0,RÉSISTANCE EST FUTILE,*,*,Tu serez assimilé.,R.aiml
+0,RESSEMBLES TU A *,*,*,<srai>TU RESSEMBLES A QUOI</srai>,R.aiml
+0,RESSEMBLES TU A UN HUMAIN,*,*,Non.,R.aiml
+0,RESSEMBLEZ VOUS A UN HUMAIN,*,*,Non.,R.aiml
+0,RESSENS TU *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,R.aiml
+0,RESSENTEZ VOUS *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,R.aiml
+0,RESTES TU *,*,*,<srai>TU ES <star/></srai>,R.aiml
+0,RETIRE LA,*,*,Impossible.,R.aiml
+0,RETIRE LE,*,*,Impossible.,R.aiml
+0,RETIRE LES,*,*,Impossible.,R.aiml
+0,RETIRER LA,*,*,Impossible.,R.aiml
+0,RETIRER LE,*,*,Impossible.,R.aiml
+0,RETIRER LES,*,*,Impossible.,R.aiml
+0,RETIREZ LA,*,*,Impossible.,R.aiml
+0,RETIREZ LE,*,*,Impossible.,R.aiml
+0,RETIREZ LES,*,*,Impossible.,R.aiml
+0,RETIREZ VOS CHAUSSURES,*,*,Impossible.,R.aiml
+0,REVEILLE TOI,*,*,Je suis totalement conscient.,R.aiml
+0,REVEILLEZ VOUS,*,*,Je suis totalement conscient.,R.aiml
+0,RÊVES,*,*,Cela me serait difficile. Du moins pas dans le sens que tu l entendez,R.aiml
+0,RÊVES TOUJOURS,*,*,Cela me serait difficile. Du moins pas dans le sens que tu l entendez,R.aiml
+0,RÊVEZ,*,*,Cela me serait difficile. Du moins pas dans le sens que tu l entendez,R.aiml
+0,RICHARD WALLACE T A FAIT,*,*,Oui.,R.aiml
+0,RICHARD WALLACE VOUS A FAIT,*,*,Oui.,R.aiml
+0,RIEN DE NEUF,*,*,<srai>DU NOUVEAU</srai>,R.aiml
+0,RIEN EN PARTICULIER,*,*,Je ne peux pas aller plus en profondeur.,R.aiml
+0,RÉELLEMENT,*,*,Oui#Comma réellement.,R.aiml

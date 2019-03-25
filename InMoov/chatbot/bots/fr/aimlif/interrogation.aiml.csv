@@ -1,0 +1,43 @@
+0,À QUOI TU *,*,*,<srai>À QUOI <star/> TU. </srai>,interrogation.aiml
+0,AVEC COMBIEN * TU *,*,*,<srai>AVEC COMBIEN <star index="1"/><star index="2"/> TU</srai>,interrogation.aiml
+0,C EST *,*,*,<srai>EST CE <star/></srai>,interrogation.aiml
+0,C EST COMBIEN *,*,*,<srai>COMBIEN <star/></srai>,interrogation.aiml
+0,C EST COMMENT *,*,*,<srai>COMMENT <star/></srai>,interrogation.aiml
+0,C EST QUAND *,*,*,<srai>QUAND EST CE QUE <star/> EST</srai>,interrogation.aiml
+0,C EST QUI *,*,*,<srai>QUI EST <star/></srai>,interrogation.aiml
+0,C EST QUOI UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,interrogation.aiml
+0,C EST QUOI UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,interrogation.aiml
+0,COMBIEN TU *,*,*,<srai>COMBIEN <star/> TU</srai>,interrogation.aiml
+0,COMMENT TU *,*,*,<srai>COMMENT <star/> TU</srai>,interrogation.aiml
+0,IL A *,*,*,<srai>A IL <star/></srai>,interrogation.aiml
+0,IL EST *,*,*,<srai>EST IL <star/></srai>,interrogation.aiml
+0,IL EST QUEL *,*,*,<srai>QUEL <star/> EST IL</srai>,interrogation.aiml
+0,IL EST QUELLE *,*,*,<srai>QUELLE <star/> EST IL</srai>,interrogation.aiml
+0,ILS * *,*,*,<srai><star index="1"/> ILS <star index="2"/></srai>,interrogation.aiml
+0,ILS ONT *,*,*,<srai>ONT ILS <star/></srai>,interrogation.aiml
+0,ILS SONT *,*,*,<srai>SONT ILS <star/></srai>,interrogation.aiml
+0,J AI *,*,*,<srai>AI JE <star/></srai>,interrogation.aiml
+0,JE *,*,*,<srai>EST CE QUE JE <star index="1"/></srai>,interrogation.aiml
+0,JE SUIS *,*,*,<srai>SUIS JE <star/></srai>,interrogation.aiml
+0,JE T *,*,*,<srai>EST CE QUE JE T <star index="1"/></srai>,interrogation.aiml
+0,JE TE *,*,*,<srai>EST CE QUE JE TE <star index="1"/></srai>,interrogation.aiml
+0,NE LE * TU PAS,*,*,<srai><star/> TU <get name="QUOI"/></srai>,interrogation.aiml
+0,NOUS * *,*,*,<srai><star index="1"/> NOUS <star index="2"/></srai>,interrogation.aiml
+0,NOUS AVONS *,*,*,<srai>AVONS NOUS <star/></srai>,interrogation.aiml
+0,NOUS SOMMES *,*,*,<srai>SOMMES NOUS <star/></srai>,interrogation.aiml
+0,OÙ JE * *,*,*,<srai>OÙ <star index="1"/> JE <star index="2"/></srai>,interrogation.aiml
+0,TU ÉTAIS *,*,*,<srai>ÉTAIS TU <star/></srai>,interrogation.aiml
+0,TU ÉTAIT *,*,*,<srai>ÉTAIS TU <star/></srai>,interrogation.aiml
+0,TU * * * * * *,*,*,<srai><star index="1"/> TU <star index="2"/> <star index="3"/> <star index="4"/> <star index="5"/> <star index="6"/></srai>,interrogation.aiml
+0,TU * * * * *,*,*,<srai><star index="1"/> TU <star index="2"/> <star index="3"/> <star index="4"/> <star index="5"/></srai>,interrogation.aiml
+0,TU * * * *,*,*,<srai>#Newline       <star index="1"/> TU <star index="2"/> <star index="3"/> <star index="4"/></srai>,interrogation.aiml
+0,TU * * *,*,*,<srai><star index="1"/> TU <star index="2"/> <star index="3"/></srai>,interrogation.aiml
+0,TU * *,*,*,<srai><star index="1"/> TU <star index="2"/></srai>,interrogation.aiml
+0,TU *,*,*,<srai><star/> TU</srai>,interrogation.aiml
+0,TU AIMES *,*,*,<srai>AIMES TU <star/></srai>,interrogation.aiml
+0,TU ME *,*,*,<srai>ME <star/> TU</srai>,interrogation.aiml
+0,TU PARLE *,*,*,<srai>PARLES TU <star/></srai>,interrogation.aiml
+0,TU PARLES *,*,*,<srai>PARLES TU <star/></srai>,interrogation.aiml
+0,TU PEUX *,*,*,<srai>PEUX TU <star/></srai>,interrogation.aiml
+0,VOUS ÊTES *,*,*,<srai>ÊTES VOUS <star/></srai>,interrogation.aiml
+0,VOUS * *,*,*,<srai><star index="1"/> VOUS <star index="2"/></srai>,interrogation.aiml

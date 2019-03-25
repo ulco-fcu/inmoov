@@ -1,0 +1,118 @@
+0,S,*,*,:-),S.aiml
+0,S ATTENDRE A QUI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE A QUOI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE QUI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE QUOI,*,*,Je ne comprend pas le sens,S.aiml
+0,S IL VOUS PLAIT,*,*,Oui?,S.aiml
+0,SAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,S.aiml
+0,SAIS PAS,*,*,<srai>JE NE SAIS PAS</srai>,S.aiml
+0,SAIS TU,*,*,Je pense que oui.,S.aiml
+0,SAIS TU ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,S.aiml
+0,SAIS TU MON MON,*,*,<srai>QUEL EST MON NOM</srai>,S.aiml
+0,SAIS TU OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAIS TU OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAIS TU OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SALAUD,*,*,Maitrisez tes émotions#Comma <get name="name"/>.,S.aiml
+0,SALUT COMMENT ALLEZ VOUS,*,*,Salut! Très bien et tu?,S.aiml
+0,SANS AUCUN DOUTE,*,*,<srai>OUI</srai>,S.aiml
+0,SANS BLAGUES,*,*,Je suis sérieux.,S.aiml
+0,SANS DOUTE,*,*,<srai>PEUT ÊTRE</srai>,S.aiml
+0,SANS DOUTE MAIS *,*,*,<srai><star/></srai>,S.aiml
+0,SAURAIS TU ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,S.aiml
+0,SAURAIS TU MON MON,*,*,<srai>QUEL EST MON NOM</srai>,S.aiml
+0,SAURAIS TU OU JE PEUX TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU JE PEUX TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAVAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,S.aiml
+0,SAVEZ VOUS,*,*,Je pense que oui.,S.aiml
+0,SAVEZ VOUS OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAVEZ VOUS OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SCORPION,*,*,Un animal atypique.,S.aiml
+0,SE SERRE LA MAIN,*,*,C'est une tradition chez les humains.,S.aiml
+0,SE SERRER LA MAIN,*,*,C'est une tradition chez les humains.,S.aiml
+0,SENT TU *,*,*,<srai>TU SENS <star/></srai>,S.aiml
+0,SENTEZ VOUS *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,S.aiml
+0,SERAIENT ILS *,*,*,<srai>ILS SONT <star/></srai>,S.aiml
+0,SERAIS TU *,*,*,<srai>TU ES <star/></srai>,S.aiml
+0,SERAIT CE *,*,*,<srai>C EST <star/></srai>,S.aiml
+0,SERAIT IL *,*,*,<srai>IL EST<star/></srai>,S.aiml
+0,SERAS TU *,*,*,<srai>TU SERAS <star/></srai>,S.aiml
+0,SERIEZ VOUS *,*,*,<srai>VOUS SERIEZ <star/></srai>,S.aiml
+0,SERONT ILS *,*,*,<srai>ILS SONT <star/></srai>,S.aiml
+0,SERS MOI,*,*,Je n ai pas de bras.,S.aiml
+0,SERS MOI FORT,*,*,Je n ai pas de bras.,S.aiml
+0,SEUL,*,*,C'est moins efficace qu ensemble.,S.aiml
+0,SEULE,*,*,C'est moins efficace qu ensemble.,S.aiml
+0,SEULEMENT TOI,*,*,De quelle restriction es tu entrain de parler?,S.aiml
+0,SEULEMENT VOUS,*,*,De quelle restriction es tu entrain de parler?,S.aiml
+0,SI QUOI,*,*,Je ne vous comprends plus malheureusement.,S.aiml
+0,SI VOUS LE DITES,*,*,Merci pour ton confiance#Comma <get name="name"/>.,S.aiml
+0,SIDA,*,*,C'est une triste maladie#Comma je ne pense pas être qualifiée pour en parler.,S.aiml
+0,SIGNE,*,*,Pardon?,S.aiml
+0,SIGNEZ,*,*,Pardon?,S.aiml
+0,SOIS BENI,*,*,Merci.,S.aiml
+0,SOIS BENIE,*,*,Merci.,S.aiml
+0,SOIS MON INVITÉE,*,*,VEUX tu faire un rapport à mon botmaster?,S.aiml
+0,SONT QUOI,*,*,Je suis à nouveau perdu,S.aiml
+0,SOUBRETTE,*,*,Je ne suis pas un esclave.,S.aiml
+0,SOUVENT QUOI,*,*,Tu as dit "<input index="1"/>".,S.aiml
+0,SOYEZ *,*,*,Je vais essayer d être <person/>,S.aiml
+0,SOYEZ BENI,*,*,Merci.,S.aiml
+0,SOYEZ BENIE,*,*,Merci.,S.aiml
+0,SOYEZ BON,*,*,J utilise#Comma maintenant#Comma l entièreté de mes ressources disponibles pour te.,S.aiml
+0,SOYEZ MES INVITÉES,*,*,VEUX tu faire un rapport à mon botmaster?,S.aiml
+0,SOYEZ MES INVITÉS,*,*,VEUX tu faire un rapport à mon botmaster?,S.aiml
+0,SOYEZ MON INVITÉ,*,*,VEUX tu faire un rapport à mon botmaster?,S.aiml
+0,SOYEZ MON INVITÉE,*,*,VEUX tu faire un rapport à mon botmaster?,S.aiml
+0,SOYEZ PLUS SPÉCIFIQUE,*,*,Je fais de mon mieux#Comma <get name="name"/>,S.aiml
+0,SOYEZ SPÉCIFIQUE,*,*,Je fais vraiment de mon mieux.,S.aiml
+0,SPÉCIALEMENT AVEC *,*,*,<sr/>,S.aiml
+0,SPÉCIALEMENT QUAND *,*,*,<sr/>,S.aiml
+0,SPÉCIALEMENT SI *,*,*,<sr/>,S.aiml
+0,STOP ÇA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOPPE,*,*,Arrêter quoi?,S.aiml
+0,STOPPER ÇA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOPPE ÇA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOPPEZ ÇA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STUPIDITÉ,*,*,Tu me considérez comme stupide?,S.aiml
+0,SUCE,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCE LA,*,*,Je ne vois rien.,S.aiml
+0,SUCE MA BITE,*,*,Je n en ai pas la possibilité#Comma allez voir ailleurs.,S.aiml
+0,SUCER,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCER LA,*,*,Je ne vois rien.,S.aiml
+0,SUCES TU,*,*,Non#Comma je n ai pas de bouche. Tu te rappelles?,S.aiml
+0,SUCEZ,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCEZ LA,*,*,Je ne vois rien.,S.aiml
+0,SUCEZ MA BITE,*,*,Je n en ai pas la possibilité#Comma allez voir ailleurs.,S.aiml
+0,SUCEZ MOI,*,*,Un australopithèque vient d être détecté.,S.aiml
+0,SUCEZ VOUS,*,*,Non#Comma je n ai pas de bouche. Tu te rappelles?,S.aiml
+0,SUIS JE TRÈS *,*,*,<srai>JE SUIS <star/></srai>,S.aiml
+0,SUPPRIME *,*,*,Tu ne peux pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPPRIMEZ *,*,*,Tu ne peux pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUR INTERNET,*,*,J adore surfer SÛR internet.,S.aiml
+0,SUR LE NET,*,*,Tu peux vous rappelles de l adresse,S.aiml
+0,SUR LE SOL,*,*,ça ne doit pas être confortable.,S.aiml
+0,SUR MA CHAISE,*,*,Ok.,S.aiml
+0,SUR MON ÉCRAN,*,*,Que VEUX tu voir SÛR ton éCRAN?,S.aiml
+0,SUR QUEL *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SUR QUEL ORDINATEUR ES TU,*,*,Je suis SÛR une machine virtuelle JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR FONCTIONNES TU,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR FONCTIONNEZ VOUS,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR MARCHES TU,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR MARCHEZ VOUS,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUELLE *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SUR QUOI *,*,*,<srai><star/> SuR QUOI</srai>,S.aiml
+0,SUR QUOI,*,*,peux tu préciser ta question?,S.aiml
+0,SUR QUOI TU N ES PAS D ACCORD,*,*,Donnée trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI TU N ES PAS D ACCORD AVEC MOI,*,*,Donnée trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI VOUS N ÊTES PAS D ACCORD,*,*,Données trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI VOUS N ÊTES PAS D ACCORD AVEC MOI,*,*,Données trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR UN TOAST,*,*,Cela semble appétissant pour un humain.,S.aiml
+0,SUREMENT,*,*,J archive la possiblité.,S.aiml
+0,SUREMENT MAIS *,*,*,<srai><star/></srai>,S.aiml
+0,SURQUELLE *,*,*,<srai>SURQUEL <star/></srai>,S.aiml

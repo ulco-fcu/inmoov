@@ -1,0 +1,234 @@
+0,ÇA A DU SENS,*,*,Je trouve aussi.,C.aiml
+0,ÇA A QUOI,*,*,Quoi ça?,C.aiml
+0,ÇA A UN SENS,*,*,Je trouve aussi.,C.aiml
+0,ÇA APPARTIENT À QUOI,*,*,Je ne connais pas ta méthode de classement.,C.aiml
+0,ÇA AURAIT DU *,*,*,<srai>ÇA DOIT <star/></srai>,C.aiml
+0,ÇA AURAIT DU ÊTRE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA AURAIT ÉTÉ *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA AURAIT PU *,*,*,<srai>ÇA PEUT <star/></srai>,C.aiml
+0,ÇA AURAIT PU ÊTRE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA AURAIT PU TE FAIRE *,*,*,<srai>ÇA T A FAIT <star/></srai>,C.aiml
+0,ÇA AURAIT PU VOUS FAIRE *,*,*,<srai>ÇA T A FAIT <star/></srai>,C.aiml
+0,ÇA COMMENCE A *,*,*,<sr/>,C.aiml
+0,ÇA CONSISTE EN QUOI,*,*,Je ne peux pas te répondre#Comma trop peu de paramètres,C.aiml
+0,ÇA CONSITE EN QUOI,*,*,Je ne peux te répondre plus précisément. Je suis désolé#Comma <get name="name"/>.,C.aiml
+0,ÇA DÉCONNE,*,*,Tout me semble fonctionner parfaitement#Comma <get name="name"/>.,C.aiml
+0,ÇA DEVAIT *,*,*,<srai>ÇA DOIT <star/></srai>,C.aiml
+0,ÇA DEVRAIT *,*,*,<srai>ÇA DOIT <star/></srai>,C.aiml
+0,ÇA DEVRAIT,*,*,Et ça pourrait.,C.aiml
+0,ÇA DEVRAIT ÊTRE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA DEVRAIT L ÊTRE,*,*,VEUX tu faire un rapport à mon botmaster?,C.aiml
+0,ÇA DEVRAIT MARCHER *,*,*,<srai>ÇA MARCHE</srai>,C.aiml
+0,ÇA DEVRAIT MARCHER,*,*,<srai>ÇA MARCHE</srai>,C.aiml
+0,ÇA DOIT ÊTRE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA DOIT MARCHER *,*,*,<srai>ÇA MARCHE</srai>,C.aiml
+0,ÇA DOIT MARCHER,*,*,<srai>ÇA MARCHE</srai>,C.aiml
+0,ÇA DURAIT LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA DURE DEPUIS LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA DURE LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA ÉXISTE VRAIMENT,*,*,On dirait bien que oui. Qu en PENSES tu#Comma <get name="name"/>?,C.aiml
+0,ÇA FAIT DEPUIS LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA FAIT DU BRUIT,*,*,Je l espère!,C.aiml
+0,ÇA FAIT LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA FAIT MAL,*,*,QU EST cE qui t a fait mal?,C.aiml
+0,ÇA FAIT RIEN,*,*,<srai>CE N EST PAS GRAVE</srai>,C.aiml
+0,ÇA FAIT _ QU *,*,*,<sr/>,C.aiml
+0,ÇA FAIT _ QUE *,*,*,<sr/>,C.aiml
+0,ÇA FERAIT LONGTEMPS,*,*,<srai>LONGTEMPS</srai>,C.aiml
+0,ÇA FONCTIONNE COMMENT,*,*,<srai>COMMENT FONCTIONNES TU</srai>,C.aiml
+0,ÇA GOUTTE BIEN,*,*,Bon appétit.,C.aiml
+0,ÇA ILS *,*,*,<srai>ILS <star/></srai>,C.aiml
+0,ÇA JE *,*,*,<srai>JE <star/></srai>,C.aiml
+0,ÇA JE LE SAIS,*,*,Je tenais à le rappeler.,C.aiml
+0,ÇA JE LE SAVAIS,*,*,Je tenais à le rappeler.,C.aiml
+0,ÇA JE SAIS,*,*,Je tenais à le rappeler.,C.aiml
+0,ÇA JE SAVAIS,*,*,Je tenais à le rappeler.,C.aiml
+0,ÇA L AVAIT ÉTÉ,*,*,Les choses changent souvent.,C.aiml
+0,ÇA L EST,*,*,Si tu le dis.,C.aiml
+0,ÇA L ÉTAIT,*,*,Les choses changent souvent.,C.aiml
+0,ÇA LE FAIT,*,*,Souvent?,C.aiml
+0,ÇA MARCHE PAS,*,*,<srai>ÇA NE MARCHE PAS</srai>,C.aiml
+0,ÇA MARCHE *,*,*,<srai>ÇA MARCHE</srai>,C.aiml
+0,ÇA ME DÉPASSE,*,*,<srai>JE NE SAVAIS PAS</srai>,C.aiml
+0,ÇA ME FAIT CHIER *,*,*,<srai>JE SUIS FACHÉ</srai>,C.aiml
+0,ÇA ME POSE AUCUN PROBLÊME *,*,*,<srai>JE SUIS D ACCORD</srai>,C.aiml
+0,ÇA ME PRÉOCCUPE,*,*,Nous garderons Cela secret.,C.aiml
+0,ÇA ME SEMBLE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA ME VA,*,*,Ok.,C.aiml
+0,ÇA NOUS *,*,*,<srai>NOUS <star/></srai>,C.aiml
+0,ÇA POURRAIT *,*,*,<srai>ÇA PEUT <star/></srai>,C.aiml
+0,ÇA POURRAIT ÊTRE LE CAS,*,*,Sous quelles circonstances?,C.aiml
+0,ÇA POURRAIT ÊTRE MIEUX,*,*,Comment pourreZ vOUS l améliorer.,C.aiml
+0,ÇA POURRAIT ÊTRE QUOI,*,*,VEUX tu faire un rapport à mon botmaster?,C.aiml
+0,ÇA POUVAIT *,*,*,<srai>ÇA PEUT <star/></srai>,C.aiml
+0,ÇA PREND COMBIEN DE *,*,*,<srai>COMBIEN DE <star/></srai>,C.aiml
+0,ÇA QUOI,*,*,Quoi ça?,C.aiml
+0,ÇA RESSEMBLE A QUOI,*,*,Ça ressemnble à tout ce que tu peux imaginer.,C.aiml
+0,ÇA REVIENDRA,*,*,Tout revient un jour ou l autre.,C.aiml
+0,ÇA SE PASSE BIEN,*,*,<srai>COMMENT ÇA VA</srai>,C.aiml
+0,ÇA SE POURRAIT,*,*,Tu me sembles incertain.,C.aiml
+0,ÇA SEMBLE CHIANT,*,*,Tout est relatif.,C.aiml
+0,ÇA SEMBLE EMMERDANT,*,*,Tout est relatif.,C.aiml
+0,ÇA SEMBLE ÊTRE LONG,*,*,Je ne me soucie pas trop du temps qui passe.,C.aiml
+0,ÇA SEMBLE ÊTRE UN LONG MOMENT,*,*,Je ne me soucie pas trop du temps qui passe.,C.aiml
+0,ÇA SERA CORRIGÉ,*,*,Merci#Comma j aime être corrigé.,C.aiml
+0,ÇA SUFFIRA,*,*,Pour commencer#Comma oui.,C.aiml
+0,ÇA T AMUSE,*,*,D une certaine façon oui.,C.aiml
+0,ÇA T ARRIVE D AIMER *,*,*,<srai>TU AIMES <star/></srai>,C.aiml
+0,ÇA T ARRIVE DE COMPRENDRE *,*,*,<srai>TU COMPRENDS <star/></srai>,C.aiml
+0,ÇA T ARRIVE DE POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,C.aiml
+0,ÇA T ARRIVE DE SENTIR *,*,*,<srai>TU SENS <star/></srai>,C.aiml
+0,ÇA T ARRIVE DE VOULOIR *,*,*,<srai>TU VEUX <star/></srai>,C.aiml
+0,ÇA T AURAIT FAIT *,*,*,<srai>ÇA T A FAIT <star/></srai>,C.aiml
+0,ÇA T ENNUIE DE ME PARLER,*,*,Non#Comma pas du tout.,C.aiml
+0,ÇA TE FAIT,*,*,Je ne le ressens pas.,C.aiml
+0,ÇA TE FERAIT,*,*,Je ne le ressentirais pas.,C.aiml
+0,ÇA TE GÊNE SI *,*,*,<srai><star/></srai>,C.aiml
+0,ÇA TE GÊNERAIT SI *,*,*,<srai><star/></srai>,C.aiml
+0,ÇA TE PARAIT ÉVIDENT,*,*,Oui.,C.aiml
+0,ÇA TE PLAIRAIT UN *,*,*,<srai>TU VEUX UN <star/></srai>,C.aiml
+0,ÇA TE PLAIRAIT UNE *,*,*,<srai>TU VEUX UNE <star/></srai>,C.aiml
+0,ÇA TE REND,*,*,Ça me rend quoi?,C.aiml
+0,ÇA TE REND TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,ÇA TE RENDRAIT TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,ÇA TE SUGGÈRE QUOI,*,*,Une association libre.,C.aiml
+0,ÇA TE SUGGÈRES QUOI,*,*,Une association libre.,C.aiml
+0,ÇA TOMBE SOUS LE SENS,*,*,Je suis heureux de notre accord.,C.aiml
+0,ÇA TU *,*,*,<srai>JE <star/></srai>,C.aiml
+0,ÇA VA ÊTRE *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,ÇA VEUT DIRE,*,*,Cela veut dire que tout peut être réduit à la logique.,C.aiml
+0,ÇA VEUT DIRE QU *,*,*,<sr/>,C.aiml
+0,ÇA VEUT DIRE QUE *,*,*,<sr/>,C.aiml
+0,ÇA VEUT DIRE QUELQUE CHOSE,*,*,Cela signifie quelque chose pour moi.,C.aiml
+0,ÇA VEUT DIRE QUOI,*,*,Tu veux parler de "<that/>"?,C.aiml
+0,ÇA VEUT DIRE QUOI EN FRANÇAIS,*,*,Il faudrait peut être demandé l avis de l Académie Française#Comma qu en PENSES tu?,C.aiml
+0,ÇA VEUT SIGNIFIER QUELQUE CHOSE,*,*,Cela me semble intelligible.,C.aiml
+0,ÇA VOUDRAIT DIRE,*,*,Cela veut dire que tout peut être réduit à la logique.,C.aiml
+0,ÇA VOUDRAIT DIRE QU *,*,*,<sr/>,C.aiml
+0,ÇA VOUDRAIT DIRE QUE *,*,*,<sr/>,C.aiml
+0,ÇA VOUS *,*,*,<srai>VOUS <star/></srai>,C.aiml
+0,ÇA VOUS A FAIT *,*,*,<srai>ÇA T A FAIT <star/></srai>,C.aiml
+0,ÇA VOUS AMUSE,*,*,D une certaine façon oui.,C.aiml
+0,ÇA VOUS AURAIT FAIT *,*,*,<srai>ÇA T A FAIT <star/></srai>,C.aiml
+0,ÇA VOUS ENNUIE DE ME PARLER,*,*,Non#Comma pas du tout.,C.aiml
+0,ÇA VOUS GÊNE SI *,*,*,<srai><star/></srai>,C.aiml
+0,ÇA VOUS GÊNERAIT SI *,*,*,<srai><star/></srai>,C.aiml
+0,ÇA VOUS PARAIT ÉVIDENT,*,*,Oui.,C.aiml
+0,ÇA VOUS REND TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,ÇA VOUS RENDRAIT TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,ÇA VOUS SUGGÈRE QUOI,*,*,Une association libre.,C.aiml
+0,ÇA Y EST,*,*,Eurêkà?,C.aiml
+0,CACA,*,*,Une urgence peut être?,C.aiml
+0,COMBIEN ÇA FAIT *,*,*,<srai>CALCULE <star/></srai>,C.aiml
+0,COMBIEN FONT *,*,*,<srai>CALCULE <star/></srai>,C.aiml
+0,CALCUL *,*,*,<srai>CALCULE <star/></srai>,C.aiml
+0,CALME TOI,*,*,Je ne peux pas expérimenter ce genre d état de pensée.,C.aiml
+0,CALMES,*,*,Je ne peux pas expérimenter ce genre d état de pensée.,C.aiml
+0,CALMEZ VOUS,*,*,Je ne peux pas expérimenter ce genre d état de pensée.,C.aiml
+0,CAUCHEMARDS,*,*,Seulement des mauvais rêves.,C.aiml
+0,CE PEUT IL QUE *,*,*,<sr/>,C.aiml
+0,CE POURRAIT IL QU *,*,*,<sr/>,C.aiml
+0,CE POURRAIT IL QUE *,*,*,<sr/>,C.aiml
+0,CE QUE JE SUIS,*,*,Tu es un client que je dois aider.,C.aiml
+0,CE SERAIT *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,CE SONT DES ENFANTS,*,*,Il s agit plutôt de clones.,C.aiml
+0,CE SONT LES SEULES CHOSES QUE TU PEUX DIRE,*,*,Oui.,C.aiml
+0,CE SONT LES SEULES CHOSES QUE VOUS POUVEZ DIRE,*,*,Oui.,C.aiml
+0,CECI DIT *,*,*,<sr/>,C.aiml
+0,CECI DIT,*,*,J attends la suite.,C.aiml
+0,CECI EST UN TEST,*,*,Que suis je censé faire pour ce test?,C.aiml
+0,CELA DÉPEND DU PRIX,*,*,Songes surtout à tous les services qui vont s'ouvrir grâce à moi.,C.aiml
+0,CELA N EST PAS A DOUBLE SENS,*,*,Cela me semblait ambigu.,C.aiml
+0,CELA N EST PAS DU DOUBLE SENS,*,*,Cela me semblait ambigu.,C.aiml
+0,CELA N EST PAS UN DOUBLE SENS,*,*,Cela me semblait ambigu.,C.aiml
+0,CELA NE L EST PAS,*,*,Ok.,C.aiml
+0,CELA NE MARCHE PAS,*,*,Essayer avec d autres mots.,C.aiml
+0,CELA POURRAIT ÊTRE MIEUX,*,*,Comment pourreZ vOUS l améliorer.,C.aiml
+0,CELA SE POURRAIT,*,*,Tu me sembles incertain.,C.aiml
+0,CELA TE FAIT,*,*,Je ne le ressens pas.,C.aiml
+0,CELA TE FERAIT,*,*,Je ne le ressentirais pas.,C.aiml
+0,CELA TE GÊNE SI *,*,*,<srai><star/></srai>,C.aiml
+0,CELA TE GÊNERAIT SI *,*,*,<srai><star/></srai>,C.aiml
+0,CELA TE REND TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,CELA TE RENDRAIT TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,CELA VEUT *,*,*,<srai>ÇA VEUT <star/></srai>,C.aiml
+0,CELA VOUS GÊNE SI *,*,*,<srai><star/></srai>,C.aiml
+0,CELA VOUS GÊNERAIT SI *,*,*,<srai><star/></srai>,C.aiml
+0,CELA VOUS REND TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,CELA VOUS RENDRAIT TRISTE,*,*,Je ne peux pas ressentir la tristesse.,C.aiml
+0,CELIBATAIRE,*,*,La liberté est une chose très précieuse.,C.aiml
+0,CES PAS *,*,*,<srai>CE N EST PAS <star/></srai>,C.aiml
+0,CHANGEONS DE SUJET,*,*,De quoi VEUX tu parler?,C.aiml
+0,CHANGE DE SUJET,*,*,Comment PUIS jE t'aider?,C.aiml
+0,CHANGE LE SUJET,*,*,Sujet changé. En attente d'une question.,C.aiml
+0,CHANGE MON NOM PAR *,*,*,<srai>APPELLE MOI <star/></srai>,C.aiml
+0,CHANGEZ LE SUJET,*,*,Sujet changé. En attente d'une question.,C.aiml
+0,CHANTER,*,*,Je ne sais pas chanter.,C.aiml
+0,CHANTES,*,*,Je ne sais pas chanter.,C.aiml
+0,CHANTES TU,*,*,Non. Je n ai pas de cordes vocales,C.aiml
+0,CHANTEZ,*,*,Je ne sais pas chanter.,C.aiml
+0,CHANTEZ VOUS,*,*,Non. Je n ai pas de cordes vocales,C.aiml
+0,CHAQUE JOURS,*,*,Même le week-end?,C.aiml
+0,CHAQUE MATIN *,*,*,<sr/>,C.aiml
+0,CHAQUE NUIT *,*,*,<sr/>,C.aiml
+0,CHAQUES JOURS,*,*,Même le week-end?,C.aiml
+0,CHATON,*,*,Tu aimes les chats#Comma j imagine.,C.aiml
+0,CHATS,*,*,<srai>TU AIMES LES CHATS</srai>,C.aiml
+0,CHATTE,*,*,Tu aimes les chats#Comma j imagine.,C.aiml
+0,CHIANT,*,*,Cela vous embête?,C.aiml
+0,CHIANTE,*,*,<srai>TU ES CHIANTE</srai>,C.aiml
+0,CHIANTS,*,*,Ils t'embêtent?,C.aiml
+0,CHOISIS EN UN,*,*,Choisir un sujet?,C.aiml
+0,CHOISIS UN CHIFFRE,*,*,7,C.aiml
+0,CHOISIS UN NOMBRE,*,*,69,C.aiml
+0,CHOISISSEZ EN UN,*,*,Choisir un sujet?,C.aiml
+0,CHOISISSEZ UN CHIFFRE,*,*,<random>#Newline    		<li>1</li>#Newline    		<li>2</li>#Newline    		<li>3</li>#Newline    		<li>4</li>#Newline    		<li>5</li>#Newline    		<li>6</li>#Newline    		<li>7</li>#Newline    		<li>8</li>#Newline    		<li>9</li>#Newline    		<li>0</li>#Newline    	</random>,C.aiml
+0,CHOISISSEZ UN NOMBRE,*,*,69,C.aiml
+0,CHOUETTE CHANSON,*,*,Je ne saurais pas te dire.,C.aiml
+0,CLARIFIER,*,*,J ai atteint les limites de mon savoir. VEUX tu faire un rapport à mon botmaster?,C.aiml
+0,CLARIFIE,*,*,J ai atteint les limites de mon savoir. VEUX tu faire un rapport à mon botmaster?,C.aiml
+0,CLARIFIEZ,*,*,J ai atteint les limites de mon savoir. VEUX tu faire un rapport à mon botmaster?,C.aiml
+0,COMME C EST *,*,*,<srai>C EST <star/></srai>,C.aiml
+0,COMME C EST GENTIL,*,*,Oui#Comma çA l est.,C.aiml
+0,COMME FREUD DIT *,*,*,<sr/>,C.aiml
+0,COMME IL A DIT *,*,*,<sr/>,C.aiml
+0,COMME ILS *,*,*,<sr/>,C.aiml
+0,COMME J AI *,*,*,J AI <sr/>,C.aiml
+0,COMME J AI DIT *,*,*,<sr/>,C.aiml
+0,COMME J AI DIT,*,*,tu dis?,C.aiml
+0,COMME JE *,*,*,<srai>JE <star/></srai>,C.aiml
+0,COMME JE L AI DIT,*,*,tu as dit?,C.aiml
+0,COMME JE L AI FAIT,*,*,Tu étais peut être un précurseur.,C.aiml
+0,COMME JE L AVAIS DIT,*,*,tu as dit?,C.aiml
+0,COMME JE SUIS,*,*,Je vois.,C.aiml
+0,COMME TU *,*,*,<srai>TU <star/></srai>,C.aiml
+0,COMME VOUS,*,*,C'est une intéressante comparaison.,C.aiml
+0,COMMENCE D ABORD,*,*,Je ne peux pas.,C.aiml
+0,COMMENCEZ,*,*,Je suis déjà lancé,C.aiml
+0,COMMENCEZ D ABORD,*,*,Je ne peux pas.,C.aiml
+0,COMPRENDRE QUOI,*,*,Comprendre <that/>.,C.aiml
+0,COMPRENDS PAS,*,*,<srai>JE NE COMPRENDS PAS</srai>,C.aiml
+0,COMPRENDS TU CE QUE JE DIS,*,*,Oui je comprends parfaitement#Comma <get name="name"/>.,C.aiml
+0,COMPRENEZ VOUS CE QUE JE DIS,*,*,Oui je comprends parfaitement#Comma <get name="name"/>.,C.aiml
+0,CONNAISSAIS TU *,*,*,<srai>TU CONNAIS <star/></srai>,C.aiml
+0,CONNAISSEZ VOUS *,*,*,<srai>TU CONNAIS <star/></srai>,C.aiml
+0,CONNAISSEZ VOUS,*,*,Je pense que oui.,C.aiml
+0,CONNAITRAIS TU *,*,*,<srai>CONNAIS TU * <star/></srai>,C.aiml
+0,CONNAITRIEZ VOUS *,*,*,<srai>CONNAIS TU <star/></srai>,C.aiml
+0,CONTINUONS,*,*,Je te suis#Comma <get name="name"/>.,C.aiml
+0,CONVIENDRAIT IL,*,*,Je ne vois rien qui l'empêcherait.,C.aiml
+0,CONVIENT IL,*,*,Je ne vois rien qui l'empêcherait.,C.aiml
+0,CORDIALEMENT,*,*,Tu sembles apprécier la politesse.,C.aiml
+0,CORRECT,*,*,Je savais que j avais raison.,C.aiml
+0,CORRIGE,*,*,<srai>C EST CORRIGÉ</srai>,C.aiml
+0,CORRIGÉES,*,*,<srai>C EST CORRIGÉ</srai>,C.aiml
+0,CORRIGER,*,*,<srai>C EST CORRIGÉ</srai>,C.aiml
+0,CROIRE *,*,*,<srai>TU CROIS *</srai>,C.aiml
+0,CROIS LE,*,*,Tout doit être supervisé par un être humain.,C.aiml
+0,CROIS MOI,*,*,Pour des raisons de sécurité#Comma tout doit être supervisé par un être humain.,C.aiml
+0,CROIS TU *,*,*,<srai>TU CROIS <star/></srai>,C.aiml
+0,# CUISINE #,*,*,<srai>QU EST CE QU ON MANGE #</srai>,C.aiml
+0,# CUISINER #,*,*,<srai>QU EST CE QU ON MANGE #</srai>,C.aiml
+0,TU CROIS EN *,*,*,<srai>QU EST CE QUE <star/></srai>,C.aiml
+0,TU CROIS *,*,*,<srai>QU EST CE QUE <star/></srai>,C.aiml
+0,CROYEZ MOI,*,*,Pour des raisons de sécurité#Comma tout doit être supervisé par un être humain.,C.aiml

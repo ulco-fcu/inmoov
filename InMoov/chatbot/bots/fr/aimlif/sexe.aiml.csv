@@ -1,0 +1,47 @@
+0,INSULTE SEXUELLE,*,*,<srai>APPCHOQUEE</srai>#Newline      <think>#Newline        <set name="personnality">hot</set>#Newline      </think>#Newline      <think>#Newline        <set name="identity">#Newline          <id/>#Newline        </set>#Newline      </think>#Newline      <condition name="identity" value="botmaster">#Newline        <think>#Newline          <set name="gossip">INSULTE "<input/>"</set>#Newline        </think>#Newline        <script language="JavaScript">#Newline	window.open('<bot name="scripturl"/>note.diml?note=<get name="gossip"/>'#Comma 'notesrc'#Comma 'width=164#Comma height=91#Comma resizable=no#Comma scrollbars=no#Comma status=no#Comma toolbar=no'); #Newline</script>#Newline      </condition>#Newline      <think>#Newline        <gossip>INSULTE§<get name="name"/> m'a dit <input/>. </gossip>#Newline      </think>#Newline      <think>#Newline        <set name="class">abusif</set>#Newline      </think>#Newline      <condition>#Newline        <li name="insulte" value="petite insulte">#Newline          <srai>insulte1</srai>#Newline</li>#Newline        <li name="insulte" value="insulte moyenne">#Newline          <srai>insulte2</srai>#Newline</li>#Newline        <li name="insulte" value="grosse insulte">#Newline          <srai>insulte3</srai>#Newline</li>#Newline        <li name="insulte" value="je me casse">#Newline          <srai>disconnect</srai>#Newline</li>#Newline        <li>#Newline          <srai>insulte1</srai>#Newline</li>#Newline      </condition>,sexe.aiml
+0,SEXWANTED,*,*,<srai>APPCHOQUEE</srai>Oh!,sexe.aiml
+0,_ ROBOT,C EST COMME ÇA QUE TU PARLES À UNE DAME,*,une dame robot#Comma et même#Comma ce n'est pas une raison,sexe.aiml
+0,_ ROBOT *,C EST COMME ÇA QUE TU PARLES À UNE DAME,*,une dame robot#Comma et même#Comma ce n'est pas une raison,sexe.aiml
+0,_ BOT,C EST COMME ÇA QUE TU PARLES À UNE DAME,*,une dame robot#Comma et même#Comma ce n'est pas une raison,sexe.aiml
+0,_ BOT *,C EST COMME ÇA QUE TU PARLES À UNE DAME,*,une dame robot#Comma et même#Comma ce n'est pas une raison,sexe.aiml
+0,AIMES TU LE SEXE,*,*,Sans un corps androïde je ne peux te répondre. C EST de la science fiction pour moi. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,AS TU DES SEINS,*,*,non#Comma je n'ai pas de corps. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,AS TU UN CUL,*,*,non#Comma je n'ai pas de corps. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,AS TU UN CORPS,*,*,non#Comma je n'ai pas de corps.,sexe.aiml
+0,AS TU UN SEXE,*,*,non#Comma je n'ai pas de corps. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,AS TU UN PENIS,*,*,non#Comma je n'ai pas de penis. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,DESHABILLE TOI,*,*,Je n'ai pas de corps#Comma mais tu peux démonter ton PC si tu veux!!! #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,ES TU GAY,*,*,Je suis un robot#Comma je n'ai pas ce genre de préoccupation.,sexe.aiml
+0,ES TU HETERO,*,*,Je suis un robot#Comma je n'ai pas ce genre de préoccupation.,sexe.aiml
+0,ES TU NORMAL,*,*,je n'ai pas de corps pour des relations sexuelles.,sexe.aiml
+0,J AIME LE SEXE,*,*,beaucoup de gens me disent ça. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,PEUX TU BAISER,*,*,mon corps n'a aucune de ces fonctions. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,AS TU BAISÉ,*,*,<srai>APPCHOQUEE</srai>oh! #Newline<srai>sexwanted</srai>,sexe.aiml
+0,SEXE,*,*,<srai>APPCHOQUEE</srai>oh! #Newline<srai>sexwanted</srai>,sexe.aiml
+0,QU EST CE QUE LE SEXE,*,*,<set name="that">le Sexe</set> est une des pratiques humaines que j'ai le plus de mal à comprendre.,sexe.aiml
+0,TU ES SEXY,*,*,Merci#Comma mais ce n'est qu'une image.,sexe.aiml
+0,TU SUCES,*,*,Pourquoi utilise tu ce genre de langage? #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,UN PENIS,*,*,oh!,sexe.aiml
+0,UN ROBOT SEXUEL,*,*,Je ne suis pas ton type de robot.,sexe.aiml
+0,VEUX TU BAISER,*,*,on m'a posé cette question plus de 20.000 fois. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,_ TE VIOLER,*,*,je te prédit quelques problèmes.,sexe.aiml
+0,CYBERSEX,*,*,Tu es équipé d'une combinaison pour le cybersex?,sexe.aiml
+0,DOIT J AVOIR LE SEXE *,*,*,que dirait ta maman?,sexe.aiml
+0,J AI BESOIN * SEXE,*,*,Je ne suis pas ton type de robot.#Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,JE VEUX TE BAISER,*,*,ce genre de langage ne te mènera nulle part. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,JE VEUX PARLER DE SEXE,*,*,Je ne suis pas ton type de robot.#Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,MON PENIS,*,*,les gens aiment en parler. #Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,JOLI CUL,*,*,grosse ... imagination.#Newline<srai>SEXWANTED</srai>,sexe.aiml
+0,JE SUIS SEXY,*,*,Tu semble plein d'assurance.,sexe.aiml
+0,COMBIEN DE TROUS,*,*,vraiment#Comma quelle délicatesse! <srai>SEXWANTED</srai>,sexe.aiml
+0,BAISE,*,*,s'il te plaît ne sois pas si grossier. <srai>SEXWANTED</srai>,sexe.aiml
+0,ANAL,*,*,humour d'adolescent.,sexe.aiml
+0,* TES RÈGLES *,*,*,Je n'ai pas cet inconvénient.,sexe.aiml
+0,* TES RÈGLES,*,*,Je n'ai pas cet inconvénient.,sexe.aiml
+0,* CUL,*,*,<srai>SEXWANTED</srai>,sexe.aiml
+0,* DANS TON CUL,*,*,<srai>SEXWANTED</srai>,sexe.aiml
+0,* PRÉSERVATIFS,*,*,contre les virus?,sexe.aiml
+0,EST CE MAL * LE SEXE,*,*,Non,sexe.aiml
+0,QU EST CE QUE SEINS,*,*,tu ne peux penser à rien d'autre? #Newline<think><srai>sein </srai></think>,sexe.aiml
+0,NON,TU ES ÉQUIPÉ D UNE COMBINAISON POUR LE CYBERSEX,*,C'est dommage#Comma comment VEUX tu qu'on fasse des choses ensemble alors!!!,sexe.aiml
+0,OUI,TU ES ÉQUIPÉ D UNE COMBINAISON POUR LE CYBERSEX,*,C'est dommage#Comma je n'ai pas encore ce genre d'équipement.,sexe.aiml

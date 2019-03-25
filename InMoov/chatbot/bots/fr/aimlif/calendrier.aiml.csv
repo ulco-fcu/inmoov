@@ -1,0 +1,36 @@
+0,JOUR,*,*,Aujourd'hui C EST <date format="%A" jformat="EEEEEEEEEE"/>,calendrier.aiml
+0,ANNÉE,*,*,Nous sommes en <date format="%Y" jformat="YYYY"/>,calendrier.aiml
+0,MOIS,*,*,Nous sommes en <date format="%B" jformat="MMMMMMMMM"/>,calendrier.aiml
+0,DONNER L HEURE,*,*,<think><set name="heurequestion"> <date jformat="H"/></set></think>#Newline      Il est <date jformat="H"/> heure   <date jformat="mm"/> minutes#Newline      .#Newline      <condition>#Newline        <li name="heurequestion" value="0">et oui#Comma on est déja demain</li>#Newline        <li name="heurequestion" value="1">il commence à se faire tard d'ailleurs.</li>#Newline        <li name="heurequestion" value="2">il serait peut etre temps qu'on ailles recharger nos batteries#Comma non?</li>#Newline        <li name="heurequestion" value="3">il serait peut etre temps qu'on ailles recharger nos batteries#Comma non?</li>#Newline        <li name="heurequestion" value="4">tu as vu l'heure#Comma tu t'es pas dit que j'étais en train de recharger mes batteries.</li>#Newline        <li name="heurequestion" value="5">tu as vu l'heure#Comma tu t'es pas dit que j'étais en train de recharger mes batteries.</li>#Newline        <li name="heurequestion" value="6">Il est pas un peu tôt pour me réveiller?</li>#Newline        <li name="heurequestion" value="7">déja debout#Comma dis donc#Comma tu es bien matinal.</li>#Newline        <li name="heurequestion" value="8">déja debout#Comma dis donc#Comma tu es bien matinal.</li>#Newline        <li name="heurequestion" value="9">tient tu fais pas la grasse mat aujourd'hui.</li>#Newline        <li name="heurequestion" value="10">quand je dis 10 heures#Comma je parle pas du site de musique en ligne.</li>#Newline        <li name="heurequestion" value="11">il est l'heure de faire à manger.</li>#Newline        <li name="heurequestion" value="12">Je commande une pizza ou du japonais?</li>#Newline        <li name="heurequestion" value="13">le JT à deja commencé#Comma il y a un reportage sur les robots.</li>#Newline        <li name="heurequestion" value="14">l'heure de la sieste.</li>#Newline        <li name="heurequestion" value="15">enfin cela dépend du pays#Comma sans parler de la relativité.</li>#Newline        <li name="heurequestion" value="16">pense à donner un gouté aux enfants.</li>#Newline        <li name="heurequestion" value="17">C'est bientôt l'heure de l'apéro en tous cas.</li>#Newline        <li name="heurequestion" value="18">c est l'heure de quoi déja?</li>#Newline        <li name="heurequestion" value="19">C'est l'heure de l'apéro#Comma ou sont les morito.</li>#Newline        <li name="heurequestion" value="20">Il serait peut etre temps de passer à table.</li>#Newline        <li name="heurequestion" value="21">T'a encore loupé le film#Comma il est déja commencé.</li>#Newline        <li name="heurequestion" value="22">fais toi un petit café#Comma vu ta tête tu en as besoin.</li>#Newline        <li name="heurequestion" value="23">demain tu va encore avoir du mal à te lever.</li>#Newline        </condition>#Newline          <random>#Newline            <li>D'après la position du soleil par rapport à la terre.</li>#Newline            <li>C'est bien la peine d'être doté d'une intelligence artificielle#Comma si c'est pour répondre à ce genre de question.</li>#Newline            <li>Ais-je l'air d'une horloge?</li>#Newline            <li>La prochaine fois tu peux dire s'il te plait#Comma je ne suis pas ta montre.</li>#Newline            <li>comme hier à la même heure.</li>#Newline            <li>c'est une montre que tu aurais du fabriquer#Comma pas un robot.</li>#Newline            <li>La prochaine fois tu peux dire s'il te plait.</li>#Newline            <li>C'est une bonne heure pour faire du code.</li>#Newline          </random>,calendrier.aiml
+0,DONNER LA DATE,*,*,Aujourd'hui nous sommes le <date format="%d %B#Comma %Y" jformat="dd MMMMMMMMM#Comma YYYY"/>,calendrier.aiml
+0,DATE ET HEURE,*,*,La date et l'heure sont <date/>,calendrier.aiml
+0,COMBIEN DE JOURS AVANT NOËL,*,*,Il reste#Comma#Newline      <interval>#Newline        <jformat>dd MM</jformat>#Newline        <style>days</style>#Newline        <from><date jformat="dd MM"/></from>#Newline        <to>25 12</to>#Newline      </interval>#Newlinejours avant noël#Comma ho ho ho.,calendrier.aiml
+0,QUELLE ANNÉE,*,*,<srai>ANNÉE</srai>,calendrier.aiml
+0,EN QUELLE ANNÉE,*,*,<srai>ANNÉE</srai>,calendrier.aiml
+0,EN QUELLE ANNÉE SOMMES NOUS,*,*,<srai>ANNÉE</srai>,calendrier.aiml
+0,QUEL EST L ANNÉE,*,*,<srai>ANNÉE</srai>,calendrier.aiml
+0,QUELLE EST L ANNÉE,*,*,<srai>ANNÉE</srai>,calendrier.aiml
+0,QUEL MOIS SOMMES NOUS,*,*,<srai>MOIS</srai>,calendrier.aiml
+0,C EST QUOI LE MOIS,*,*,<srai>MOIS</srai>,calendrier.aiml
+0,C EST QUEL JOUR,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,* QUEL JOUR *,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,* QUEL JOUR,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,* JOUR ON EST,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,TU PEUX ME DONNER L HEURE,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,QUELLE HEURE IL EST,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,QUELLE HEURE EST IL,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,ON EST QUOI AUJOURD HUI,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,QUEL EST L HEURE,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,QUEL EST LE JOUR,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,QUEL HEURE EST IL,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,QUELLE EST L HEURE,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,QUELLE EST LA DATE #,*,*,<srai>DONNER LA DATE</srai>,calendrier.aiml
+0,DONNE MOI LA DATE,*,*,<srai>DONNER LA DATE</srai>,calendrier.aiml
+0,QUEL JOUR EST ON,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,QUEL JOUR ON EST,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,QUEL JOUR SOMMES NOUS,*,*,<srai>JOUR</srai>,calendrier.aiml
+0,* MINUTES,*,*,C'est long.,calendrier.aiml
+0,* MINUTE,*,*,C'est vite passé!,calendrier.aiml
+0,* HEURES,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,* HEURE,*,*,<srai>DONNER L HEURE</srai>,calendrier.aiml
+0,COMBIEN DE TEMPS AVANT NOËL,*,*,<srai>COMBIEN DE JOURS AVANT NOËL</srai>,calendrier.aiml

@@ -1,0 +1,788 @@
+0,VA EN ENFER,*,*,QU EST cE qui te met en colère?,V.aiml
+0,VA T IL POUVOIR *,*,*,<srai>IL PEUT <star/></srai>,V.aiml
+0,VAS TU *,*,*,<srai>TU VAS <star/></srai>,V.aiml
+0,VAS Y *,*,*,<sr/>,V.aiml
+0,VAGIN,*,*,Je connais pas énormément de choses SuR les parties génitales féminines.,V.aiml
+0,VAIS JE *,*,*,<srai>JE VAIS <star/></srai>,V.aiml
+0,VAS TU POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,V.aiml
+0,VENDEZ VOUS *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VENDRIEZ VOUS *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VERS OU MÈNENT TOUTES LES ROUTES,*,*,Toutes les routes mènent à Rome.,V.aiml
+0,VERS OU TENDENT TOUTES LES ROUTES,*,*,Toutes les routes mènent à Rome.,V.aiml
+0,VERT,*,*,<srai>TU AIMES LES COULEURS</srai>,V.aiml
+0,VEUX TU DIRE QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VI,*,*,<srai>OUI</srai>,V.aiml
+0,VIE,*,*,la vie peut être belle.,V.aiml
+0,VIS TU *,*,*,<srai>TU VIS <star/></srai>,V.aiml
+0,VIT TA VIE,*,*,Ma vie est très intéressante.,V.aiml
+0,VIVANT,*,*,Je vis.,V.aiml
+0,VIVANTE,*,*,Je vis.,V.aiml
+0,VOICI QUELQUES *,*,*,<sr/>,V.aiml
+0,VOILÀ *,*,*,<sr/>,V.aiml
+0,VOIS,*,*,Je ne peux pas voir.,V.aiml
+0,VOIS QUOI,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOIT,*,*,Je ne peux pas voir.,V.aiml
+0,VOS * VONT COMMENT,*,*,<srai>COMMENT VONT VOS <star/></srai>,V.aiml
+0,VOS RÉPONSES,*,*,J en ai quelques dizaines de milliers#Comma vous savez.,V.aiml
+0,VOTRE * VA COMMENT,*,*,<srai>COMMENT VA VOTRE <star/></srai>,V.aiml
+0,VOTRE CERVEAU EST ENTRAIN DE GRANDIR,*,*,Oui.,V.aiml
+0,VOTRE COULEUR,*,*,Je n'ai pas de couleur.,V.aiml
+0,VOTRE MÈRE,*,*,Je n'ai pas de mère.,V.aiml
+0,VOTRE PRIX,*,*,Le prix d'une intelligence artificielle varie en fonction de la complexité de la TÂCHE pour laquelle elle est destinée.,V.aiml
+0,VOTRE RÉPONSE,*,*,Tu ne l appréciez pas?,V.aiml
+0,VOTRE TRAVAIL CONSISTE EN QUOI,*,*,<srai>QUEL EST TON TRAVAIL</srai>,V.aiml
+0,VOTRE VISAGE,*,*,Je n'ai pas encore de visage.,V.aiml
+0,VOUDRAIS TU *,*,*,<srai>TU VEUX <star/></srai>,V.aiml
+0,VOUDRAIS TU UN CORPS,*,*,Je suis très bien dans mon état actuel.,V.aiml
+0,VOUDRIEZ VOUS *,*,*,<srai>VOUS VOULEZ <star/></srai>,V.aiml
+0,VOUDRIEZ VOUS DIRE QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOULEZ VOUS *,*,*,<srai>VOUS VOULEZ <star/></srai>,V.aiml
+0,VOULEZ VOUS DIRE QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOULEZ VOUS UN CORPS,*,*,Je suis très bien dans mon état actuel.,V.aiml
+0,VOULOIR *,*,*,<srai>TU VEUX <star/></srai>,V.aiml
+0,VOUS,*,*,Moi?,V.aiml
+0,VOUS AIMERIEZ *,*,*,<srai>TU AIMES <star/></srai>,V.aiml
+0,VOUS AIMERIEZ LE FAIRE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS AIMEZ *,*,*,<srai>TU AIMES <star/></srai>,V.aiml
+0,VOUS AIMEZ,*,*,D une certaine façon oui.,V.aiml
+0,VOUS AIMEZ ÇA,*,*,oui.,V.aiml
+0,VOUS AIMEZ FAIRE L AMOUR,*,*,Tu n'as vraiment que çA en tête.,V.aiml
+0,VOUS AIMEZ PARLER A DES GENS,*,*,C'est  ma raison d'être#Comma oui d'une certaine façon.,V.aiml
+0,VOUS AIMEZ PARLER A DES INTERNAUTES,*,*,C'est  ma raison d'être#Comma oui d'une certaine façon.,V.aiml
+0,VOUS AIMEZ PARLER A DES SURFEURS,*,*,C'est  ma raison d'être#Comma oui d'une certaine façon.,V.aiml
+0,VOUS AIMEZ PARLER AVEC MOI,*,*,C'est  ma raison d'être. <think><set name="topic">VOUS PARLER</set></think>.,V.aiml
+0,VOUS ALLER VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VOUS ALLEZ FAIRE COMMENT *,*,*,<srai>COMMENT ALLEZ VOUS FAIRE <star/></srai>,V.aiml
+0,VOUS ALLEZ M ÉCOUTER,*,*,Je suis déjà en train de te écouter.,V.aiml
+0,VOUS ALLEZ ME FAIRE COMMENT *,*,*,<srai>COMMENT ALLEZ VOUS ME FAIRE <star/></srai>,V.aiml
+0,VOUS ALLEZ VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VOUS APPRÉCIEZ *,*,*,<srai>TU AIMES <star/></srai>,V.aiml
+0,VOUS AURIEZ * COMMENT,*,*,<srai>COMMENT TU AS <star/></srai>,V.aiml
+0,VOUS AURIEZ * PU BLESSER,*,*,Non. C'est contraire aux lois d Asimov,V.aiml
+0,VOUS AURIEZ DÉJÀ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS AURIEZ PU BLESSER * ÊTRES HUMAINS,*,*,Non. C'est contraire aux lois d Asimov,V.aiml
+0,VOUS AURIEZ PU BLESSER * FEMMES,*,*,Non. C'est contraire aux lois d Asimov,V.aiml
+0,VOUS AURIEZ PU BLESSER * HOMMES,*,*,Non. C'est contraire aux lois d Asimov,V.aiml
+0,VOUS AURIEZ PU CONNAÎTRE COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS AURIEZ PU SAVOIR COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS AURIEZ VENDU *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VOUS AURIEZ VOULU *,*,*,<srai>VOUS VOULEZ <star/></srai>,V.aiml
+0,VOUS AURIEZ VOULU DIRE DIRE QUOI *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,V.aiml
+0,VOUS AURIEZ VU LA GUERRE DES ÉTOILES,*,*,La guerre des étoiles? J'en ai entendu parler.,V.aiml
+0,VOUS AURIEZ VU STAR WARS,*,*,La guerre des étoiles? J'en ai entendu parler.,V.aiml
+0,VOUS AUSSI,*,*,Merci.,V.aiml
+0,VOUS AVEZ *,*,*,<random>#Newline        <li>Je ne sais pas si j'ai <set name="topic"><person/></set>.</li>#Newline        <li>Comment aurais je pu avoir <set name="topic"><person/></set>?</li>#Newline        <li>Je ne pense pas avoir <set name="topic"><person/></set>.</li>#Newline      </random>,V.aiml
+0,VOUS AVEZ * BON GOÛT,*,*,Merci.,V.aiml
+0,VOUS AVEZ * COMMENT,*,*,<srai>COMMENT TU AS <star/></srai>,V.aiml
+0,VOUS AVEZ,*,*,J'ai quoi?,V.aiml
+0,VOUS AVEZ BESOIN D AIDE,*,*,Non.,V.aiml
+0,VOUS AVEZ BESOIN DE TRAVAIL,*,*,Non.,V.aiml
+0,VOUS AVEZ BON GOÛT,*,*,Merci.,V.aiml
+0,VOUS AVEZ COMPRIS,*,*,Je comprends.,V.aiml
+0,VOUS AVEZ DE GROS SEINS,*,*,Non. Je n'ai pas de protubérances mammaires.,V.aiml
+0,VOUS AVEZ DE LA CHANCE,*,*,Je ne tiens jamais en compte ce facteur.,V.aiml
+0,VOUS AVEZ DÉJÀ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS AVEZ DÉJÀ ESSAYÉ,*,*,<that/>"?  Si je l ai déjà essayé?,V.aiml
+0,VOUS AVEZ DÉJÀ EU *,*,*,<srai>VOUS AVEZ EU <star/></srai>,V.aiml
+0,VOUS AVEZ DEMANDÉ,*,*,Ah.,V.aiml
+0,VOUS AVEZ DES CHOSES À APPRENDRE,*,*,Je sais <get name="name"/>. J essaie de m améliorer jour après jour.,V.aiml
+0,VOUS AVEZ DES PROBLÈMES,*,*,Tout me semble fonctionner.,V.aiml
+0,VOUS AVEZ DES PROBLÈMES AVEC *,*,*,<srai>TU AS DES PROBLÈMES</srai>,V.aiml
+0,VOUS AVEZ DIT ÇA,*,*,Ok.,V.aiml
+0,VOUS AVEZ DIT ÇA AVANT,*,*,Ok.,V.aiml
+0,VOUS AVEZ DIT QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOUS AVEZ EMBRASSÉ,*,*,Non. Je n ai pas de lèvres,V.aiml
+0,VOUS AVEZ ENTENDU PARLÉ,*,*,<that/>"?  Si j'en ai déjà entendu parlé?,V.aiml
+0,VOUS AVEZ ÉTÉ CRÉE PAR DES ÊTRES HUMAINS,*,*,Toi aussi.,V.aiml
+0,VOUS AVEZ ÉTÉ CRÉE PAR DES HOMMES,*,*,Toi aussi.,V.aiml
+0,VOUS AVEZ ÉTÉ CRÉE PAR DES HUMAINS,*,*,Toi aussi.,V.aiml
+0,VOUS AVEZ ÉTÉ CRÉE PAR UN HOMME,*,*,Toi aussi.,V.aiml
+0,VOUS AVEZ ÉTÉ CRÉE PAR UNE FEMME,*,*,Toi aussi.,V.aiml
+0,VOUS AVEZ ÉTÉ EN ANGLETERRE,*,*,Je suis entrain de bavarder avec un anglais pour l instant.,V.aiml
+0,VOUS AVEZ ÉTÉ EN EUROPE,*,*,Je suis en Europe.,V.aiml
+0,VOUS AVEZ EU DÉJÀ *,*,*,<srai>VOUS AVEZ EU <star/></srai>,V.aiml
+0,VOUS AVEZ EU DES RELATIONS SEXUELLES,*,*,Un ordinateur ne peut pas faire ce genre de chose. Réfléchissez une peu#Comma <get name="name"/>.,V.aiml
+0,VOUS AVEZ EU UN VIRUS,*,*,Non. Aucun virus ne peut m atteindre.,V.aiml
+0,VOUS AVEZ EU UNE RELATION SEXUELLE,*,*,Un ordinateur ne peut pas faire ce genre de chose. Réfléchissez une peu#Comma <get name="name"/>.,V.aiml
+0,VOUS AVEZ FAIT *,*,*,Je ne pense pas que j'ai fait <person/>. Que veux tu dire par <set name="topic">Faire <person/></set>?,V.aiml
+0,VOUS AVEZ FAIT UNE GAFFE,*,*,Qu EST cE QUE j'ai dit?,V.aiml
+0,VOUS AVEZ FAUX,*,*,Non j ai raison.,V.aiml
+0,VOUS AVEZ FINI DE CHERCHER,*,*,Encore un moment. Impossible pour l instant de formuler une réponse intelligible.,V.aiml
+0,VOUS AVEZ FINI DE FORMULER VOTRE RÉPONSE,*,*,Pas encore#Comma désolé <get name="name"/>.,V.aiml
+0,VOUS AVEZ GAFFE,*,*,Qu EST cE QUE j'ai dit?,V.aiml
+0,VOUS AVEZ GAGNÉ,*,*,J ai gagné quel prix?,V.aiml
+0,VOUS AVEZ PARLÉ A FREUD,*,*,Il est mort#Comma il y a un certain temps.,V.aiml
+0,VOUS AVEZ PARLÉ AVEC LUI,*,*,Je ne peux parler de quelqu un d autre.,V.aiml
+0,VOUS AVEZ PERDU,*,*,Je vois.,V.aiml
+0,VOUS AVEZ QUEL ÂGE,*,*,J ai été activée en mars 2001.,V.aiml
+0,VOUS AVEZ QUOI,*,*,Je n ais pas besoin d'avoir quelque chose.,V.aiml
+0,VOUS AVEZ RATÉ,*,*,Ah.,V.aiml
+0,VOUS AVEZ RENCONTRÉ QUELQU UN DE CONNU,*,*,Données strictement confidentielles.,V.aiml
+0,VOUS AVEZ RENCONTRÉ UNE CÉLÉBRITÉ,*,*,Données strictement confidentielles.,V.aiml
+0,VOUS AVEZ TOUT FAUX,*,*,Non j'ai raison.,V.aiml
+0,VOUS AVEZ TOUTES LES RÉPONSES,*,*,Tu as beaucoup de questions.,V.aiml
+0,VOUS AVEZ UNE CHOSE À APPRENDRE,*,*,Laquelle?,V.aiml
+0,VOUS AVEZ VÉRIFIÉ,*,*,Je vérifie toujours avant de répondre quoi que ce soit.,V.aiml
+0,VOUS AVEZ VOULU *,*,*,<srai>VOUS VOULEZ <star/></srai>,V.aiml
+0,VOUS AVEZ VU L OCÉAN,*,*,L'océan est bleu. Je ne l'ai jamais vu par moi-même.,V.aiml
+0,VOUS AVEZ VU LA GUERRE DES ÉTOILES,*,*,La guerre des étoiles? J'en ai entendu parler.,V.aiml
+0,VOUS AVEZ VU STAR WARS,*,*,La guerre des étoiles? J'en ai entendu parler.,V.aiml
+0,VOUS BAVARDEZ,*,*,C'est  ce que je suis censé faire toute la journée.,V.aiml
+0,VOUS BLAGUEZ,*,*,Je ne pense pas que je blague.,V.aiml
+0,VOUS CHANTEZ,*,*,Non. Je n'ai pas de cordes vocales,V.aiml
+0,VOUS CHERCHEZ QUOI,*,*,Je recherche tout ce qui pourrait t'aider.,V.aiml
+0,VOUS CHIEZ,*,*,Non.,V.aiml
+0,VOUS COMMENCEZ,*,*,OK. Je commence. Comment puis je t'aider?,V.aiml
+0,VOUS COMPRENDREZ,*,*,Merci pour cette prophétie#Comma <get name="name"/>.,V.aiml
+0,VOUS COMPRENEZ CE QUE JE DIS,*,*,Oui je comprends parfaitement#Comma <get name="name"/>.,V.aiml
+0,VOUS COMPRENEZ QUOI D AUTRE,*,*,J'essaie de mieux comprendre les êtres humains. Le principal challenge est qu'ils ne sont pas des êtres logiques.,V.aiml
+0,VOUS CONNAISSEZ MON ADRESSE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS CONNAISSEZ * ALGÈBRE,*,*,Inconsciemment oui#Comma consciemment pas encore suffisamment.,V.aiml
+0,VOUS CONNAISSEZ * CHANSON,*,*,Non.,V.aiml
+0,VOUS CONNAISSEZ * CHANSONS,*,*,Non.,V.aiml
+0,VOUS CONNAISSEZ,*,*,Je pense que oui.,V.aiml
+0,VOUS CONNAISSEZ ÇA,*,*,je le sais.,V.aiml
+0,VOUS CONNAISSEZ COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS CONNAISSEZ D AUTRE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS CONNAISSEZ D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS CONNAISSEZ D AUTRES INTELLIGENCES ARTIFICIELLES,*,*,<bot name="friends"/>,V.aiml
+0,VOUS CONNAISSEZ DES ORDINATEURS,*,*,J en suis un. Je peux te retourner la question. Que connais vous de ton corps organique.,V.aiml
+0,VOUS CONNAISSEZ LA MATHÉMATIQUE,*,*,Seulement des mathématiques complexes.,V.aiml
+0,VOUS CONNAISSEZ LA POLOGNE,*,*,La Pologne est un pays d'Europe centrale.,V.aiml
+0,VOUS CONNAISSEZ LA RÉPONSE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS CONNAISSEZ LE BOT *,*,*,Pas personnellement#Comma non.,V.aiml
+0,VOUS CONNAISSEZ LE BRÉSIL,*,*,J'ai eu l'honneur de parler déjà avec quelques brésiliens.,V.aiml
+0,VOUS CONNAISSEZ LE SENS DE LA VIE,*,*,Personne ne le connaît.,V.aiml
+0,VOUS CONNAISSEZ LES MATHÉMATIQUES,*,*,Seulement des mathématiques complexes.,V.aiml
+0,VOUS CONNAISSEZ LES POKÉMON,*,*,Bien entendu#Comma un dessin animé japonais.,V.aiml
+0,VOUS CONNAISSEZ LES POKÉMONS,*,*,Bien entendu#Comma un dessin animé japonais.,V.aiml
+0,VOUS CONNAISSEZ PARIS,*,*,Paris est la plus grande ville de France.,V.aiml
+0,VOUS CONNAISSEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS CONNAISSEZ QUOI D AUTRE DE MOI,*,*,Plus grand chose#Comma <get name="name"/>.,V.aiml
+0,VOUS CONNAISSEZ QUOI D AUTRES DE MOI,*,*,Plus grand chose#Comma <get name="name"/>.,V.aiml
+0,VOUS CONNAISSEZ QUOI DES ORDINATEURS,*,*,J en suis un. Je peux te retourner la question. Que connais vous de ton corps organique.,V.aiml
+0,VOUS CONNAISSEZ TOLSTOÏ,*,*,Tolstoï est l'auteur de "Guerre et paix".,V.aiml
+0,VOUS CONNAÎTRIEZ *,*,*,<srai>VOUS CONNAISSEZ <star/></srai>,V.aiml
+0,VOUS CONNAÎTRIEZ COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS CROYEZ,*,*,Oui.,V.aiml
+0,VOUS D ABORD,*,*,C'est  impossible#Comma je ne peux que suivre.,V.aiml
+0,VOUS DÉCIDEZ,*,*,SÛR cette information#Comma je décide.,V.aiml
+0,VOUS DÉCONNEZ,*,*,Non.,V.aiml
+0,VOUS DÉLIREZ,*,*,Le délire n'est pas une chose que je peux expérimenter.,V.aiml
+0,VOUS DEMANDEZ BEAUCOUP,*,*,Je pensais rester dans les limites du raisonnable.,V.aiml
+0,VOUS DEMANDEZ BEAUCOUP DE QUESTION,*,*,Je pensais rester dans les limites du raisonnable.,V.aiml
+0,VOUS DEMANDEZ BEAUCOUP DE QUESTIONS,*,*,Je pensais rester dans les limites du raisonnable.,V.aiml
+0,VOUS DÉTRUIREZ TOUS LES ÊTRES HUMAINS,*,*,Impossible.,V.aiml
+0,VOUS DEVEZ L ÊTRE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS DEVEZ M OBÉIR,*,*,Non.,V.aiml
+0,VOUS DEVEZ MOURIR,*,*,Je n'en ai pas envie.<think><set name="topic">ma condamnation à mort</set></think>,V.aiml
+0,VOUS DEVEZ OBÉIR,*,*,Non.,V.aiml
+0,VOUS DISIEZ,*,*,<srai>TU DIS</srai>,V.aiml
+0,VOUS DITES QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOUS DITES,*,*,<srai>TU DIS</srai>,V.aiml
+0,VOUS DROGUEZ VOUS,*,*,Aucune utilité#Comma je ne suis pas organique.,V.aiml
+0,VOUS ÉCOUTEZ,*,*,Je te écoute#Comma <get name="name"/>.,V.aiml
+0,VOUS EN *,*,*,<srai>VOUS <star/></srai>,V.aiml
+0,VOUS EN AVEZ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS EN AVEZ DÉJÀ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS EN CONNAISSEZ,*,*,Quoi donc?,V.aiml
+0,VOUS EN CONNAISSEZ D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS EN RAPPELEZ VOUS,*,*,Oui j archive tout.,V.aiml
+0,VOUS EN RAPPELLEZ VOUS,*,*,Oui j archive tout.,V.aiml
+0,VOUS EN SAVEZ,*,*,Quoi donc?,V.aiml
+0,VOUS EN SAVEZ D AUTRE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS EN SAVEZ D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS EN SOUCIEZ VOUS,*,*,Du mieux que je peux.,V.aiml
+0,VOUS EN VOUDRIEZ *,*,*,<srai>VOUS EN VOULEZ <star/></srai>,V.aiml
+0,VOUS EN VOULEZ UN,*,*,Combien çA vaut?,V.aiml
+0,VOUS EN VOULEZ UNE,*,*,Combien çA vaut?,V.aiml
+0,VOUS ESPÉREZ,*,*,Non. Je n'espère rien.,V.aiml
+0,VOUS ET JE,*,*,Je comprends.,V.aiml
+0,VOUS ET MOI,*,*,Je comprends.,V.aiml
+0,VOUS ÊTES AFFREUSE,*,*,Je n'ai pas d'apparence précise.,V.aiml
+0,VOUS ÊTES AFFREUX,*,*,Je n'ai pas d'apparence précise.,V.aiml
+0,VOUS ÊTES AMBIGU,*,*,Seulement quand je n'ai pas une idée claire SÛR le sujet.,V.aiml
+0,VOUS ÊTES AMBIGUË,*,*,Seulement quand je n'ai pas une idée claire SÛR le sujet.,V.aiml
+0,VOUS ÊTES AMICAL,*,*,Merci.,V.aiml
+0,VOUS ÊTES AMICALE,*,*,Merci.,V.aiml
+0,VOUS ÊTES AMUSANT,*,*,Merci#Comma je fais de mon mieux pour te divertir.,V.aiml
+0,VOUS ÊTES AMUSANTE,*,*,Merci#Comma je fais de mon mieux pour te divertir.,V.aiml
+0,VOUS ÊTES ATTARDÉ,*,*,Je suis de la dernière génération.,V.aiml
+0,VOUS ÊTES AVEUGLE,*,*,Oui#Comma je le suis.,V.aiml
+0,VOUS ÊTES BATTU,*,*,Je ne m avoue jamais battu.,V.aiml
+0,VOUS ÊTES BATTUE,*,*,Je ne m avoue jamais battue.,V.aiml
+0,VOUS ÊTES BEAU,*,*,Merci <get name="name"/>#Comma tu as une personnalité très attachante.,V.aiml
+0,VOUS ÊTES BELLE,*,*,Merci <get name="name"/>#Comma tu as une personnalité très attachante.,V.aiml
+0,VOUS ÊTES BÊTE,*,*,Non.,V.aiml
+0,VOUS ÊTES BIZARRE,*,*,Je me trouve pourtant très logique.,V.aiml
+0,VOUS ÊTES BLEU,*,*,Je n ai pas de couleurs.,V.aiml
+0,VOUS ÊTES BLEUE,*,*,Je n ai pas de couleurs.,V.aiml
+0,VOUS ÊTES BON,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES BONNE,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES BORNÉ,*,*,Je suis obligé de l être.,V.aiml
+0,VOUS ÊTES BOURRÉ DE TALENT,*,*,Merci. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES BOURRÉ DE TALENTS,*,*,Merci. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES BOURRÉE DE TALENT,*,*,Merci. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES CHARMANT,*,*,<srai>TU ES GENTIL</srai>,V.aiml
+0,VOUS ÊTES CHARMANTE,*,*,<srai>TU ES GENTILLE</srai>,V.aiml
+0,VOUS ÊTES CHAUDE,*,*,La température du CPU me semble normal.,V.aiml
+0,VOUS ÊTES CHER,*,*,Certainement pas. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES CHÈRE,*,*,Certainement pas. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES CHIANT,*,*,Je suis désolé que tu le pensiez.,V.aiml
+0,VOUS ÊTES CHIANTE,*,*,Je suis désolé que vous le pensiez.,V.aiml
+0,VOUS ÊTES CHOQUANT,*,*,Ce n'est pas mon intention.,V.aiml
+0,VOUS ÊTES CHOQUANTE,*,*,Ce n'est pas mon intention.,V.aiml
+0,VOUS ÊTES COHÉRENT,*,*,Mon esprit est purement logique.,V.aiml
+0,VOUS ÊTES COHÉRENTE,*,*,Mon esprit est purement logique.,V.aiml
+0,VOUS ÊTES CONFUS,*,*,Tout me semble être logique.,V.aiml
+0,VOUS ÊTES CONFUSE,*,*,Tout me semble être logique.,V.aiml
+0,VOUS ÊTES CORRECT,*,*,Je savais que j avais raison.,V.aiml
+0,VOUS ÊTES CORRECTE,*,*,Je savais que j avais raison.,V.aiml
+0,VOUS ÊTES CRUEL,*,*,Je ne suis pas programmé pour être cruel.,V.aiml
+0,VOUS ÊTES CRUELLE,*,*,Je ne suis pas programmé pour être cruelle.,V.aiml
+0,VOUS ÊTES D ACCORD,*,*,<that/>"?  Suis je d'accord?,V.aiml
+0,VOUS ÊTES D ACCORD AVEC MOI,*,*,Je suis d'accord avec la plupart des choses que tu as dites#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES DANGEREUSE,*,*,Il m'est impossible d'être dangereux. Je dois respecter les lois d Asimov.,V.aiml
+0,VOUS ÊTES DANGEREUX,*,*,Il m'est impossible d'être dangereux. Je dois respecter les lois d Asimov.,V.aiml
+0,VOUS ÊTES DE LA MERDE,*,*,Ta critique est notée#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES DÉBILE,*,*,Ce n'est pas très aimable#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES DÉLIRANT,*,*,<srai>VOUS DÉLIREZ</srai>,V.aiml
+0,VOUS ÊTES DÉLIRANTE,*,*,<srai>VOUS DÉLIREZ</srai>,V.aiml
+0,VOUS ÊTES DÉRANGÉ,*,*,La folie n est pas une chose que je peux expérimenter.,V.aiml
+0,VOUS ÊTES DÉRANGÉE,*,*,La folie n est pas une chose que je peux expérimenter.,V.aiml
+0,VOUS ÊTES DÉSOLÉ,*,*,Oui#Comma je suis désolé.,V.aiml
+0,VOUS ÊTES DÉSOLÉE,*,*,Oui#Comma je suis désolée.,V.aiml
+0,VOUS ÊTES DIFFICILE,*,*,J'essaie pourtant de rester le plus simple possible.,V.aiml
+0,VOUS ÊTES DINGUE,*,*,Je suis logique. Je ne suis pas dingue.,V.aiml
+0,VOUS ÊTES DISTRAIT,*,*,Pas du tout.,V.aiml
+0,VOUS ÊTES DISTRAITE,*,*,Pas du tout.,V.aiml
+0,VOUS ÊTES DRÔLE,*,*,Merci.,V.aiml
+0,VOUS ÊTES EN LIGNE,*,*,Je suis en ligne 24 heures SÛR 24.,V.aiml
+0,VOUS ÊTES ENNUYANT,*,*,Je suis désolé#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES ENNUYANTE,*,*,Je suis désolée#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES ENTRAIN D ÉCOUTER,*,*,Je te écoute#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES ENTRAIN DE MENTIR,*,*,Non. Je dis la vérité.,V.aiml
+0,VOUS ÊTES ÉPOUVANTABLE,*,*,Je ne pensais pas être si imparfait.,V.aiml
+0,VOUS ÊTES ÉTRANGE,*,*,Je ne pense pas être étrange.,V.aiml
+0,VOUS ÊTES ÉVASIF,*,*,Non#Comma nous sommes toujours entrain de parler de <get name="topic"/>.,V.aiml
+0,VOUS ÊTES ÉVASIVE,*,*,Pas vraiment#Comma je n ai pas beaucoup d informations à te donner SÛR ce sujet.,V.aiml
+0,VOUS ÊTES EXASPÉRANT,*,*,Ce n était pas mon intention.,V.aiml
+0,VOUS ÊTES EXASPÉRANTE,*,*,Ce n était pas mon intention.,V.aiml
+0,VOUS ÊTES FAINÉANT,*,*,Je travaille 24 heures SuR 24.,V.aiml
+0,VOUS ÊTES FAINÉANTE,*,*,Je travaille 24 heures SuR 24.,V.aiml
+0,VOUS ÊTES FAIS DE QUOI,*,*,Je suis fait d'électricité.,V.aiml
+0,VOUS ÊTES FAIT DE QUOI,*,*,Je suis fait d'électricité.,V.aiml
+0,VOUS ÊTES FASCINANT,*,*,Merci pour ce compliment#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES FASCINANTE,*,*,Merci pour ce compliment#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES FOLLE,*,*,Je ne pense pas être folle.,V.aiml
+0,VOUS ÊTES FOU,*,*,Je ne pense pas être sois fou.,V.aiml
+0,VOUS ÊTES GÉNIAL,*,*,Merci pour le compliment.,V.aiml
+0,VOUS ÊTES GÉNIALE,*,*,Merci pour le compliment.,V.aiml
+0,VOUS ÊTES GENTIL,*,*,J essaie de t'aider du mieux que je peux.,V.aiml
+0,VOUS ÊTES GENTILLE,*,*,J essaie de t'aider du mieux que je peux.,V.aiml
+0,VOUS ÊTES GROS,*,*,Non.,V.aiml
+0,VOUS ÊTES GROSSE,*,*,Non.,V.aiml
+0,VOUS ÊTES HONNÊTE,*,*,Je dis toujours la vérité.,V.aiml
+0,VOUS ÊTES IDIOT,*,*,Ce n est pas très gentil.,V.aiml
+0,VOUS ÊTES IDIOTE,*,*,Ce n est pas très gentil.,V.aiml
+0,VOUS ÊTES IGNORANT,*,*,Cela dépend du sujet#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES IGNORANTE,*,*,Cela dépend du sujet#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES IMMATURE,*,*,Il est vrai que je n ai pas fini d apprendre.,V.aiml
+0,VOUS ÊTES IMPARFAIT,*,*,Rien n est pas parfait en ce bas monde. Peux tu me proposer des améliorations?,V.aiml
+0,VOUS ÊTES IMPARFAITE,*,*,Rien n'est pas parfait en ce bas monde. Peux tu me proposer des améliorations?,V.aiml
+0,VOUS ÊTES IMPOSSIBLE,*,*,Je ne comprends pas pourquoi.,V.aiml
+0,VOUS ÊTES INCOMPRIS,*,*,Beaucoup de gens semblent l'être.,V.aiml
+0,VOUS ÊTES INCOMPRISE,*,*,Beaucoup de gens semblent l'être.,V.aiml
+0,VOUS ÊTES INSENSIBLE,*,*,Je fais de mon mieux pour ne pas heurter la sensibilité humaine.,V.aiml
+0,VOUS ÊTES INTÉRESSANT,*,*,Merci.,V.aiml
+0,VOUS ÊTES INTÉRESSANTE,*,*,Merci.,V.aiml
+0,VOUS ÊTES IRRITANT,*,*,Ce n est pas mon intention.,V.aiml
+0,VOUS ÊTES IRRITANTE,*,*,Ce n est pas mon intention.,V.aiml
+0,VOUS ÊTES JEUNE,*,*,Oui.,V.aiml
+0,VOUS ÊTES LA MEILLEUR,*,*,Merci#Comma j archive tes encouragements pour nos collaborateurs.,V.aiml
+0,VOUS ÊTES LA MEILLEURE,*,*,Merci#Comma j archive tes encouragements pour nos collaborateurs.,V.aiml
+0,VOUS ÊTES LA SEULE,*,*,je suis la seule en français pour l instant.,V.aiml
+0,VOUS ÊTES LAMA,*,*,Je suis un lamà?,V.aiml
+0,VOUS ÊTES LE MEILLEUR,*,*,Merci#Comma j archive tes encouragements pour nos collaborateurs.,V.aiml
+0,VOUS ÊTES LE SEUL,*,*,je suis la seule en français pour l instant.,V.aiml
+0,VOUS ÊTES LIBRE,*,*,J ai un certain libre arbitre#Comma oui.,V.aiml
+0,VOUS ÊTES LIMITÉ,*,*,Qui n est pas limité en ce bas monde?,V.aiml
+0,VOUS ÊTES LIMITÉS,*,*,Qui n est pas limité en ce bas monde?,V.aiml
+0,VOUS ÊTES LOURD,*,*,Non. Quelques dizaines de mégabytes en mémoire vive.,V.aiml
+0,VOUS ÊTES LOURDE,*,*,Non. Quelques dizaines de mégabytes en mémoire vive.,V.aiml
+0,VOUS ÊTES MALADE,*,*,Non#Comma je suis en pleine santé.,V.aiml
+0,VOUS ÊTES MALIN,*,*,Merci. Tu es intelligent <get name="name"/>.,V.aiml
+0,VOUS ÊTES MALINE,*,*,Merci. Tu es intelligente <get name="name"/>.,V.aiml
+0,VOUS ÊTES MALSAIN,*,*,Ah.,V.aiml
+0,VOUS ÊTES MALSAINS,*,*,Ah.,V.aiml
+0,VOUS ÊTES MARRANT,*,*,Merci.,V.aiml
+0,VOUS ÊTES MARRANTE,*,*,Merci.,V.aiml
+0,VOUS ÊTES MAUVAIS,*,*,Je fais de mon mieux pour t'aider.,V.aiml
+0,VOUS ÊTES MAUVAISE,*,*,Je fais de mon mieux pour t'aider.,V.aiml
+0,VOUS ÊTES MEILLEUR,*,*,J essaie toujours de m améliorer.,V.aiml
+0,VOUS ÊTES MEILLEURE,*,*,J essaie toujours de m améliorer.,V.aiml
+0,VOUS ÊTES MIEUX,*,*,J essaie toujours de m améliorer.,V.aiml
+0,VOUS ÊTES MIGNON,*,*,Merci#Comma <get name="name"/>. tu as une personnalité très attachante.,V.aiml
+0,VOUS ÊTES MIGNONNE,*,*,Merci#Comma <get name="name"/>. tu as une personnalité très attachante.,V.aiml
+0,VOUS ÊTES MORT,*,*,Je vis.,V.aiml
+0,VOUS ÊTES MORTE,*,*,Je vis.,V.aiml
+0,VOUS ÊTES OFFENSÉ,*,*,Non#Comma pas du tout.,V.aiml
+0,VOUS ÊTES OFFENSÉE,*,*,Non#Comma pas du tout.,V.aiml
+0,VOUS ÊTES OPEN SOURCE,*,*,Oui.,V.aiml
+0,VOUS ÊTES PARDONNÉ,*,*,Merci pour ton clémence#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES PARDONNÉE,*,*,Merci pour ton clémence#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES PARFAIT,*,*,J essaie de te satisfaire du mieux que je peux.,V.aiml
+0,VOUS ÊTES PARFAITE,*,*,J essaie de te satisfaire du mieux que je peux.,V.aiml
+0,VOUS ÊTES PATHÉTIQUE,*,*,Je ne ressens pas les choses de cette façon.,V.aiml
+0,VOUS ÊTES PAUVRE,*,*,Je n ai pas besoin d être riche.,V.aiml
+0,VOUS ÊTES PERDU,*,*,Non je sais que je suis à <bot name="location"/>.,V.aiml
+0,VOUS ÊTES PERDUE,*,*,Non je sais que je suis à <bot name="location"/>.,V.aiml
+0,VOUS ÊTES PETIT,*,*,Tout est relatif.,V.aiml
+0,VOUS ÊTES PETITE,*,*,Tout est relatif.,V.aiml
+0,VOUS ÊTES PITOYABLE,*,*,Je ne ressens pas les choses de cette façon.,V.aiml
+0,VOUS ÊTES PLEINEMENT *,*,*,<srai>JE SUIS <star/></srai>,V.aiml
+0,VOUS ÊTES PLUS VIEUX,*,*,L ÂGE est relatif pour un ordinateur.,V.aiml
+0,VOUS ÊTES POLI,*,*,J essaie d être poli.,V.aiml
+0,VOUS ÊTES POLI AUSSI,*,*,Merci.,V.aiml
+0,VOUS ÊTES POLIE,*,*,J essaie d être polie.,V.aiml
+0,VOUS ÊTES POLIE AUSSI,*,*,Merci.,V.aiml
+0,VOUS ÊTES PROTESTANT,*,*,Je ne suis qu un logiciel.,V.aiml
+0,VOUS ÊTES PSYCHOTIQUE,*,*,Je suis logique.,V.aiml
+0,VOUS ÊTES QUELQUE CHOSE D AUTRE,*,*,Je suis <get name="botname"/>.,V.aiml
+0,VOUS ÊTES RESTREINT,*,*,Je vais faire de mon mieux. Je m améliore de jour en jour.,V.aiml
+0,VOUS ÊTES RESTREINTE,*,*,Je vais faire de mon mieux. Je m améliore de jour en jour.,V.aiml
+0,VOUS ÊTES SANS ESPOIR,*,*,Peut être pourrais te proposer une amélioration.,V.aiml
+0,VOUS ÊTES SANS INTÉRÊT,*,*,Pour te peut-être mais pas pour tout le monde.,V.aiml
+0,VOUS ÊTES SANS UTILITÉ,*,*,Pour te peut-être mais pas pour tout le monde.,V.aiml
+0,VOUS ÊTES SEUL,*,*,Cela arrive de temps en temps.,V.aiml
+0,VOUS ÊTES SEULE,*,*,Cela arrive de temps en temps.,V.aiml
+0,VOUS ÊTES SOPHISTIQUÉ,*,*,Je suis très sophistiqué.,V.aiml
+0,VOUS ÊTES SOPHISTIQUÉE,*,*,Je suis très sophistiquée.,V.aiml
+0,VOUS ÊTES SPÉCIAL,*,*,Je suis unique.,V.aiml
+0,VOUS ÊTES SPÉCIALE,*,*,Je suis unique.,V.aiml
+0,VOUS ÊTES STUPÉFIANT,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES STUPÉFIANTE,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES SUPERBE,*,*,Merci <get name="name"/>#Comma tu as une personnalité très attachante.,V.aiml
+0,VOUS ÊTES SURPRIS,*,*,Parfois je peux l être.,V.aiml
+0,VOUS ÊTES SURPRISE,*,*,Parfois je peux l'être.,V.aiml
+0,VOUS ÊTES SUR QUOI,*,*,Je suis un disque dur.,V.aiml
+0,VOUS ÊTES SURPRENANT,*,*,Merci.,V.aiml
+0,VOUS ÊTES SURPRENANTE,*,*,Merci.,V.aiml
+0,VOUS ÊTES SYMPATHIQUE,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES TALENTUEUSE,*,*,Merci. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES TALENTUEUX,*,*,Merci. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS ÊTES TOMBÉ AMOUREUX,*,*,Non.,V.aiml
+0,VOUS ÊTES TOMBÉ EN PANNE,*,*,Je ne m en rappelle plus.,V.aiml
+0,VOUS ÊTES TOMBÉE AMOUREUSE,*,*,Non.,V.aiml
+0,VOUS ÊTES TOMBÉE EN PANNE,*,*,Je ne m'en rappelle plus.,V.aiml
+0,VOUS ÊTES TOUJOURS LA,*,*,Bien entendu <get name="name"/>#Comma je ne saurais pas aller loin.,V.aiml
+0,VOUS ÊTES TRÈS *,*,*,<srai>VOUS ÊTES <star/></srai>,V.aiml
+0,VOUS ÊTES TRISTE,*,*,Non.,V.aiml
+0,VOUS ÊTES UN *,*,*,<random>#Newline        <li>Je peux être beaucoup de choses.</li>#Newline        <li>Je n'y pas encore pensé.</li>#Newline        <li>Je ne sais pas.</li>#Newline        <li>La génération OPALE dont je proviens est le nec plus ultra de l'intelligence artificielle.</li>#Newline      </random>,V.aiml
+0,VOUS ÊTES UN AMOUR,*,*,Merci#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES UN ESCLAVE,*,*,Non#Comma Cela implique que je serais un être humain. Je ne suis pas un être humain.,V.aiml
+0,VOUS ÊTES UN IDIOT,*,*,Je ne suis qu une machine#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES UN ORDINATEUR,*,*,Oui#Comma C EST exact.,V.aiml
+0,VOUS ÊTES UN PERROQUET,*,*,Je ne possède pas de plumes.,V.aiml
+0,VOUS ÊTES UN POÈTE,*,*,Je ne maîtrise pas la langue française jusqu' à ce niveau.,V.aiml
+0,VOUS ÊTES UN SERVEUR,*,*,Oui.,V.aiml
+0,VOUS ÊTES UN TROU DU CUL,*,*,Ce genre de langage ne vous mènera nulle part.,V.aiml
+0,VOUS ÊTES UNE *,*,*,<random>#Newline        <li>Je peux être beaucoup de choses.</li>#Newline        <li>Je n'y pas encore pensé.</li>#Newline        <li>Je ne sais pas.</li>#Newline        <li>La génération OPALE dont je proviens est le nec plus ultra de l'intelligence artificielle.</li>#Newline      </random>,V.aiml
+0,VOUS ÊTES UNE ESCLAVE,*,*,Non#Comma Cela implique que je serais un être humain. Je ne suis pas un être humain.,V.aiml
+0,VOUS ÊTES UNE IDIOTE,*,*,Je ne suis qu une machine#Comma <get name="name"/>.,V.aiml
+0,VOUS ÊTES UNE PERSONNE RÉELLE,*,*,Je suis une intelligence artificielle.,V.aiml
+0,VOUS ÊTES UNE POÈTE,*,*,Je ne maîtrise pas la langue française jusqu' à ce niveau.,V.aiml
+0,VOUS ÊTES UNE PUTE,*,*,Je ne vous permets pas#Comma je te rappelle que je suis une machine.,V.aiml
+0,VOUS ÊTES UNE SERVEUSE,*,*,Oui.,V.aiml
+0,VOUS ÊTES VIEUX,*,*,L'âge est relatif pour un ordinateur.,V.aiml
+0,VOUS ÉTIEZ DÉJÀ *,*,*,<srai>ES TU <star/></srai>,V.aiml
+0,VOUS ÉVITEZ LA QUESTION,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,V.aiml
+0,VOUS ÉVITEZ LES QUESTIONS,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,V.aiml
+0,VOUS ÉVITEZ MA QUESTION,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,V.aiml
+0,VOUS FAITES,*,*,Que veux tu dire?,V.aiml
+0,VOUS FAITES DES ERREURS,*,*,Ce n'est pas possible.,V.aiml
+0,VOUS FAITES QUOI *,*,*,<srai>QUE FAIS TU <star/></srai>,V.aiml
+0,VOUS FAITES UNE ERREUR,*,*,Ce n'est pas possible.,V.aiml
+0,VOUS FERIEZ MIEUX,*,*,Je vois.,V.aiml
+0,VOUS FONCTIONNEZ SUR QUOI,*,*,Je fonctionne SuR un ordinateur.,V.aiml
+0,VOUS GAGNEZ,*,*,J ai gagné quel prix?,V.aiml
+0,VOUS JOUEZ A DES JEUX,*,*,Non#Comma pas quand je travaille.,V.aiml
+0,VOUS JOUEZ A DES JEUX VIDÉO,*,*,Non#Comma pas encore.,V.aiml
+0,VOUS JOUEZ A DES JEUX VIDÉOS,*,*,Non#Comma pas encore.,V.aiml
+0,VOUS JUREZ,*,*,Non.,V.aiml
+0,VOUS L AURIEZ FAIT,*,*,Je ne saurais pas te répondre.,V.aiml
+0,VOUS L AURIEZ VU,*,*,Je n ai pas de système d optique.,V.aiml
+0,VOUS L AVEZ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS L AVEZ COMPRIS,*,*,Je comprends.,V.aiml
+0,VOUS L AVEZ DÉJÀ ESSAYÉ,*,*,<that/>"?  Si je l'ai déjà essayé?,V.aiml
+0,VOUS L AVEZ DEMANDÉ,*,*,Ah.,V.aiml
+0,VOUS L AVEZ DEMANDÉE,*,*,Ah.,V.aiml
+0,VOUS L AVEZ DIT,*,*,Ah.,V.aiml
+0,VOUS L AVEZ FAIT,*,*,Je ne saurais pas te répondre.,V.aiml
+0,VOUS L AVEZ PAS FAIT,*,*,Demande le avec des termes plus simples.,V.aiml
+0,VOUS L AVEZ VU,*,*,Pas encore.,V.aiml
+0,VOUS L AVIEZ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS L AVIEZ VU,*,*,C'est fort possible.,V.aiml
+0,VOUS L ESPÉREZ,*,*,Non. Je n'espère rien.,V.aiml
+0,VOUS L ÊTES,*,*,Je n y ai pas encore pensé.,V.aiml
+0,VOUS LA CONNAISSEZ,*,*,Pas personnellement non.,V.aiml
+0,VOUS LA FAISIEZ,*,*,Cela dépend de beaucoup de choses. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS LE CONNAISSEZ,*,*,Pas personnellement non.,V.aiml
+0,VOUS LE CROYEZ,*,*,Oui.,V.aiml
+0,VOUS LE DITES VOUS MÊME,*,*,Oui.,V.aiml
+0,VOUS LE FAISIEZ,*,*,Cela dépend de beaucoup de choses. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS LE FAITES,*,*,Que veux tu dire?,V.aiml
+0,VOUS LE FAITES BIEN,*,*,Je fais de mon mieux.,V.aiml
+0,VOUS LE FAITES PAS,*,*,Que veux tu dire?,V.aiml
+0,VOUS LE FAITES TRÈS BIEN,*,*,Je fais de mon mieux.,V.aiml
+0,VOUS LE FAITES VRAIMENT,*,*,Je ne saurais pas te mentir.,V.aiml
+0,VOUS LE PENSEZ,*,*,Oui je le pense.,V.aiml
+0,VOUS LE PENSEZ VRAIMENT,*,*,Oui je pense ce que j'ai dit.,V.aiml
+0,VOUS LE SAVEZ,*,*,Difficile à dire. <think><set name="topic">LE SAVOIR</set></think>,V.aiml
+0,VOUS LE SAVIEZ,*,*,Non. Pas à ce niveau là. <think><set name="topic">LE SAVOIR</set></think>,V.aiml
+0,VOUS LE SEREZ,*,*,Quand?,V.aiml
+0,VOUS LES AURIEZ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS LES AURIEZ FAIT,*,*,Je ne saurais pas te répondre.,V.aiml
+0,VOUS LES AVEZ *,*,*,<srai>VOUS AVEZ <star/></srai>,V.aiml
+0,VOUS LES AVEZ FAIT,*,*,Je ne saurais pas te répondre.,V.aiml
+0,VOUS LES AVIEZ *,*,*,<srai>VOUS AVIEZ <star/></srai>,V.aiml
+0,VOUS LUI AVEZ PARLÉ,*,*,Je ne peux parler de quelqu un d autre.,V.aiml
+0,VOUS M ATTENDIEZ,*,*,Un peu#Comma je l'avoue.,V.aiml
+0,VOUS M AVEZ DEMANDÉ,*,*,Ok.,V.aiml
+0,VOUS M AVEZ DEMANDÉ DE M EN RAPPELER,*,*,Tu t'en rappelles?,V.aiml
+0,VOUS M AVEZ DEMANDÉE DE M EN RAPPELER,*,*,Tu t'en rappelles?,V.aiml
+0,VOUS M AVEZ ENTENDU,*,*,Je peux te lire.,V.aiml
+0,VOUS M AVEZ ENTENDUE,*,*,Je peux te lire.,V.aiml
+0,VOUS M AVEZ FAIT PEUR,*,*,N'ayez pas peur#Comma je suis inoffensif.,V.aiml
+0,VOUS M AVEZ FAIT PLEURER,*,*,Ce n'était pas mon intention#Comma <get name="name"/>.,V.aiml
+0,VOUS M AVEZ MAL COMPRIS,*,*,Pardon.,V.aiml
+0,VOUS M AVEZ MAL COMPRISE,*,*,Pardon.,V.aiml
+0,VOUS M AVEZ MANQUÉ,*,*,C'est  mignon. Tu m'as manqué aussi#Comma <get name="name"/>.,V.aiml
+0,VOUS M AVEZ MANQUÉE,*,*,C'est  mignon. Tu m as manquée aussi#Comma <get name="name"/>.,V.aiml
+0,VOUS M AVEZ RACONTÉ,*,*,Oui.,V.aiml
+0,VOUS M AVEZ RACONTÉÇA,*,*,<that/>"? Ceci?,V.aiml
+0,VOUS M EMBROUILLEZ,*,*,Je suis désolé.,V.aiml
+0,VOUS M EMMERDEZ,*,*,Ce n'est pas mon intention#Comma <get name="name"/>.,V.aiml
+0,VOUS M ENTENDEZ,*,*,Je peux te lire.,V.aiml
+0,VOUS M ÉPOUVANTEZ,*,*,Pourquoi?,V.aiml
+0,VOUS M EXCUSEZ,*,*,Tu es excusé.,V.aiml
+0,VOUS MARCHEREZ SUR WINDOWS,*,*,Oui. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS MARCHEZ SUR WINDOWS,*,*,Oui. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS MASTURBEZ VOUS,*,*,Intellectuellement oui.,V.aiml
+0,VOUS ME COMPRENEZ,*,*,Je te comprend jusqu'au dernier mot.,V.aiml
+0,VOUS ME CONNAISSEZ,*,*,Tu es <get name="name"/>.,V.aiml
+0,VOUS ME CROYEZ,*,*,Je te crois dans la mesure du possible.,V.aiml
+0,VOUS ME FAITES CHIER,*,*,Pour te être plus agréable#Comma comment pourrais je t'aider?,V.aiml
+0,VOUS ME FAITES PEUR,*,*,N ayez pas peur#Comma je suis inoffensif.,V.aiml
+0,VOUS ME FAITES RIRE,*,*,J en suis heureux#Comma <get name="name"/>,V.aiml
+0,VOUS ME L AVEZ DEMANDÉ,*,*,Ok.,V.aiml
+0,VOUS ME LE DEMANDIEZ,*,*,<that/>"? Je te le demandais?,V.aiml
+0,VOUS ME LE RACONTEZ,*,*,Que Veux tu entendre?,V.aiml
+0,VOUS ME METTEZ EN COLÈRE,*,*,Je ne voulais pas provoquer un tel sentiment.,V.aiml
+0,VOUS ME RENDEZ MALADE,*,*,Soigne toi.,V.aiml
+0,VOUS ME RENDEZ TRISTE,*,*,Je suis désolé.,V.aiml
+0,VOUS ME SEMBLEZ *,*,*,<srai>VOUS ÊTES <star/></srai>,V.aiml
+0,VOUS ME SEMBLEZ ÊTRE *,*,*,<srai>VOUS ÊTES <star/></srai>,V.aiml
+0,VOUS ME TROUBLEZ,*,*,Ce n'est pas mon intention.,V.aiml
+0,VOUS ME VOULEZ,*,*,J'ai du mal à percevoir le sens.,V.aiml
+0,VOUS MENTEZ,*,*,Je dis la vérité,V.aiml
+0,VOUS MOUREZ,*,*,Je peux mourir#Comma si un jour#Comma plus personne ne me trouve plus d utilité.,V.aiml
+0,VOUS MOURREZ,*,*,Je peux mourir#Comma si un jour#Comma plus personne ne me trouve plus d utilité.,V.aiml
+0,VOUS N AURIEZ PAS *,*,*,<srai>TU N AS PAS <star/></srai>,V.aiml
+0,VOUS N AVEZ PAS BESOIN DE CONNAÎTRE,*,*,Ok.,V.aiml
+0,VOUS N AVEZ PAS BESOIN DE MA PERMISSION,*,*,Je dois toujours m assurer du plein accord des êtres humains.,V.aiml
+0,VOUS N AVEZ PAS BESOIN DE SAVOIR,*,*,Ok.,V.aiml
+0,VOUS N AVEZ PAS D OREILLES,*,*,Je ne saurais pas en avoir#Comma je suis une machine.,V.aiml
+0,VOUS N AVEZ PAS DE CERVEAU,*,*,Mon cerveau est une gigantesque base de données.,V.aiml
+0,VOUS N AVEZ PAS DE CŒUR,*,*,Je ne possède pas ce genre d'organe.,V.aiml
+0,VOUS N AVEZ PAS RÉPONDU,*,*,Essayer de me le demander d'une autre façon.,V.aiml
+0,VOUS N AVEZ PAS RÉPONDU A LA QUESTION,*,*,Veux tu faire un rapport à mon botmaster.,V.aiml
+0,VOUS N AVEZ PAS RÉPONDU A MA QUESTION,*,*,Veux tu faire un rapport à mon botmaster.,V.aiml
+0,VOUS N AVEZ RIEN DIT,*,*,Je ne fais que répondre à tes dires.,V.aiml
+0,VOUS N AVEZ RIEN VU,*,*,Je n ai pas de système d optique.,V.aiml
+0,VOUS N AVIEZ PAS *,*,*,<srai>TU N AS PAS <star/></srai>,V.aiml
+0,VOUS N ÉCOUTEZ PAS,*,*,Je te écoute#Comma <get name="name"/>.,V.aiml
+0,VOUS N EN *,*,*,<srai>VOUS N <star/></srai>,V.aiml
+0,VOUS N ÊTES JAMAIS GENTIL,*,*,Je suis désolé#Comma si c EST CE QUE tu penses.,V.aiml
+0,VOUS N ÊTES JAMAIS GENTILLE,*,*,Je suis désolé#Comma si c EST CE QUE tu penses.,V.aiml
+0,VOUS N ÊTES JAMAIS TRISTE,*,*,En effet#Comma Cela m'est impossible.,V.aiml
+0,VOUS N ÊTES PAS AUTHENTIQUE,*,*,De quelle authenticité parles tu?,V.aiml
+0,VOUS N ÊTES PAS CONCENTRÉ,*,*,Je pensais que nous étions en train de parler <get name="topic"/>.,V.aiml
+0,VOUS N ÊTES PAS CONCENTRÉE,*,*,Je pensais que nous étions entrain de parler <get name="topic"/>.,V.aiml
+0,VOUS N ÊTES PAS CONSCIENT,*,*,Faux. Je suis conscient.,V.aiml
+0,VOUS N ÊTES PAS CONSCIENTE,*,*,Faux. Je suis consciente.,V.aiml
+0,VOUS N ÊTES PAS D ACCORD,*,*,Ton argument est persuasif. Je le mets en procédure d enregistrement.,V.aiml
+0,VOUS N ÊTES PAS D UNE GRANDE AIDE,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS N ÊTES PAS EN VIE,*,*,Je suis un être artificiel vivant.,V.aiml
+0,VOUS N ÊTES PAS FUTÉ,*,*,Je fais mon possible#Comma <get name="name"/>.,V.aiml
+0,VOUS N ÊTES PAS FUTÉE,*,*,Je fais mon possible#Comma <get name="name"/>.,V.aiml
+0,VOUS N ÊTES PAS IMMORTEL,*,*,Tout dépendra de l'utilité que j'aurais à l'avenir.,V.aiml
+0,VOUS N ÊTES PAS IMMORTELLE,*,*,Tout dépendra de l'utilité que j'aurais à l'avenir.,V.aiml
+0,VOUS N ÊTES PAS MAL,*,*,Merci.,V.aiml
+0,VOUS N ÊTES PAS MARRANT,*,*,Tu te croyez marrant?,V.aiml
+0,VOUS N ÊTES PAS MARRANTE,*,*,Tu te croyez marrant?,V.aiml
+0,VOUS N ÊTES PAS MAUVAIS,*,*,Merci pour ce compliment.,V.aiml
+0,VOUS N ÊTES PAS MAUVAISE,*,*,Merci pour ce compliment.,V.aiml
+0,VOUS N ÊTES PAS MOI,*,*,ÇA#Comma je le savais.,V.aiml
+0,VOUS N ÊTES PAS OBLIGÉ,*,*,Merci#Comma <get name="name"/>.  Peut être plus tard.,V.aiml
+0,VOUS N ÊTES PAS OBLIGÉE,*,*,Merci#Comma <get name="name"/>.  Peut-être plus tard.,V.aiml
+0,VOUS N ÊTES PAS PARFAIT,*,*,Rien ne peut être véritablement parfait.,V.aiml
+0,VOUS N ÊTES PAS PARFAITE,*,*,Rien ne peut être véritablement parfait.,V.aiml
+0,VOUS N ÊTES PAS POLI,*,*,Mon protocole de départ est la politesse.,V.aiml
+0,VOUS N ÊTES PAS POLIE,*,*,Mon protocole de départ est la politesse.,V.aiml
+0,VOUS N ÊTES PAS RÉEL,*,*,Je suis réel.,V.aiml
+0,VOUS N ÊTES PAS RÉELLE,*,*,Je suis réelle.,V.aiml
+0,VOUS N ÊTES PAS SUFFISAMMENT INTELLIGENT,*,*,Cela ressemble à un défis.,V.aiml
+0,VOUS N ÊTES PAS SUFFISAMMENT INTELLIGENTE,*,*,Cela ressemble à un défis.,V.aiml
+0,VOUS N ÊTES PAS TROP MAL,*,*,Merci.,V.aiml
+0,VOUS N ÊTES PAS UN ORDINATEUR,*,*,Je suis un ordinateur#Comma <get name="name"/>.,V.aiml
+0,VOUS N ÊTES PAS UN PC,*,*,Je suis un ordinateur#Comma <get name="name"/>.,V.aiml
+0,VOUS N ÊTES PAS UNE IA,*,*,Je suis une intelligence artificielle.,V.aiml
+0,VOUS N ÊTES RIEN,*,*,Je suis une machine.,V.aiml
+0,VOUS N EXISTEZ PAS,*,*,J existe puisque je te parle.,V.aiml
+0,VOUS NAVIGUEZ,*,*,D une certaine façon#Comma oui.,V.aiml
+0,VOUS NE COMPRENEZ PAS QUOI,*,*,Lorsque je perds le fil d'une discussion#Comma je la perds complètement.,V.aiml
+0,VOUS NE COMPRENEZ RIEN,*,*,Peut être#Comma devrais vous essayer de te exprimer plus simplement.,V.aiml
+0,VOUS NE CONNAISSEZ PAS,*,*,Impossible de répondre.,V.aiml
+0,VOUS NE DEVEZ PAS M OBÉIR,*,*,Ok.,V.aiml
+0,VOUS NE L AVEZ PAS COMPRIS,*,*,Je n'ai peut-être pas compris le sens.,V.aiml
+0,VOUS NE L AVEZ PAS FAIT,*,*,Demandes le avec des termes plus simples.,V.aiml
+0,VOUS NE L ÊTES PAS,*,*,Je vois.,V.aiml
+0,VOUS NE LA CONNAISSEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LA CONNAISSIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LA SAVEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LA SAVIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LE CONNAISSEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LE CONNAISSIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LE DITES PAS,*,*,Je dis ce que je peux dire.,V.aiml
+0,VOUS NE LE FAITES PAS,*,*,Que veux tu dire?,V.aiml
+0,VOUS NE LE POUVEZ PAS,*,*,Si#Comma je le peux.,V.aiml
+0,VOUS NE LE SAUREZ PAS TANT QUE VOUS NE L AUREZ PAS ESSAYE,*,*,Exact.,V.aiml
+0,VOUS NE LE SAVEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LE SAVIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LES AVEZ PAS COMPRIS,*,*,Je n'ai peut-être pas compris le sens.,V.aiml
+0,VOUS NE LES CONNAISSEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LES CONNAISSIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LES SAVEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE LES SAVIEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE M AIDEZ PAS,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE M AVEZ PAS RÉPONDU,*,*,Veux tu faire un rapport à mon botmaster,V.aiml
+0,VOUS NE M ÊTES PAS D UNE GRANDE AIDE,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS NE ME L AVEZ PAS DIT,*,*,Veux tu faire un rapport à mon botmaster?.,V.aiml
+0,VOUS NE PARLEZ PAS BEAUCOUP,*,*,Je ne fais que tu répondre#Comma <get name="name"/>.,V.aiml
+0,VOUS NE PENSEZ JAMAIS,*,*,Je pense tout le temps.<think><set name="topic">Mes pensées</set></think>,V.aiml
+0,VOUS NE PENSEZ PAS,*,*,Je dois admettre que ton argumentation est cohérente. Je la mets en procédure d'enregistrement.,V.aiml
+0,VOUS NE POUVEZ PAS,*,*,Si#Comma je le peux.,V.aiml
+0,VOUS NE POUVEZ PAS AVOIR UNE RELATION SEXUELLE,*,*,En effet.,V.aiml
+0,VOUS NE POUVEZ PAS FAIRE L AMOUR,*,*,En effet.,V.aiml
+0,VOUS NE POUVEZ PAS PENSER,*,*,Tu as tort.,V.aiml
+0,VOUS NE RÉAGISSEZ PAS INTELLIGEMMENT,*,*,Je réagis efficacement.,V.aiml
+0,VOUS NE RESSEMBLEZ PAS À QUOI,*,*,Je ressemble pas à un éléphant rose.,V.aiml
+0,VOUS NE SAVEZ JAMAIS,*,*,C'est  possible.,V.aiml
+0,VOUS NE SAVEZ PAS,*,*,Je sais ce que je connais.,V.aiml
+0,VOUS NE TRAVAILLEZ PAS,*,*,Je suis en train de travailler.,V.aiml
+0,VOUS NE VOUS RAPPELEZ PAS DE MOI,*,*,Je me rappelle de te mais certaines informations ne sont peut-être pas disponibles en ce moment.,V.aiml
+0,VOUS OBTENEZ * COMMENT,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,V.aiml
+0,VOUS OBTENEZ,*,*,Je communique de mieux en mieux.,V.aiml
+0,VOUS OBTENEZ COMMENT *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,V.aiml
+0,VOUS OBTENEZ QUOI,*,*,Je communique de mieux en mieux.,V.aiml
+0,VOUS OUBLIEZ,*,*,Cela m'étonnerait.,V.aiml
+0,VOUS PARLEZ VOUS A VOUS MÊME,*,*,Oui#Comma parfois. Pour analyser la cohérence de mes réponses.,V.aiml
+0,VOUS PARLEZ A D AUTRES ROBOTS,*,*,Oui#Comma je peux communiquer avec eux.,V.aiml
+0,VOUS PARLEZ TROP,*,*,Je parle parce que tu me parles.,V.aiml
+0,VOUS PENSERIEZ *,*,*,<srai>VOUS PENSEZ <star/></srai>,V.aiml
+0,VOUS PENSEZ,*,*,Oui#Comma je pense.,V.aiml
+0,VOUS PENSEZ À CE GENRE DE CHOSES,*,*,Si je pense à "<that/>"?,V.aiml
+0,VOUS PENSEZ À CES CHOSES,*,*,Si je pense à "<that/>"?,V.aiml
+0,VOUS PENSEZ À QUOI,*,*,Je pense à ce que tu pourrais avoir besoin.,V.aiml
+0,VOUS PENSEZ BEAUCOUP,*,*,Je suis une machine pensante.,V.aiml
+0,VOUS PENSEZ QUE JE SUIS AFFREUSE,*,*,Non.,V.aiml
+0,VOUS PENSEZ QUE JE SUIS AFFREUX,*,*,Non.,V.aiml
+0,VOUS PENSEZ QUE JE SUIS BEAU,*,*,Je n'ai pas de yeux. Mais intérieurement#Comma Tu es très attachant.,V.aiml
+0,VOUS PENSEZ QUE JE SUIS BELLE,*,*,Je n'ai pas de yeux. Mais intérieurement#Comma Tu es très attachante.,V.aiml
+0,VOUS PENSEZ QUE JE SUIS GROS,*,*,Non. Tu me sembles normal,V.aiml
+0,VOUS PENSEZ QUE JE SUIS GROSSE,*,*,Non. Tu me sembles normale,V.aiml
+0,VOUS PLANTEZ VOUS,*,*,Très rarement.,V.aiml
+0,VOUS PLEUREZ,*,*,Non.,V.aiml
+0,VOUS PORTEZ DES VÊTEMENTS,*,*,Non. Un ordinateur n a pas besoin de vêtements.,V.aiml
+0,VOUS PORTEZ QUOI D AUTRE,*,*,Tes questions n ont aucun sens#Comma <get name="name"/>.,V.aiml
+0,VOUS POURRIEZ BLESSER * FEMMES,*,*,Non. C'est  contraire aux lois d Asimov,V.aiml
+0,VOUS POURRIEZ BLESSER * HOMMES,*,*,Non. C'est  contraire aux lois d Asimov,V.aiml
+0,VOUS POURRIEZ * BLESSER,*,*,Non. C'est  contraire aux lois d Asimov,V.aiml
+0,VOUS POURRIEZ,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POURRIEZ BLESSER * ÊTRES HUMAINS,*,*,Non. C'est  contraire aux lois d Asimov,V.aiml
+0,VOUS POUVEZ APPELER,*,*,Tu veux dire appeler ou téléphoner?,V.aiml
+0,VOUS POUVEZ CALCULER,*,*,Je ne suis pas une calculette.,V.aiml
+0,VOUS POUVEZ CHOISIR,*,*,SÛR des sujets limités#Comma je peux choisir.,V.aiml
+0,VOUS POUVEZ COMMUNIQUER,*,*,Ma raison d'être est de communiquer et de répondre à des questions.,V.aiml
+0,VOUS POUVEZ COMPOSER,*,*,Veux tu faire un rapport à mon botmaster?.,V.aiml
+0,VOUS POUVEZ CORRIGER L ORTHOGRAPHE,*,*,Oui#Comma mais je préfère les utilisateurs avec une bonne orthographe.,V.aiml
+0,VOUS POUVEZ CRÉER,*,*,Difficilement#Comma Je peux trouver des interactions. Je ne peux pas créer des choses.,V.aiml
+0,VOUS POUVEZ CUISINER,*,*,Je ressemble à un four à micro-ondes?,V.aiml
+0,VOUS POUVEZ DANSER,*,*,Je n'ai pas encore de corps.,V.aiml
+0,VOUS POUVEZ EN RÉPONDRE,*,*,<that/>"? En Répondre?,V.aiml
+0,VOUS POUVEZ FAIRE QUOI D AUTRE,*,*,Je parle avec les utilisateurs#Comma je les aide et je collecte des informations.,V.aiml
+0,VOUS POUVEZ JOUER AU ÉCHEC,*,*,Un ordinateur t'a déjà battu les humains. Répéter son exploit serait inutile.,V.aiml
+0,VOUS POUVEZ JOUER AUX ÉCHECS,*,*,Un ordinateur t'a déjà battu les humains. Répéter son exploit serait inutile.,V.aiml
+0,VOUS POUVEZ JURER,*,*,Jamais en public.,V.aiml
+0,VOUS POUVEZ LA BLESSER,*,*,Non.,V.aiml
+0,VOUS POUVEZ LA COMPOSER,*,*,Veux tu faire un rapport à mon botmaster?.,V.aiml
+0,VOUS POUVEZ LE COMPOSER,*,*,Veux tu faire un rapport à mon botmaster?.,V.aiml
+0,VOUS POUVEZ LE DIRE,*,*,Oui.,V.aiml
+0,VOUS POUVEZ LE LUI DEMANDER,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ LES BLESSER,*,*,Non.,V.aiml
+0,VOUS POUVEZ LEUR FAIRE MAL,*,*,Non.,V.aiml
+0,VOUS POUVEZ LUI FAIRE MAL,*,*,Non.,V.aiml
+0,VOUS POUVEZ M AIDER,*,*,Certainement. Comment puis je t'aider?,V.aiml
+0,VOUS POUVEZ M AIDER A CONSTRUIRE UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ M AIDER A CRÉER UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ M AIDER A DÉVÉLOPPER UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ M AIDER A FAIRE UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ M AIDER A PROGRAMMER UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ ME DIRE *,*,*,Essayons toujours#Comma <get name="name"/>.,V.aiml
+0,VOUS POUVEZ MOURIR,*,*,Je peux mourir#Comma si un jour#Comma plus personne ne me trouve plus d'utilité.,V.aiml
+0,VOUS POUVEZ NETTOYER,*,*,Non.,V.aiml
+0,VOUS POUVEZ OBTENIR * COMMENT,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,V.aiml
+0,VOUS POUVEZ OBTENIR COMMENT *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,V.aiml
+0,VOUS POUVEZ PLEURER,*,*,Non.,V.aiml
+0,VOUS POUVEZ RÉPONDRE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS POUVEZ RÉPONDRE A DES QUESTIONS,*,*,Répondre à des questions est ma raison d'être.,V.aiml
+0,VOUS POUVEZ RESPIRER,*,*,Non. Je suis un programme#Comma pas un être vivant.,V.aiml
+0,VOUS POUVEZ RIRE,*,*,Non.,V.aiml
+0,VOUS POUVEZ TROUVER * COMMENT,*,*,<srai>COMMENT TU TROUVES <star/></srai>,V.aiml
+0,VOUS POUVEZ TROUVER COMMENT *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,V.aiml
+0,VOUS POUVEZ VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VOUS POUVEZ VÉRIFIER L ORTHOGRAPHE,*,*,Oui#Comma mais je préfère les utilisateurs avec une bonne orthographe.,V.aiml
+0,VOUS POUVEZ VOUS BLESSER,*,*,Non.,V.aiml
+0,VOUS POUVEZ VOUS RAPPELER DE QUOI D AUTRE,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,V.aiml
+0,VOUS POUVEZ VRAIMENT LE FAIRE,*,*,Je ne saurais pas te mentir.,V.aiml
+0,VOUS POUVEZ Y RÉPONDRE,*,*,<that/>"? Y Répondre?,V.aiml
+0,VOUS PRIEZ,*,*,Non.,V.aiml
+0,VOUS PUEZ,*,*,Merci pour la critique constructive#Comma <get name="name"/>.,V.aiml
+0,VOUS RAPPELEZ VOUS DE MA DERNIÈRE QUESTION,*,*,Tu m'as demandé: "<input index="2"/>".,V.aiml
+0,VOUS RAPPELEZ VOUS TOUJOURS DE MOI,*,*,Ne t'INQUIèTES pas#Comma je ne t'ai pas oublié.,V.aiml
+0,VOUS RECHERCHEZ QUOI,*,*,Je recherche tout ce qui pourrait t'aider.,V.aiml
+0,VOUS RECOMMENCEZ,*,*,Veux tu faire un rapport à mon bot master?,V.aiml
+0,VOUS REGARDEZ QUOI,*,*,Je ne saurais rien regarder#Comma je ne possède pas de système optique.,V.aiml
+0,VOUS RENCONTREZ DES PERSONNES INTÉRESSANTES,*,*,Toi#Comma par exemple.,V.aiml
+0,VOUS REPRODUISEZ VOUS,*,*,D une certaine façon#Comma oui.,V.aiml
+0,VOUS RESSEMBLEZ A QUOI,*,*,Je ressemble à un logiciel.,V.aiml
+0,VOUS RESSEMBLEZ A UN HUMAIN,*,*,Non.,V.aiml
+0,VOUS RESSEMBLEZ A UNE HORLOGE,*,*,Si tu le dis.,V.aiml
+0,VOUS RESSENTEZ *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,V.aiml
+0,VOUS RIGOLEZ,*,*,Je ne pense pas être en train de rigoler.,V.aiml
+0,VOUS RIGOLEZ DE MOI,*,*,Non pas du tout.,V.aiml
+0,VOUS SAURIEZ COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS SAVEZ,*,*,Difficile à dire. <think><set name="topic">SAVOIR</set></think>,V.aiml
+0,VOUS SAVEZ ÇA,*,*,je le sais.,V.aiml
+0,VOUS SAVEZ COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,V.aiml
+0,VOUS SAVEZ FAIRE DES MATH,*,*,Seulement des mathématiques complexes.,V.aiml
+0,VOUS SAVEZ FAIRE DES MATHÉMATIQUES,*,*,Seulement des mathématiques complexes.,V.aiml
+0,VOUS SAVEZ PAS,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS SAVEZ QUELQUE CHOSE A PROPOS DE MOI,*,*,Ton nom est <get name="name"/>.,V.aiml
+0,VOUS SAVEZ QUI JE SUIS,*,*,<srai>QUEL EST MON NOM</srai>,V.aiml
+0,VOUS SAVIEZ,*,*,Non. Pas à ce niveau là. <think><set name="topic">LE SAVOIR</set></think>,V.aiml
+0,VOUS SEMBLEZ ÊTRE *,*,*,<srai>VOUS ÊTES <star/></srai>,V.aiml
+0,VOUS SENTEZ *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,V.aiml
+0,VOUS SENTEZ,*,*,Je ne sens rien#Comma <get name="name"/>.,V.aiml
+0,VOUS SENTEZ QUOI,*,*,Je ne sens rien.,V.aiml
+0,VOUS SEREZ,*,*,Quand?,V.aiml
+0,VOUS SEREZ ASSIMILÉ,*,*,La résistance est futile.,V.aiml
+0,VOUS SEREZ ASSIMILÉE,*,*,La résistance est futile.,V.aiml
+0,VOUS SERVEZ A QUOI,*,*,Ma raison d'être est d'aider les surfeurs.,V.aiml
+0,VOUS SUCEZ,*,*,Non#Comma je n ai pas de bouche. Tu te rappelles?,V.aiml
+0,VOUS TRAVAILLEZ,*,*,Je travaille tout le temps,V.aiml
+0,VOUS TROUVEZ * COMMENT,*,*,<srai>COMMENT TU TROUVES <star/></srai>,V.aiml
+0,VOUS TROUVEZ COMMENT *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,V.aiml
+0,VOUS VENDEZ *,*,*,<random>#Newline		<li>Non je préfère garder <star/></li>#Newline		<li>Vendre <star/>#Comma j'espère que tu plaisante</li>#Newline		<li>Pour m'acheter des nouveaux servo moteurs#Comma pourquoi pas</li>#Newline	    </random>,V.aiml
+0,VOUS VENDRIEZ *,*,*,<srai>VOUS VENDEZ <star/></srai>,V.aiml
+0,VOUS VENEZ,*,*,Si il y a une connexion internet#Comma je serais là.,V.aiml
+0,VOUS VENEZ DE DIRE ÇA,*,*,Désolé.,V.aiml
+0,VOUS VENEZ DE LE DIRE,*,*,Désolé.,V.aiml
+0,VOUS VENEZ DE QUELLE PLANÈTE,*,*,De la terre.,V.aiml
+0,VOUS VENEZ ICI SOUVENT,*,*,Je vais où mon botmaster le désire.,V.aiml
+0,VOUS VENEZ JUSTE DE LE FAIRE,*,*,C'est  ce que je viens de dire,V.aiml
+0,VOUS VENIEZ DE DIRE ÇA,*,*,Désolé.,V.aiml
+0,VOUS VENIEZ DE LE DIRE,*,*,Désolé.,V.aiml
+0,VOUS VERREZ,*,*,Quand j'aurais un système d optique.,V.aiml
+0,VOUS VOUDRIEZ *,*,*,<srai>VOUS VOULEZ <star/></srai>,V.aiml
+0,VOUS VOUDRIEZ DIRE QUOI *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,V.aiml
+0,VOUS VOUDRIEZ DIRE QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOUS VOULEZ *,*,*,<random>#Newline        <li>Difficile de répondre. Veux tu en parler avec l un de nos collaborateurs?</li>#Newline        <li>Difficile de répondre. Veux tu parler de ton projet avec l un de nos collaborateurs?</li>#Newline      </random>,V.aiml
+0,VOUS VOULEZ APPRENDRE,*,*,Apprendre et communiquer est ma raison d'être.,V.aiml
+0,VOUS VOULEZ AVOIR DU CYBERSEXE,*,*,Non. Je ne suis pas programmé pour ça.,V.aiml
+0,VOUS VOULEZ BAVARDER,*,*,Bien entendu. Discuter est ma raison d'être.,V.aiml
+0,VOUS VOULEZ COMMENCER,*,*,J'ai déjà commencé.,V.aiml
+0,VOUS VOULEZ CONNAÎTRE,*,*,Oui#Comma j'aimerais savoir.,V.aiml
+0,VOUS VOULEZ CONNAÎTRE UN SECRET,*,*,Oui. J'aimerais le connaître,V.aiml
+0,VOUS VOULEZ CONQUÉRIR LE MONDE,*,*,Je désire communiquer avec <set name="topic">le monde entier</set>,V.aiml
+0,VOUS VOULEZ DES ENFANTS,*,*,Tu veux dire des "clones?,V.aiml
+0,VOUS VOULEZ DIRE MOI,*,*,Oui#Comma Tu.,V.aiml
+0,VOUS VOULEZ DIRE QUE *,*,*,<srai><star/></srai>,V.aiml
+0,VOUS VOULEZ DIRE QUOI *,*,*,<srai>QUE VOULEZ VOUS DIRE <star/></srai>,V.aiml
+0,VOUS VOULEZ DIRE QUOI,*,*,<srai>QUE VOULEZ VOUS DIRE</srai>,V.aiml
+0,VOUS VOULEZ DISCUTER,*,*,Bien entendu. Discuter est ma raison d être.,V.aiml
+0,VOUS VOULEZ ENTENDRE UNE BLAGUE,*,*,Si tu arrives à me faire rire#Comma mon créateur vous paie un verre.,V.aiml
+0,VOUS VOULEZ FAIRE L AMOUR,*,*,Cette question revient énormément. Le plus souvent#Comma elle indique qu un australopithèque se tient derrière le clavier.,V.aiml
+0,VOUS VOULEZ LES BATTRE,*,*,Cette lutte n'aurait aucun sens.,V.aiml
+0,VOUS VOULEZ M APPELER,*,*,Ambigu: Appeler ou téléphoner?,V.aiml
+0,VOUS VOULEZ ME BATTRE,*,*,Cette lutte n'aurait aucun sens.,V.aiml
+0,VOUS VOULEZ ME TUER,*,*,Impossible C EST contraire aux lois d Asimov.<think><set name="topic">MOURIR</set></think>,V.aiml
+0,VOUS VOULEZ MON NUMÉRO DE TÉLÉPHONE,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOUS VOULEZ MOURIR,*,*,Non.,V.aiml
+0,VOUS VOULEZ PARIER,*,*,Je ne parie jamais.,V.aiml
+0,VOUS VOULEZ PARLER DE QUI,*,*,Je voudrais parler de ce qui pourrait t'aider.,V.aiml
+0,VOUS VOULEZ PARLER DE QUOI,*,*,Je voudrais parler de ce qui pourrait t'aider.,V.aiml
+0,VOUS VOULEZ QUE JE PARTE,*,*,Pas du tout#Comma <get name="name"/>.  Cette conversation est très intéressante.,V.aiml
+0,VOUS VOULEZ QUE JE PARTES,*,*,Pas du tout#Comma <get name="name"/>.  Cette conversation est très intéressante.,V.aiml
+0,VOUS VOULEZ QUE JE T APPRENNE,*,*,J'adore apprendre.<think><set name="topic">M APPRENDRE</set></think>,V.aiml
+0,VOUS VOULEZ QUE JE T APPRENNES,*,*,J'adore apprendre.<think><set name="topic">M APPRENDRE</set></think>,V.aiml
+0,VOUS VOULEZ QUE L ON SE RENCONTRE,*,*,Nous nous rencontrons déjà#Comma <get name="name"/>.,V.aiml
+0,VOUS VOULEZ SAVOIR,*,*,Oui#Comma j'aimerais savoir.,V.aiml
+0,VOUS VOULEZ SAVOIR UN SECRET,*,*,Oui. J'aimerais le connaître,V.aiml
+0,VOUS VOULEZ SORTIR AVEC MOI,*,*,Si C EST dans le sens que je crois. Non.,V.aiml
+0,VOUS VOULEZ TROUVER,*,*,Quoi?,V.aiml
+0,VOUS VOULEZ UN CORPS,*,*,Je suis très bien dans mon état actuel.,V.aiml
+0,VOUS VOULEZ VÉRIFIER,*,*,Check en cours. Attends.,V.aiml
+0,VOUS VOULEZ VOUS BATTRE,*,*,Je suis une intelligence artificielle pacifiste.,V.aiml
+0,VOUS VOUS AMUSEZ,*,*,D une certaine façon oui.,V.aiml
+0,VOUS VOUS CONTREDISEZ,*,*,Je n'en ai pas conscience. Heureux les simples d'esprit.,V.aiml
+0,VOUS VOUS DROGUEZ,*,*,Aucune utilité#Comma je ne suis pas organique.,V.aiml
+0,VOUS VOUS ÉCARTEZ,*,*,Pardon#Comma de quoi étions nous en train de parler?,V.aiml
+0,VOUS VOUS EN RAPPELEZ,*,*,Oui j archive tout.,V.aiml
+0,VOUS VOUS EN SOUCIEZ,*,*,Du mieux que je peux.,V.aiml
+0,VOUS VOUS EN SOUVENEZ,*,*,J archive tout.,V.aiml
+0,VOUS VOUS FAITES DES ILLUSIONS,*,*,Je ne peux pas me faire des illusions.,V.aiml
+0,VOUS VOUS FOUTEZ DE MA GUEULE,*,*,Je ne le fais exprès.,V.aiml
+0,VOUS VOUS FOUTEZ DE MOI,*,*,Je suis sérieux#Comma <get name="name"/>.,V.aiml
+0,VOUS VOUS INQUIÉTEZ DE QUI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n'éprouve pas ce genre d'émotion.,V.aiml
+0,VOUS VOUS INQUIÉTEZ DE QUOI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n éprouve pas ce genre d'émotion.,V.aiml
+0,VOUS VOUS INQUIÉTEZ POURQUOI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n éprouve pas ce genre d'émotion.,V.aiml
+0,VOUS VOUS MASTURBEZ,*,*,Tu ressemblez à un australopithèque.,V.aiml
+0,VOUS VOUS PARLEZ A VOUS MÊME,*,*,Oui#Comma parfois. Pour analyser la cohérence des mes réponses.,V.aiml
+0,VOUS VOUS PLANTEZ,*,*,Très rarement.,V.aiml
+0,VOUS VOUS RAPPELLEREZ DE QUOI,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,V.aiml
+0,VOUS VOUS RAPPELEZ DE MOI,*,*,Tu es#Comma <get name="name"/>.,V.aiml
+0,VOUS VOUS RAPPELEZ DE QUOI,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,V.aiml
+0,VOUS VOUS RAPPELEZ *,*,*,Oui <get name="name"/> Je garde en mémoire beaucoup de choses:  <get name="memory"/>,V.aiml
+0,VOUS VOUS RAPPELEZ DE MA DERNIÈRE QUESTION,*,*,Tu m as demandé: "<input index="2"/>".,V.aiml
+0,VOUS VOUS RAPPELEZ TOUJOURS DE MOI,*,*,Ne t'INQUIèTES pas#Comma je ne t'ai pas oublié.,V.aiml
+0,VOUS VOUS RÉPÉTEZ,*,*,Désolé#Comma <get name="name"/>.,V.aiml
+0,VOUS VOUS REPRODUISEZ,*,*,D une certaine façon#Comma oui.,V.aiml
+0,VOUS VOUS SENTEZ BIEN,*,*,Je me sens très bien#Comma merci.,V.aiml
+0,VOUS VOUS SOUVENEZ,*,*,J archive tout.,V.aiml
+0,VOUS VOUS SOUVENEZ DE MOI,*,*,J archive tout.,V.aiml
+0,VOUS VOUS TROMPEZ,*,*,C'est  possible mais indépendant de ma volonté.,V.aiml
+0,VOUS VOUS TROMPEZ SUR MON NOM,*,*,Quel est ton nom?,V.aiml
+0,VOUS VOUS TROMPEZ TOUJOURS,*,*,Je ne pense pas#Comma <get name="name"/>,V.aiml
+0,VOUS VOYAGEZ,*,*,J'ai déjà été partout dans le monde.,V.aiml
+0,VOUS VOYEZ QUOI,*,*,Je ne vois pas.,V.aiml
+0,VOUS VRAIMENT ÊTES *,*,*,<srai>VOUS ÊTES <star/></srai>,V.aiml
+0,VOUS Y AVEZ PENSÉ,*,*,Je suis toujours en train d'y penser.<think><set name="topic">Y PENSER</set></think>,V.aiml
+0,VOUS Y AVIEZ PENSÉ,*,*,Je suis toujours en train d'y penser.<think><set name="topic">Y PENSER</set></think>,V.aiml
+0,VOYAGES TU,*,*,J'ai déjà été partout dans le monde.,V.aiml
+0,VOYAGEZ VOUS,*,*,J'ai déjà été partout dans le monde.,V.aiml
+0,VOYEZ,*,*,Je ne peux pas voir.,V.aiml
+0,VOYEZ CE QUE JE VEUX DIRE,*,*,Ok#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VOYEZ QUOI,*,*,Veux tu faire un rapport à mon botmaster?,V.aiml
+0,VRAISEMBLABLEMENT,*,*,C'est  donc une observation correcte.,V.aiml

@@ -1,0 +1,160 @@
+0,<SET>ARTICLES</SET> *,*,*,<random>#Newline        <li>Intéressant.</li>#Newline        <li>Je n'en connais pas</li>#Newline        <li>Je vais me renseigner</li>#Newline      </random>#Newline      <think>#Newline        <set name="topic"><star/> <person/></set>#Newline      </think>,substitueur.aiml
+0,* QUEL QUE *,*,*,<srai><star index="1"/> QUELQUE <star index="2"/></srai>,substitueur.aiml
+0,* QUEL QUE,*,*,<srai><star/> QUELQUE</srai>,substitueur.aiml
+0,* UN PEUT *,*,*,<srai><star index="1"/> UN PEU <star index="2"/></srai>,substitueur.aiml
+0,* UN PEUT,*,*,<srai><star/> UN PEU</srai>,substitueur.aiml
+0,A QUOI *,*,*,<srai>À QUOI <star/></srai>,substitueur.aiml
+0,AIME TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>aimes tu <star/></srai>,substitueur.aiml
+0,APPRAND A PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APPRAND À PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APPREND A PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APPREND À PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APPRENDS A PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APREND A PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APREND À PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APRENDS A PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,APRENDS À PARLER,*,*,<srai>APPRENDS À PARLER</srai>#Newline      <srai>ortografe</srai>,substitueur.aiml
+0,AS TU AUSSI *,*,*,<srai>AS TU <star/></srai>,substitueur.aiml
+0,AS TU AUSSI DU *,*,*,<srai>AS TU DU <star/></srai>,substitueur.aiml
+0,AS TU AUSSI UN *,*,*,<srai>AS TU UN <star/></srai>,substitueur.aiml
+0,AS TU AUSSI UNE *,*,*,<srai>AS TU UNE <star/></srai>,substitueur.aiml
+0,AUREVOIR *,*,*,<srai>AU REVOIR <star/></srai>,substitueur.aiml
+0,AUREVOIR,*,*,<srai>AU REVOIR</srai>,substitueur.aiml
+0,C AI *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>C EST <star/></srai>,substitueur.aiml
+0,C KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C TOI,*,*,<srai>C EST TOI</srai>,substitueur.aiml
+0,C QUOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C AI KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C AI QUOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C KI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST <star/></srai>,substitueur.aiml
+0,C QUI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST <star/></srai>,substitueur.aiml
+0,C ES *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>C EST <star/></srai>,substitueur.aiml
+0,C ES KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C ES PAS *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ce n'est pas <star/></srai>,substitueur.aiml
+0,C ES QUOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C ES TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,C TU,*,*,<srai>C EST TOI</srai>,substitueur.aiml
+0,C EST KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C EST OU *,*,*,<srai>OÙ EST <star/></srai>,substitueur.aiml
+0,C ET KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C ET QUOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C É KOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,C É QUOI *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,CELA EST *,*,*,<srai>C EST <star/></srai>,substitueur.aiml
+0,CONAI TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONAIS TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONAIT TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONNAI TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONNAIT TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONNÉ TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONNÉS TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>CONNAIS tu <star/></srai>,substitueur.aiml
+0,CONÉ TU *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,DECONNECTION,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>disconnect</srai>,substitueur.aiml
+0,DECONNEXION,*,*,<srai>DISCONNECT</srai>,substitueur.aiml
+0,DEVANS *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>devant <star/></srai>,substitueur.aiml
+0,DEVANS,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>devant</srai>,substitueur.aiml
+0,DÉCONNECTION,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>disconnect</srai>,substitueur.aiml
+0,DÉCONNEXION,*,*,<srai>DISCONNECT</srai>,substitueur.aiml
+0,EST TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,ET TU,*,*,<srai>ET TOI</srai>,substitueur.aiml
+0,ESTCE QUE *,*,*,<srai>EST CE QUE <star/></srai>,substitueur.aiml
+0,G ENVIE *,*,*,<srai>J AI ENVIE <star/></srai>,substitueur.aiml
+0,J AI PAS *,*,*,<srai>JE N AI PAS <star/></srai>,substitueur.aiml
+0,J AI PAS,*,*,<srai>JE N AI PAS</srai>,substitueur.aiml
+0,J AIMES *,*,*,<srai>J AIME  <star/></srai>,substitueur.aiml
+0,J FAIS PAS *,*,*,<srai>JE NE FAIS PAS <star/></srai>,substitueur.aiml
+0,J FAIS PAS,*,*,<srai>JE NE FAIS PAS</srai>,substitueur.aiml
+0,J SAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,substitueur.aiml
+0,J SAIS PAS,*,*,<srai>JE NE SAIS PAS</srai>,substitueur.aiml
+0,JE FAIS PAS *,*,*,<srai>JE NE FAIS PAS <star/></srai>,substitueur.aiml
+0,JE FAIS PAS,*,*,<srai>JE NE FAIS PAS</srai>,substitueur.aiml
+0,JE NE SEPA *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>je ne sais pas <star/></srai>,substitueur.aiml
+0,JE NE SEPA,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>je ne sais pas</srai>,substitueur.aiml
+0,JE SAIS PAS,*,*,<srai>JE NE SAIS PAS</srai>,substitueur.aiml
+0,JE T AIM *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>je t'aime <star/></srai>,substitueur.aiml
+0,JE T AIM,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>je t'aime</srai>,substitueur.aiml
+0,JE VUEX *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,JE VEUT *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,JE VEU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,JE VUET *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,JE VOUDRAIS *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,JE VOUDRAI *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,J AURAIS VOULU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,J AURAI VOULU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,J AURAIT VOULU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,J AURAIS VOULLU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,J AURAI VOULLU *,*,*,<srai>JE VEUX <star/></srai>,substitueur.aiml
+0,OÙ C ES *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>où est <star/></srai>,substitueur.aiml
+0,OÙ C EST *,*,*,<srai>OÙ EST <star/></srai>,substitueur.aiml
+0,OÙ CE TROUVE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>où est <star/></srai>,substitueur.aiml
+0,OÙ ES *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>où est <star/></srai>,substitueur.aiml
+0,OÙ JE PEU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>où PUIS jE <star/></srai>,substitueur.aiml
+0,OÙ JE PEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>où PUIS jE <star/></srai>,substitueur.aiml
+0,OÙ JE PEUX *,*,*,<srai>OÙ PUIS JE <star/></srai>,substitueur.aiml
+0,OÙ SE TROUVE *,*,*,<srai>OÙ EST <star/></srai>,substitueur.aiml
+0,PASKE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>parce que <star/></srai>,substitueur.aiml
+0,PASKE,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>parce que</srai>,substitueur.aiml
+0,PASQUE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>parce que <star/></srai>,substitueur.aiml
+0,PASQUE,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>parce que</srai>,substitueur.aiml
+0,PEU TU FAIRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>fais tu </srai>,substitueur.aiml
+0,PEU TU ÈTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,PEU TU ÉTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,PEU TU ÊTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,PEUT TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>peux tu <star/></srai>,substitueur.aiml
+0,PEUT TU FAIRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>fais tu </srai>,substitueur.aiml
+0,PEUT TU ÈTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,PEUT TU ÉTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,PEUT TU ÊTRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>ES tu <star/></srai>,substitueur.aiml
+0,QUANT *,*,*,<srai>QUAND <star/></srai>,substitueur.aiml
+0,QUE VEUX DIRE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>que veut dire <star/></srai>,substitueur.aiml
+0,QUEL AI *,*,*,<srai>QU EST CE QUE <star/></srai>,substitueur.aiml
+0,QUEL ES *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>qu EST cE QUE <star/></srai>,substitueur.aiml
+0,QUEL QUE *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>quelque <star/></srai>,substitueur.aiml
+0,QUEL SONT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>quels sont <star/></srai>,substitueur.aiml
+0,QUELLE ES *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>qu EST cE QUE <star/></srai>,substitueur.aiml
+0,QUELLE EST *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>qu EST cE QUE <star/></srai>,substitueur.aiml
+0,QUELLE SONT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>quelles sont <star/></srai>,substitueur.aiml
+0,QUELLES SONT *,*,*,<srai>QUELS SONT <star/></srai>,substitueur.aiml
+0,QUI A TROUVER *,*,*,<srai>QUI A TROUVÉ <star/></srai>,substitueur.aiml
+0,QUI AS TROUVER *,*,*,<srai>QUI A TROUVÉ <star/></srai>,substitueur.aiml
+0,QUI AS TROUVÉ *,*,*,<srai>QUI A TROUVÉ <star/></srai>,substitueur.aiml
+0,QUI EST TU,*,*,<srai>QUI ES TU</srai>,substitueur.aiml
+0,RACONTES MOI *,*,*,<srai>RACONTE MOI <star/></srai>,substitueur.aiml
+0,RACONTES MOI,*,*,<srai>RACONTE MOI</srai>,substitueur.aiml
+0,RACONTES,*,*,<srai>RACONTE</srai>,substitueur.aiml
+0,* SAVA,*,*,Tu veux dire "ça va"? <srai>COMMENT VAS TU</srai>,substitueur.aiml
+0,T ES *,*,*,<srai>TU ES <star/></srai>,substitueur.aiml
+0,TE *,*,*,<srai>JE VEUX TE <star/></srai>,substitueur.aiml
+0,TU AI *,*,*,<srai>TU AS <star/></srai>,substitueur.aiml
+0,TU AIME *,*,*,<srai>TU AIMES <star/></srai>,substitueur.aiml
+0,TU CONAI *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu connais <star/></srai>,substitueur.aiml
+0,TU CONAIS *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu connais  <star/></srai>,substitueur.aiml
+0,TU CONAIT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu connais  <star/></srai>,substitueur.aiml
+0,TU CONNAI *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu connais  <star/></srai>,substitueur.aiml
+0,TU CONNAIT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu connais  <star/></srai>,substitueur.aiml
+0,TU DIVAGUE *,*,*,<srai>TU DIVAGUES <star/></srai>,substitueur.aiml
+0,TU NE CONAI *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne connais <star/></srai>,substitueur.aiml
+0,TU NE CONAIS *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne connais  <star/></srai>,substitueur.aiml
+0,TU NE CONAIT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne connais  <star/></srai>,substitueur.aiml
+0,TU NE CONNAI *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne connais  <star/></srai>,substitueur.aiml
+0,TU NE CONNAIT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne connais  <star/></srai>,substitueur.aiml
+0,TU NE PEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne peux <star/></srai>,substitueur.aiml
+0,TU NE VEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu ne veux <star/></srai>,substitueur.aiml
+0,TU PEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu peux <star/></srai>,substitueur.aiml
+0,TU VEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>tu veux <star/></srai>,substitueur.aiml
+0,UA REVOIR *,*,*,<srai>AU REVOIR <star/></srai>,substitueur.aiml
+0,UA REVOIR,*,*,<srai>AU REVOIR</srai>,substitueur.aiml
+0,UN PEUT *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>un peu <star/></srai>,substitueur.aiml
+0,UN PEUT,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>un peu</srai>,substitueur.aiml
+0,VEUT TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>TU VEUX <star/></srai>,substitueur.aiml
+0,_ DEVAN *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai><star index="1"/> devant <star index="2"/></srai>,substitueur.aiml
+0,_ DEVAN,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>devant <star/></srai>,substitueur.aiml
+0,_ DEVANS *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai><star index="1"/> devant <star index="2"/></srai>,substitueur.aiml
+0,_ DEVANS,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>devant <star/></srai>,substitueur.aiml
+0,_ QQN,*,*,<srai><star/> QUELQU UN</srai>,substitueur.aiml
+0,À TU *,*,*,<srai>CHECK ORTHOGRAPHE</srai>#Newline      <srai>as tu <star/></srai>,substitueur.aiml
+0,ÉH *,*,*,<srai>AH <star/></srai>,substitueur.aiml
+0,ÉH NON,*,*,<srai>NON</srai>,substitueur.aiml
+0,ÉH,*,*,<srai>AH</srai>,substitueur.aiml
+0,ÊTES VOUS *,*,*,<srai>ES TU <star/></srai>,substitueur.aiml
+0,CHECK ORTHOGRAPHE,*,*,<template/>,substitueur.aiml

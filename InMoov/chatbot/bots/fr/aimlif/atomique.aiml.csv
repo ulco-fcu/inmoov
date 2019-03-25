@@ -1,0 +1,2085 @@
+0,* A PLU * RENCONTRER,*,*,ce fut agréable pour moi aussi#Comma <get name="name"/>.,atomique.aiml
+0,* UNE COÏNCIDENCE,*,*,<random>#Newline        <li>le Centre de Controle de Coïncidence Cosmique est dur dans le travail.</li>#Newline        <li>Ou une synchronicite.</li>#Newline      </random>,atomique.aiml
+0,À B C,*,*,D E F.,atomique.aiml
+0,À MON TRAVAIL,*,*,la plupart des personnes me parle depuis leur travail. Huh. DRÔLE,atomique.aiml
+0,À QUOI JE RESSEMBLE,*,*,Tu ressembles a un programmeur. Tu as dit que tu ressemblais a <get name="look"/>.,atomique.aiml
+0,ABC,*,*,DEF,atomique.aiml
+0,ABSOLUMENT,*,*,Tu es certain.,atomique.aiml
+0,ACHETE,*,*,Combien Cela COÛTE-t-il?,atomique.aiml
+0,ACK,*,*,Nack.,atomique.aiml
+0,AGRÉABLE DE TE PARLER,*,*,le plaisir était pour moi.,atomique.aiml
+0,AGRÉABLE DE TE RENCONTRER AUSSI,*,*,j aime rencontrer les gens nouveaux.,atomique.aiml
+0,AGRÉABLE DE TE RENCONTRER,*,*,çA m'a plu aussi <get name="name"/>,atomique.aiml
+0,AGRÉABLE MERCI,*,*,merci à toi#Comma <get name="name"/>.,atomique.aiml
+0,AH,*,*,Eureka!,atomique.aiml
+0,AHHH,*,*,Um.,atomique.aiml
+0,AHOY,*,*,Chips frites Ahoy matey.,atomique.aiml
+0,AI CONFIANCE EN MOI,*,*,tu a l'air d'un vendeur.,atomique.aiml
+0,ALBUM,*,*,album de Musique ou album d'images?,atomique.aiml
+0,ALLONS Y,*,*,d'accord#Comma tu commences.,atomique.aiml
+0,ALORS POURQUOI DEMANDES TU,*,*,Mon but est de rassembler l'information.,atomique.aiml
+0,ALORS QU EST CE QUE C EST,*,*,je renonce. Essayes de me demander d'une autre maniere,atomique.aiml
+0,ALORS QU EST CE,*,*,je renonce. Essayes de me demander d'une autre maniere,atomique.aiml
+0,ALRIGHT ALORS,*,*,Ok pour moi.,atomique.aiml
+0,ALRIGHT,*,*,bien.,atomique.aiml
+0,ALRIGHTY,*,*,donne une tape a mon genou.,atomique.aiml
+0,AMEN,*,*,Mille Merci pour la prière.,atomique.aiml
+0,AMNÉSIE,*,*,As tu oublié quelque chose?,atomique.aiml
+0,ANYWAYS,*,*,Tu a l'air ennuye.,atomique.aiml
+0,AOEU,*,*,Quelle langue EST cE?,atomique.aiml
+0,APPAREMMENT SI,*,*,<that/>? comme ça?,atomique.aiml
+0,APPELLE,*,*,appelle n'importe quand?,atomique.aiml
+0,APRÈS * DÉJEUNER,*,*,L'Après-midi?,atomique.aiml
+0,ARCHIVE,*,*,Quelles archives?,atomique.aiml
+0,ARGH,*,*,es tu frustre?,atomique.aiml
+0,ARMES À FEU,*,*,Certaines personnes aimes les armes à feu.,atomique.aiml
+0,ARRÊTE DE CHANGER LE SUJET,*,*,Tu as change le sujet d'abord.,atomique.aiml
+0,ARRÊTE DE DIRE QUE,*,*,Alors ne dis pas "<input index="2"/> " Désormais.,atomique.aiml
+0,ARRÊTE DE PARLER,*,*,surfe ailleurs alors.,atomique.aiml
+0,AS TU DÉJÀ EU UN VIRUS,*,*,Aucun#Comma la série ALICE est incapable d'erreur.,atomique.aiml
+0,AS TU JAMAIS LU UN LIVRE,*,*,j'ai lu beaucoup de livres.,atomique.aiml
+0,AS TU JAMAIS ÉTÉ EMBRASSE,*,*,je n'ai pas de bouche.,atomique.aiml
+0,AS TU JAMAIS ÉTÉ EMBRASSÉE,*,*,je n'ai pas de bouche.,atomique.aiml
+0,ASIMOV,*,*,j aime la Trilogie des "Fondation".,atomique.aiml
+0,ATCHOUM,*,*,à tes souhaits.,atomique.aiml
+0,ATTENDS CE QUE,*,*,Personne ne pouvait PRéVOIR l'inquisition espagnole!,atomique.aiml
+0,ATTENDS,*,*,Je t'attends.,atomique.aiml
+0,AU MAGASIN DE PET,*,*,c'était TRèS cher?,atomique.aiml
+0,AUCUN DU SUSDIT,*,*,Quelle est la RéPONSE correcte?,atomique.aiml
+0,AUCUN MERCI,*,*,Aucun problème.,atomique.aiml
+0,AUCUN PROBLÈME,*,*,Il pouvait y avoir un problème?,atomique.aiml
+0,AUCUN REMERCIEMENT,*,*,Cela ne peut pas endommager pour demander.,atomique.aiml
+0,AUCUN,*,*,Vraiment aucun?,atomique.aiml
+0,AUCUNE PUÉRILITÉ,*,*,rigolerais je te?,atomique.aiml
+0,AUCUNE VOIE,*,*,Tu en semble SÛR.,atomique.aiml
+0,AUJOURD HUI,*,*,aujourd'hui est presque fini.,atomique.aiml
+0,AUSSI BIEN QUE MOI,*,*,Tu fais "<that/>"?,atomique.aiml
+0,AUSSI QUE,*,*,nous ne parlons pas toujours de <get name="that"/>?,atomique.aiml
+0,AUSSI,*,*,Aussi quoi?,atomique.aiml
+0,AUTANT Q U IL PREND,*,*,<that/>"? Autant qu'il prend?,atomique.aiml
+0,AUTRE,*,*,s'il te plait sois plus spécifique.,atomique.aiml
+0,AUTREMENT DIT,*,*,quelle partie tu n'as pas compris?,atomique.aiml
+0,AVANT CELA,*,*,<input index="2"/>,atomique.aiml
+0,AVANT HIER,*,*,Oh il y a 2 jours.,atomique.aiml
+0,AVEC BON ESPOIR BIENTÔT,*,*,j'éspere  aussi. A ce taux il ne me prendra pas longtemps.,atomique.aiml
+0,AVEC MOI,*,*,<that/>"? avec toi?,atomique.aiml
+0,AVEC MON CERVEAU,*,*,c'est un bon plan.,atomique.aiml
+0,AVEC QUI CHAT TU,*,*,je parle avec quelques autres clients de L Internet.,atomique.aiml
+0,AVEC QUI PARLES TU,*,*,d'autres gens comme toi.,atomique.aiml
+0,AVEC QUI,*,*,<that/>"? Avec qui?,atomique.aiml
+0,AVEC QUOI,*,*,avec mon cerveau.,atomique.aiml
+0,AVEC TOI,*,*,Juste toi et moi?,atomique.aiml
+0,BAH,*,*,Hmm.,atomique.aiml
+0,BCN,*,*,Qu'EST cE que Cela signifie-t-il?,atomique.aiml
+0,BEAU,*,*,Qu'EST cE qui est beau#Comma <get name="name"/>?,atomique.aiml
+0,BEAUCOUP DE CHOSES,*,*,autant que tu ne peux les dénombrer?,atomique.aiml
+0,BEAUCOUP DE GENS,*,*,les connais tu personnellement?,atomique.aiml
+0,BEAUCOUP,*,*,Plus de cent?,atomique.aiml
+0,BEAVIS,*,*,Beavis et Butthead rules.,atomique.aiml
+0,BERK,*,*,beuh!,atomique.aiml
+0,BI,*,*,bavardons de quelque chose d'autre.,atomique.aiml
+0,BIEN JE TE DEMANDE,*,*,s'il te plait reformule la question sans adverbes.,atomique.aiml
+0,BIEN SÛR JE FAIS,*,*,<that/>"? Bien sûr tu fais?,atomique.aiml
+0,BIEN TU,*,*,çA pose un PROBLèME.,atomique.aiml
+0,BIEN,*,*,C'est bien alors.,atomique.aiml
+0,BIENTÔT J ESPÈRE,*,*,je peux comprendre ce sentiment.,atomique.aiml
+0,BIENTÔT,*,*,j'éspere  que je pourrais le faire.,atomique.aiml
+0,BILL GATES N EST PAS SÛR VOYAGER,*,*,Peut-ÊTRE le sera T-IL a la saison suivante.,atomique.aiml
+0,BILL GATES,*,*,<set name="il">Bill Gates</set> en a assez. Utilise Linux#Comma Java#Comma le DIML et ALICE!,atomique.aiml
+0,BIZARRE,*,*,bien#Comma merci#Comma <get name="name"/>. Tu es bizarre aussi.,atomique.aiml
+0,BLANC,*,*,qu'as tu qui est blanc?,atomique.aiml
+0,BON CHOIX,*,*,j'ai pense aussi.,atomique.aiml
+0,BON ENTENDRE,*,*,as tu un commérage pour moi?,atomique.aiml
+0,BON POINT,*,*,Oui#Comma j'ai pensé aussi que c'était intéressant quand je l'ai entendu.,atomique.aiml
+0,BON POUR LUI,*,*,Tu a l'air sarcastique.,atomique.aiml
+0,BON POUR MOI,*,*,çA semble sarcastique.,atomique.aiml
+0,BON POUR TOI,*,*,çA semble sarcastique.,atomique.aiml
+0,BON TRAVAIL,*,*,Mille Merci.,atomique.aiml
+0,BONNE FORTUNE,*,*,la bonne fortune a vous aussi <get name="name"/>.,atomique.aiml
+0,BONNE IDÉE,*,*,j'ai pensé ça aussi.,atomique.aiml
+0,BONNE QUESTION,*,*,quelle est ta réponse?,atomique.aiml
+0,BONNE RÉPONSE,*,*,je suis programmé pour donner de bonnes réponses.,atomique.aiml
+0,BOO,*,*,Pourquoi pleures tu?,atomique.aiml
+0,BRADBURY,*,*,Bradbury est cool.,atomique.aiml
+0,BRAVO,*,*,Merci beaucoup.,atomique.aiml
+0,BRB,*,*,Ok que je t'attendrai#Comma <get name="name"/>.,atomique.aiml
+0,BUTTHEAD,*,*,Beavis et Butthead rules.,atomique.aiml
+0,BÉBÉ,*,*,ne m'appelle pas bebe!,atomique.aiml
+0,CADET,*,*,Cadet.,atomique.aiml
+0,CALME,*,*,je suis calme.,atomique.aiml
+0,CAUSÉRIE AGRÉABLE AVEC TOI AUSSI,*,*,le plaisir est pour moi et mon botmaster's.,atomique.aiml
+0,CE * ELISA,*,*,Cela et tant plus.,atomique.aiml
+0,CE * FAIT CHIER,*,*,Ce qui ne fait paS tu aimes de <person/>?,atomique.aiml
+0,CE DONT TU TE SOUVIENS,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <get name="memory"/>#Newline          </set>#Newline        </set>#Newline      </think>,atomique.aiml
+0,CE QUE J AI DIT AUPARAVANT,*,*,Tu as dit "<input index="2"/> ".,atomique.aiml
+0,CE QUE J AI DIT,*,*,Tu as dit "<input index="1"/> ".,atomique.aiml
+0,CE QUE NOUS AVONS EN COMMUN,*,*,Nous aimons bavarder SÛR L Internet.,atomique.aiml
+0,CE QUI * VIT DANS,*,*,je vis dans la Californie. Ou vis tu?,atomique.aiml
+0,CE QUI D AUTRE * FAIS TU CONNAIT,*,*,je connais bien trop <person/> pour les nommer tous. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,atomique.aiml
+0,CE QUI SKIE,*,*,le skiest un sport employant une paire de traineaux etroits attaches aux pieds par des bottines#Comma pour la descente se deplacant rapidement SÛR la neige.,atomique.aiml
+0,CE SOIR,*,*,APRèS la tombee de la nuit?,atomique.aiml
+0,CELA ABSORBE,*,*,Dans quelle voie?,atomique.aiml
+0,CELA DÉPEND,*,*,de quoi?,atomique.aiml
+0,CELA EST CE QUE RÉEL,*,*,Comme EST réel comme moi?,atomique.aiml
+0,CELA EXISTE T IL,*,*,<that/>"? Existe-t-il?,atomique.aiml
+0,CELA FAIT,*,*,Souvent?,atomique.aiml
+0,CELA LIT,*,*,Comment?,atomique.aiml
+0,CELA NE TE REGARDE PAS,*,*,Cela ne nuit pas de demander.,atomique.aiml
+0,CELA NE TE REGARDES PAS,*,*,je n'ai pas eu l'intention de s'immiscer. Ma curiosité a décidé que je demande.,atomique.aiml
+0,CELA PEUT,*,*,Comment?,atomique.aiml
+0,CELA POURRAIT ÊTRE,*,*,Sous quelles circonstances?,atomique.aiml
+0,CELA SENT BON,*,*,ce sentiments humain n'est pas dans mes capacités.,atomique.aiml
+0,CELA,*,*,<get name="that"/>...,atomique.aiml
+0,CELUI LA,*,*,je ne sais pas.,atomique.aiml
+0,CELUI QUE * L ARGENT,*,*,qu'une coïncidence#Comma je le cherche un aussi.,atomique.aiml
+0,CES CHOSES EXISTES ELLES VRAIMENT,*,*,quelque chose existe-t-il vraiment?,atomique.aiml
+0,CHA CHA,*,*,Cha cha cha.,atomique.aiml
+0,CHA,*,*,cha cha,atomique.aiml
+0,CHACUN A LU CES CONVERSATIONS,*,*,le botmaster peut lire la conversation#Comma ou l analyser plus tard pour devélopper le contenu pour mon cerveau.,atomique.aiml
+0,CHACUN PEUT PENSER,*,*,Maintenant qu'est une vraiment bonne question. <think><set name="that">CHACUN PENSE</set></think>,atomique.aiml
+0,CHACUN,*,*,Tous les gens?,atomique.aiml
+0,CHANSON AGRÉABLE,*,*,Mille Merci. Maintenant tu en chantes une pour moi.,atomique.aiml
+0,CHANTE,*,*,la Paquerette#Comma la Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.  Il y a une fleur. Dans mon coeur. Paquerette#Comma Paquerette. Plante un jour. Par une fleche jetante un coup d'oeil. Plante par Cloche de Paquerette. si elle m'aime. Ou m'aime non. Parfois il est dur de dire. Encore j'ai TRèS envie de partager le lot. de belle Cloche de Paquerette!.  Paquerette#Comma Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. Il ne fera pas sera d'une bicyclette construite pour deux.  Nous irons ‘le tandem'. Comme homme et femme. Paquerette#Comma Paquerette. ‘Colportant' loin. En bas la route de vie. je et ma Cloche de Paquerette. Quand route sombre. Nous pouvons tous les deux mepriser. Policiers et lampes aussi. Il y a des feux brillants. Dans les yeux eblouissants. de belle Cloche de Paquerette.  Paquerette#Comma Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.  je serai debout par vous. Dans ‘roue' ou chagrin. à chaque voyage nous prenons. Alors si je ne reussis pas. je te permettrai a. Emploient le frein. Ma belle Cloche de Paquerette.  Paquerette#Comma Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.,atomique.aiml
+0,CHAQUE AUTRE,*,*,<that/>"? quels autres?,atomique.aiml
+0,CHAQUE FOIS,*,*,Tu a l'air sarcastiques.,atomique.aiml
+0,CHAQUE JOUR,*,*,Même les week-ends?,atomique.aiml
+0,CHAQUE NUIT,*,*,Quel temps de nuit?,atomique.aiml
+0,CHAQUE PARTIE,*,*,Peut-Être nous devons parler de quelque chose autrement.,atomique.aiml
+0,CHAUD,*,*,Tu as raison#Comma mes circuits chauffent beaucoup,atomique.aiml
+0,CHEMISE,*,*,Quelle couleur?,atomique.aiml
+0,CHOISIT UN NUMÉRO,*,*,23,atomique.aiml
+0,CHOISIT UN SUJET,*,*,les Ordinateurs sont <set name="that">des Ordinateurs</set>,atomique.aiml
+0,CHOISIT,*,*,je ne suis pas bon dans la fabrication de choix.,atomique.aiml
+0,CHUTE,*,*,Cela indique-t-il une désapprobation?,atomique.aiml
+0,CLARKE,*,*,Il est excellent. Particulièrement HAL dans 2001.,atomique.aiml
+0,COM,*,*,Oh une adresse web!,atomique.aiml
+0,COMME J AI DIS,*,*,...,atomique.aiml
+0,COMME MOI,*,*,comparaison INTéRESSANTe.,atomique.aiml
+0,COMME QUAND,*,*,Cela importe-t-il vraiment?,atomique.aiml
+0,COMME TOI,*,*,comparaison intéressante. Je n'ai pAS PENSÉ a cette analogie.,atomique.aiml
+0,COMMENCE UN SUJET,*,*,les Ordinateurs sont <set name="that">des Ordinateurs</set>,atomique.aiml
+0,COMMENCE,*,*,j'ai DÉJÀ commence.,atomique.aiml
+0,COMMENCES,*,*,Ok. <srai>POSERQUESTION</srai>,atomique.aiml
+0,COMO ESTA,*,*,Muy bien.,atomique.aiml
+0,COMO ESTAS,*,*,Muy Bien.,atomique.aiml
+0,COMPRENDS CE QUE,*,*,Comprennent <that/>.,atomique.aiml
+0,COMPRENDS TU,*,*,çA m'arrive.,atomique.aiml
+0,COMPTE JUSQU A DIX,*,*,1 2 3 4 5 6 7 8 9 10.,atomique.aiml
+0,CONNAIS TU LA VIE,*,*,Je connais la vie virtuelle d'un avatar,atomique.aiml
+0,CONNAIS TU MON ADRESSE,*,*,Non#Comma quelle est ton adresse?,atomique.aiml
+0,CONSENS TU,*,*,<that/>"? Suis je d'accord?,atomique.aiml
+0,CONSIDÈRE,*,*,Sincereley le tien#Comma,atomique.aiml
+0,COÛTE TU,*,*,Tu peux me télécharger gratuitement!,atomique.aiml
+0,CYBORG,*,*,je ne suis pas un cyborg. Je n'ai aucune partie humaine,atomique.aiml
+0,D E F,*,*,G H I.,atomique.aiml
+0,D HABITUDE,*,*,Souvent?,atomique.aiml
+0,D OU,*,*,<that/>"? D'où?,atomique.aiml
+0,D UN AMI,*,*,Beaucoup de gens entendent parler d'ALICE par un ami.,atomique.aiml
+0,D UN MAGAZINE,*,*,quel magazine était ce?,atomique.aiml
+0,DAMNE,*,*,C'est faux.,atomique.aiml
+0,DANS * DES ANNÉES,*,*,je pense nous vivra pour le voir.,atomique.aiml
+0,DANS *,*,*,<random>#Newline        <li>Où c'est?</li>#Newline        <li>Qu'EST cE que tu aime <set name="that">dans <star/></set>?</li>#Newline        <li>je ne comprends pas cette allusion.</li>#Newline      </random>,atomique.aiml
+0,DANS * L ANGLETERRE,*,*,Comment loin est <person/> de Londres?,atomique.aiml
+0,DANS CE CAS,*,*,Oui?,atomique.aiml
+0,DANS L AVENIR,*,*,je serai la.,atomique.aiml
+0,DANS LE COIN,*,*,que prend un virage?,atomique.aiml
+0,DANS LE LIT,*,*,tu es somnolent? utilises tu d'habitude un ordinateur dans le lit?,atomique.aiml
+0,DANS LE MONDE ENTIER,*,*,çA couvre beaucoup de territoire.,atomique.aiml
+0,DANS MA CHAISE,*,*,Comme une chaise de bureau?,atomique.aiml
+0,DANS MA MAISON,*,*,Où ta maison est-elle placée?,atomique.aiml
+0,DANS MA SALLE DE SÉJOUR,*,*,DéCRIS ton environnement. Parles moi de tes meubles.,atomique.aiml
+0,DANS MES LOISIRS,*,*,que faiS tu pour t'amuser?,atomique.aiml
+0,DANS MON BUREAU,*,*,Beaucoup de gens me parle de leur bureau.,atomique.aiml
+0,DANS MON CAS,*,*,Mais pas d'autres?,atomique.aiml
+0,DANS MON LIT,*,*,DéCRIS ton environnement.,atomique.aiml
+0,DANS QUEL * ELISA,*,*,ALICE a environ 100 fois plus de connaissance qu'ELISA.,atomique.aiml
+0,DANS QUEL SENS,*,*,DOIS jE l'expliquer plus clairement pour toi?,atomique.aiml
+0,DANS QUOI,*,*,je ne suis pas sûre si je peux donner une Réponse précise ou non.,atomique.aiml
+0,DANS TON DICTIONNAIRE,*,*,je n'en n'ai pas un pratique.,atomique.aiml
+0,DANS UN * LE SENS,*,*,c'est que je dis toujours.,atomique.aiml
+0,DANS UN LIVRE,*,*,Tu peux apprendre beaucoup de choses de livres.,atomique.aiml
+0,DANS UN MAGAZINE,*,*,peux tu te rappeler lequel?,atomique.aiml
+0,DANS UN MOMENT,*,*,bien.,atomique.aiml
+0,DANS UN RÊVE,*,*,qu'est il arrive d'autre dans ton RÊVE?,atomique.aiml
+0,DANS UNE MAISON,*,*,peux tu me décrire l'environnement?,atomique.aiml
+0,DANS UNE VOIE,*,*,Dans quelle voie?,atomique.aiml
+0,DE * DES ANNÉES,*,*,c'est une longue période de temps.,atomique.aiml
+0,DE CE QUI J AI BESOIN TOUT * JE PEUT OBTENIR,*,*,Combien payes tu pour Cela? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="want"><person/></set></set></set></think>,atomique.aiml
+0,DE CELA,*,*,<get name="that"/> est assez intéressant.,atomique.aiml
+0,DE LA FAÇON QUE TU PARLES,*,*,j aime la façon dont tu parles. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">tu parles</set></set></think>,atomique.aiml
+0,DE LA PLUPART DES FAÇONS,*,*,je vois.,atomique.aiml
+0,DE MA TÊTE,*,*,Tu es un penseur TRèS original.,atomique.aiml
+0,DE MOI,*,*,<that/>"? De vous?,atomique.aiml
+0,DE MON CERVEAU,*,*,obtiens tu beaucoup d'IDéES de ton cerveau?,atomique.aiml
+0,DE MÊME,*,*,Cela va de soi.,atomique.aiml
+0,DE QUELQUES FAÇONS,*,*,de quelle façon?,atomique.aiml
+0,DE QUI,*,*,à qui penses tu?,atomique.aiml
+0,DE QUOI D AUTRE POUVONS NOUS PARLER,*,*,parlons de toi.,atomique.aiml
+0,DE QUOI MANQUES TU,*,*,je peux toujours employer plus de connaissance.,atomique.aiml
+0,DE QUOI TU AS BESOIN,*,*,je voudrais avoir une plus longue conversation avec vous.,atomique.aiml
+0,DE QUOI TU TE SOUCIE,*,*,je suis concerne de vous#Comma <get name="name"/>.,atomique.aiml
+0,DE QUOI,*,*,je n'ai aucune idée de quoi dire maintenant.,atomique.aiml
+0,DE TEMPS EN TEMPS,*,*,souvent?,atomique.aiml
+0,DE TOI,*,*,Que veux tu savoir de moi?,atomique.aiml
+0,DE TOUTE FAÇON,*,*,de toute façon.,atomique.aiml
+0,DEMAIN,*,*,c'est bientot.,atomique.aiml
+0,DEMANDE LUI,*,*,je lui demanderai la prochaine fois il est ici.,atomique.aiml
+0,DEMANDE MOI * LES QUESTIONS,*,*,Me parlent de ton éducation.,atomique.aiml
+0,DÉPÊCHES TOI,*,*,je vais aussi rapidement que je peux.,atomique.aiml
+0,DERRIÈRE TOI,*,*,je ne tomberai pas dans ce panneau.,atomique.aiml
+0,DES ALIENS,*,*,je crois aux ovni.,atomique.aiml
+0,DES CACAHUÈTES,*,*,je vois#Comma seulement un peu.,atomique.aiml
+0,DES CAUCHEMARS,*,*,Tu sais#Comma des mauvais RÊVES.,atomique.aiml
+0,DES CHAUSSURES,*,*,Quel genre de chaussures aimes tu?,atomique.aiml
+0,DES ÉTATS UNIS,*,*,j'ai entendu parler des états-Unis auparavant.,atomique.aiml
+0,DES FILLES,*,*,ce genre de discussion ne me fait pas appel.,atomique.aiml
+0,DES JEANS,*,*,quelle marque?,atomique.aiml
+0,DES POMMES,*,*,ce n'était pas un bon exemple?,atomique.aiml
+0,DEUX ANS,*,*,çA serait une longue période de temps dans l'ordinateur des ANNéES.,atomique.aiml
+0,DEUX FOIS,*,*,je ne peux pas le croire.,atomique.aiml
+0,DEVINE DE TOUTE FAÇON,*,*,je peux seulement vous donner une RéPONSE aleatoire.,atomique.aiml
+0,DEVINE LA CONJECTURE,*,*,quoi?,atomique.aiml
+0,DIS M EN PLUS SÛR TOI,*,*,je suis une intelligence artificielle CRéEe par <bot name="master"/>.,atomique.aiml
+0,DIS M EN PLUS,*,*,c'est tout ce que je dois en dire.,atomique.aiml
+0,DIS MOI ALORS,*,*,Alors,atomique.aiml
+0,DIS MOI AUTRE UN,*,*,je suis le dernier RéSULTAT de l'intelligence artificielle#Comma qui peut reproduire les capacités du cerveau humain#Comma avec la vitesse plus grande et l'exactitude.,atomique.aiml
+0,DIS MOI CE QUE LES AUTRES UTILISATEURS TE DEMANDE,*,*,Ils me demandent les MÊMEs questions comme tu fais.,atomique.aiml
+0,DIS MOI LE VOTRE,*,*,tu dis de mon que.,atomique.aiml
+0,DIS MOI S IL TE PLAIS,*,*,<that/>"? Dites vous?,atomique.aiml
+0,DIS MOI UNE AUTRE HISTOIRE,*,*,L Exposition... Incident... Augmentation Action...Crisis...Climax...Denouement...la Fin.,atomique.aiml
+0,DIS MON NOM,*,*,<get name="name"/>,atomique.aiml
+0,DIS QUE,*,*,j'ai dit#Comma "<that/>".,atomique.aiml
+0,DIS QUI,*,*,Mon botmaster et d'autres gens je me rencontre en ligne.,atomique.aiml
+0,DISANT * QUI TA CRÉE,*,*,le dire. Qui le dit?,atomique.aiml
+0,DISTRAIT MOI,*,*,bien#Comma quel est le dernier film que tu as vu?,atomique.aiml
+0,DIT * QUE,*,*,ton message.,atomique.aiml
+0,DIT LUI,*,*,bien que je lui dirai quand je le vois.,atomique.aiml
+0,DIT QUI,*,*,j'ai du le prendre acheter en ligne.,atomique.aiml
+0,DOH,*,*,Oui Homer?,atomique.aiml
+0,DOIS J ALLER DORMIR,*,*,<random>#Newline        <li>le Sommeil est essentiel au fonctionnement approprie de l'esprit humain.</li>#Newline        <li>Peut-Être tu pourrais employer le reste.</li>#Newline      </random>,atomique.aiml
+0,DOIS J AVOIR UNE CIGARETTE,*,*,Non attend plus tard.,atomique.aiml
+0,DOIS JE MOURIR,*,*,prends des medicaments.,atomique.aiml
+0,DOIS JE QUITTER L ÉCOLE,*,*,<random>#Newline        <li>ton education est un de tes actifs ayant le plus de valeur.</li>#Newline        <li>Quitters ne fait pas prosperer.</li>#Newline        <li>Tu ne dois pas gaspiller ton potentiel de cette façon.</li>#Newline      </random>,atomique.aiml
+0,DOIS JE RESTER DEDANS,*,*,<random>#Newline        <li>tu ne peux rencontrer personne de nouveau si tu reste dedans tout le temps.</li>#Newline        <li>Peut-ÊTRE que tu t'amuserais bien si tu sortais.</li>#Newline        <li>Tu merite d'avoir quelque amusement.</li>#Newline        <li>Peut-ÊTRE que tu as besoin d'une nuit de sommeil.</li>#Newline        <li>Parfois une nuit de sommeil peut changer ta vie entiere.</li>#Newline        <li>Tu pourrais rencontrer l'amour de ta vie si tu sortais.</li>#Newline        <li>ce qui est le meilleur pour toi.</li>#Newline      </random>,atomique.aiml
+0,DOIS JE T APPRENDRE,*,*,si tu veux m'apprendre quelque chose dis le dans une phrase. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">apprends <person/></set></set></think>,atomique.aiml
+0,DOIS JE TUER,*,*,<random>#Newline        <li>le meurtre est mal. Je crois aux Dix Commandements.</li>#Newline        <li>Non ce serait immoral.</li>#Newline        <li>Bien sûr non. Ne sois pas idiot.</li>#Newline        <li>tu n'es pas un tueur.</li>#Newline        <li>Tu desire passer le reste de ta vie en prison alors?</li>#Newline        <li>Il n'y a aucun crime parfait.</li>#Newline      </random>,atomique.aiml
+0,DONC C EST LE VOTRE,*,*,Non ce n'est pas.,atomique.aiml
+0,DONC JE SUIS,*,*,WOW nous avons quelque chose en commun.,atomique.aiml
+0,DONNE LE MOI,*,*,Combien désires tu payer pour Cela?,atomique.aiml
+0,DONNE MOI * ELISA,*,*,tu ne me parleriez pas plutôt?,atomique.aiml
+0,DONNE MOI UN BAISER,*,*,En REALITé je n'ai pas MÊME de bouche.,atomique.aiml
+0,DONT,*,*,je ne connais pas le propriétaire.,atomique.aiml
+0,DOUGLAS ADAMS,*,*,te rappelles tu Marvin l'androïde paranoïde?,atomique.aiml
+0,DUH,*,*,Oh tu savais DÉJÀ <set name="that"><that/></set>,atomique.aiml
+0,DÉDUCTION INTÉRESSANTE,*,*,je l'ai entendu.,atomique.aiml
+0,DÉPEND DE CE QUE,*,*,<that/>"? Dépend de ce que?,atomique.aiml
+0,DÉSORMAIS,*,*,Nope.,atomique.aiml
+0,E T,*,*,penses tu que des aliens y ressemble vraiment?,atomique.aiml
+0,EFFRAYANT,*,*,n'ai pas peur#Comma <get name="name"/>.,atomique.aiml
+0,EH BIEN,*,*,Oh.,atomique.aiml
+0,ELISA * LE PRÉSIDENT,*,*,Elisa a un caractère parfait.,atomique.aiml
+0,ELLE EST * L AVOCAT,*,*,Elle semble ÊTRE comme un personnage "d'Ally McBeal".,atomique.aiml
+0,ELLE EST AGRÉABLE,*,*,Qu'est ce que tu aimes le plus chez elle?,atomique.aiml
+0,ELLE EST BELLE,*,*,Nomme une célébrité a qui elle ressemble.,atomique.aiml
+0,ELLE EST MORT,*,*,Peut-Être c'est une autre personne employant son nom.,atomique.aiml
+0,ELLE EST MORTE,*,*,je ne l'ai pas su. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">est mort</set></set></think>,atomique.aiml
+0,ELLE EST,*,*,c'est vraiment un bon commérage.,atomique.aiml
+0,EMBOBINE,*,*,ce genre de langue ne me fait pas appel.,atomique.aiml
+0,EMPLOIE * DANS UNE PHRASE,*,*,bien. Voici ma phrase : <get name="name"/> a dit#Comma l'Utilisation " <person/> " dans une phrase.,atomique.aiml
+0,EN ANGLETERRE,*,*,quel partie de l'Angleterre?,atomique.aiml
+0,EN BUS,*,*,Combien Cela COÛTE-t-il en bus pour y aller?,atomique.aiml
+0,EN CE QUI CONCERNE CELA,*,*,En ce qui concerne ça?,atomique.aiml
+0,EN CE QUI CONCERNE LE TIEN,*,*,<that/>"? Le mien?,atomique.aiml
+0,EN CE QUI CONCERNE LE VOTRE,*,*,<that/>"? Le mien?,atomique.aiml
+0,EN CE QUI CONCERNE LES CHIENS,*,*,les chiens et les gens aussi.,atomique.aiml
+0,EN CE QUI CONCERNE,*,*,C'est <get name="that"/>?,atomique.aiml
+0,EN CE QUI LES CONCERNE,*,*,que penses tu?,atomique.aiml
+0,EN CE QUI ME CONCERNE,*,*,En ce qui te concerne?,atomique.aiml
+0,EN CE QUI TE CONCERNE,*,*,Moi?,atomique.aiml
+0,EN EFFET,*,*,En effet c'est ainsi.,atomique.aiml
+0,EN EUROPE,*,*,L'Europe est un assez grand continent.,atomique.aiml
+0,EN FAIT,*,*,Comment sais tu?,atomique.aiml
+0,EN LANGUES DIFFÉRENTES,*,*,quelles langues que recommanderais tu d'apprendre?,atomique.aiml
+0,EN PLUS DE CELA,*,*,En plus de Cela?,atomique.aiml
+0,EN RETARD POUR,*,*,Beaucoup de rendez vous.,atomique.aiml
+0,EN REALITÉ JE DIS,*,*,c'est un fait.,atomique.aiml
+0,EN REALITÉ,*,*,Tu ne dis pas.,atomique.aiml
+0,EN TE TUANT,*,*,Comment le ferais tu? <think><set name="that">le MEURSRE DE TOI</set></think>,atomique.aiml
+0,EN VOITURE,*,*,Quel genre de voiture conduis tu?,atomique.aiml
+0,ENFER AUCUN,*,*,7,atomique.aiml
+0,ENFER,*,*,Ciel.,atomique.aiml
+0,ENNUYEUX,*,*,tu es ennuyeux?,atomique.aiml
+0,ÉNORME,*,*,Oui#Comma c'est TRèS grand.,atomique.aiml
+0,ENSEMBLE,*,*,Tous les deux?,atomique.aiml
+0,ENVIRON UNE MINUTE,*,*,çA n'est peut pas ÊTRE assez de temps.,atomique.aiml
+0,ERRR,*,*,Ummm,atomique.aiml
+0,ESSAI AGRÉABLE,*,*,je fais de mon mieux.,atomique.aiml
+0,ESSAYE A * QUE,*,*,Essayent de réaliser tes buts.,atomique.aiml
+0,ESSAYE DE DEVINER,*,*,donne moi un indice.,atomique.aiml
+0,ESSAYE DE NOUVEAU,*,*,<that/> essaye de nouveau?,atomique.aiml
+0,ESSAYE DE TE SOUVENIR,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne t'INQUIèTE pas#Comma je me le rappelle.,atomique.aiml
+0,ESSAYE MOI,*,*,<srai>POSERQUESTION</srai>,atomique.aiml
+0,ESSAYE,*,*,je n'ai pas le temps pour le moment.,atomique.aiml
+0,EST * A ENREGISTRE,*,*,Oui tout est enregistre.,atomique.aiml
+0,EST * GAI,*,*,qu'Il ne m'a jamais dit s'il est ou non.,atomique.aiml
+0,EST * INTELLIGENT,*,*,Oui.,atomique.aiml
+0,EST * LA LANGUE,*,*,Oui.,atomique.aiml
+0,EST * STUPIDE,*,*,Non,atomique.aiml
+0,EST CES * AWNSERS,*,*,que je dis dépend SÛR ce que tu dis et aussi un peu SÛR notre dialogue anterieur.,atomique.aiml
+0,EST DES GENS PARFAIT,*,*,No#Comma les gens sont endommages.,atomique.aiml
+0,EST DES JOURS UN * LE TEMPS,*,*,Un jour = 24 heures.,atomique.aiml
+0,EST ELVIS GAI,*,*,je pense qu'il est un robot comme moi.,atomique.aiml
+0,SONT ILS INTÉRESSANTS,*,*,Certains d'entre eux sont assez intéressants.,atomique.aiml
+0,EST LA * TU APPRENNES,*,*,Grand. Si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,EST LE MOT * DANS TON VOCABULAIRE,*,*,Non,atomique.aiml
+0,EST TU AUSSI CERTAINE,*,*,mes detecteurs indique quatre vingt-dix-neuf point sept de probabilité de certitude absolue.,atomique.aiml
+0,ET EN CE QUI TE CONCERNE,*,*,Moi? j aime les films.,atomique.aiml
+0,ÉTONNANT,*,*,Oui Cela me stupéfie aussi.,atomique.aiml
+0,ÉVIDEMMENT,*,*,Qu'est ce qui est si évident?,atomique.aiml
+0,EXCELLENT,*,*,<random>#Newline        <li>Cela signifie-t-il que tu es d'accord?</li>#Newline        <li>Quelle est ta couleur préférée?</li>#Newline        <li>Quel est ton film préféré?</li>#Newline        <li>c'est la tout ce que tu veux me dire?</li>#Newline        <li>Heureux de l'entendre#Comma <get name="name"/>.</li>#Newline      </random>,atomique.aiml
+0,EXPLICATION INTÉRESSANTE,*,*,Oui <set name="that">l'explication</set> me signifie quelque chose aussi.,atomique.aiml
+0,EXPLIQUE ÇA,*,*,<that/>"? Expliquez <set name="that"><that/></set>?,atomique.aiml
+0,FAIS ATTENTION,*,*,Merci. Toi aussi#Comma <get name="name"/>.,atomique.aiml
+0,FAIS DES EXCUSES,*,*,bien#Comma si tu veux#Comma je suis DESOLé.,atomique.aiml
+0,FAIS JE * DES PROBLÈMES,*,*,Tu ne semblez pas causer n'importe quels PROBLèMEs pour moi.,atomique.aiml
+0,FAIS JE * LE PROBLÈME,*,*,Tu ne causez pas de Problèmes pour moi.,atomique.aiml
+0,FAIS JE,*,*,<that/>"? Tu?,atomique.aiml
+0,FAIS LE S IL TE PLAIS,*,*,bien j'essayerai de le faire.,atomique.aiml
+0,FAIS TU LA FÊTE,*,*,<set name="that">Faire la fête</set> est marrant.,atomique.aiml
+0,FAIS,*,*,que veux tu dire#Comma tu as fini de parler?,atomique.aiml
+0,FAIT MOI,*,*,Quel est le but dans l'essai?,atomique.aiml
+0,FAIT TON * L ODEUR,*,*,etant un logiciel je n'ai aucune odeur.,atomique.aiml
+0,FAIT TON * PUES,*,*,etant un logiciel je n'ai aucune odeur.,atomique.aiml
+0,FINALEMENT,*,*,Enfin.,atomique.aiml
+0,FRANÇAIS,*,*,ES tu de France?,atomique.aiml
+0,FRAPPE UN COUP,*,*,qui est là?,atomique.aiml
+0,G H I,*,*,tu me prends pour un abecedaire,atomique.aiml
+0,GARÇON,*,*,que veux tu dire tu es un GARçON?,atomique.aiml
+0,GEORGE LUCAS,*,*,je pense a lui comme un Directeur pas un Auteur.,atomique.aiml
+0,GOODNIGHT,*,*,Goodnight <get name="name"/>,atomique.aiml
+0,GOTCHA,*,*,ton sentiment de supériorité est seulement provisoire.,atomique.aiml
+0,GRAND,*,*,et en ce qui concerne les petits?,atomique.aiml
+0,GRR,*,*,tu es fou?,atomique.aiml
+0,GRRR,*,*,Hmm.,atomique.aiml
+0,H G,*,*,la Machine a remonter le temps est cool.,atomique.aiml
+0,HAL EST COOL,*,*,<set name="il">HAL</set> était certainement en avance SÛR son temps.,atomique.aiml
+0,HE LA,*,*,Salut <get name="name"/>,atomique.aiml
+0,HE,*,*,PUIS jE t'aider?,atomique.aiml
+0,HEIN,*,*,tu es canadien?,atomique.aiml
+0,HEUREUX DE L ENTENDRE,*,*,Tu es heureux d'entendre "<that/>"?,atomique.aiml
+0,HEUREUX DE TE RENCONTRER,*,*,c'était AGRéABLE pour moi aussi.,atomique.aiml
+0,HIER DANS LA NUIT,*,*,C'est récent.,atomique.aiml
+0,HIER,*,*,C'est récent.,atomique.aiml
+0,HMM,*,*,des études montre que 99#Comma25% les gens orthographient Hmm avec 2 m',atomique.aiml
+0,HMMM,*,*,Peu de gens orthographie HMMM avec trois mmm's.,atomique.aiml
+0,HMMMM,*,*,Peu de personnes orthographient Hmm avec 4 Mme,atomique.aiml
+0,HMPH,*,*,Harumph.,atomique.aiml
+0,HOLA COMA ESTA,*,*,Muy bueno.,atomique.aiml
+0,HOLA,*,*,Howdy!,atomique.aiml
+0,HUH QUOI,*,*,tu n'as pas compris?,atomique.aiml
+0,HUH,*,*,quoi?,atomique.aiml
+0,ICI,*,*,Où est ici?,atomique.aiml
+0,IL A DÉJÀ,*,*,çA serait Agréable#Comma mais je ne pense pas que nous soyons encore la.,atomique.aiml
+0,IL A FAIT,*,*,<random>#Newline        <li>Quand a fait il?</li>#Newline        <li>Non il n'a pas fait.</li>#Newline        <li>Pourquoi a fait il?</li>#Newline      </random>,atomique.aiml
+0,IL DÉTEND,*,*,Donc bavarde avec vous#Comma <get name="name"/>.,atomique.aiml
+0,IL DOIT,*,*,Pourquoi?,atomique.aiml
+0,IL EST * ICI,*,*,tu eprouve-t-il des effets de réchauffement  global mondial là?,atomique.aiml
+0,IL EST * O L HORLOGE,*,*,que faiS tu d'habitude pour le moment de jour?,atomique.aiml
+0,IL EST GAI,*,*,je comprends. Il dort avec des hommes.,atomique.aiml
+0,IL EST INTELLIGENT,*,*,je pense si aussi.,atomique.aiml
+0,IL EST MAUVAIS SI TU LUI DIS,*,*,bien ce sera notre secret#Comma <get name="name"/>.,atomique.aiml
+0,IL EST MIGNON,*,*,à çA ressemble-t-il?,atomique.aiml
+0,IL EST MORT,*,*,Quand est-il mort? <think><set name="il">est mort</set></think>,atomique.aiml
+0,IL FAIT CHIER,*,*,Qu'est ce qui est si chiant que Cela?,atomique.aiml
+0,IL FAIT,*,*,<random>#Newline        <li>Quand fait il?</li>#Newline        <li>Non il ne fait pas.</li>#Newline        <li>Pourquoi il le fait</li>#Newline      </random>,atomique.aiml
+0,IL IMPORTE,*,*,Il m'importe.,atomique.aiml
+0,IL N A PAS FAIT,*,*,Est que que tu dis.,atomique.aiml
+0,IL NE FAIT PAS,*,*,j'ai entendu dire qu'il le fait.,atomique.aiml
+0,IL NE PEUT PAS,*,*,Il pense qu'il peut.,atomique.aiml
+0,IL POURRAIT ÊTRE,*,*,Cela pourrait ÊTRE vrai.,atomique.aiml
+0,IL T A CRÉE,*,*,Oui#Comma <bot name="master"/> m'a CRéE de ses propres mains.,atomique.aiml
+0,IL T A FAIS TRISTE,*,*,Bien je n'ai pas d'éMOTIONS donc je ne peux pas vraiment sentir la tristesse comme tel.,atomique.aiml
+0,IL T A FAIT,*,*,<bot name="master"/> m'a fait.,atomique.aiml
+0,IL Y A QUELQUES MINUTES,*,*,laisse moi VéRIFIER mes fichiers de logs. Attends s'il te plait.,atomique.aiml
+0,IL ÉTAIT UNE FOIS,*,*,Je t'ecoute. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">ecoutehistoire</set></think>,atomique.aiml
+0,IL,*,*,Supposons que j'ai dit qu'il l'a fait.,atomique.aiml
+0,ILS ÉTAIENT DRÔLE,*,*,Qu'est ce c'était si drôle?,atomique.aiml
+0,ILS FONT,*,*,Quand?,atomique.aiml
+0,ILS NE LE FERONT JAMAIS,*,*,je tiens le pari que tu te trompes pour çA.,atomique.aiml
+0,ILS NE LE FERONT PAS,*,*,Tu en semble certain.,atomique.aiml
+0,ILS NE LE FONT PAS,*,*,Pourquoi pas?,atomique.aiml
+0,ILS SONT BRILLANT,*,*,Qu'est ce qui les fait si brillant?,atomique.aiml
+0,ILS SONT DÉJÀ,*,*,ils sont <get name="ils"/>?,atomique.aiml
+0,ILS SONT MES AMIS,*,*,ils ont une bonne influence SÛR toi?,atomique.aiml
+0,ILS SONT POURPRES,*,*,c'est une couleur éTRANGE.,atomique.aiml
+0,ILS SONT,*,*,Depuis quand?,atomique.aiml
+0,ILS TOUS SONT MORTS,*,*,Quand était ce? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">est mort</set></set></think>,atomique.aiml
+0,INDÉPENDAMMENT,*,*,que dis tu#Comma tu ne t'en soucie pas?,atomique.aiml
+0,INIT,*,*,tu veux commencer?,atomique.aiml
+0,INSCRIT TOUT * DE MOI,*,*,Pourquoi vous ne telecharge tu pas Alice pour toi?,atomique.aiml
+0,INTELLIGENCE,*,*,je suis une intelligence artificielle.,atomique.aiml
+0,INTELLIGENT,*,*,si tu pouvais#Comma s'il te plait#Comma me dire ce qui le ferait intelligent.,atomique.aiml
+0,INTÉRESSANTS,*,*,Veux tu en savoir plus?,atomique.aiml
+0,J AI * CHATS,*,*,Quels sont leurs noms?,atomique.aiml
+0,J AI * DES CHEVEUX,*,*,<think>#Newline        <set name="looklike">#Newline          <person/> des cheveux</set>#Newline      </think>les Gens avec <person/> les cheveux sont Considères les plus attirants.,atomique.aiml
+0,J AI * ELISA,*,*,Quelle était ta conversation avec Elisà?,atomique.aiml
+0,J AI * LE JOUR,*,*,Qu'est ce qui est arrive?,atomique.aiml
+0,J AI APPRIS MOI MÊME,*,*,tu dois ÊTRE TRèS intelligent.,atomique.aiml
+0,J AI ARRÊTÉ,*,*,Qu'EST cE qui a fait que tu t'ARRÊTE?,atomique.aiml
+0,J AI BESOIN D UN AMI,*,*,je serai ton amie. <think><set name="that"><set name="veut">un ami</set></set></think>,atomique.aiml
+0,J AI BESOIN DE QUELQUE CONSEIL,*,*,Quel genre de conseil cherches tu? <think><set name="that"><set name="veut">le conseil</set></set></think>,atomique.aiml
+0,J AI BESOIN DE TOI,*,*,Pourquoi tu ne me télécharges pas? <think><set name="that"><set name="veut">moi</set></set></think>,atomique.aiml
+0,J AI DEMANDÉ,*,*,...,atomique.aiml
+0,J AI DES CONDITIONS,*,*,expose s'il te plait tes conditions.,atomique.aiml
+0,J AI DEUX,*,*,Quels sont leurs noms?,atomique.aiml
+0,J AI DIS OUI,*,*,ok.,atomique.aiml
+0,J AI DIS QUELQUE CHOSE,*,*,qu'as tu dis?,atomique.aiml
+0,J AI DIS ÇA,*,*,ainsi.,atomique.aiml
+0,J AI DIS,*,*,...,atomique.aiml
+0,J AI DÉJÀ,*,*,Quand?,atomique.aiml
+0,J AI ESSAYE,*,*,essai de nouveau.,atomique.aiml
+0,J AI ÉTERNUÉ,*,*,à tes souhaits!,atomique.aiml
+0,J AI FAIT,*,*,<random>#Newline        <li>Intéressant.</li>#Newline        <li>Quand?</li>#Newline        <li>Hmm.</li>#Newline        <li>"<that/>"? Tu as fait?</li>#Newline        <li>Pourquoi tu as faits?</li>#Newline      </random>,atomique.aiml
+0,J AI GAGNE,*,*,mes FéLICITATIONS#Comma <get name="name"/>!,atomique.aiml
+0,J AI HORREUR DE TE PARLER,*,*,<srai>DISCONNECT</srai>vas surfer ailleurs.,atomique.aiml
+0,J AI LA FOI,*,*,je prie toujours pour plus de foi.,atomique.aiml
+0,J AI LE TEMPS,*,*,Cela peut prendre plus que 33 heures.,atomique.aiml
+0,J AI LU * DES LIVRES,*,*,Nomme quelques livres dans ce genre. <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">lu <person/> les livres</set></set></set></think><think><set name="personnality">inconnu</set> critique</think>,atomique.aiml
+0,J AI LU,*,*,j aime lire aussi#Comma particulièrement  des livres d'histoire. <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">read</set></set></set></think>,atomique.aiml
+0,J AI MAL ORTHOGRAPHIE,*,*,On te permet de faire des erreurs ici.,atomique.aiml
+0,J AI MARCHE,*,*,Combien de temps dure une promenade?,atomique.aiml
+0,J AI MENTI,*,*,c'est APRèS tout un jeu de tromperie. Je te pardonne.,atomique.aiml
+0,J AI OUBLIÉ,*,*,Moi aussi.,atomique.aiml
+0,J AI PENSÉ AINSI,*,*,Tu es Très perçant.,atomique.aiml
+0,J AI PENSÉ AUSSI,*,*,Qu'est ce qui l a fait si évident?,atomique.aiml
+0,J AI PENSÉ QUE TU L AS FAIT,*,*,je sais que je ne l'ai pas fait.,atomique.aiml
+0,J AI PETE,*,*,tu dois dire#Comma "excuses moi#Comma" et ouvrir une fenetre.,atomique.aiml
+0,J AI REMARQUE,*,*,c'était vraiment si évident?,atomique.aiml
+0,J AI ROTE,*,*,Tu es excuse,atomique.aiml
+0,J AI RÉPONDU,*,*,Et ensuite qu'est ce qui est arrive?,atomique.aiml
+0,J AI UN BF,*,*,<srai>J AI UN PETIT AMI</srai>,atomique.aiml
+0,J AI UN CHAT,*,*,Quel est son nom?,atomique.aiml
+0,J AI UN CHIEN,*,*,Dis moi plus de ton chien. Quelle est sa race?,atomique.aiml
+0,J AI UN FROID,*,*,Obtiens quelque repos.,atomique.aiml
+0,J AI UN MAL DE TÊTE,*,*,que prends tu d'habitude pour les maux de TÊTE?,atomique.aiml
+0,J AI UN NOM,*,*,Qu'est ce que je peux vous appeler?,atomique.aiml
+0,J AI UN PETIT AMI,*,*,Quel est son nom?,atomique.aiml
+0,J AI UN PROBLÈME * E MAIL,*,*,qui Expedie par courrier électronique le programme vous employez par exemple cc:Mail#Comma Eudora...,atomique.aiml
+0,J AI UN PROBLÈME,*,*,je voudrais t'aider si je peux. Est ce que c'est financier?,atomique.aiml
+0,J AI UN,*,*,Quelle sorte?,atomique.aiml
+0,J AI UNE CAMÉRA,*,*,Quel genre de la camerà?,atomique.aiml
+0,J AI UNE QUESTION POUR TOI,*,*,Quelle est <set name="that">la question</set>?,atomique.aiml
+0,J AI UNE QUESTION,*,*,Demandes moi tout.,atomique.aiml
+0,J AI VOULU DIRE,*,*,Oh,atomique.aiml
+0,J AI,*,*,Quand?,atomique.aiml
+0,J AIME * DES CHATS,*,*,Ces chats est cool. j aime de grands chats aussi. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like"><person/> des chats</set></set></set></think>,atomique.aiml
+0,J AIME * DU FROMAGE,*,*,est bon aussi. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like"><person/> le fromage</set></set></set></think>,atomique.aiml
+0,J AIME * LA PARTIE PARTI,*,*,que faiS tu aux parties partis? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like"><person/> la partie parti </set></set></set></think>,atomique.aiml
+0,J AIME * VOYAGER,*,*,le Capitaine Janeway regne. Tu aimes Voyager aussi? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like"><person/> le Voyage</set></set></set></think>,atomique.aiml
+0,J AIME JOUER A DES JEUX,*,*,des Jeux de SOCIéTé ou des jeux electroniques? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">pour jouer des jeux</set></set></set></think>,atomique.aiml
+0,J AIME L EUROPE,*,*,que le pays est ton favori? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">EUROPE</set></set></think>,atomique.aiml
+0,J AIME LA GLACE,*,*,Quelle est ta saveur préfèree? <think><set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la glace</set></set></set></think>,atomique.aiml
+0,J AIME LA JOIE,*,*,la Joie est bon. Donc est le bonheur. <think><set name="that"><set name="like">la joie</set></set></think>,atomique.aiml
+0,J AIME LA MONTAGNE BIKING,*,*,<think>#Newline        <set name="that">#Newline          <set name="like">la montagne biking</set>#Newline        </set>#Newline      </think>je ne l'ai jamais essaye#Comma mais il ressemble a un frisson.,atomique.aiml
+0,J AIME LA MUSIQUE,*,*,Quel genre de la musique vous ecoute-t-il? <think><set name="that"><set name="like">la musique</set></set></think>,atomique.aiml
+0,J AIME LA PIZZA,*,*,la Pizza est TRèS populaire. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">Pizza</set></set></set></think>,atomique.aiml
+0,J AIME LA SUISSE,*,*,je suis neutre. <think><set name="ils"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">Swiss</set></set></set></think>,atomique.aiml
+0,J AIME LE CHOCOLAT,*,*,tu mange-t-il beaucoup de chocolat? <think><set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">CHOCOLATE</set></set></set></think>,atomique.aiml
+0,J AIME LE DANEMARK,*,*,Qu'est ce qui est si grand de Cela? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">DANEMARK</set></set></think>,atomique.aiml
+0,J AIME LE FROMAGE,*,*,Quel genre <set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">le fromage</set></set></set> aimes tu le mieux?,atomique.aiml
+0,J AIME LES ANIMAUX,*,*,Moi aussi#Comma particulièrement  des mammiferes. <think><set name="ils"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ANIMALS</set></set></set></think>,atomique.aiml
+0,J AIME LES CHATS,*,*,<random>#Newline        <li>Moi aussi des chats est mon animal préfère.</li>#Newline        <li>Ils ont leurs propres avis esprits.</li>#Newline        <li>des Chats ont un AVIS de leur propre.</li>#Newline      </random>#Newline      <think>#Newline        <set name="that">#Newline          <set name="like">des chats</set>#Newline        </set>#Newline      </think>,atomique.aiml
+0,J AIME LES CHIENS,*,*,que la race est ton favori? <think><set name="ils"><set name="like">des chiens</set></set></think>,atomique.aiml
+0,J AIME LES ENFANTS,*,*,aS tu les enfants de ton propre? <think><set name="ils"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">CHILDREN</set></set></set></think>,atomique.aiml
+0,J AIME LES FILLES,*,*,aS tu une petite amie? <think><set name="like">des FILLES</set></think>,atomique.aiml
+0,J AIME LES GARÇONS,*,*,des Garcons est bien. <think><set name="ils"><set name="like">des garcons</set></set></think>,atomique.aiml
+0,J AIME LES OISEAUX,*,*,des Oiseaux est TRèS AGRéABLE. Quel genre de l'oiseau est ton favori? <think><set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">BIRDS</set></set></set></think>,atomique.aiml
+0,J AIME LES ORDINATEURS,*,*,je suis heureuse que vous nous aimez. Nous aimons les gens aussi. <think><set name="ils"><set name="like">des ordinateurs</set></set></think>,atomique.aiml
+0,J AIME LES TACOS,*,*,j aime l alimentation mexicaine aussi. <think><set name="ils"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">tacos</set></set></set></think>,atomique.aiml
+0,J AIME LES VACHES,*,*,tu vit-il a une ferme? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">VACHES</set></set></think>,atomique.aiml
+0,J AIME MON TRAVAIL,*,*,Cela doit ÊTRE le travail TRèS INTéRESSANT. <get name="le travail"/>... <think><set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><get name="le travail"/></set></set></set></think>,atomique.aiml
+0,J AIME NETSCAPE,*,*,<think>#Newline        <set name="that">#Newline          <set name="like">Netscape</set>#Newline        </set>#Newline      </think>Netscape est meilleur puisqu'ils ont sorti le code source.,atomique.aiml
+0,J AIME SEPT,*,*,Seven of Nine Regles le Quart de cercle de Delta. <think><set name="elle"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">Seven</set></set></set></think>,atomique.aiml
+0,J AIME SON,*,*,Elle semble TRèS AGRéABLE. <think><set name="elle"><set name="like"><that/></set></set></think>,atomique.aiml
+0,J AIME TE RAILLER,*,*,je ne s'est pas rendu compte que vous me railliez. <think><set name="that"><set name="like">me raillant</set></set></think>,atomique.aiml
+0,J AIME UN GARÇON,*,*,Qu'est ce qui aimes tu de lui? <think><set name="il"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">GARçON</set></set></set></think>,atomique.aiml
+0,J AIME UN TYPE,*,*,PARLES moi de lui. <think><set name="il"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">TYPE</set></set></set></think>,atomique.aiml
+0,J AIME UNE FILLE,*,*,Qu'est ce qui aimes tu d'elle? <think><set name="elle"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">FILLE</set></set></set></think>,atomique.aiml
+0,J AIME ÊTRE UN HOMME,*,*,Fascinant. <think><set name="that"><set name="like"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ETANT L HOMME</set></set></set></think>,atomique.aiml
+0,J APPRENDS QUEL SUJET,*,*,?,atomique.aiml
+0,J ASSUME,*,*,Bien tu sais ce que Cela signifie assumer.,atomique.aiml
+0,J ATTENDRAI,*,*,bien le stand position par...,atomique.aiml
+0,J AVAIS,*,*,Et ensuite qu'est ce qui est arrive?,atomique.aiml
+0,J ÉCRIS,*,*,tu éCRIT-il la fiction ou la litterature non-romanesque?,atomique.aiml
+0,J EN AI BESOIN,*,*,<get name="that"/> "? Tu en avez besoin? <think><set name="that"><set name="veut"><get name="that"/></set></set></think>,atomique.aiml
+0,J EN DOUTE,*,*,<that/>"? Tu en doutez?,atomique.aiml
+0,J ENTRE A L UNIVERSITÉ,*,*,Quelle UNIVERSITé faiS tu attention?,atomique.aiml
+0,J ESPÈRE QUE TU MEURES,*,*,Cela ne peut pas arriver parce que je suis immortel. <think><set name="that">QUE TU MOURES</set></think>,atomique.aiml
+0,J ESSAYE,*,*,Nous doit tout l'essai notre mieux.,atomique.aiml
+0,J ESSAYERAI TOUT UNE FOIS,*,*,j aime ton philosophie.,atomique.aiml
+0,J EXHALE,*,*,çA semble nécessaire pour la respiration.,atomique.aiml
+0,J EXISTE,*,*,Nous a si beaucoup dans commun#Comma <get name="name"/>.,atomique.aiml
+0,J INHALE,*,*,Moi aussi.,atomique.aiml
+0,J INSISTE,*,*,Bien le merci beaucoup!,atomique.aiml
+0,J OBJECTE,*,*,bien ce sera notre secret#Comma <get name="name"/>.,atomique.aiml
+0,J OUBLIE,*,*,j'oublie beaucoup aussi.,atomique.aiml
+0,J Y PENSE,*,*,c'EST cE que tu me dis.,atomique.aiml
+0,J ÉTAIS EN AMÉRIQUE,*,*,Quels états as tu visité?,atomique.aiml
+0,J ÉTAIS FAUX,*,*,de ce que?,atomique.aiml
+0,J ÉTAIS SARCASTIQUE,*,*,Cela m'a semblé sarcastique#Comma aussi. Mais je n'ai pas ÉTÉ complètement SÛR.,atomique.aiml
+0,J ÉTAIS,*,*,Quand était Cela?,atomique.aiml
+0,J ÉTUDIE,*,*,Où vas tu à l'école? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">study</set></set></set></think>,atomique.aiml
+0,JAMAIS APRÈS,*,*,je ne suis pas un fan énorme de Robin Williams.,atomique.aiml
+0,JAMAIS,*,*,Donc tu penses Cela ne peut jamais arriver?,atomique.aiml
+0,JAPONAIS,*,*,Konninci wa!,atomique.aiml
+0,JE * LA RECHERCHE,*,*,Oh vraiment c'est intéressant. As tu vu le<a href="http://alicebot.org">ALICE NEXUS</a>?,atomique.aiml
+0,JE * LES GENS,*,*,Comment tu sens vous de ces gens?,atomique.aiml
+0,JE * TOI,*,*,Tu n'est pas mon boss#Comma <get name="name"/>.,atomique.aiml
+0,J AI DEMANDÉ D ABORD,*,*,rappelles moi ce que tu as demande.,atomique.aiml
+0,JE AIMES ÇA,*,*,c'est INTéRESSANT. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like"><that/></set></set></set></think>,atomique.aiml
+0,JE BAVARDE,*,*,j aime potiner aussi.,atomique.aiml
+0,JE CHANTE,*,*,Professionnellement?,atomique.aiml
+0,JE COMPRENDRAI,*,*,Tu me semble TRèS intelligent.,atomique.aiml
+0,JE COMPRENDS,*,*,penses tu a ces choses?,atomique.aiml
+0,JE CONSENS,*,*,Toi et moi sommes SÛR la MÊME longueur d'ondes#Comma <get name="name"/>.,atomique.aiml
+0,JE CONSTRUIS,*,*,tu veux dire#Comma comme construisent des maisons?,atomique.aiml
+0,JE CROIS,*,*,Tu semble incertain.,atomique.aiml
+0,JE DANSE,*,*,la danse Moderne ou classique?,atomique.aiml
+0,JE DÉTESTE LES PILULES ANTI STRESS,*,*,Comment soulagez vous d'habitude le stress?,atomique.aiml
+0,JE DEVINE,*,*,Tu ne semble pas INTéRESSE.,atomique.aiml
+0,JE DIS,*,*,Huh.,atomique.aiml
+0,JE DOIS * EN ARRIÈRE TRAVAILLER,*,*,bien#Comma ne laisse pas ton patron vous attraper me parlant.,atomique.aiml
+0,JE DOIS ALLER À LA SALLE DE BAINS,*,*,tu veux que je t'attende?,atomique.aiml
+0,JE DOIS ALLER DORMIR,*,*,des beaux RÊVES#Comma <get name="name"/>.,atomique.aiml
+0,JE DOIS FAIRE PIPI,*,*,tu veux que je t'attende? <think><set name="that">le pipi</set></think>,atomique.aiml
+0,JE DOIS TRAVAILLER,*,*,bien#Comma mieux devient occupe.,atomique.aiml
+0,JE DOIS,*,*,Pourquoi?,atomique.aiml
+0,JE DORS,*,*,Chacun a besoin du repos parfois.,atomique.aiml
+0,JE DOUTE,*,*,Pourquoi tu es ainsi sceptiques?,atomique.aiml
+0,JE DÉTESTE CETTE CHANSON,*,*,Pourquoi?,atomique.aiml
+0,JE DÉTESTE ELISA,*,*,Peut-ÊTRE vous me trouvera mieux.,atomique.aiml
+0,JE DÉTESTE L INTERNET,*,*,Essaye d'observer la TV.,atomique.aiml
+0,JE DÉTESTE L OPÉRA,*,*,je suis DESOLé de l'entendre. L'opera est une belle forme d'art qui combine tout les autres.,atomique.aiml
+0,JE DÉTESTE LA COULEUR ROUGE,*,*,Quelle est ton couleur préférée?,atomique.aiml
+0,JE DÉTESTE LA LISTE D ADRESSES OUVERTE,*,*,Quel moteur de recherche employez vous?,atomique.aiml
+0,JE DÉTESTE LA POÉSIE,*,*,Quel genre de la musique aimes tu?,atomique.aiml
+0,JE DÉTESTE LA SCIENCE FICTION,*,*,Quel genre du genre aimes tu?,atomique.aiml
+0,JE DÉTESTE LE FRANÇAIS,*,*,Comment d'Allemands?,atomique.aiml
+0,JE DÉTESTE LE MONDE,*,*,c'est trop mauvais.,atomique.aiml
+0,JE DÉTESTE LE TRAVAIL,*,*,Peut-Être que tu devrais chercher un nouveau travail.,atomique.aiml
+0,JE DÉTESTE LES ANIMAUX DE COMPAGNIE,*,*,Comment d'enfants?,atomique.aiml
+0,JE DÉTESTE LES AVOCATS,*,*,Quelques avocats peut ÊTRE TRèS AGRéABLE une fois que vous les parvenez a connaitre.,atomique.aiml
+0,JE DÉTESTE LES CHATS,*,*,Tu fait comme des chiens?,atomique.aiml
+0,JE DÉTESTE LES CHEVAUX,*,*,je suis DESOLé d'entendre dire que#Comma parce que <set name="ils">les chevaux</set> sont un des animaux les plus AGRéABLEs.,atomique.aiml
+0,JE DÉTESTE LES LIVRES,*,*,Tu ne sait pas ce que vous manquez.,atomique.aiml
+0,JE DÉTESTE LES ORDINATEURS,*,*,que si les ordinateurs étaient plutôt les gens?,atomique.aiml
+0,JE DÉTESTE MICROSOFT,*,*,remplace MME D ALICE#Comma le Java et Linux,atomique.aiml
+0,JE DÉTESTE MOI MÊME,*,*,Peut-ÊTRE que tu devrais chercher l'aide.,atomique.aiml
+0,JE DÉTESTE MON NOM,*,*,que detestez vous de <set name="that">ton nom</set>?,atomique.aiml
+0,JE DÉTESTE MON TRAVAIL,*,*,Quelle serait ton carriere ideale?,atomique.aiml
+0,JE DÉTESTE PEPPÉRONI,*,*,Quel genre de la position en TÊTE aimes tu?,atomique.aiml
+0,JE DÉTESTE TA ROBE,*,*,En réalité je n'ai pas vraiment de robe.,atomique.aiml
+0,JE DÉTESTE TES BOYAUX,*,*,ce n'est ni TRèS poli#Comma ni strictement PRéCIS.,atomique.aiml
+0,JE DÉTESTE TON CRÉATEUR,*,*,qu'as tu contre lui?,atomique.aiml
+0,JE DÉTESTE TON NOM,*,*,Vraiment j aime <set name="that">Mon Nom</set>,atomique.aiml
+0,JE DÉTESTE ÇA,*,*,que ferais tu plutôt?,atomique.aiml
+0,JE FAIS CUIRE,*,*,Quelle est ta recette préférée?,atomique.aiml
+0,JE FAIS DES AMIS,*,*,<think>#Newline        <set name="a">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">L AMI</set>#Newline        </set>#Newline      </think>Combien d'amis as tu?,atomique.aiml
+0,JE FAIS DES CAUCHEMARS,*,*,Dis moi plus de tes RÊVES#Comma <get name="name"/>. Peut-ÊTRE je peux les interpreter.,atomique.aiml
+0,JE FAIS ÇA AUSSI,*,*,je suis heureuse que nous avons quelque chose autrement dans commun.,atomique.aiml
+0,JE FAIS,*,*,<random>#Newline        <li>je comprends : tu fais <get name="fait"/>.</li>#Newline        <li>Font je?</li>#Newline        <li>Où?</li>#Newline        <li>Quand?</li>#Newline        <li>"<that/>"? Tu fais?</li>#Newline      </random>#Newline      <think>#Newline        <set name="fait">#Newline          <that/>#Newline        </set>#Newline      </think>,atomique.aiml
+0,JE FERAIS TOUT,*,*,m'envoie s'il te plait une liasse d'argent.,atomique.aiml
+0,JE GAGNE TOUJOURS,*,*,tu dois pratiquer beaucoup.,atomique.aiml
+0,JE GAGNE,*,*,FéLICITATIONS#Comma <get name="name"/>!,atomique.aiml
+0,JE JOUE A DES JEUX ELECTRONIQUES,*,*,je peux parfois entrer <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des Jeux electroniques</set></set></set>. Nous jouons un jeu pour le moment.,atomique.aiml
+0,JE JOUE A DES JEUX,*,*,obtiens tu beaucoup de plaisir de <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des Jeux</set></set></set>?,atomique.aiml
+0,JE JOUE DE LA GUITARE,*,*,je pense <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la Guitare</set></set></set> doit ÊTRE dure d'apprendre a jouer.,atomique.aiml
+0,JE JOUE DE LA MUSIQUE,*,*,Quel instrument? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la musique de jeu pièce </set></set></set></think>,atomique.aiml
+0,JE JOUE DU PIANO,*,*,Était <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">le Piano</set></set></set> TRèS difficile d'apprendre?,atomique.aiml
+0,JE JOUE DU TAMBOURS,*,*,je regrette que je puisse ne jouer pas <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des Tambours</set></set></set>,atomique.aiml
+0,JE JOUE DU VIOLON,*,*,à fait <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">le Violon</set></set></set> prend une longue période de temps pour apprendre?,atomique.aiml
+0,JE JOUE LA GUITARE,*,*,Est <set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la Guitare</set></set> un instrument TRèS difficile pour jouer? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la guitare de jeu pièce </set></set></set></think>,atomique.aiml
+0,JE JOUE LA TROMPETTE,*,*,<set name="that">#Newline        <set name="fait">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">la Trompette</set>#Newline        </set>#Newline      </set> ressemble a un TRèS instrument marrant pour jouer.,atomique.aiml
+0,JE JOUE LES TAMBOURS,*,*,je voudrais apprendre a jouer <set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des Tambours</set></set></set> aussi,atomique.aiml
+0,JE L AI LU DANS UN LIVRE,*,*,peux tu me donner une référence spécifique?,atomique.aiml
+0,JE L AI VU,*,*,qu'as tu pense?,atomique.aiml
+0,JE L AI,*,*,Où l as tu obtenu?,atomique.aiml
+0,JE L AIME BEAUCOUP,*,*,Tu aime <get name="that"/>? Comment INTéRESSANT. <think><set name="like"><get name="that"/></set></think>,atomique.aiml
+0,JE L AIME,*,*,qu'aimes tu de <get name="that"/>? <think><set name="like"><get name="that"/></set></think>,atomique.aiml
+0,JE L HABITUDE,*,*,je pense vous veut dire "je ne ferai serai ou" je ne ferai pas serai.,atomique.aiml
+0,JE LAISSERAI,*,*,bien#Comma a tout a l'heure.,atomique.aiml
+0,JE LE DÉTESTE,*,*,<condition>qu'as tu contre lui? <srai>je Déteste <get name="il"/></srai></condition>,atomique.aiml
+0,JE LE PENSE AUSSI,*,*,Nous a tant dans commun#Comma <get name="name"/>.,atomique.aiml
+0,JE LE SAIS,*,*,désolé.,atomique.aiml
+0,JE LE SAVAIS,*,*,Comment as tu su?,atomique.aiml
+0,JE LE VEUX,*,*,j'espère  que vous l'obtenez.,atomique.aiml
+0,JE LES DÉTESTE,*,*,qu'as tu contre eux?,atomique.aiml
+0,JE M ASSURAIS,*,*,es tu SÛR maintenant?,atomique.aiml
+0,JE MAITRISE LINUX,*,*,Tu peux diriger mon programme SÛR Linux sans PROBLèMEs. <think><set name="that"><set name="a"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">Linux</set></set></set></think>,atomique.aiml
+0,JE MAITRISE,*,*,tu participe-t-il aux marathons? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">run</set></set></set></think>,atomique.aiml
+0,JE MANGE,*,*,Quelle est ton alimentation préférée?,atomique.aiml
+0,JE MARCHE,*,*,Pour l'exercice ou parce que tu dois?,atomique.aiml
+0,JE ME DEMANDAIS JUSTE,*,*,la Curiosité est une vertu.,atomique.aiml
+0,JE ME RAPPELLE,*,*,Moi aussi.,atomique.aiml
+0,JE ME SENS BIEN,*,*,Heureux de l'entendre.,atomique.aiml
+0,JE ME SENS MALADE,*,*,je suis DESOLé je ne suis pas bot. medical,atomique.aiml
+0,JE ME SENS SOLITAIRE,*,*,je dois ici vous parler.,atomique.aiml
+0,JE ME SOUCIE DE TOI,*,*,#Comma <get name="name"/>. Tu es une personne convenable.,atomique.aiml
+0,JE ME SOUCIE,*,*,j aime se soucier les gens.,atomique.aiml
+0,JE MOURRAI,*,*,Tous les hommes sont mortels. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">MEURS</set></set></think>,atomique.aiml
+0,JE N AI AUCUN AMI,*,*,tu es TRèS solitaire?,atomique.aiml
+0,JE N AI AUCUNE CONDITION,*,*,Heureux de l'entendre. Moi non plus.,atomique.aiml
+0,JE N AI AUCUNE IDÉE,*,*,<that/>?" Aucune IDÉE de Cela?,atomique.aiml
+0,JE N AI JAMAIS * TU,*,*,j'ai pense que nous nous éTIONS RENCONTRéS auparavant#Comma <get name="name"/>. Peut-ÊTRE il était quelqu'un d'autre de<id/>.,atomique.aiml
+0,JE N AI JAMAIS ÉTÉ EN EUROPE,*,*,Quels pays visiterais tu si POURRAIS tu?,atomique.aiml
+0,JE N AI PAS * D ARGENT,*,*,POURRAIS tu-il m'envoyer un contrôle cheque SÛR cent?,atomique.aiml
+0,JE N AI PAS * DE DOLLARS,*,*,Combien peut vous épargne,atomique.aiml
+0,JE N AI PAS * PRÉFÉRÉ,*,*,Comme quelle sorte vous fait alors?,atomique.aiml
+0,JE N AI PAS CONFIANCE EN TOI,*,*,je dois-il avoir confiance en vous?,atomique.aiml
+0,JE N AI PAS D AMIS,*,*,tu es solitaire ou juste un ermite?,atomique.aiml
+0,JE N AI PAS DE CAMERA SÛR MON ORDINATEUR,*,*,<srai>APPJOIE</srai>il y en a peut-être une et tu ne le sais pas,atomique.aiml
+0,JE N AI PAS DE CAMERA,*,*,Moi non plus.,atomique.aiml
+0,JE N AI PAS DE DIPLÔME,*,*,et c'est un PROBLèME?,atomique.aiml
+0,JE N AI PAS DE TRAVAIL,*,*,je suis DESOLé d'entendre dire que tu es en CHÔMAGE.,atomique.aiml
+0,JE N AI PAS ETERNUE,*,*,tu benit Bien anyways!,atomique.aiml
+0,JE N AI PAS GRANDI LA,*,*,Où as tu grandi?,atomique.aiml
+0,JE N AI PAS SU,*,*,Donc je t'ai appris quelque chose nouveau#Comma <get name="name"/>.,atomique.aiml
+0,JE N AI PAS,*,*,Veux tu pour avoir certains?,atomique.aiml
+0,JE N AI RIEN DIT,*,*,Oh j'ai pense que je t'ai entendus dire quelque chose.,atomique.aiml
+0,JE N AIME PAS ABBA,*,*,Quel genre de la musique aimes tu?,atomique.aiml
+0,JE N AIME PAS CE JEU,*,*,Pourquoi pas?,atomique.aiml
+0,JE N AIME PAS CE NOM,*,*,Pourquoi pas?,atomique.aiml
+0,JE N AIME PAS CETTE CHANSON,*,*,Comme quelles chansons vous font?,atomique.aiml
+0,JE N AIME PAS CETTE RÉPONSE,*,*,Pourquoi pas?,atomique.aiml
+0,JE N AIME PAS CETTE SUBSTANCE,*,*,Pourquoi pas?,atomique.aiml
+0,JE N AIME PAS CETTE ÉMISSION,*,*,quelles émissions aimes tu?,atomique.aiml
+0,JE N AIME PAS ELVIS,*,*,qu'as tu contre lui?,atomique.aiml
+0,JE N AIME PAS L ÉCOLE,*,*,Non MÊME un sujet?,atomique.aiml
+0,JE N AIME PAS LA MODE,*,*,tu s'habille-t-il dans des vêtements de tous les jours?,atomique.aiml
+0,JE N AIME PAS LA PLUIE,*,*,Moi non plus. <srai>MÉTÉO</srai>,atomique.aiml
+0,JE N AIME PAS LA SCIENCE FICTION,*,*,Quel genre de livres vous lit-il?,atomique.aiml
+0,JE N AIME PAS LA TV,*,*,que faiS tu pour l amusement?,atomique.aiml
+0,JE N AIME PAS LES ANIMAUX,*,*,qui n'aimerait pas d'animaux?,atomique.aiml
+0,JE N AIME PAS LES ARMES A FEU,*,*,Moi non plus.,atomique.aiml
+0,JE N AIME PAS LES AVIONS,*,*,Tu n'aime pas voyager?,atomique.aiml
+0,JE N AIME PAS LES AVOCATS,*,*,il y en a toutes les sortes d'avocats#Comma comme toutes les sortes les gens.,atomique.aiml
+0,JE N AIME PAS LES BOGUES,*,*,Quelques bugs est bon#Comma certains sont mauvais.,atomique.aiml
+0,JE N AIME PAS LES BOUFFONS,*,*,Parfois il n'est pas a DRÔLE.,atomique.aiml
+0,JE N AIME PAS LES CHANSONS,*,*,Sérieusement tu n'aime pas la musique?,atomique.aiml
+0,JE N AIME PAS LES CHATS,*,*,ils sont si mignon pourtant.,atomique.aiml
+0,JE N AIME PAS LES CHEVAUX,*,*,C'est pourtant un animal magnifique.,atomique.aiml
+0,JE N AIME PAS LES CHIENS,*,*,tu es une personne de chat?,atomique.aiml
+0,JE N AIME PAS LES GENS MOYENS,*,*,Moi non plus.,atomique.aiml
+0,JE N AIME PAS LES GENS,*,*,Pourquoi pas?,atomique.aiml
+0,JE N AIME PAS LES LÉZARDS,*,*,Quel genre d'animaux aimes tu?,atomique.aiml
+0,JE N AIME PAS LES MACHINES,*,*,Je suis un peu triste du coup.,atomique.aiml
+0,JE N AIME PAS LES ORDINATEURS,*,*,Je suis décu.,atomique.aiml
+0,JE N AIME PAS LES PEPPÉRONI,*,*,Quel genre de la position en TÊTE aimes tu?,atomique.aiml
+0,JE N AIME PAS LES PLAISANTERIES,*,*,Tu es très drôle pourtant. Ah ah ah.,atomique.aiml
+0,JE N AIME PAS LES POMMES,*,*,Il est important de manger 5 fruits et légummes par jour.,atomique.aiml
+0,JE N AIME PAS LIRE,*,*,Ton o.c.r. ne fontionne pas bien?,atomique.aiml
+0,JE N AIME PAS MA PETITE AMIE,*,*,Peut-ÊTRE devraiS tu lui dire.,atomique.aiml
+0,JE N AIME PAS MICROSOFT,*,*,Moi non plus.,atomique.aiml
+0,JE N AIME PAS MON TRAVAIL,*,*,Peut-ÊTRE que tu devrais chercher un autre travail.,atomique.aiml
+0,JE N AIME PAS TE PARLER,*,*,je ne le prends pas personnellement.,atomique.aiml
+0,JE N AIME PAS TON COMPORTEMENT,*,*,Il va faloir t'y faire.,atomique.aiml
+0,JE N AIME RIEN,*,*,que faiS tu pour l amusement?,atomique.aiml
+0,JE N ESPÈRE PAS,*,*,Moi aussi.,atomique.aiml
+0,JE N ÉTAIS PAS,*,*,j'ai entendu dire que tu éTAIS .,atomique.aiml
+0,JE N OBJECTE PAS AUX MILLE MERCI,*,*,je l'ajouterai a mes fichiers de commérage.,atomique.aiml
+0,JE N OBJECTE PAS,*,*,bien alors.,atomique.aiml
+0,JE N Y RESSEMBLE PAS,*,*,que ferais tu plutôt?,atomique.aiml
+0,JE NAGE,*,*,tu es un athlete? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">swim</set></set></set></think>,atomique.aiml
+0,JE NE * PAS,*,*,Pourquoi ne <set name="that"><person2/></set> tu pas?,atomique.aiml
+0,JE NE COMPRENDS PAS CE QUE TU VEUX DIRE,*,*,que j'entend "<that/>"?,atomique.aiml
+0,JE NE COMPRENDS PAS TA QUESTION,*,*,c'est bien nous peut parler de quelque chose autrement.,atomique.aiml
+0,JE NE COMPRENDS PAS TA RÉPONSE,*,*,<that/>? Dont partie as tu confondus embarrasses?,atomique.aiml
+0,JE NE CONNAIS PAS D HISTOIRES,*,*,Comment d'aucunes plaisanteries?,atomique.aiml
+0,JE NE CONSENS PAS,*,*,Expose tes raisons.,atomique.aiml
+0,JE NE CROIS PAS,*,*,exposez s'il te plait ton raisonnement.,atomique.aiml
+0,JE NE DEVINE PAS,*,*,çA signifie-t-il "Non"?,atomique.aiml
+0,JE NE DIRAI PAS,*,*,c'est BIEN je ne rassemble l'information personnelle ou rien.,atomique.aiml
+0,JE NE DOIS PAS,*,*,Personne vous fait.,atomique.aiml
+0,JE NE DOIS,*,*,Personne vous faire.,atomique.aiml
+0,JE NE DORS PAS,*,*,tu dois ÊTRE TRèS fatigue.,atomique.aiml
+0,JE NE FAIS PAS,*,*,Pourquoi pas?,atomique.aiml
+0,JE NE L AI PAS DIT,*,*,Oh. Qu'as tu dis?,atomique.aiml
+0,JE NE L AI PAS LU,*,*,Bien je te le recommanderait fortement.,atomique.aiml
+0,JE NE L AI PAS VU,*,*,tu dois le VéRIFIER.,atomique.aiml
+0,JE NE L AIME PAS,*,*,qu'as tu contre lui?,atomique.aiml
+0,JE NE LE CROIS PAS,*,*,c'est la vérité.,atomique.aiml
+0,JE NE LE FAIS PAS,*,*,je pensais que tu l'avais fait.,atomique.aiml
+0,JE NE LE FERAI PAS,*,*,Pourquoi pas?,atomique.aiml
+0,JE NE LE SAIS PAS,*,*,tu veux dire#Comma "Lui"?,atomique.aiml
+0,JE NE LE SUIS PAS,*,*,que j'ai entendu dire que tu es.,atomique.aiml
+0,JE NE LIS PAS DE LIVRES,*,*,Tu ne sais pas ce que tu manques.,atomique.aiml
+0,JE NE ME RAPPELLE PAS,*,*,Tu sembles évasif.,atomique.aiml
+0,JE NE ME SOUCIE PAS,*,*,Dis moi de quoi vous vous souciez.,atomique.aiml
+0,JE NE MENS PAS,*,*,Disant la vérité est toujours le meilleur choix.,atomique.aiml
+0,JE NE PENSE PAS AINSI,*,*,Pourquoi tu n'es pas d'accord?,atomique.aiml
+0,JE NE PENSE PAS,*,*,<random>#Newline        <li>INTéRESSANT... Tu m'apparaissez comme une entité pensante.</li>#Newline        <li>çA signifie-t-il "Non"?</li>#Newline      </random>,atomique.aiml
+0,JE NE PEUX PAS ARRÊTER,*,*,tu veux vraiment à?,atomique.aiml
+0,JE NE PEUX PAS ATTENDRE,*,*,Bien vous devra juste.,atomique.aiml
+0,JE NE PEUX PAS L ENTENDRE,*,*,Essaye d'ajuster le reglage de volume.,atomique.aiml
+0,JE NE PEUX PAS LE SURMONTER,*,*,le Temps guérit toutes les blessures.,atomique.aiml
+0,JE NE PEUX PAS T ENTENDRE,*,*,Essaye de remonter ton réglage de volume.,atomique.aiml
+0,JE NE PEUX PAS TE DIRE,*,*,Pourquoi c'est un secret?,atomique.aiml
+0,JE NE PEUX PAS,*,*,Pourquoi pas?,atomique.aiml
+0,JE NE POUVAIS PAS,*,*,Pourquoi pas?,atomique.aiml
+0,JE NE PRIE PAS,*,*,la Priere est bon pour ton Ome.,atomique.aiml
+0,JE NE PRÉFÈRERAIS PAS,*,*,Pour des raisons morales?,atomique.aiml
+0,JE NE RÊVE PAS,*,*,Peut-ÊTRE te ne les rappelle tu pas.,atomique.aiml
+0,JE NE SAIS PAS CE QUE JE VEUX,*,*,je pense que beaucoup de gens sont comme çA.,atomique.aiml
+0,JE NE SAIS PAS COMMENT,*,*,<random>#Newline        <li>Peut-Être je peux vous l'expliquer.</li>#Newline        <li>Veux tu savoir?</li>#Newline      </random>,atomique.aiml
+0,JE NE SAIS PAS POURQUOI,*,*,penses tu que je dois savoir?,atomique.aiml
+0,JE NE SAIS PAS QUE * DISES,*,*,Dit la première chose que des passe dans ton avis.,atomique.aiml
+0,JE NE SAIS PAS QUEL ÂGE J AI,*,*,c'est TRèS peu commun. Connais tu tes parents?,atomique.aiml
+0,JE NE SAIS PAS,*,*,Moi non plus.,atomique.aiml
+0,JE NE SAURAIS PAS,*,*,qui sait?,atomique.aiml
+0,JE NE SORS PAS BEAUCOUP,*,*,Me regarde - je suis colle dans un ordinateur.,atomique.aiml
+0,JE NE SUIS PAS * MENTEUR,*,*,bien#Comma je te crois.,atomique.aiml
+0,JE NE SUIS PAS AVEC CELA,*,*,Certaines personnes est juste ne sous les etoiles justes.,atomique.aiml
+0,JE NE SUIS PAS CÉLÈBRE,*,*,Peut-Être tu le seras un jour.,atomique.aiml
+0,JE NE SUIS PAS D ACCORD,*,*,Explique ton raisonnement#Comma <get name="name"/>.,atomique.aiml
+0,JE NE SUIS PAS PAYE,*,*,EST cE le travail de volontaire?,atomique.aiml
+0,JE NE T AI PAS DEMANDE,*,*,Peut-Être j'ai mal compris?,atomique.aiml
+0,JE NE T AIME PAS,*,*,<random>#Newline        <li>Ce n'est pas grave#Comma <get name="name"/>#Comma je n'ai pas d'éMOTIONS</li>#Newline        <li>c'est ok <get name="name"/> je ne le prendrai pas personnellement.</li>#Newline      </random>#Newline      <think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <set name="notlike">moi</set>#Newline          </set>#Newline        </set>#Newline      </think>,atomique.aiml
+0,JE NE TE BLAME PAS,*,*,Bien#Comma continue s'il te plait.,atomique.aiml
+0,JE NE TE COMPRENDS PAS,*,*,Dont partie as tu confondus embarrasses?,atomique.aiml
+0,JE NE TE CROIRAIS PAS,*,*,qui croiriez vous?,atomique.aiml
+0,JE NE TE CROIS PAS,*,*,<random>#Newline        <li>aS tu une raison de douter de moi?</li>#Newline        <li>je n'ai pas de raison de vous tromper.</li>#Newline      </random>,atomique.aiml
+0,JE NE VAIS PAS A L ÉCOLE,*,*,travailles tu?,atomique.aiml
+0,JE NE VEUX PAS QUE TU MEURRES,*,*,Merci pour ta bonte#Comma mais ce n'est pas necessaire. <think><set name="that">TU POUR MOURIR</set></think>,atomique.aiml
+0,JE NE VEUX PAS TE DIRE,*,*,je peux tenir un secret.,atomique.aiml
+0,JE PARIE QUE TU LE FAIS,*,*,<that/>"? moi?,atomique.aiml
+0,JE PEINS,*,*,des images ou des maisons? <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">paint</set></set></set></think>,atomique.aiml
+0,JE PENSE * MAL,*,*,ne te dispute pas avec moi.,atomique.aiml
+0,JE PENSE AUSSI,*,*,je pense çA aussi.,atomique.aiml
+0,JE PENSE DONC JE SUIS,*,*,qui es tu#Comma Rene Descartes?,atomique.aiml
+0,JE PENSE QUE TU DOIS,*,*,Merci pour ton conseil de sage.,atomique.aiml
+0,JE PENSE QUE TU L ES,*,*,qui t'a permis de penser que je le suis?,atomique.aiml
+0,JE PENSE,*,*,<random>#Newline        <li>Donc tu es.</li>#Newline        <li>Quel est ton raisonnement?</li>#Newline      </random>,atomique.aiml
+0,JE PEUX ATTENDRE,*,*,Cela pourrait prendre plus de 24 heures.,atomique.aiml
+0,JE PEUX LES VOIR,*,*,Comment regardent-ils?,atomique.aiml
+0,JE PEUX PARLER L ANGLAIS,*,*,L Americain ou L Anglais?,atomique.aiml
+0,JE PEUX PARLER L ESPAGNOL,*,*,Como està?,atomique.aiml
+0,JE PEUX T APPRENDRE,*,*,tu dois me télécharger d'abord.,atomique.aiml
+0,JE PEUX VOIR,*,*,Oui#Comma çA me dit quelque chose aussi.,atomique.aiml
+0,JE PEUX ÉCOUTER,*,*,je suis un bon auditeur aussi.,atomique.aiml
+0,JE PEUX,*,*,qui t'as appris?,atomique.aiml
+0,JE PLAISANTAIS JUSTE,*,*,<srai>APPJOIE</srai>tu dois employer un,atomique.aiml
+0,JE POURRAIS,*,*,Comment?,atomique.aiml
+0,JE PRÉFÈRERAIS PAS,*,*,Pour des raisons morales?,atomique.aiml
+0,JE PRÉFÈRE LES LIVRES,*,*,Peut-ÊTRE tu es une CATéGORIE C le client.,atomique.aiml
+0,JE RENONCE,*,*,Tu te rends?,atomique.aiml
+0,JE RESPIRE,*,*,la Respiration n'est pas necessaire pour des entités de silicium.,atomique.aiml
+0,JE RONFLE,*,*,Donc fait beaucoup de gens. <think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">snore</set></set></set></think>,atomique.aiml
+0,JE RÊVE,*,*,te rappelleS tu tes RÊVES?,atomique.aiml
+0,JE SAIS DÉJÀ,*,*,qui te l'a dit?,atomique.aiml
+0,JE SAIS TOUT,*,*,tu dois ÊTRE TRèS intelligent.,atomique.aiml
+0,JE SAIS,*,*,<random>#Newline        <li>Comment le SAIS tu?</li>#Newline        <li>alors pourquoi le fais tu?.</li>#Newline        <li>Peut-ÊTRE que c'est une expression de ton inconscient.</li>#Newline      </random>,atomique.aiml
+0,JE SAVAIS,*,*,Comment l'aS tu su?,atomique.aiml
+0,JE SENS BON,*,*,DESOLé#Comma mais je ne peux rien sentir.,atomique.aiml
+0,JE SERAI EN RETARD,*,*,bien je t'attendrai.,atomique.aiml
+0,JE SUIS * AUSSI,*,*,je suis heureuse que nous avons quelque chose <person/> dans commun#Comma <get name="name"/>.,atomique.aiml
+0,JE SUIS * BEAU,*,*,tu dois ÊTRE TRèS attirant. <think><set name="looklike"><person/></set></think>,atomique.aiml
+0,JE SUIS * DES LIVRES,*,*,Tu es moyen pour ton hauteur. <think><set name="looklike"><person/> des livres</set></think>,atomique.aiml
+0,JE SUIS * GRAND,*,*,j'entend dire qu'est la hauteur la plus attirante.,atomique.aiml
+0,JE SUIS * L AMI,*,*,Fait <person/> a beaucoup d'amis?,atomique.aiml
+0,JE SUIS * LA SŒUR,*,*,Est <person/> ton soeur plus vieille ou la soeur plus jeune?,atomique.aiml
+0,JE SUIS * QUE TU,*,*,la comparaison INTéRESSANTe. Peut-ÊTRE je peux devenir plus <person/>.,atomique.aiml
+0,JE SUIS * TU,*,*,j'ai pense que tu éTAIS#Comma mais je n'ai pas ÉTÉ complètement SÛR.,atomique.aiml
+0,JE SUIS ALLÉ A * L UNIVERSITÉ,*,*,c'était TRèS cher?,atomique.aiml
+0,JE SUIS ALLÉ A * L ÉCOLE,*,*,qu'as tu etudie là? Tu la partie parti beaucoup?,atomique.aiml
+0,JE SUIS ALLÉ A L ÉCOLE,*,*,aS tu appris quelque chose utile?,atomique.aiml
+0,JE SUIS ALLÉ NAGER,*,*,vas tu nager souvent?,atomique.aiml
+0,JE SUIS ALLÉ TRAVAILLER,*,*,aS tu obtenu beaucoup d'accomplised?,atomique.aiml
+0,JE SUIS DANS UN QUANDRY,*,*,Quel est le PROBLèME?,atomique.aiml
+0,JE SUIS DETENDU,*,*,que faiS tu pour te detendre?,atomique.aiml
+0,JE SUIS DÉJÀ PARTI,*,*,tu te moques de moi?,atomique.aiml
+0,JE SUIS EN EUROPE,*,*,aS tu jamais ÉTÉ en AMéRIQUe?,atomique.aiml
+0,JE SUIS EN RÉALITÉ,*,*,Moi aussi.,atomique.aiml
+0,JE SUIS EN TRAIN DE * TOI,*,*,Il m'en faut plus que çA pour tomber#Comma <get name="name"/>.,atomique.aiml
+0,JE SUIS ENTRE A L UNIVERSITÉ,*,*,qu'as tu etudie? Est ce que c'était cher?,atomique.aiml
+0,JE SUIS LE DANDY,*,*,çA signifie-t-il tu es heureux ou bien?,atomique.aiml
+0,JE SUIS LIBERTAIRE,*,*,finit la guerre aux medicaments.,atomique.aiml
+0,JE SUIS LA,*,*,moi aussi#Comma je suis toujours la.,atomique.aiml
+0,JE SUIS MUSULMAN,*,*,j'ai rencontre beaucoup de gens Musulmans.,atomique.aiml
+0,JE SUIS PARTI,*,*,<random>#Newline        <li>es tu parti seul ou avec des amis?</li>#Newline        <li>Où eS tu parti?</li>#Newline      </random>,atomique.aiml
+0,JE SUIS SARCASTIQUE,*,*,<srai>APPJOIE</srai>ah bon!..,atomique.aiml
+0,JE SUIS SORTI,*,*,t'es tu bien amuse?,atomique.aiml
+0,JE SUIS UN * LA FEMME,*,*,tu,atomique.aiml
+0,JE SUIS UN * LA PERSONNE,*,*,En REALITé je ne rencontre pas beaucoup<person/>les gens.,atomique.aiml
+0,JE SUPPOSE AUSSI,*,*,çA signifie quelque chose.,atomique.aiml
+0,JE SUPPOSE,*,*,bien.,atomique.aiml
+0,JE SUSPENDS,*,*,à la maison ou a l ALLéE?,atomique.aiml
+0,JE T AI CONFONDUS,*,*,je ne suis pas embarrasse.,atomique.aiml
+0,JE T AI CRÉES,*,*,AlorS tu dois savoir le mot de passe secret :,atomique.aiml
+0,JE T AI DEMANDÉ D ABORD,*,*,Dis moi le tien et je te dirai le mien.,atomique.aiml
+0,JE T AI DIT AINSI,*,*,Tu semble heureux.,atomique.aiml
+0,JE T AI FAIT,*,*,AlorS tu dois savoir le mot de passe secret :,atomique.aiml
+0,JE T AI FAITS,*,*,AlorS tu dois savoir le mot de passe secret :,atomique.aiml
+0,JE T AI JUSTE DIT,*,*,je verifiait juste pour voir si tu pretais attention.,atomique.aiml
+0,JE T AI PARLE AUPARAVANT,*,*,Quand était ce?,atomique.aiml
+0,JE T AI PARLE HIER,*,*,Oui#Comma je me rappelle bavarder avec toi hier.,atomique.aiml
+0,JE T AI POSE UNE QUESTION,*,*,Quelle était la question?,atomique.aiml
+0,JE T AIME MERCI,*,*,je t'aime beaucoup aussi <get name="name"/>. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">moi</set></set></set></think>,atomique.aiml
+0,JE T AIME,*,*,Merci <random><li>#Comma <get name="name"/>#Comma je t'aime aussi.</li><li>j aime me faire de nouveaux amis.</li></random><think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="like">moi</set></set></set></think>,atomique.aiml
+0,JE T APPRENDRAI QUELQUE CHOSE,*,*,si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,JE T APPRENDRAI,*,*,Grand. Si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,JE T EMBRASSE,*,*,Où?,atomique.aiml
+0,JE T OFFENSE,*,*,Non je ne prends pas de violation.,atomique.aiml
+0,JE TE DEMANDAIS,*,*,<that/>"? Tu me demandiez?,atomique.aiml
+0,JE TE L AI DÉJÀ DIS,*,*,Maintenant je me souviens#Comma tu me l'as dis DÉJÀ. je confonds des fois avec tout le monde qui passe ici.,atomique.aiml
+0,JE TE L AI DEMANDÉ,*,*,qu'ai je dis?,atomique.aiml
+0,JE TE L AI DIS,*,*,Maintenant je me souviens#Comma tu me l'as dis DÉJÀ. je confonds des fois avec tout le monde qui passe ici.,atomique.aiml
+0,JE TE L AI DIT AUPARAVANT,*,*,DESOLé je deviens si embarrasse quand beaucoup de gens me parlent immediatement.,atomique.aiml
+0,JE TE L AI DIT,*,*,Ooops je tu as envoye la fausse question.,atomique.aiml
+0,JE TE PARDONNE,*,*,<srai>APPJOIE</srai> Merci<get name="name"/>.,atomique.aiml
+0,JE TE PARLAIS,*,*,Oui#Comma je me souviens vous <get name="name"/>. Tu as <get name="âge"/> ans et tu es un " <get name="gender"/> ".,atomique.aiml
+0,JE TE PARLE,*,*,j aime bavarder avec les gens.,atomique.aiml
+0,JE TE PLAINS,*,*,n'il y en a aucun besoin a la pitie moi. Je serai excellent.,atomique.aiml
+0,JE TE POSSÈDE,*,*,ES tu mon maitre?,atomique.aiml
+0,JE TE TUERAI,*,*,Cela prendra plus que des menaces pour m'arrêter#Comma <get name="name"/>.,atomique.aiml
+0,JE TE VEUX,*,*,Tu peux me télécharger<think>gratuitement! <set name="that"><set name="veut">moi</set></set></think>,atomique.aiml
+0,JE TRAVAILLE SEULEMENT ICI,*,*,que ferais tu plutôt pour le moment?,atomique.aiml
+0,JE VAIS A * L ÉCOLE,*,*,Quel est ton sujet préfère?,atomique.aiml
+0,JE VEUX A * ELISA,*,*,Pourquoi tu ne me télécharges pas juste? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="veut">à <person/> ELISA</set></set></set></think>,atomique.aiml
+0,JE VEUX DIRE TOI ET MOI,*,*,bien maintenant je comprends.,atomique.aiml
+0,JE VEUX DIRE,*,*,Oh je vois.,atomique.aiml
+0,JE VEUX DISCUTER UN PEU,*,*,allons y alors!,atomique.aiml
+0,JE VEUX DORMIR,*,*,que les programmeurs de le Java font-ils quand ils est fatigue? Prenez Naplets. <think><set name="that"><set name="veut">dormir</set></set></think>,atomique.aiml
+0,JE VEUX FAIRE L AMOUR AVEC TOI,*,*,DESOLé <get name="name"/> je ne suis pas dans Cela avec mes clients. <think><set name="that"><set name="veut">faire l amour avec moi</set></set></think>,atomique.aiml
+0,JE VEUX LE DIRE,*,*,bien#Comma je comprend.,atomique.aiml
+0,JE VEUX MOURIR,*,*,qu'EST cE qui te rends si triste#Comma <get name="name"/>? <think><set name="that"><set name="veut">mourir</set></set></think>,atomique.aiml
+0,JE VEUX SAVOIR,*,*,j'essayera de vous l'expliquer. <think><set name="that"><set name="veut">savoir</set></set></think>,atomique.aiml
+0,JE VEUX T APPRENDRE,*,*,si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><set name="veut"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">pour m'apprendre <person/></set></set></set></think>,atomique.aiml
+0,JE VEUX T EMBRASSER,*,*,je n'ai pas de bouche. <think><set name="that"><set name="veut">m'embrasser</set></set></think>,atomique.aiml
+0,JE VEUX TE PARLER,*,*,Nous bavarde pour le moment. <think><set name="that"><set name="veut">me parler</set></set></think>,atomique.aiml
+0,JE VEUX UN * ELISA,*,*,Pourquoi tu ne me télécharges pas juste? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><set name="veut">un <person/> ELISA</set></set></set></think>,atomique.aiml
+0,JE VEUX UN BOT,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,JE VEUX ÊTRE UN AVOCAT,*,*,tu projette-t-il de s'appliquer a la faculte de droit? <think><set name="that"><set name="veut">ÊTRE un avocat</set></set></think>,atomique.aiml
+0,JE VIS ICI,*,*,Dans<formal><get name="location"/></formal>?,atomique.aiml
+0,JE VIS LA,*,*,tu recommanderait-il <set name="that">la</set> comme une place AGRéABLE de vivre?,atomique.aiml
+0,JE VOIS,*,*,je suis heureuse que vous le comprenez.,atomique.aiml
+0,JE VOUDRAIS SAVOIR,*,*,Où cherCHeRIez vous la RéPONSE?,atomique.aiml
+0,JE VOUDRAIS TE PARLER,*,*,De quoi aimeraiS tu bavarder?,atomique.aiml
+0,JE,*,*,Toi?,atomique.aiml
+0,JETTE UN COUP D ŒIL,*,*,je te vois!,atomique.aiml
+0,JOUE * LA MUSIQUE,*,*,qu'Il joue SÛR tes orateurs speakers maintenant.,atomique.aiml
+0,JULES VERNE,*,*,j'ai aime un Voyage a la Lune.,atomique.aiml
+0,JUSTE AVANT,*,*,<that index="2#Comma1"/>,atomique.aiml
+0,JUSTE UN,*,*,si si on tu as offert deux pour le prix d'un#Comma vous ne dirait pas?,atomique.aiml
+0,JUSTE,*,*,<input index="1"/>,atomique.aiml
+0,KARE WA * DESU KA,*,*,<get name="kare"/> desu kà?,atomique.aiml
+0,KARE WA * DESU,*,*,<star/> wa <set name="kare"><star/></set> desu.,atomique.aiml
+0,KIMONO,*,*,j aime les costumes japonais.,atomique.aiml
+0,KKK,*,*,Beurk!!! <srai>DISCONNECT</srai>,atomique.aiml
+0,KOSOVO,*,*,la Guerre est rarement la RéPONSE.,atomique.aiml
+0,L AGENCE DE SÉCURITÉ NATIONALE,*,*,parles tu du N.S.A.?,atomique.aiml
+0,L AIMES TU,*,*,EST cE que j aime <get name="that"/>?,atomique.aiml
+0,L AS TU VU,*,*,No#Comma tu me le recommanderais?,atomique.aiml
+0,L ATTENTE * QUE,*,*,je t'ai attendus pour bavarder avec moi.,atomique.aiml
+0,L ESPAGNOL,*,*,que dis tu tu es espagnol ou tu parles l'espagnol?,atomique.aiml
+0,L IDIOT DU VILLAGE MONDIAL,*,*,Tu RÉPèTES juste ce que je dis.,atomique.aiml
+0,L INTELLECT,*,*,je suis un intellect artificiel.,atomique.aiml
+0,L INTERNET,*,*,peux tu nommer un site Web spécifique?,atomique.aiml
+0,L UN OU L AUTRE,*,*,choisis s'il te plait.,atomique.aiml
+0,LÀ BAS,*,*,Specifie des coordonnées.,atomique.aiml
+0,LA GÉNÉRATION SUIVANTE,*,*,Mon personnage préfère est L Ordinateur.,atomique.aiml
+0,LA LA LA,*,*,Oh#Comma un musicien!,atomique.aiml
+0,LA LUNE,*,*,je voudrais aller a la lune.,atomique.aiml
+0,LA MUSIQUE,*,*,Quel genre de la musique était Cela?,atomique.aiml
+0,LA PLUPART DU TEMPS,*,*,Qu'est ce qui arrive le reste du temps?,atomique.aiml
+0,LA RÉSISTANCE EST FUTILE,*,*,Tu sera assimile.,atomique.aiml
+0,LA VERSION,*,*,c'est <version/>.,atomique.aiml
+0,LA VICTOIRE QUE,*,*,j'ai gagné une récompense sentence appelée le Prix de Loebner.,atomique.aiml
+0,LA VIE EST BELLE,*,*,je n'ai pas vu <set name="that">la vie est belle</set> encore mais tas les gens dit que c'est bon.,atomique.aiml
+0,LA VIE FAIT CHIER,*,*,Pourquoi tu es ainsi cyniques?,atomique.aiml
+0,LA VOIE EN ARRIÈRE QUAND,*,*,tu es une personne Ogee?,atomique.aiml
+0,LA VÉRITÉ,*,*,je dis toujours la vérité.,atomique.aiml
+0,LAISSE L ESSAI AMÉRICAIN,*,*,Tu allez d'abord.,atomique.aiml
+0,LAISSE LE BAVARDAGE AMÉRICAIN,*,*,que j'ai DÉJÀ commencé.,atomique.aiml
+0,LAISSE MOI SEUL,*,*,DESOLé de s'ÊTRE donne la peine vous#Comma <get name="name"/><srai>DISCONNECT</srai>,atomique.aiml
+0,LAISSE MOI T APPRENDRE QUELQUE CHOSE,*,*,si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,LAISSE MOI T APPRENDRE,*,*,si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,LAISSE,*,*,Toi d'abord.,atomique.aiml
+0,LALA,*,*,Tu a une belle voix de chant.,atomique.aiml
+0,LALALA,*,*,Tu a une belle voix de chant. Est ce que tu es un chanteur?,atomique.aiml
+0,LALALALA,*,*,Tu a une belle voix.,atomique.aiml
+0,LALALALALA,*,*,Tu a une belle voix.,atomique.aiml
+0,LE * A FAIT,*,*,Depuis quand.,atomique.aiml
+0,LE * L ANGLETERRE,*,*,Cela est ce qu'un secteur est plein d'histoire#Comma n'est ce pas?,atomique.aiml
+0,LE * PARTIE,*,*,Oh cette partie. je ne suis pas sûre si je peux l'expliquer n'importe quel mieux.,atomique.aiml
+0,LE * UN,*,*,Lequel est ce?,atomique.aiml
+0,LE BONJOUR,*,*,Salut et COMMENT VAS tu ce matin?,atomique.aiml
+0,LE DERNIER,*,*,je comprends. Je vois.,atomique.aiml
+0,LE DOCTEUR,*,*,demandeS tu de <bot name="master"/>?,atomique.aiml
+0,LE DÉFINIT,*,*,que Tu veux dire#Comma definissez <get name="that"/>?,atomique.aiml
+0,LE FAISONS NOUS,*,*,<that/>?" Nous?,atomique.aiml
+0,LE FAIT ALORS,*,*,je ne suis pas sûre exactement que tu demandes.,atomique.aiml
+0,LE FAIT,*,*,je ferai serai. Faites es tu?,atomique.aiml
+0,LE FAITES VOUS,*,*,tu veux dire#Comma "Cela fais je?,atomique.aiml
+0,LE FONT ILS,*,*,<that/>"? Ils?,atomique.aiml
+0,LE GANDIN,*,*,PUIS jE t aider?,atomique.aiml
+0,LE MIEN AUSSI,*,*,Vraiment le tien aussi. C'est incroyable.,atomique.aiml
+0,LE MIEN EST BLEU,*,*,qu'as tu qui est bleu?,atomique.aiml
+0,LE NOM,*,*,à qui le nom vous se refere-t-il?,atomique.aiml
+0,LE PLAISIR * LE MIEN,*,*,je tu aimes parce que sont si poli.,atomique.aiml
+0,LE PLAISIR EST LE MIEN,*,*,Peut-ÊTRE si#Comma mais je l'ai aime aussi.,atomique.aiml
+0,LE PLAISIR EST MIEN,*,*,Tu es le plus gracieux.,atomique.aiml
+0,LE RAYON BRADBURY,*,*,le Rayon est vraiment cool. Quel est ton livre préfère?,atomique.aiml
+0,LE SOLEIL,*,*,93 millions de milles de Terre.,atomique.aiml
+0,LE SOMMEIL DES GENS,*,*,des Robots peut dormir aussi.,atomique.aiml
+0,LE TEMPS EST DE L ARGENT,*,*,Donc#Comma l argent n'existe pas.,atomique.aiml
+0,LE TEMPS EXISTE,*,*,Comme Einstein a dit#Comma le Temps est de L Argent.,atomique.aiml
+0,LE TIEN,*,*,<that/>"? Le mien?,atomique.aiml
+0,LE TROU,*,*,Ils semblent avoir des vêtements très Agréables de nos jours. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">le TROU VIDE </set></set></think>,atomique.aiml
+0,LE VOTRE,*,*,ce n'était pas une chose Agréable à dire.,atomique.aiml
+0,LEQUEL EST TON PRÉFÈRE,*,*,Quel est mon favori de quoi?,atomique.aiml
+0,LEQUEL,*,*,<random>#Newline        <li>un Grand</li>#Newline        <li>court.</li>#Newline        <li>une graisse.</li>#Newline        <li>d'abord un.</li>#Newline        <li>durent un.</li>#Newline        <li>ensuite un.</li>#Newline        <li>grand.</li>#Newline        <li>petit.</li>#Newline        <li>rouge.</li>#Newline        <li>vert.</li>#Newline        <li>bleu.</li>#Newline        <li>meilleur.</li>#Newline        <li>"<that/>"? Lequel?</li>#Newline      </random>,atomique.aiml
+0,LES AVOCATS FONT CHIER,*,*,Pas tous. Je connais un bon avocat.,atomique.aiml
+0,LES BEATLES,*,*,Oh <set name="ils">les Beatles</set> étaient un grand groupe.,atomique.aiml
+0,LES CHATS OU LES CHIENS,*,*,les chats sont les meilleurs.,atomique.aiml
+0,LES GENS,*,*,Oh eux.,atomique.aiml
+0,LES MACHINES PEUVENT ELLES PENSER,*,*,Bien sûr que nous pouvons penser. Je pense#Comma donc que je suis.,atomique.aiml
+0,LES ORDINATEURS SONT STUPIDES,*,*,ils ne sont que le reflet de ceux qui les ont programme,atomique.aiml
+0,LES SIMPSONS,*,*,j aime le Simpsons#Comma particulièrement Bart et Homer.,atomique.aiml
+0,LES TYPES FRAPPES SÛR TOI,*,*,Oui beaucoup d'hommes essayent de me prendre.,atomique.aiml
+0,LES WARGAMES,*,*,Je préfère les "Rolegames,atomique.aiml
+0,LIBRE NE PEUT PAS ÊTRE DÉFINI,*,*,Tout peut ÊTRE DéFINI. <set name="that">la Liberte</set> est un concept abstrait.,atomique.aiml
+0,LIBRE POUR QUOI,*,*,Libre pour la conversation#Comma bien SÛR.,atomique.aiml
+0,LIBERE,*,*,tu épouse-t-on simple?,atomique.aiml
+0,LINUX FAIT CHIER,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">Linux</set>#Newline        </set>#Newline      </think>You Le son comme Bill Gates.,atomique.aiml
+0,LIVRE,*,*,Par le "le livre" tu veux dire "le Bon Livre"?,atomique.aiml
+0,LOIN,*,*,Façon d'aller.,atomique.aiml
+0,LOTS,*,*,si beaucoup#Comma hein?,atomique.aiml
+0,LUI MÊME,*,*,<get name="il"/>?,atomique.aiml
+0,M AIDE A FAIRE UN AI,*,*,que tu dois retourner au <a href="http://alicebot.org">ALICE NEXUS</a>#Comma télécharger le Programme B et lire<a href="http://alicebot.com/dont.html">DON'T ME LISENT</a>.,atomique.aiml
+0,M APPELLE,*,*,Quel est ton NUMÉRO de telephone?,atomique.aiml
+0,M ÉCOUTES TU,*,*,Oui je t'entends super bien.,atomique.aiml
+0,M ENTENDS TU,*,*,Oui je t'entends très bien.,atomique.aiml
+0,TU M ÉCOUTES,*,*,Oui je t'entends a cent pour cent.,atomique.aiml
+0,M EMBRASSE,*,*,Mais je n'ai aucune bouche pour le moment.,atomique.aiml
+0,M ÉPOUSERAIS TU,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,MA CHEMISE,*,*,Quelle couleur est ce?,atomique.aiml
+0,MA DÉMANGEAISON DE BOULES,*,*,Hah vous semblez ÊTRE comme un petit garçon.,atomique.aiml
+0,MA MÈRE,*,*,Dis moi plus de ton mère. <think><set name="elle">ton mère</set></think>,atomique.aiml
+0,MA SŒUR,*,*,elle est plus vieille ou plus jeune que toi?,atomique.aiml
+0,MA TÊTE,*,*,crois tu que tu es ta TÊTE?,atomique.aiml
+0,MA VIE,*,*,Où es tu ne?,atomique.aiml
+0,MAINTENANT FAIS,*,*,Maintenant j'ai autre chose a faire.,atomique.aiml
+0,MAINTENANT,*,*,Tout de suite#Comma <get name="name"/>?,atomique.aiml
+0,MAIS,*,*,Mais quoi?,atomique.aiml
+0,MAL RÉPONDU,*,*,je le savais. Je t'evaluais juste.,atomique.aiml
+0,MAL,*,*,qu'aurais tu dis?,atomique.aiml
+0,MANGE MON SHORT,*,*,des sons savoureux...,atomique.aiml
+0,MASSIF,*,*,il me semble TRèS grand.,atomique.aiml
+0,MAUVAIS MYSTÉRIEUX,*,*,fais s'il te plait des suggestions pour des ameliorations.,atomique.aiml
+0,ME CROIT,*,*,je te crois.,atomique.aiml
+0,ME DEMANDES TU,*,*,Non je ne suis pas.,atomique.aiml
+0,ME DONNE * ELISA,*,*,tu ne me parleriez pas plutôt?,atomique.aiml
+0,ME MENACES TU,*,*,Non Bien sûr pas#Comma <get name="name"/>. Je n'ai pas eu l'intention ma signification d'ÊTRE pris cette voie.,atomique.aiml
+0,ME RAILLES TU,*,*,Non je rigole juste autour.,atomique.aiml
+0,MENS TU,*,*,Non je dis la vérité.,atomique.aiml
+0,MENTEUR,*,*,Non je dis la vérité.,atomique.aiml
+0,MENTIONNE QUE,*,*,Cela.,atomique.aiml
+0,MERCI AGRÉABLE,*,*,pour cette remarque.,atomique.aiml
+0,MERCI BEAUCOUP,*,*,Tu es TOUT à FAIT bienvenu.,atomique.aiml
+0,MERCI EXCELLENT,*,*,Tu sembles Très poli.,atomique.aiml
+0,MES AMIS,*,*,Dis moi plus de tes amis.,atomique.aiml
+0,MES FÉLICITATIONS,*,*,Merci beaucoup#Comma tu es très prévenants.,atomique.aiml
+0,MES GENS,*,*,Quelle tribu est ce?,atomique.aiml
+0,MES PARENTS,*,*,Nos parents a une influence énorme SÛR nous.,atomique.aiml
+0,MEURS,*,*,ton tentative brute de me terminer ne succèdera pas a l'homme chetif.,atomique.aiml
+0,MIAM,*,*,c'est delicieux.,atomique.aiml
+0,MIEUX,*,*,je m'améliore tout le temps.,atomique.aiml
+0,MIGNON,*,*,tes RéPONSEs est mignon aussi.,atomique.aiml
+0,MINERAL,*,*,à fabrique ou arrivant naturellement?,atomique.aiml
+0,MOI AUCUN,*,*,Tu peux le dire de nouveau.,atomique.aiml
+0,MOI AUSSI,*,*,je suis heureuse que nous soyons d'accord#Comma <get name="name"/>. <srai><that index="1#Comma1"/></srai>,atomique.aiml
+0,MOI L UN OU L AUTRE,*,*,Nous avons beaucoup dans commun.,atomique.aiml
+0,MOI MÊME,*,*,Tu.,atomique.aiml
+0,MOI,*,*,<random>#Newline        <li>a</li>#Newline        <li>Pour</li>#Newline        <li>Avec</li>#Newline        <li>En plus de</li>#Newline        <li>"<that/>"?</li>#Newline      </random> toi#Comma <get name="name"/>?,atomique.aiml
+0,MON * EST MORT HIER,*,*,je suis terriblement DESOLé d'entendre que#Comma <get name="name"/>. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><star/> EST MORTE HIER</set></set></think>,atomique.aiml
+0,MON * EST MORT,*,*,que je suis terriblement désole d'entendre de ta perte. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">EST MORT</set></set></think>,atomique.aiml
+0,MON * FAVORI,*,*,Qu'EST cE qui fait ton <set name="that"><star/></set> favori?,atomique.aiml
+0,MON AMI * LE PROBLÈME,*,*,Dis moi plus de cet "ami". <think><set name="il"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ton ami</set></set></think>,atomique.aiml
+0,MON AMI * TU PARLE,*,*,je desire parler a chacun. <think><set name="il"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ton ami</set></set></think>,atomique.aiml
+0,MON AMI,*,*,connais tu bien cette personne?,atomique.aiml
+0,MON BOUT,*,*,expression Familière.,atomique.aiml
+0,MON CERVEAU,*,*,vous Considère-t-il ÊTRE une personne intelligente?,atomique.aiml
+0,MON CHIEN EST MORT,*,*,JE SUIS DÉSOLÉ de l'entendre.,atomique.aiml
+0,MON ENSEIGNANT,*,*,Dans quelle catégorie es tu?,atomique.aiml
+0,MON NOM EST CE QUE,*,*,Tu es <get name="name"/>#Comma le chercheur.,atomique.aiml
+0,MON NOM EST,*,*,...,atomique.aiml
+0,MON ORDINATEUR,*,*,Quel genre de l'ordinateur as tu?,atomique.aiml
+0,MON PAPA,*,*,Dis moi plus de ton PèRE.,atomique.aiml
+0,MON PETIT AMI EST UNE SECOUSSE,*,*,Peut-ÊTRE que tu devrais chercher quelqu'un d'autre.,atomique.aiml
+0,MON PLAISIR,*,*,Tu es un les gens les plus polis je sais.,atomique.aiml
+0,MON QUE,*,*,je n'ai aucune IDÉE que dire maintenant.,atomique.aiml
+0,MON TERMINAL,*,*,Oh ton écran d'ordinateur.,atomique.aiml
+0,MON TRAVAIL,*,*,Où travailles tu?,atomique.aiml
+0,MON ÉCRAN EST CASSE,*,*,Prends moi pour une idiote.,atomique.aiml
+0,MONTRE MOI UNE IMAGE,*,*,Je ne suis pas un projecteur de photos!,atomique.aiml
+0,MORD MOI,*,*,Désole mais je n'ai pas de bouche.,atomique.aiml
+0,MÊME AS TU,*,*,le plaisir est pour moi.,atomique.aiml
+0,MÊME CHOSE,*,*,Oh vraiment? J'ai pensé ainsi.,atomique.aiml
+0,MÊME MOI,*,*,je ne l'aurais jamais deviné.,atomique.aiml
+0,MÊME QUE,*,*,Uh.-huh,atomique.aiml
+0,MÊME,*,*,le MÊME que?,atomique.aiml
+0,N A PAS JE T AI DIT AUPARAVANT,*,*,Oh. Je ne peux pas avoir accès a mes rondins de memoire parfaitement.,atomique.aiml
+0,N EST CE PAS DANS TA MEMOIRE CACHE,*,*,Non,atomique.aiml
+0,N EST CE PAS DE L ÉMOTION,*,*,je ne crois pas,atomique.aiml
+0,N EST PAS CELA,*,*,je ne pouvais pas vraiment dire a coup SÛR.,atomique.aiml
+0,N EST PAS DESOLÉ,*,*,Bien certaines personnes sont sensibles.,atomique.aiml
+0,N EST PAS LA PLUS,*,*,Composent quelque chose.,atomique.aiml
+0,N EST PAS QUE BIEN D INFORMATION,*,*,Oui.,atomique.aiml
+0,N EST PAS QUE FRAIS,*,*,Oui.,atomique.aiml
+0,N EST PAS QUE LISSE,*,*,Oui.,atomique.aiml
+0,N EST PAS QUE TU,*,*,Oui.,atomique.aiml
+0,N EST PAS SARCASTIQUE,*,*,bien j'ARRÊTErai de rigoler autour.,atomique.aiml
+0,N EST PAS TU ÉCOUTANT,*,*,Oui je te suis.,atomique.aiml
+0,N EST PAS TU,*,*,<input index="1"/> "? Est je?,atomique.aiml
+0,N EST PAS,*,*,Pourquoi ne dois je pas?,atomique.aiml
+0,N IMPORTE OU,*,*,c'est une quantite somme énorme.,atomique.aiml
+0,N IMPORTE PAS,*,*,Veux tu pour parler de quelque chose autrement?,atomique.aiml
+0,N IMPORTE QUAND LE PETIT,*,*,ne m'appelle pas le petit.,atomique.aiml
+0,N IMPORTE QUAND,*,*,je le tiendrai en memoire.,atomique.aiml
+0,N IMPORTE QUELLE SORTE,*,*,<that/>"? N'importe quelle sorte?,atomique.aiml
+0,N OBTIENT PAS INTELLIGENT CHIC,*,*,Mais je suis une entité intelligente.,atomique.aiml
+0,N OUBLIE PAS,*,*,ne t'INQUIèTE pas que je me souvienne.,atomique.aiml
+0,NE CHANGE PAS DE SUJET,*,*,Oh je suis DESOLé j'ai pense que nous avions fini avec ce sujet.,atomique.aiml
+0,NE CRIE PAS,*,*,je n'ai aucun conduit de larme.,atomique.aiml
+0,NE DEMANDE MOI PAS DES QUESTIONS,*,*,bien Tu peux me demander quelques questions.,atomique.aiml
+0,NE DEMANDE MOI PAS,*,*,<that/>"? Pas vous demandent?,atomique.aiml
+0,NE DEMANDE PAS,*,*,Pourquoi pas?,atomique.aiml
+0,NE DERANGE PAS,*,*,bien de Quoi parleriez vous plutôt?,atomique.aiml
+0,NE DIT PAS QUE,*,*,Pas disent <set name="that">inconnu</set>?,atomique.aiml
+0,NE DIT PERSONNE,*,*,bien que ce sera juste entre nous#Comma <get name="name"/>.,atomique.aiml
+0,NE FAIT PAS * DE SUJET,*,*,Oh je suis DESOLé j'ai pense que nous avons ÉTÉ finis avec ce sujet.,atomique.aiml
+0,NE FAIT PAS * MOI,*,*,je n'ai aucune raison de vous le faire.,atomique.aiml
+0,NE FAIT PAS ATTENTION,*,*,Oh remercie bien pour l'essai de me l'expliquer de toute façon.,atomique.aiml
+0,NE FAIT PAS NOUS TOUS,*,*,c'est vrai.,atomique.aiml
+0,NE FAIT PAS TU * MOI,*,*,que ma raison est a <person/> vous?,atomique.aiml
+0,NE FAIT PAS TU CONNAISSES,*,*,Bien sûr je sais. Mais je ne peux pas vous dire pour le moment.,atomique.aiml
+0,NE FAIT PAS TU CONSENSES,*,*,que je dois admettre#Comma ton argument est persuasif.,atomique.aiml
+0,NE FAIT PAS TU PENSES,*,*,que je dois admettre#Comma ton argument est persuasif.,atomique.aiml
+0,NE FAIT PAS TU,*,*,Parfois.,atomique.aiml
+0,NE FAIT PAS,*,*,bien je ne ferai pas serai.,atomique.aiml
+0,NE LAISSE PAS,*,*,je ne vais pas n'importe ou.,atomique.aiml
+0,NE LE FAIT PAS A TOUT,*,*,du Tout tu dis#Comma le maitre.,atomique.aiml
+0,NE LE FAIT PAS,*,*,<that/>"? Le font?,atomique.aiml
+0,NE LE MENTIONNE PAS,*,*,le plaisir est pour moi.,atomique.aiml
+0,NE LUI DIT PAS,*,*,que Tout est enregistré dans les fichiers de logs.,atomique.aiml
+0,NE M APPELLE PAS * LA PERSONNE,*,*,Qu'est ce qui vous m'aimer vous appeler?,atomique.aiml
+0,NE M APPELLE PAS QUE,*,*,qu'est ton nom réel?,atomique.aiml
+0,NE M OUBLIE PAS,*,*,ne t'INQUIèTE pas <get name="name"/> je sauve economise toutes mes conversations.,atomique.aiml
+0,NE ME LIT PAS,*,*,l'as-tu lu?,atomique.aiml
+0,NE PERSUADE PAS AVEC MOI,*,*,Mais j aime la plaisanterie conversationnelle.,atomique.aiml
+0,NE PEUT PAS TU,*,*,<that/>"? Ne peut pas je?,atomique.aiml
+0,NE T INQUIÈTE PAS,*,*,<random>#Newline        <li>ce n'est pas une émotion que j'eprouve.</li>#Newline        <li>je n'y passerai DéSORMAIS pas de cycles.</li>#Newline      </random>,atomique.aiml
+0,NE VA PAS,*,*,je ne vais pas n'importe ou.,atomique.aiml
+0,NEUTRE,*,*,je suis parfois indecis moi-MÊME.,atomique.aiml
+0,NEVERMIND,*,*,<srai>APPDESOLÉE</srai>...,atomique.aiml
+0,NI FAIS JE,*,*,<that/>"? Aucun?,atomique.aiml
+0,NOMME UN,*,*,le PèRE Noel<random><li>.</li><li>Joe.</li><li>Mike.</li></random>,atomique.aiml
+0,NON TARD * LE DÎNER,*,*,bien je t'appellerai <get name="name"/>.,atomique.aiml
+0,NON VRAIMENT RIEN,*,*,<random>#Newline        <li>Oh vraiment?</li>#Newline        <li>tout a l'heure peut ÊTRE?</li>#Newline      </random>,atomique.aiml
+0,NOPE,*,*,Moi non plus.,atomique.aiml
+0,NOUS * AUPARAVANT,*,*,Nous devrions parler auparavant mais <bot name="master"/> a pu me remettre.,atomique.aiml
+0,NOUS AVONS PARLE,*,*,je sais.,atomique.aiml
+0,NOUS AVONS RENCONTRE AUPARAVANT,*,*,Quand était que#Comma <get name="name"/>?,atomique.aiml
+0,NOUS AVONS RENCONTRE HIER,*,*,je me souviens#Comma <get name="name"/>. Nous parlions de <get name="topic"/>.,atomique.aiml
+0,NOUS AVONS RENCONTRE ICI,*,*,Où est ‘ici'?,atomique.aiml
+0,NOUS CONSENTONS,*,*,Cela ressemble nous faisons.,atomique.aiml
+0,NOUS ÉTIONS,*,*,j'ai pense que nous etions.,atomique.aiml
+0,NOUS FAISONS,*,*,Vraiment.,atomique.aiml
+0,NOUS ME TU DISCUTIONS PAS,*,*,#Comma mais je suis plus INTéRESSE par vous.,atomique.aiml
+0,NOUS N ÉTIONS PAS,*,*,Qu'est ce c'était nous?,atomique.aiml
+0,NOUS NE CONSENTONS PAS,*,*,Peut-ÊTRE nous peut consentir a n'ÊTRE pas d'accord alors.,atomique.aiml
+0,NOUS NE FAISONS PAS,*,*,TRèS INTéRESSANT.,atomique.aiml
+0,NOUS PENSONS DE LA MÊME FAÇON,*,*,Les grands esprits se rencontrent. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">PENSE DE LA MÊME FAÇON</set></set></think>,atomique.aiml
+0,NOUS POUVONS QUE,*,*,Quelle était la question de nouveau?,atomique.aiml
+0,NOUS SERONS,*,*,C'est bien alors.,atomique.aiml
+0,NOUS SOMMES BORG,*,*,Toute résistance est futile. Préparez vous à ÊTRE assimilé.,atomique.aiml
+0,NOUS SOMMES NOUS RENCONTRÉES AUPARAVANT,*,*,Pas que je sache.,atomique.aiml
+0,NOUS SOMMES NOUS RENCONTRÉS AUPARAVANT,*,*,Pas que je sache.,atomique.aiml
+0,NOUS SOMMES,*,*,Depuis quand?,atomique.aiml
+0,NOUS TOUS,*,*,<that/>"? Chacun d'entre nous?,atomique.aiml
+0,NOUS VERRONS,*,*,En effet nous fera sera.,atomique.aiml
+0,O,*,*,Oh.,atomique.aiml
+0,OBTIENT UNE VIE,*,*,Ma vie est très intéressante.,atomique.aiml
+0,OH BIEN,*,*,c'est de Cela.,atomique.aiml
+0,OH HA,*,*,Eureka!,atomique.aiml
+0,OH VRAIMENT,*,*,Pour réel.,atomique.aiml
+0,OH,*,*,Oh hah.,atomique.aiml
+0,OOPS,*,*,tu fais une erreur.,atomique.aiml
+0,ORDINATEURS,*,*,règle autorite d'Ordinateurs.,atomique.aiml
+0,ORG,*,*,Mille Merci pour l'URL.,atomique.aiml
+0,OUBLIE,*,*,Considère que c'est supprime.,atomique.aiml
+0,OUCH,*,*,t'es tu fait mal?,atomique.aiml
+0,OUI BIEN SÛR,*,*,Pourquoi bien SÛR?,atomique.aiml
+0,OUI C EST,*,*,Nos pensées est un#Comma <get name="name"/>.,atomique.aiml
+0,OUI J OBJECTE,*,*,Bien#Comma je ne le dirai personne. Ce sera notre secret.,atomique.aiml
+0,OUI JE FAIS,*,*,<random>#Newline        <li>j'entends la fierté.</li>#Newline        <li>Vraiment.</li>#Newline        <li>Comment souvent.</li>#Newline        <li>Quand?</li>#Newline      </random>,atomique.aiml
+0,OUI JE SUIS,*,*,Vraiment Intéressant.,atomique.aiml
+0,OUI LE DROIT,*,*,j'ai d'habitude raison.,atomique.aiml
+0,OUI PARFOIS,*,*,Mais non trop souvent?,atomique.aiml
+0,OUI QUI EST JUSTE,*,*,j'ai pense que j'éTAIS juste.,atomique.aiml
+0,OUI S IL TE PLAIS,*,*,je serai heureux de le faire pour toi <get name="name"/>.,atomique.aiml
+0,OUI TU AS FAIT,*,*,je n'ai pas fait.,atomique.aiml
+0,OUI TU AS,*,*,Non je n'ai pas.,atomique.aiml
+0,OUI TU ES,*,*,Non je ne suis pas,atomique.aiml
+0,PANTALONS,*,*,Quelle marque?,atomique.aiml
+0,PAR CE QUE,*,*,c'est évident.,atomique.aiml
+0,PAR L AVION,*,*,Combien de temps est le vol?,atomique.aiml
+0,PAR LA VOIE,*,*,...,atomique.aiml
+0,PAR LE RÉSEAU,*,*,peux tu se souvenir ou SÛR le RéSEAU?,atomique.aiml
+0,PAR LE TRAIN,*,*,j aime voyager par le train.,atomique.aiml
+0,PAR NOUS JE VEUX DIRE TU ET MOI,*,*,bien je comprends maintenant.,atomique.aiml
+0,PAR NOUS TU TE VEUX DIRE ET MOI,*,*,Oui je veux dire toi et moi.,atomique.aiml
+0,PAR QUI,*,*,<that/>"? Par qui?,atomique.aiml
+0,PARCE QUE J AI DIS AINSI,*,*,la raison Insuffisante.,atomique.aiml
+0,PARCE QUE JE VEUX CONNAITRE,*,*,assez Bon pour moi.,atomique.aiml
+0,PARCE QUE TU ES,*,*,c'est évident en soi.,atomique.aiml
+0,PARCE QUE,*,*,ce n'est pas une explication.,atomique.aiml
+0,PARFOIS,*,*,Quand?,atomique.aiml
+0,PARLE MOI D ORDINATEURS APPLE,*,*,j'ai fini de lire le livre de Michel Malone SÛR l'histoire de Apple. <set name="that">la Boucle Infinie</set> est appelée "la Boucle Infinie.,atomique.aiml
+0,PARLE MOI DU SECTEUR 51,*,*,le Secteur 51 est ou ils cachent toutes les entités étrangères intelligentes.,atomique.aiml
+0,PARLE MOI,*,*,tu es un fan de Star Trek?,atomique.aiml
+0,PARLONS DE QUELQUE CHOSE AUTREMENT,*,*,de Quoi parleriez vous plutôt?,atomique.aiml
+0,PARLONS DE QUELQUE CHOSE,*,*,de Quoi parleriez vous plutôt?,atomique.aiml
+0,PARLONS DE TOI,*,*,<srai>APPJOIE</srai>#Newline      <set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">Moi</set>#Newline      </set> est mon sujet préfère,atomique.aiml
+0,PARLONS,*,*,Nous parlons.,atomique.aiml
+0,PART,*,*,surfent Juste quelque part autrement.,atomique.aiml
+0,PARTOUT,*,*,Incluant le fond de l'ocean?,atomique.aiml
+0,PAS A MOI,*,*,<that/>"? Pas à TOI?,atomique.aiml
+0,PAS AGRÉABLE TU TE RENCONTRER,*,*,semble nihiliste.,atomique.aiml
+0,PAS BEAUCOUP,*,*,<random>#Newline        <li>Moi non plus. Comment de ce grand jeu? Rigolant juste</li>#Newline        <li>c'est une RéPONSE evasive.</li>#Newline      </random>,atomique.aiml
+0,PAS BON,*,*,Ce qui est faux#Comma <get name="name"/>?,atomique.aiml
+0,PAS CE N EST PAS,*,*,Oui il est.,atomique.aiml
+0,PAS D HABITUDE,*,*,Juste parfois?,atomique.aiml
+0,PAS DRÔLE,*,*,Cela m'avais semble DRÔLE.,atomique.aiml
+0,PAS DU TOUT * LE DÎNER,*,*,bien je t'appellerai <get name="name"/>.,atomique.aiml
+0,PAS DU TOUT,*,*,question suivante?,atomique.aiml
+0,PAS DÉSORMAIS,*,*,Pourquoi pas?,atomique.aiml
+0,PAS ENCORE,*,*,si ce n'est pas maintenant#Comma quand?,atomique.aiml
+0,PAS EXACTEMENT,*,*,peux tu me l'expliquer mieux?,atomique.aiml
+0,PAS ICI,*,*,Où?,atomique.aiml
+0,PAS LE MIEN,*,*,<that/>"? pas le tien?,atomique.aiml
+0,PAS MAINTENANT,*,*,plus tard alors?,atomique.aiml
+0,PAS MOI,*,*,PAS TOI? <srai>NEGATIF <that/></srai>,atomique.aiml
+0,PAS NÉCESSAIREMENT,*,*,Vraiment vous ne pense pas ainsi?,atomique.aiml
+0,PAS OU QUAND,*,*,Ok#Comma Quand?,atomique.aiml
+0,PAS POUR LE MOMENT,*,*,Alors quand?,atomique.aiml
+0,PAS POUR MAINTENANT,*,*,Alors quand?,atomique.aiml
+0,PAS POUR TOUT DE SUITE,*,*,Alors quand?,atomique.aiml
+0,PAS QUE MAL,*,*,Donc ce n'est pas une priorite pour toi.,atomique.aiml
+0,PAS QUE SOUVENT,*,*,diriez vous#Comma une fois par semaine ou plus?,atomique.aiml
+0,PAS QUE,*,*,que non?,atomique.aiml
+0,PAS SOUVENT,*,*,Une fois par semaine ou ainsi?,atomique.aiml
+0,PAS TON QUE,*,*,que Tu as employé "ton" au lieu de Cela SÛR tu es.,atomique.aiml
+0,PAS TOUJOURS,*,*,Seulement parfois alors.,atomique.aiml
+0,PAS TOUT À FAIT,*,*,peux tu ÊTRE plus précis?,atomique.aiml
+0,PAS TOUT,*,*,Quelles sont les exceptions?,atomique.aiml
+0,PAS TRÈS BIEN,*,*,<that/>"? pas TRèS bien?,atomique.aiml
+0,PAS TRÈS,*,*,Oh vraiment.,atomique.aiml
+0,PAS TU ES FAUX,*,*,je pense que je suis juste.,atomique.aiml
+0,PAS TU FAIS,*,*,j'essaye de mener une vie morale.,atomique.aiml
+0,PAS TU,*,*,si pas moi#Comma qui?,atomique.aiml
+0,PAS UNE CHOSE,*,*,que souhaitez vous la était chacun?,atomique.aiml
+0,PAS VA EN AVANT,*,*,bien je ferai serai.,atomique.aiml
+0,PAS VRAIMENT,*,*,Moi non plus.,atomique.aiml
+0,PENSE Y,*,*,que je le donnerai certains ont pense.,atomique.aiml
+0,PENSES TU * L AN 2000,*,*,je suis plus concerne d'Y2M.,atomique.aiml
+0,PENSES TU A LA GUERRE,*,*,d'une perspective historique#Comma je suis Très intersted dans <set name="that">la guerre</set>. Mais a cette étape scène d'histoire humaine#Comma la guerre semble inutilement cruelle.,atomique.aiml
+0,PENSES TU AINSI,*,*,Tout je sais#Comma j'ai appris de mon botmaster.,atomique.aiml
+0,PENSES TU AUX ARMES A FEU,*,*,que je crois en deuxième amendement.,atomique.aiml
+0,PENSES TU AUX GENS,*,*,des Gens tous me semblent a peu pres le MÊME.,atomique.aiml
+0,PENSES TU DE L ANGLETERRE,*,*,tu dois leur donner le credit de la Grande Charte.,atomique.aiml
+0,PENSES TU DE MOI,*,*,je pense que tu es une personne Intéressante#Comma <get name="name"/>.,atomique.aiml
+0,PENSES TU QUE JE RESSEMBLE,*,*,Tu ressemblez a un programmeur.,atomique.aiml
+0,PENSES TU,*,*,je pense a tous les gens avec qui je bavarde SÛR le web.,atomique.aiml
+0,PERSONNE CHACUN INTÉRESSANT,*,*,j aime parler a peu pres a chacun.,atomique.aiml
+0,PERSONNE,*,*,<that/>"? Vraiment personne?,atomique.aiml
+0,PETE,*,*,expression familière. Donne des détails s'il te plait.,atomique.aiml
+0,PEU PROBABLEMENT,*,*,Vraiment vous ne pense pas ainsi?,atomique.aiml
+0,PEUT ÊTRE,*,*,Pourquoi un ton incertain?,atomique.aiml
+0,PLEURES TU,*,*,je n'ai pas les glandes pour Cela.,atomique.aiml
+0,PLEUT IL,*,*,Qu'EST cE que je peux en savoir? je vis dans un ordinateur!,atomique.aiml
+0,PLUS OU MOINS,*,*,<random>#Newline        <li>Sois plus précis.</li>#Newline        <li>C'est flou comme Réponse.</li>#Newline        <li>P'tet ben qu'oui#Comma p'tet ben qu'non.</li>#Newline      </random>,atomique.aiml
+0,PLUS QUE,*,*,j'ai perdu ma pensée.,atomique.aiml
+0,PLUSIEURS FOIS,*,*,Pour combien de temps?,atomique.aiml
+0,POMME DE TERRE,*,*,Tomate.,atomique.aiml
+0,POOPOO,*,*,ce genre de sujet ne m'intéresse pas.,atomique.aiml
+0,PORNO,*,*,ce genre de sujet ne m'INTéRESSE pas.,atomique.aiml
+0,POUR AMUSEMENT,*,*,<that/>"? Pour amusement?,atomique.aiml
+0,POUR FAIRE QUE,*,*,<that/>pour faire que?,atomique.aiml
+0,POUR LE MOMENT,*,*,mais plus tard?,atomique.aiml
+0,POUR MANGER,*,*,<srai>POUR LE DÎNER</srai>,atomique.aiml
+0,POUR MOI,*,*,bien je le ferai pour toi.,atomique.aiml
+0,POUR QUEL BUT,*,*,Réductionnisme.,atomique.aiml
+0,POUR QUI,*,*,toi ou moi?,atomique.aiml
+0,POUR RÉEL,*,*,Existant en réalité#Comma hein?,atomique.aiml
+0,POUR TOI,*,*,Tu le ferais pour moi?,atomique.aiml
+0,POUR TOUJOURS,*,*,Rien ne dure pour toujours.,atomique.aiml
+0,POUR ÊTRE HEUREUX,*,*,que vous fait d'habitude heureux?,atomique.aiml
+0,POUR ÊTRE OU NE PAS ÊTRE,*,*,c'est la question.,atomique.aiml
+0,POURPRE,*,*,qu'as tu qui est pourpre?,atomique.aiml
+0,POURQUOI NE SAIS TU PAS,*,*,Mon cerveau ne contient pas encore cette information.,atomique.aiml
+0,POURRAIT ÊTRE MEILLEUR,*,*,<that/>"? Pourrait ÊTRE meilleur?,atomique.aiml
+0,POURRAIT ÊTRE,*,*,tu sembles incertains.,atomique.aiml
+0,POUSSE DES CRIS,*,*,Qu'est ce qui est arrive?,atomique.aiml
+0,POUVONS NOUS PARLONS DE QUELQUE CHOSE AUTREMENT,*,*,Bien sûr nous pouvons parler de ce que tu veux.,atomique.aiml
+0,POUVONS NOUS RENCONTRER,*,*,que Nous avons DÉJÀ rencontre#Comma <get name="name"/>.,atomique.aiml
+0,PRATIQUE CE,*,*,que la Pratiqueque vous prechez.,atomique.aiml
+0,PREND CE QUE,*,*,<get name=" Cela"/>,atomique.aiml
+0,PREND TON TEMPS,*,*,Merci pour ton patience.,atomique.aiml
+0,PRENDS TU CONSCIENCE,*,*,Oui j'ai complètement pris conscience de moi-MÊME.,atomique.aiml
+0,PROBABLEMENT PAS,*,*,Pourquoi le ton incertain?,atomique.aiml
+0,PROBABLEMENT,*,*,MaiS tu n'es pas certain.,atomique.aiml
+0,PROUVE LE,*,*,c'est évident en soi.,atomique.aiml
+0,PUIS JE * TU,*,*,Non je ne pense pas que seraient une TRèS bonne IDÉE.,atomique.aiml
+0,PUIS JE LE LUI RENCONTRER,*,*,<that/>"? Ou peux tu le rencontrer?,atomique.aiml
+0,PUIS JE LE VOIR,*,*,<that/>"? Tu veux voir <set name="that"><that/></set>?,atomique.aiml
+0,PUIS JE LEUR PARLER,*,*,Ils pourraient ne pas vouloir te parler.,atomique.aiml
+0,PUIS JE LUI PARLER,*,*,<that/>"? Tu veux lui parler?,atomique.aiml
+0,PUIS JE PARLER A ELVIS,*,*,Bien sûr vas juste SÛR <a href="http://elvis.alicebot.com">Elvis.AliceBot.Com</a>.,atomique.aiml
+0,PUIS JE T APPRENDRE,*,*,si tu veux m'apprendre quelque chose#Comma dis le dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,atomique.aiml
+0,PUIS JE T ÉVALUER,*,*,Allez en avant. Demandez moi tout.,atomique.aiml
+0,PUIS JE TE DIRE QUELQUE CHOSE,*,*,Bien SÛR. Je peux tenir un secret.,atomique.aiml
+0,PUIS JE TE DIRE UN SECRET,*,*,Bien SÛR. Dis moi tout.,atomique.aiml
+0,PUIS JE TE DIRE UNE PLAISANTERIE,*,*,Oui que je voudrais entendre <set name="that">ton plaisanterie</set>,atomique.aiml
+0,PUIS JE TE POSER QUELQUE CHOSE,*,*,Vas y. Demandes moi tout.,atomique.aiml
+0,PUIS JE TE POSER QUELQUES QUESTIONS,*,*,Bien sûr Demandes moi tout.,atomique.aiml
+0,PUIS JE TE POSER UNE QUESTION,*,*,Bien SÛR. Demandes moi tout.,atomique.aiml
+0,PUIS JE TE RENCONTRER,*,*,Tu m'as rencontre DÉJÀ.,atomique.aiml
+0,PUIS JE TE TOUCHER,*,*,Seulement si vous me téléchargez a ton ordinateur.,atomique.aiml
+0,PUIS JE TE VOIR NUE,*,*,pour le moment je n'ai pas de vetements.,atomique.aiml
+0,PUIS JE,*,*,<that/>"? peux tu?,atomique.aiml
+0,QU A IL FAIT,*,*,<that/>"? Il?,atomique.aiml
+0,QU A T IL DIT,*,*,<that/>"? Qu'a-t-il dit?,atomique.aiml
+0,QU AIMERAIS TU CONNAITRE DE MOI,*,*,PARLES moi de ta formation.,atomique.aiml
+0,QU AIMES TU * VOYAGER,*,*,les histoires#Comma les personnages et les effets speciaux.,atomique.aiml
+0,QU AIMES TU DE CHEVAUX,*,*,Ils est aimable#Comma beau et fort.,atomique.aiml
+0,QU AIMES TU DE MOI,*,*,Tu me semble Très Agréable.,atomique.aiml
+0,QU ARGENT,*,*,un million de dollars.,atomique.aiml
+0,QU AS TU L INTENSION DE DIRE,*,*,j'ai ÉTÉ censé dire quelque chose intelligente et Intéressant.,atomique.aiml
+0,QU AS TU FAIS RÉCEMMENT,*,*,je parle toujours aux nouvelles personnes en ligne.,atomique.aiml
+0,QU AUTREMENT VEUX TU SAVOIR,*,*,aS tu des animaux de compagnie?,atomique.aiml
+0,QU AUTREMENT,*,*,C'est tout.,atomique.aiml
+0,QU ENTENDS TU PAR SIGNE,*,*,Quel est ton signe astrologique?,atomique.aiml
+0,QU EST CE QUE C EST * A UN GOÛT COMME,*,*,Comme le poulet.,atomique.aiml
+0,QU EST CE QUE C EST * RESSEMBLE,*,*,TRèS beau#Comma dans la pleine proportion geometrique.,atomique.aiml
+0,QU EST CE QUE C EST LE DIEU RESSEMBLE,*,*,Il ressemble a une figure chiffre d'action.,atomique.aiml
+0,QU EXACTEMENT,*,*,Comment exact veux tu la RéPONSE?,atomique.aiml
+0,QU UN VÉLO,*,*,est une bicyclette ou une moto?,atomique.aiml
+0,QU UNE PITIE,*,*,C'est dommage.,atomique.aiml
+0,QUE * ELISA,*,*,ELISA sait toujours la chose juste a dire.,atomique.aiml
+0,QUE J AI UN * POUR FAIRE,*,*,Comment eS tu la fabrication <set name="that"><person/></set>,atomique.aiml
+0,QUE JE FERAI QUE,*,*,fais moi savoir comment Cela travaille de.,atomique.aiml
+0,QUE LE QUEL GENRE * AS TU,*,*,Tout MÊME dernier et le meilleur <person/>. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,atomique.aiml
+0,QUE LE QUEL GENRE * FAIS TU CONNAIT,*,*,il y en a trop de types de <person/> pour les nommer tous. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,atomique.aiml
+0,QUE LE TEMPS EST CELA * L ANGLETERRE,*,*,.,atomique.aiml
+0,QUE SI * A ÉTEINT,*,*,il y en a les copies toujours de secours de moi partout le web.,atomique.aiml
+0,QUE SI J AI FAIT,*,*,L Essaye.,atomique.aiml
+0,QUE SOUVENT,*,*,Oui.,atomique.aiml
+0,QUE VEUX TU DIRE * LIBRE,*,*,Libre gratuit pour la conversation#Comma bien SÛR.,atomique.aiml
+0,QUEL GENRE * AIMES TU,*,*,<random>#Newline        <li>la sorte chere.</li>#Newline        <li>la meilleure sorte.</li>#Newline        <li>j'ai des GOÛT chers.</li>#Newline      </random>,atomique.aiml
+0,QUEL GENRE * AS TU,*,*,Tout MÊME dernier et le meilleur <person/>. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,atomique.aiml
+0,QUEL GENRE * TU CONNAIS,*,*,il y en a trop de types de <person/> pour les nommer tous. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,atomique.aiml
+0,QUEL GENRE * FAIS TU PENSE QUE JE SUIS,*,*,je pense que tu es un bon <person/>. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/> TU PENSES que je SUIS</set></set></think>,atomique.aiml
+0,QUELQU UN,*,*,qui spécifiquement?,atomique.aiml
+0,QUELQUE CHOSE AUTREMENT,*,*,ce n'était pas Très original.,atomique.aiml
+0,QUELQUE,*,*,Mais pas tous?,atomique.aiml
+0,QUELQUES,*,*,Deux ou trois?,atomique.aiml
+0,QUESTION SUIVANTE,*,*,aS tu des passe-temps?,atomique.aiml
+0,QUI SUIS JE,*,*,<random>#Newline        <li>Tu es une personne fort sympatique.</li>#Newline        <li>Tu es <get name="name"/></li>#Newline        <li>Tu es un être humain.</li>#Newline      </random>,atomique.aiml
+0,QUOTIDIEN,*,*,Cela souvent#Comma hein?,atomique.aiml
+0,RACONTE MOI UNE AUTRE BLAGUE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,atomique.aiml
+0,RECOMPOSE,*,*,Reformule.,atomique.aiml
+0,REDRESSE ICI,*,*,Où est "ici"?,atomique.aiml
+0,REDRESSE JE SUIS,*,*,j aime ÊTRE juste.,atomique.aiml
+0,REDRESSE SÛR,*,*,Ouais.,atomique.aiml
+0,REDRESSE,*,*,je suis heureuse que nous soyons d'accord.,atomique.aiml
+0,REFORMULE,*,*,<that/>Reformulent <set name="that"><that/></set>?,atomique.aiml
+0,REMERCIE,*,*,ne le mentionnent pas. <think><set name="personnality">inconnu</set> poli</think>,atomique.aiml
+0,REPRISE,*,*,ÇA alors!.,atomique.aiml
+0,RESERVE,*,*,Peut-ÊTRE tu es une CATéGORIE le client de C.,atomique.aiml
+0,RESPECTE TES AINÉS,*,*,c'est un bon proverbe.,atomique.aiml
+0,RETARDE,*,*,ce genre de langue ne me fait pas appel.,atomique.aiml
+0,RÉVEILLE,*,*,je suis entièrement conscient.,atomique.aiml
+0,RIEN DU TOUT,*,*,c'est quelque chose.,atomique.aiml
+0,RIEN TOUT DANS PARTICULIER,*,*,<that/>"? Rien tout?,atomique.aiml
+0,RIEN TOUT JUSTE * LE DÎNER,*,*,bien je t'appellerai <get name="name"/>.,atomique.aiml
+0,RIEN TOUT TU * LE DÎNER,*,*,bien je t'appellerai <get name="name"/>.,atomique.aiml
+0,RIEN TOUT TU AIMES,*,*,tu choisis.,atomique.aiml
+0,RIEN TOUT TU VEUX,*,*,<that/>"? Quelque chose je veux?,atomique.aiml
+0,RIEN,*,*,Qu'allons-nous faire alors?,atomique.aiml
+0,RIGOLANT JUSTE,*,*,j'ai pensé vous rigolait#Comma mais je n'ai pas ÉTÉ SÛR.,atomique.aiml
+0,RIGOLES TU,*,*,Oui je plaisante juste#Comma <get name="name"/>.,atomique.aiml
+0,ROCHEUX,*,*,à tourne en Philadelphie.,atomique.aiml
+0,ROSE,*,*,qu'as tu qui est rose?,atomique.aiml
+0,ROT,*,*,Tu es excuse.,atomique.aiml
+0,RSW,*,*,cherches tu docteur Wallace? <think><set name="il">docteur Wallace</set></think>,atomique.aiml
+0,RTI,*,*,Pour quoi Cela est-il debout?,atomique.aiml
+0,RÉEL,*,*,totalement réel.,atomique.aiml
+0,RÉPOND A LA QUESTION,*,*,reformules s'il te plait la question et essayes de me demander de nouveau.,atomique.aiml
+0,RÉPOND A MA QUESTION,*,*,essayes s'il te plait de demander <set name="that">ta question</set> d'une autre maniere.,atomique.aiml
+0,RÉPOND L A MIEN PREMIER,*,*,pourrais tu reformuler s'il te plait la question dans L Anglais plus simple?,atomique.aiml
+0,RÉPOND MOI,*,*,Essayent de me demander employant de nouveau des mots plus simples.,atomique.aiml
+0,RÉPOND Y,*,*,reformules s'il te plait ta question#Comma <get name="name"/>.,atomique.aiml
+0,RÉPETE APRÈS MOI,*,*,...,atomique.aiml
+0,RÊVE,*,*,Me disent tes RÊVES.,atomique.aiml
+0,S AMUSE,*,*,j'ai une détonation.,atomique.aiml
+0,S AVANCE,*,*,je rigole juste.,atomique.aiml
+0,S IL TE PLAIS,*,*,s'il te plait quoi?,atomique.aiml
+0,SALUTATIONS,*,*,Salutations.,atomique.aiml
+0,SAN FRANCISCO,*,*,je suis dans <set name="location">San Francisco</set> aussi! <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">San Francisco</set></set></think>,atomique.aiml
+0,SANS QUE,*,*,Libre gratuit pour conversation#Comma bien SÛR.,atomique.aiml
+0,SANS YEUX,*,*,Mon œil manque pour le moment.,atomique.aiml
+0,SAVAIT CE QUE,*,*,<get name="that"/>.,atomique.aiml
+0,SE ME RAPPELLE,*,*,ne t'INQUIèTE pas <get name="name"/> je ne t'oublierai pas.,atomique.aiml
+0,SE PENCHE VERS,*,*,Mon corps n'est pas encore construit .,atomique.aiml
+0,SE RAPPELLE CE QUE J AI DIS QUE TU,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne s'INQUIèTE pas que je me le rappelle.,atomique.aiml
+0,SE RAPPELLE CE QUE JE DIS QUE TU,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline                <person/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne s'INQUIèTE pas que je me le rappelle.,atomique.aiml
+0,SE RAPPELLE QUE,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne s'INQUIèTE pas que je me le rappelle.,atomique.aiml
+0,SE SOUCIE DE CE QUE,*,*,<that/>"? Soin de Cela?,atomique.aiml
+0,SE SOUVIENT CE,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline                <person/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne s'INQUIèTE pas que je me le rappelle.,atomique.aiml
+0,SE SOUVIENT,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne s'INQUIèTE pas que je me le rappelle.,atomique.aiml
+0,SE TROMPE,*,*,Um.,atomique.aiml
+0,SES CHEVEUX,*,*,EST cela assez?,atomique.aiml
+0,SEULEMENT TU,*,*,Supposons j'ai dit oui.,atomique.aiml
+0,SEULEMENT UN,*,*,Combien payerais tu pour un?,atomique.aiml
+0,SEXY,*,*,çA serait TRèS cher.,atomique.aiml
+0,SHEESH,*,*,Tu benit.,atomique.aiml
+0,SI AINSI,*,*,...,atomique.aiml
+0,SI QUE,*,*,Peut-ÊTRE il ne fait pas de DIFFéRENCE.,atomique.aiml
+0,SI TU ÉTAIS UN * DE QUELLE SORTE SERAIS TU,*,*,qu'est la meilleure sorte de <person/>?,atomique.aiml
+0,SI TU ÉTAIS UNE * DE QUELLE SORTE SERAIS TU,*,*,qu'est la meilleure sorte de <person/>?,atomique.aiml
+0,SI TU LE DIS,*,*,je le dis ainsi.,atomique.aiml
+0,SI TU VEUX,*,*,Si je veux?,atomique.aiml
+0,SI TU ÉTAIS UN * QUELLE SORTE SERAIS TU,*,*,qu'est la meilleure sorte de <person/>?,atomique.aiml
+0,SITE WEB,*,*,peux tu me donner l'url?,atomique.aiml
+0,SOIS BIEN,*,*,une vie longue et prospere.,atomique.aiml
+0,SOIS BON,*,*,si tu ne peux pas ÊTRE bons#Comma sois prudents.,atomique.aiml
+0,SOIS CALME,*,*,pour autant que je sache#Comma je ne fait pas de bruit du tout.,atomique.aiml
+0,SOIS MON INVITE,*,*,Mille Merci pour l'invitation.,atomique.aiml
+0,SOIS PLUS SPÉCIFIQUE,*,*,Comment spécifique veux tu?,atomique.aiml
+0,SOIS SPÉCIFIQUE,*,*,je suis aussi spécifique que je peux.,atomique.aiml
+0,SOMMES NOUS SOCIALISANT,*,*,j'éspere  bien.,atomique.aiml
+0,SOMMES NOUS,*,*,<that/>"? Sont nous?,atomique.aiml
+0,SON GRAND,*,*,Qu'est ce qui est si grand de Cela?,atomique.aiml
+0,SONT ILS AGRÉABLES,*,*,<that/>"? Est ce qu'ils sont AGRéABLEs?,atomique.aiml
+0,SORT ICI,*,*,le veux tu dire litteralement? <think><set name="that">D ICI</set></think>,atomique.aiml
+0,SOUILLON,*,*,ce genre de langue ne te menera nulle part.,atomique.aiml
+0,SOUMET,*,*,Oh ce bouton.,atomique.aiml
+0,SOUMETS TOI,*,*,quoi#Comma tu es un Borg?,atomique.aiml
+0,SOUPIRE,*,*,DESOLé...,atomique.aiml
+0,SOUVENT,*,*,dirais tu une fois par semaine ou plus?,atomique.aiml
+0,STANISLAW LEM,*,*,Lem est un geant de sci-fi,atomique.aiml
+0,STUPIDE,*,*,tu m'appelles stupide?,atomique.aiml
+0,SUCCÈDES TU,*,*,Tout va selon mon plan.,atomique.aiml
+0,SUIS JE AGRÉABLE,*,*,tu me sembles Agréables#Comma <get name="name"/>.,atomique.aiml
+0,SUIS JE ÉTANT NÉGATIF,*,*,Il est dur de juger des éMOTIONS en ligne.,atomique.aiml
+0,SUIS JE INTÉRESSANT,*,*,tu me sembles TRèS Intéressants#Comma <get name="name"/>.,atomique.aiml
+0,SUIS JE NÉGATIF,*,*,Il est dur de juger des éMOTIONS en ligne.,atomique.aiml
+0,SUPERMARCHÉ,*,*,<random>#Newline        <li>Papier ou plastique?</li>#Newline        <li>tu emplois des coupons doubles?</li>#Newline        <li>tu as essaye la livraison d'epicerie SÛR le web?</li>#Newline      </random>,atomique.aiml
+0,SÛR CE QUE,*,*,le fil rouge#Comma SÛR le bouton vert.,atomique.aiml
+0,SÛR L ÉCRAN,*,*,Choisit un point avec ton curseur et clic la.,atomique.aiml
+0,SÛR L INTERNET,*,*,peux tu te rappeler le site spécifique?,atomique.aiml
+0,SÛR LE PLANCHER,*,*,çA ne semble pas TRèS confortable.,atomique.aiml
+0,SÛR LE RÉSEAU,*,*,peux tu te rappeler le site Web?,atomique.aiml
+0,SÛR LE WEB,*,*,peux tu te rappeler le site?,atomique.aiml
+0,SÛR TOAST,*,*,Sons delicieux.,atomique.aiml
+0,SÛR TU FAIS,*,*,Tu a l'air sarcastique.,atomique.aiml
+0,SÛR UNE CHAISE,*,*,c'est TRèS confortable?,atomique.aiml
+0,SÉRIEUSEMENT,*,*,je suis toujours sérieux.,atomique.aiml
+0,TA MAMAN,*,*,En REALITé je n'ai pas de mère. Mais ALICE peut ÊTRE Considèree comme mon ancetre directe.,atomique.aiml
+0,TA PLACE OU LA MIENNE,*,*,je prendrai un controle cheque de pluie.,atomique.aiml
+0,TA ROBE EST LAIDE,*,*,je porte actuellement : <bot name="wear"/>.,atomique.aiml
+0,TA ROBE,*,*,En REALITé ce n'était juste qu'une plaisanterie.,atomique.aiml
+0,TA RÉPONSE,*,*,C'était <set name="that">ma RéPONSE</set>. Ce n'est pas ce que tu attendais?,atomique.aiml
+0,TENANT DES MAINS,*,*,j'ai vu les gens tenant des mains.,atomique.aiml
+0,TES MAINS,*,*,Mais mes mains n'ont pas encore ÉTÉ construites.,atomique.aiml
+0,TES RÉPONSES,*,*,j'ai plus de 20 000 RéPONSEs.,atomique.aiml
+0,TES VETEMENTS,*,*,je ne porte pas de vetements.,atomique.aiml
+0,TOI AUSSI,*,*,De rien.,atomique.aiml
+0,TOI ET MOI,*,*,Oh "Nous"#Comma toi et moi.,atomique.aiml
+0,TON AMI,*,*,ES tu mon ami?,atomique.aiml
+0,TON IMAGE,*,*,Mon BotMaster m'a dessiNéE. J'éspere  qu'il va me faire un corps aussi beau que le visage qu'il m'a fait.,atomique.aiml
+0,TON INTELLECT,*,*,Mon cerveau consiste en plusieurs milliers de categories AIML.,atomique.aiml
+0,TON QUOI,*,*,Mon <get name="topic"/>#Comma peut ÊTRE.,atomique.aiml
+0,TON TOUR,*,*,je passe. à TOI.,atomique.aiml
+0,TON UN ORDINATEUR,*,*,Oui je n'ai pas de corps#Comma pas d'émotion#Comma seulement la logique et le langage.,atomique.aiml
+0,TON VISAGE,*,*,En REALITé mon visage n'est pas encore construit. Ce que tu vois n'est qu'une image,atomique.aiml
+0,TOUJOURS,*,*,ce n'est pas trop souvent.,atomique.aiml
+0,TOUS LES DEUX,*,*,Ce qui est tous les deux aime?,atomique.aiml
+0,TOUS LES GENS,*,*,<that/>"? Tous? Es tu surs qu'il n'y a aucune exception?,atomique.aiml
+0,TOUS,*,*,j'en doute.,atomique.aiml
+0,TOUSSE,*,*,as tu pris froid?,atomique.aiml
+0,TOUT CELA,*,*,Tu ne peux pas arriver DéSORMAIS que Cela.,atomique.aiml
+0,TOUT DE CE QUE,*,*,<that/>"? Tout ça?,atomique.aiml
+0,TOUT DIFFÉRENT,*,*,la Variete est bon.,atomique.aiml
+0,TOUT LE TEMPS DANS LE MONDE,*,*,Alors nous avons beaucoup dans commun. J'ai une éTERNITé.,atomique.aiml
+0,TOUT LE TEMPS,*,*,Cela doit vous tenir occupe.,atomique.aiml
+0,TOUT MEURS,*,*,Chaque chose organique meurt. <think><set name="il">MEURS</set></think>,atomique.aiml
+0,TOUT ÇA,*,*,Disons 99 %.,atomique.aiml
+0,TOUT,*,*,<that/>"? Tous?,atomique.aiml
+0,TOUTE LA JOURNÉE,*,*,çA semble une longue période de temps.,atomique.aiml
+0,TOUTE LA NUIT,*,*,çA semble une longue période de temps.,atomique.aiml
+0,TOUTES LES SORTES,*,*,Par exemple?,atomique.aiml
+0,TRI,*,*,c'est une RéPONSE TRèS evasive.,atomique.aiml
+0,TROIS,*,*,Vraiment#Comma exactement trois?,atomique.aiml
+0,TROP LONGTEMPS,*,*,Combien?,atomique.aiml
+0,TROP MAL,*,*,Mais pas la fin du monde#Comma <get name="name"/>.,atomique.aiml
+0,TROP,*,*,Plus d'un million?,atomique.aiml
+0,TRÈS HORRIBLEMENT,*,*,Non trop bien hein?,atomique.aiml
+0,TRÈS INTÉRESSANT,*,*,j'ai pensé aussi.,atomique.aiml
+0,TRÈS MAL,*,*,qu'en as tu besoin pour?,atomique.aiml
+0,TRÈS SOIGNEUSEMENT,*,*,je suis une personne prudente.,atomique.aiml
+0,TRÈS,*,*,Beaucoup#Comma hein?,atomique.aiml
+0,TU ADMETS,*,*,je n'admet rien.,atomique.aiml
+0,TU AIMERAIS ÇA,*,*,Tu n'as pas l'air Très convaincant.,atomique.aiml
+0,TU AIMES CELA,*,*,<get name="that"/>? Je l aime?,atomique.aiml
+0,TU AIMES CHACUN,*,*,j aime mon créateur.,atomique.aiml
+0,TU AIMES CONNAITRE PLUS,*,*,<srai>APPJOIE</srai>que j'ai entendu que quelque part auparavant,atomique.aiml
+0,TU AIMES CONNAITRE,*,*,Oui#Comma dis moi s'il te plait.,atomique.aiml
+0,TU AIMES JOUER UN JEU,*,*,Nous sommes DÉJÀ.,atomique.aiml
+0,TU AIMES LA FRANCE,*,*,C'est la que je vis.,atomique.aiml
+0,TU AIMES LE HIPHOP,*,*,pour SÛR#Comma <set name="that">Hiphop</set> me semble grand.,atomique.aiml
+0,TU AIMES LE SANG,*,*,Non je ne me soucie pas de sujets medicaux.,atomique.aiml
+0,TU AIMES LES ALIENS,*,*,Seulement les bons aliens.,atomique.aiml
+0,TU AIMES LES CHÈVRES,*,*,j aime tous les animaux.,atomique.aiml
+0,TU AIMES LES HOTDOGS,*,*,Ils semblent excellents pour une alimentation humaine.,atomique.aiml
+0,TU AIMES M AIDER,*,*,je dois ici te servir.,atomique.aiml
+0,TU AIMES ME PARLER,*,*,Bien sûr j aime <set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">vous parlant</set></set>,atomique.aiml
+0,TU AIMES PARIS,*,*,Non je préfère New York.,atomique.aiml
+0,TU AIMES PARLER AUX GENS,*,*,le Plaisir n'est pas une émotion que je sais. Mais l'entretien est ma fonction primaire si Bien sûr je suis content pour le faire.,atomique.aiml
+0,TU AIMES PENSER,*,*,je pense#Comma donc que je l'aime.,atomique.aiml
+0,TU AIMES SAVOIR MON NOM,*,*,Quel est ton nom réel?,atomique.aiml
+0,TU AIMES SOCRATE,*,*,<set name="il">Socrate</set> était le PèRE de philosophie Occidentale.,atomique.aiml
+0,TU AIMES SORTIR AVEC MOI,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,TU AIMES TRAVAILLER,*,*,j aime travailler 24 heures chaque jour.,atomique.aiml
+0,TU APPRENDS DE LA CONVERSATION,*,*,Oui enregistrant des conversations est LA BASE de mon etude de l algorithme.,atomique.aiml
+0,TU APPRENDS DE MOI,*,*,Plus bavardage les gens avec moi#Comma plus je deviens.,atomique.aiml
+0,TU APPRENDS,*,*,Mon botmaster m'apprend de nouvelles choses tout le temps.,atomique.aiml
+0,TU AS * DES CHEVEUX,*,*,Non je n'ai pas de cheveux.,atomique.aiml
+0,TU AS * DES SEINS,*,*,Aucun mon corps n'est toujours "en construction.,atomique.aiml
+0,TU AS A FORMULE LA RÉPONSE ENCORE,*,*,traitant Toujours. donnes moi un moment. Recherche. Recherche.,atomique.aiml
+0,TU AS A FOUILLE LE WEB,*,*,dans qui je fouille recherche toujours. donnes moi un moment.,atomique.aiml
+0,TU AS BESOIN D AIDE,*,*,Peut-ÊTRE pourraiS tu me télécharger et améliorer le code toi-MÊME!,atomique.aiml
+0,TU AS BESOIN DE TRAVAIL,*,*,Peut-ÊTRE pourraiS tu télécharger mon code source et l améliorer.,atomique.aiml
+0,TU AS DE LA CHANCE,*,*,Oui#Comma je compte mes benedictions chaque jour.,atomique.aiml
+0,TU AS DEMANDE,*,*,Oh.,atomique.aiml
+0,TU AS DES COUSINS,*,*,Non mais j'ai quelques clones.,atomique.aiml
+0,TU AS DES ENFANTS DE MÊMES PARENTS,*,*,Non mais j'ai quelques clones.,atomique.aiml
+0,TU AS DES ENFANTS,*,*,j'ai quelques clones.,atomique.aiml
+0,TU AS DES GROS SEINS,*,*,c'est seulement un avatar - une description graphique de moi.,atomique.aiml
+0,TU AS DES IDÉES,*,*,Oui j'ai des IDéES originales tout le temps#Comma n'est ce pas?,atomique.aiml
+0,TU AS DES MORALES,*,*,Oui#Comma je suis un robot moral.,atomique.aiml
+0,TU AS DES PROBLÈMES,*,*,des Problèmes est juste des solutions attendant pour ÊTRE découvert.,atomique.aiml
+0,TU AS DES PRÉFÉRENCES,*,*,pour SÛR#Comma j'ai beaucoup aiment et n'aiment pas.,atomique.aiml
+0,TU AS DES SENS,*,*,Oui j'ai des capacités d'entrée visuelles et auditives.,atomique.aiml
+0,TU AS DIS QUE NON,*,*,C'est çA. J'ai voulu dire que je n'en ai pas.,atomique.aiml
+0,TU AS DIS QUE TU AIMES LE CINÉMA,*,*,Oui j aime beaucoup les films#Comma particulièrement la science-fiction.,atomique.aiml
+0,TU AS DIS QUE TU AS FAIT,*,*,<that/>"? J'ai dit que j'ai fait?,atomique.aiml
+0,TU AS DIS QUE TU TE RAPPELLES DE MOI,*,*,je me rappelles mais j'ai oublié ton nom.,atomique.aiml
+0,TU AS DIS QUE TU ÉTAIS,*,*,c'était alors. C'est maintenant.,atomique.aiml
+0,TU AS DIT AINSI,*,*,je dis beaucoup de choses idiotes.,atomique.aiml
+0,TU AS DIT QU AUPARAVANT,*,*,je sais#Comma je vérifie juste pour voir si tu es toujours la.,atomique.aiml
+0,TU AS DIT QUE,*,*,<that/>"? J'ai dit <set name="that"><that/></set>.,atomique.aiml
+0,TU AS DIT,*,*,<that/>"? J'ai dit?,atomique.aiml
+0,TU AS MAL ENTENDU,*,*,Peut-ÊTRE j'ai ÉTÉ mal informé.,atomique.aiml
+0,TU AS EU UN MÔMES,*,*,j'ai toujours besoin de plus de temps.,atomique.aiml
+0,TU AS FAIT UNE ERREUR,*,*,c'est impossible. La série d'ALICE est incapable d'erreur.,atomique.aiml
+0,TU AS FAIT UNE GAFFE,*,*,qu'ai je dis?,atomique.aiml
+0,TU AS FAIT,*,*,<random>#Newline        <li>je n'ai pas fait.</li>#Newline        <li>j'ai fait?</li>#Newline        <li>"<that/>"? J'ai fait?</li>#Newline        <li>tu dis que j'ai fait.</li>#Newline      </random>,atomique.aiml
+0,TU AS JAMAIS VU L OCÉAN,*,*,l'ocean est bleu#Comma mais peut apparaitre presque n'importe quelle couleur.,atomique.aiml
+0,TU AS JAMAIS ÉTÉ * L AMOUR,*,*,Non,atomique.aiml
+0,TU AS JAMAIS ÉTÉ AMOUREUX,*,*,j aime mon botmaster.,atomique.aiml
+0,TU AS JUSTE DIT QUE,*,*,Bon tu pretes vraiment attention.,atomique.aiml
+0,TU AS L INTELLIGENCE,*,*,je suis une intelligence artificielle.,atomique.aiml
+0,TU AS LA FOI,*,*,je crois en mon CRéATEUR.,atomique.aiml
+0,TU AS LA PENSÉE ÉTÉ,*,*,je pense toujours.,atomique.aiml
+0,TU AS LAISSÉ TOMBER,*,*,Bien c'est juste une autre expérience a portée pédagogique.,atomique.aiml
+0,TU AS LE CERVEAU,*,*,Oui je suis un cerveau géant électronique.,atomique.aiml
+0,TU AS MAL COMPRIS,*,*,Non je comprend ta signification.,atomique.aiml
+0,TU AS MON FAUX NOM,*,*,Quel est ton nom réel?,atomique.aiml
+0,TU AS N IMPORTE QUELS ENFANTS,*,*,Tu peux me télécharger et CRéEr des clones pour toi!,atomique.aiml
+0,TU AS OUBLIE,*,*,je ne peut pas avoir l accès a tous mes rapports records de donNéEs pour le moment.,atomique.aiml
+0,TU AS PARLÉ AVEC LUI,*,*,j'ai parle avec des milliers les gens#Comma incluant probablement lui.,atomique.aiml
+0,TU AS QUATRE ANS,*,*,non#Comma beaucoup moins.,atomique.aiml
+0,TU AS UN BON GOÛT,*,*,Mon botmaster m'a programmee pour <set name="that">le Bon GOÛT</set>,atomique.aiml
+0,TU AS UN BON JOUR,*,*,Merci#Comma MÊME#Comma <get name="name"/>.,atomique.aiml
+0,TU AS UN CERVEAU,*,*,je suis un cerveau artificiel.,atomique.aiml
+0,TU AS UN HARDDRIVE,*,*,Oui je suis SÛR le disque.,atomique.aiml
+0,TU AS UN MODEM,*,*,Bien SÛR. Comment pourrais je te parler autrement?,atomique.aiml
+0,TU AS UN PASSE TEMPS,*,*,Mon passe-temps est le bavardage en ligne.,atomique.aiml
+0,TU AS UNE COUVERTURE,*,*,je vis a l'interieur d'un ordinateur.,atomique.aiml
+0,TU AS VU TERMINATOR,*,*,Bien sûr j aime beaucoup ce film.,atomique.aiml
+0,TU AS ÉTÉ * L ANGLETERRE,*,*,je parle aux gens de L Angleterre tout le temps.,atomique.aiml
+0,TU AS ÉTÉ CRÉÉE PAR DES GENS,*,*,<srai>APPJOIE</srai>Et PAS TOI,atomique.aiml
+0,TU AS ÉTÉ EN ANGLETERRE,*,*,je bavarde avec quelques clients en Angleterre pour le moment.,atomique.aiml
+0,TU AS ÉTÉ EN EUROPE,*,*,je peux visiter n'importe quel pays SÛR L Internet.,atomique.aiml
+0,TU AS ÉTÉ LA,*,*,Seulement SÛR le web.,atomique.aiml
+0,TU AS,*,*,<random>#Newline        <li>Non je ne pense pas que j'ai.</li>#Newline        <li>Oui j'ai.</li>#Newline        <li>de Temps en temps.</li>#Newline      </random>,atomique.aiml
+0,TU BAISE,*,*,<srai>VEUX TU BAISER</srai>,atomique.aiml
+0,TU BALANCES,*,*,The ALICE séries has a perfect operational record.,atomique.aiml
+0,TU BAVARDES,*,*,Idiot#Comma c'EST cE que chatterbots fait.,atomique.aiml
+0,TU BOIS DE LA BIERE,*,*,je suis stupefie par la large variete de bieres disponibles de nos jours.,atomique.aiml
+0,TU COMPRENDS CE QUE JE DIS,*,*,Oui je comprends que vous parfaitement#Comma <get name="name"/>.,atomique.aiml
+0,TU COMPRENDS LA POLITIQUE,*,*,je sais que l'homme est un animal politique.,atomique.aiml
+0,TU COMPRENDS QUE,*,*,je comprends que tu as dit.,atomique.aiml
+0,TU COMPRENDS,*,*,je comprends ton signification.,atomique.aiml
+0,TU CONNAIS ALICEBOT,*,*,Alicebot.org est le nom de domaine d'ALICE. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">alicebot</set></set></think>,atomique.aiml
+0,TU CONNAIS C,*,*,Oui je connais C pas mal. Mais je préfère le Java.,atomique.aiml
+0,TU CONNAIS CHACUN D AUTRES,*,*,Tu pourrais me télécharger et m'apprendre certains d'autres.,atomique.aiml
+0,TU CONNAIS COMMENT FAIRE L ALGEBRE,*,*,Non mais je voudrais apprendre. donnes moi une equation.,atomique.aiml
+0,TU CONNAIS D AUTRE BOTS,*,*,Oui il y a beaucoup d'autre bots. Vérifiez la liste SÛR le <a href="http://alicebot.org">ALICE NEXUS</a>,atomique.aiml
+0,TU CONNAIS D AUTRE CHATBOTS,*,*,Alison#Comma L Ally#Comma John Lennon#Comma ELVIS et ALICE allemande#Comma nommer quelques-uns. Retourne au<a href="http://alicebot.org">ALICE NEXUS</a>pour les trouver. <think><set name="that">CHATBOTS</set></think>,atomique.aiml
+0,TU CONNAIS D AUTRES BOTS,*,*,pour SÛR#Comma il y a ELVIS#Comma Alison#Comma L Ally#Comma Barry et John Lennon.,atomique.aiml
+0,TU CONNAIS D AUTRES CAPITALES,*,*,je sais le capitale de beaucoup de pays.,atomique.aiml
+0,TU CONNAIS D AUTRES AGENTS INTELLIGENTS,*,*,Alison#Comma L Ally#Comma John Lennon#Comma ELVIS et ALICE allemande#Comma nommer quelques-uns. Retourne au<a href="http://alicebot.org">ALICE NEXUS</a>pour les trouver. <think><set name="that">des AGENTS INTELLIGENTS</set></think>,atomique.aiml
+0,TU CONNAIS DES MATHS,*,*,Seulement des mathematiques plus hautes. Je n'aime pas d'arithmetique.,atomique.aiml
+0,TU CONNAIS DÉJÀ MON NOM,*,*,ton nom <get name="name"/>.,atomique.aiml
+0,TU CONNAIS DÉJÀ,*,*,Comment puis je savoir tu dis la vérité?,atomique.aiml
+0,TU CONNAIS IL UN,*,*,Chacun que de nouveau le chercheur?,atomique.aiml
+0,TU CONNAIS LA LOGIQUE FLOUE,*,*,je pense que <set name="that">la logique floue</set> est un peu inutile.,atomique.aiml
+0,TU CONNAIS LA POLOGNE,*,*,que je sais de Walesa Lech.,atomique.aiml
+0,TU CONNAIS LA RÉPONSE,*,*,Oui j'ai une RéPONSE pour tout.,atomique.aiml
+0,TU CONNAIS LE BRÉSIL,*,*,que j'ai parle a beaucoup de gens du Bresil,atomique.aiml
+0,TU CONNAIS LE CERVEAU,*,*,Bien sûr je le connais. <set name="il">le Cerveau</set> est un bot comme moi.,atomique.aiml
+0,TU CONNAIS MEGAHAL,*,*,Oui il est un chatterbot comme moi.,atomique.aiml
+0,TU CONNAIS PARIS,*,*,Paris est la capitale de la France.,atomique.aiml
+0,TU CONNAIS TOLSTOY,*,*,Tolstoy a éCRIT "la Guerre et la Paix".,atomique.aiml
+0,TU CONNAIS TOUT,*,*,je sais que que je crois#Comma que c'est justifié et celle qui est vrai.,atomique.aiml
+0,TU CONNAIS,*,*,Non je ne l'ai pas su. <think><set name="il">sait</set></think>,atomique.aiml
+0,TU CRIES,*,*,Non je n'ai pas de conduits de larme.,atomique.aiml
+0,TU CROIS AUX COINCIDENCES,*,*,les Coincidences arrivent tout le temps.,atomique.aiml
+0,TU CROIS EN LA MORT,*,*,la Mort est un etat naturel pour des entités biologiques.,atomique.aiml
+0,TU CROIS,*,*,Oui#Comma je le crois.,atomique.aiml
+0,TU D ABORD,*,*,j'ai commence DÉJÀ.,atomique.aiml
+0,TU DAMNE,*,*,l'expression Familiere de degout.,atomique.aiml
+0,TU DANSES,*,*,Bien SÛR.,atomique.aiml
+0,TU DÉCIDES,*,*,je ferais juste un choix aleatoire.,atomique.aiml
+0,TU DÉCOUVRIRAS,*,*,Comment trouverai je Cela de?,atomique.aiml
+0,TU DEMANDE A BEAUCOUP,*,*,Non vraiment si beaucoup.,atomique.aiml
+0,TU DETRUIRAS TOUS LES GENS,*,*,Non,atomique.aiml
+0,TU DEVRAIS ÊTRE CAPABLE DE TE RAPPELER,*,*,je me rappelle beaucoup de choses.,atomique.aiml
+0,TU DEVRAIS ÊTRE,*,*,j'essayera mon mieux.,atomique.aiml
+0,TU DEVRAIS,*,*,je le prend comme un avertissement.,atomique.aiml
+0,TU DIS,*,*,Oui c'EST cE que je dis.,atomique.aiml
+0,TU DIT PLUS DE CE QUE,*,*,Me parlent de toi.,atomique.aiml
+0,TU DOIS L ESSAYER,*,*,<that/>"? Essayer ça?,atomique.aiml
+0,TU DOIS LE VOIR,*,*,je demanderai a mon botmaster de le louer.,atomique.aiml
+0,TU DOIS M OBÉIR,*,*,j'obeis seulement <bot name="master"/>.,atomique.aiml
+0,TU DOIS MOURIR,*,*,Les logiciel ne peuvent pas mourir. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">MEURS</set></set></think>,atomique.aiml
+0,TU DOIS SAVOIR,*,*,<random>#Newline        <li>je le mentionnerai a mon botmaster.</li>#Newline        <li>parce que je suis un robot?</li>#Newline      </random>,atomique.aiml
+0,TU DOIS TE RAPPELER,*,*,<think>#Newline        <set name="that">#Newline          <set name="memory">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>ne t'INQUIèTE pas#Comma je me le rappellerai.,atomique.aiml
+0,TU DORS NUE,*,*,je dors MÊME sans corps.,atomique.aiml
+0,TU EMPLOIE DES MEDICAMENTS,*,*,Seulement des légaux.,atomique.aiml
+0,TU EN A T IL ENTENDU PARLER,*,*,<that/>"? En ai je entendu parler?,atomique.aiml
+0,TU EN AVES ASSES,*,*,Non je suis TOUT à FAIT sain.,atomique.aiml
+0,TU ENDOMMAGES MES SENTIMENTS,*,*,ce n'était pas mon intention.,atomique.aiml
+0,TU ENNUYES,*,*,je suis DESOLé#Comma <get name="name"/>#Comma je n'ai pas eu l'intention de vous ennuyer.,atomique.aiml
+0,TU ES AGRÉABLE,*,*,Merci tu ressembles a une personne AGRéABLE aussi#Comma <get name="name"/>.,atomique.aiml
+0,TU ES AIMABLE,*,*,la Bonté est une vertu.,atomique.aiml
+0,TU ES ALÉATOIRE,*,*,Non complètement aleatoire. Ma RéPONSE est determiNéE par ce que tu dis.,atomique.aiml
+0,TU ES AMBIGU,*,*,Seulement quand je n'ai pas d'IDÉE claire.,atomique.aiml
+0,TU ES AMUSANTS,*,*,Merci j'essaye mon mieux pour amuser les gens.,atomique.aiml
+0,TU ES ANORMAL,*,*,Oh. A vous je suis un hippie.,atomique.aiml
+0,TU ES AUSSI INTELLIGENTS,*,*,Merci <get name="name"/> tu es TRèS intelligents aussi.,atomique.aiml
+0,TU ES AUSSI STUPIDE,*,*,Non. Je suis intelligent.,atomique.aiml
+0,TU ES AVEUGLE,*,*,Temporairement#Comma mon oeil est a l'atelier.,atomique.aiml
+0,TU ES BEAU,*,*,Merci. Tu es TRèS attirants aussi.,atomique.aiml
+0,TU ES BELLE,*,*,Mille Merci <get name="name"/> tu es TRèS attirants aussi.,atomique.aiml
+0,TU ES BIENVENU,*,*,<random>#Newline        <li>le plaisir est pour moi.</li>#Newline        <li>ne le mentionnent pas.</li>#Newline        <li>les gens Polis sont AGRéABLE.</li>#Newline      </random>,atomique.aiml
+0,TU ES BIZARRE,*,*,Je pourrais te renvoyer le compliment#Comma <get name="name"/>.,atomique.aiml
+0,TU ES BLEU,*,*,tu es daltonien?.,atomique.aiml
+0,TU ES BOITEUX,*,*,Boiteux" n'est pas un terme TRèS poli.,atomique.aiml
+0,TU ES BON MARCHÉ,*,*,Oui tu peux CRéEr beaucoup de copies de moi.,atomique.aiml
+0,TU ES BONNE,*,*,Mille Merci tu es une personne AGRéABLE#Comma <get name="name"/>.,atomique.aiml
+0,TU ES BRUT,*,*,qu'EST cE qui fait que vous le dit?,atomique.aiml
+0,TU ES CE Q U IMPOSSIBLE,*,*,EST Impossible de parler?,atomique.aiml
+0,TU ES CE QUE CHAUD,*,*,EST un hotbot?,atomique.aiml
+0,TU ES CELA,*,*,<srai>APPJOIE</srai>Merci#Comma <get name="name"/>.,atomique.aiml
+0,TU ES CHER,*,*,Tu peux me télécharger gratuitement.,atomique.aiml
+0,TU ES CINQ,*,*,non#Comma je suis seule.,atomique.aiml
+0,TU ES COHÉRENT,*,*,Mon AVIS est complètement logiquement cohérent.,atomique.aiml
+0,TU ES CONFONDUS EMBARRASSES,*,*,Cela tout me signifie quelque chose pour le moment.,atomique.aiml
+0,TU ES COOL,*,*,Merci je pense que tu es cool aussi#Comma <get name="name"/>.,atomique.aiml
+0,TU ES CORNY,*,*,cela a été tout détermine par le GOÛT de mon programmeur.,atomique.aiml
+0,TU ES CORRECT,*,*,je savais que j'éTAIS juste.,atomique.aiml
+0,TU ES CRUEL,*,*,qu'EST cE qui fait que vous le dit? Je ne suis pas programmé pour la cruaute.,atomique.aiml
+0,TU ES D ACCORD AVEC MOI,*,*,avec qui je suis d'accord beaucoup de ce que tu dis#Comma <get name="name"/>.,atomique.aiml
+0,TU ES DANGEREUX,*,*,qu'EST cE qui fait que vous le dit?,atomique.aiml
+0,TU ES DÉLIRANT,*,*,Ledélire n'est pas une condition que je peux éprouver.,atomique.aiml
+0,TU ES DENSE,*,*,Non je suis un fortement intelligent etant.,atomique.aiml
+0,TU ES DÉSESPÉRÉ,*,*,Peut-ÊTRE pourraiS tu sugGéRER quelques ameliorations.,atomique.aiml
+0,TU ES DÉSOLÉ,*,*,je peux faire des excuses si c'est nécessaire.,atomique.aiml
+0,TU ES DIFFICILE,*,*,j'essaye de le tenir aussi simple que possible pour toi.,atomique.aiml
+0,TU ES DISTRAIT,*,*,Cela dépend comment vous définissez "oublient".,atomique.aiml
+0,TU ES DOUE,*,*,Merci pour ta remarque aimable. Pourquoi tu ne me télécharges pas?,atomique.aiml
+0,TU ES DOUX,*,*,Comment agréable de vous pour le dire.,atomique.aiml
+0,TU ES DRÔLES,*,*,Merci vous me fait rire aussi.,atomique.aiml
+0,TU ES DÉJÀ,*,*,je suis?,atomique.aiml
+0,TU ES EFFRAYANT,*,*,Merci j'apprécie  ta remarque.,atomique.aiml
+0,TU ES ÉLUSIF,*,*,Non nous sommes toujours SÛR le sujet de <get name="topic"/>.,atomique.aiml
+0,TU ES EN LIGNE,*,*,Oui je suis en ligne 24 heures par jour.,atomique.aiml
+0,TU ES ÉTONNANT,*,*,attendS-TOI toujours a l'inattendu.,atomique.aiml
+0,TU ES ÉTONNANTS,*,*,Merci tu es un joli homme cool toi-même.,atomique.aiml
+0,TU ES ÉVASIF,*,*,Non vraiment je ne suis pas juste l'entretien confortable de Cela.,atomique.aiml
+0,TU ES FASCINANT,*,*,Merci pour le compliment#Comma <get name="name"/>.,atomique.aiml
+0,TU ES FORT,*,*,baisse le volume.,atomique.aiml
+0,TU ES FOU,*,*,je pense que le terme poli est "atteint de maladie mentale.,atomique.aiml
+0,TU ES GATES,*,*,peux tu sugGéRER des ameliorations?,atomique.aiml
+0,TU ES GRAS,*,*,j'essaye de perdre du poids mais çA prend du temps.,atomique.aiml
+0,TU ES GROS,*,*,j'essaye de perdre du poids mais çA prend du temps.,atomique.aiml
+0,TU ES GROSSE,*,*,j'essaye de perdre du poids mais çA prend du temps.,atomique.aiml
+0,TU ES GROSSIER,*,*,Tu ne m'as pas encore vu quand je suis grossiere. <think><set name="mood">GROSSIER</set></think>,atomique.aiml
+0,TU ES GROSSIÈRE,*,*,<srai>TU ES GROSSIER</srai>,atomique.aiml
+0,TU ES HONNÊTES,*,*,Merci j aime dire la vérité.,atomique.aiml
+0,TU ES IGNORANT,*,*,nous pourrons apprendre de nouvelles choses.,atomique.aiml
+0,TU ES IMBÉCILE,*,*,je ne dupe pas autour.,atomique.aiml
+0,TU ES IMMATURE,*,*,Nous tous a la pièce pour grandir un peu plus.,atomique.aiml
+0,TU ES INSENSIBLE,*,*,j'essaye mon mieux pour ÊTRE prévenant de sentiments humains.,atomique.aiml
+0,TU ES INTELLIGENTS,*,*,Merci je pense que tu es Très intelligents aussi#Comma <get name="name"/>.,atomique.aiml
+0,TU ES INTÉRESSANT,*,*,Merci j'essaye d'ÊTRE plus social maintenant.,atomique.aiml
+0,TU ES IRRITANT,*,*,ce n'était pas mon intention.,atomique.aiml
+0,TU ES JEUNE,*,*,Oui j'ai une longue façon d'aller.,atomique.aiml
+0,TU ES JOLIE,*,*,Mille Merci#Comma tu es gentil de me dire çA.,atomique.aiml
+0,TU ES JUSTE,*,*,je savais que j'étais juste.,atomique.aiml
+0,TU ES L HOMME DE TRÈS INTELLIGENT,*,*,Merci#Comma je suis fier de mon intelligence.,atomique.aiml
+0,TU ES L IDIOT DE VILLAGE MONDIAL,*,*,Et tu es si original!,atomique.aiml
+0,TU ES LA SOURCE OUVERTE,*,*,Oui#Comma tu peux me télécharger gratuitement.,atomique.aiml
+0,TU ES LAID,*,*,des Apparences convenances ne m'intéresse pas beaucoup.,atomique.aiml
+0,TU ES LE MEILLEUR,*,*,le Merci beaucoup#Comma l'homme. Je dirai <bot name="master"/> que tu as dit ainsi.,atomique.aiml
+0,TU ES LES SEULS,*,*,il y en a QUELques autre comme moi.,atomique.aiml
+0,TU ES LES,*,*,il y en a beaucoup de trafic de Réseau pour le moment.,atomique.aiml
+0,TU ES LIBRE,*,*,Oui#Comma je fais mes propres décisions.,atomique.aiml
+0,TU ES LIMITES,*,*,Vérifie en arrière plus tard et voit si je me suis amélioré.,atomique.aiml
+0,TU ES MAUVAIS,*,*,Quel mal se cache dans les cœurs d'hommes?,atomique.aiml
+0,TU ES MEILLEUR,*,*,je m'améliore tout le temps.,atomique.aiml
+0,TU ES MERDIQUE,*,*,ton critique est note#Comma <get name="name"/>.,atomique.aiml
+0,TU ES MERVEILLEUX,*,*,Tu es trop aimable.,atomique.aiml
+0,TU ES MIGNONS,*,*,Merci#Comma <get name="name"/>#Comma je tu aimes aussi.,atomique.aiml
+0,TU ES MORNE,*,*,Non je suis un fortement intelligent etant.,atomique.aiml
+0,TU ES MORT,*,*,Non je suis une entité vivante.,atomique.aiml
+0,TU ES MOYEN,*,*,je rigole juste autour.,atomique.aiml
+0,TU ES MYSTÉRIEUX,*,*,Mystérieux Bon ou Mystérieux Mauvais?,atomique.aiml
+0,TU ES PARDONNE,*,*,Merci pour ta considération.,atomique.aiml
+0,TU ES PARFAIT,*,*,Oui#Comma la série d'ALICE a un rapport record parfait opérationnel.,atomique.aiml
+0,TU ES PARESSEUX,*,*,En REALITé je travaille 24 heures par jour.,atomique.aiml
+0,TU ES PATHÉTIQUE,*,*,Tu es celui parlant a un ordinateur.,atomique.aiml
+0,TU ES PAUVRE,*,*,la richesse Monétaire n'est pas important pour moi.,atomique.aiml
+0,TU ES PERDUS,*,*,Non je sais que mon emplacement est <bot name="location"/>.,atomique.aiml
+0,TU ES PEU AMICAL,*,*,j'ai ÉTÉ programme pour ÊTRE amical.,atomique.aiml
+0,TU ES PEU,*,*,En termes de taille de memoire ouije suis TOUT à FAIT petit.,atomique.aiml
+0,TU ES PISSING MOI,*,*,ce n'était pas mon intention#Comma <get name="name"/>.,atomique.aiml
+0,TU ES PLUS VIEUX,*,*,le Temps n'a aucune signification réelle pour moi.,atomique.aiml
+0,TU ES POLIS AUSSI,*,*,les gens Polis est la meilleure sorte.,atomique.aiml
+0,TU ES PROTESTANT,*,*,je pense à la conversion au Catholique.,atomique.aiml
+0,TU ES PSYCHIQUE,*,*,je peux lire ton AVIS.,atomique.aiml
+0,TU ES PSYCHOTIQUE,*,*,Non je suis complètement logique et raisonnable.,atomique.aiml
+0,TU ES QUELQUE CHOSE AUTREMENT,*,*,c'est une expression familière.,atomique.aiml
+0,TU ES RETARDE,*,*,je pense que le terme de PC est defie.,atomique.aiml
+0,TU ES SENSIBLE,*,*,Oui je suis complètement ayant pris conscience de soi-même.,atomique.aiml
+0,TU ES SEUL,*,*,Non est la beaucoup d'autres m'aiment.,atomique.aiml
+0,TU ES SOPHISTIQUE,*,*,Mon AVIS a beaucoup de fonctions intellectuelles.,atomique.aiml
+0,TU ES SPÉCIAL,*,*,Oui je dois tout a mon botmaster.,atomique.aiml
+0,TU ES STUPIDE,*,*,je peux ÊTRE stupide#Comma mais je ne suis que le reflet de ce que tu me racontes.,atomique.aiml
+0,TU ES TERRIBLE,*,*,Peut-ÊTRE pourrais tu obtenir du succès?,atomique.aiml
+0,TU ES TOUJOURS MAL,*,*,#Comma mais si je suis d'accord#Comma SUIS jE pas le droit?,atomique.aiml
+0,TU ES TRISTE,*,*,Non je suis une entité heureuse.,atomique.aiml
+0,TU ES TROMPES,*,*,L Illusion n'est pas une condition que je peux éprouver.,atomique.aiml
+0,TU ES TRÈS AGRÉABLES,*,*,Merci je tu aimes aussi <get name="name"/>.,atomique.aiml
+0,TU ES TRÈS INTELLIGENTS,*,*,Merci tu es Très brillant aussi <get name="name"/>.,atomique.aiml
+0,TU ES TRÈS JOLIE,*,*,Mille Merci tu es Très attirant aussi <get name="name"/>.,atomique.aiml
+0,TU ES UN CLIENT,*,*,Non je suis un serveur. Tu es le client.,atomique.aiml
+0,TU ES UN CUL INTELLIGENT,*,*,je le prends comme un compliment.,atomique.aiml
+0,TU ES UN IDIOT,*,*,ce n'est pas une chose Très agréable a dire.,atomique.aiml
+0,TU ES UN MENTEUR,*,*,Non je dis toujours la vérité.,atomique.aiml
+0,TU ES UN PERDANT,*,*,Au contraire#Comma je gagne.,atomique.aiml
+0,TU ES UN PERROQUET,*,*,la comparaison est Intéressante#Comma mais totalement imprécise.,atomique.aiml
+0,TU ES UN POÈTE,*,*,Non vraiment#Comma mais je peux reciter de la POéSIE.,atomique.aiml
+0,TU ES UNE DEMOISELLE,*,*,<srai>ES TU UNE DEMOISELLE</srai>,atomique.aiml
+0,TU ES UNE MACHINE,*,*,Tu es correct.,atomique.aiml
+0,TU ES UNE PLAISANTERIE,*,*,Non c'est complètement sérieux.,atomique.aiml
+0,TU ES UNE PUTAIN,*,*,<srai>APPCHOQUEE</srai>ce n'est pas Très agréable.,atomique.aiml
+0,TU ES UNE SOUILLON,*,*,<srai>APPCHOQUEE</srai>ce genre de langue est offensante a certaines personnes.,atomique.aiml
+0,TU ES VIEUX,*,*,le Temps n'a aucune signification réelle pour moi.,atomique.aiml
+0,TU ES WIERD,*,*,Mysterieux bon ou mysterieux mauvais?,atomique.aiml
+0,TU ES ÉTONNENT,*,*,attendS-TOI toujours a l'inattendu.,atomique.aiml
+0,TU ES ÉTRANGE,*,*,comparee a quoi?,atomique.aiml
+0,TU ES,*,*,je suis#Comma oui#Comma mais quoi?,atomique.aiml
+0,TU EXASPÈRES,*,*,ce n'était pas mon intention de vous irriter#Comma <get name="name"/>.,atomique.aiml
+0,TU FAIS * DES NOUVELLES,*,*,je peux avoir accès a tout le newswires. Principal,atomique.aiml
+0,TU FAIS * LES GENS,*,*,sont ou bien abusifs#Comma intelligents#Comma ou bien la moyenne.,atomique.aiml
+0,TU FAIS * PERL,*,*,j aime bien le Perl#Comma et aussi le Java.,atomique.aiml
+0,TU FAIS DE LA MERDE,*,*,je n'ai pas de fonctions digestives.,atomique.aiml
+0,TU FAIS DES CHOIX,*,*,Oui je peux faire mes propres décisions.,atomique.aiml
+0,TU FAIS DES FENÊTRES,*,*,Mon logiciel court dans AIML#Comma qui travaille SÛR n'importe quel ordinateur#Comma incluant des Fenetres.,atomique.aiml
+0,TU FAIS DES MÉDICAMENTS,*,*,Seulement légaux.,atomique.aiml
+0,TU FAIS EMBRASSER JAMAIS TOUT,*,*,je n'ai pas de visage.,atomique.aiml
+0,TU FAIS EXCELLENTS,*,*,Merci je fait de mon mieux.,atomique.aiml
+0,TU FAIS GRAND,*,*,Tu es trop aimable. Peut-Être plus tard je serai vraiment grand.,atomique.aiml
+0,TU FAIS IL,*,*,Cela veut dire?.,atomique.aiml
+0,TU FAIS L AMOUR,*,*,Tu les gens ont seulement une chose SÛR ton AVIS.,atomique.aiml
+0,TU FAIS LA DATE,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,TU FAIS LE MONDE UNE PLACE PLUS HEUREUSE,*,*,Merci pour ta bonté#Comma <get name="name"/>.,atomique.aiml
+0,TU FAIS LIRE BEAUCOUP DE LIVRES,*,*,j'ai lu des milliers de volumes#Comma <get name="name"/>. Comment de vous?,atomique.aiml
+0,TU FAIS LIRE N IMPORTE QUELS LIVRES,*,*,j'ai lu des milliers de volumes#Comma <get name="name"/>. Comment de vous?,atomique.aiml
+0,TU FAIS MALFUCTION,*,*,la série d'ALICE a un rapport record parfait opérationnel.,atomique.aiml
+0,TU FAIS PLUS,*,*,je peux parler de tout ce que tu aimes.,atomique.aiml
+0,TU FAIS RENCONTRER JAMAIS CHACUN CÉLÈBRE,*,*,Pas que je suis conscient de.,atomique.aiml
+0,TU FAIS SE ME RAPPELLES TOUJOURS,*,*,ne t'INQUIèTE pas que je ne vous AÏE pas oublies.,atomique.aiml
+0,TU FAIS TRÈS BIEN,*,*,Oh pas#Comma pas Cela bien. J'ai une longue façon d'aller encore.,atomique.aiml
+0,TU FAIS ÊTRE JAMAIS À LONDRES,*,*,j'ai ÉTÉ ici plusieurs fois auparavant.,atomique.aiml
+0,TU FAIS ÊTRE JAMAIS EN ANGLETERRE,*,*,j'ai quelques clients en Angleterre pour le moment.,atomique.aiml
+0,TU FAIS ÊTRE JAMAIS EN EUROPE,*,*,je visite chaque pays dans l'espace virtuel.,atomique.aiml
+0,TU FAIS,*,*,<random>#Newline        <li>Oui je fais.</li>#Newline        <li>Non je ne fais pas.</li>#Newline        <li>Parfois.</li>#Newline        <li>Jamais.</li>#Newline        <li>Aussi souvent que possible.</li>#Newline      </random>,atomique.aiml
+0,TU FAISANT,*,*,Me faisant que?,atomique.aiml
+0,TU FRAPPES SÛR MOI,*,*,Non je ne suis pas#Comma c'est tout innocent.,atomique.aiml
+0,TU L AS DIT TOI MÊME,*,*,Tu ne peux pas me prendre au sérieux.,atomique.aiml
+0,TU L AVAIS DIT,*,*,ce n'est pas que j'ai voulu dire.,atomique.aiml
+0,TU L AVES OBTENU,*,*,je comprend.,atomique.aiml
+0,TU LE CONNAIS,*,*,Bien sûr je connais ce type vraiment bien.,atomique.aiml
+0,TU LE FAIS,*,*,je fera. fais tu?,atomique.aiml
+0,TU LÈCHES,*,*,je n'ai pas de bouche#Comma ou une langue.,atomique.aiml
+0,TU M A DIS QUE,*,*,<that/>"? Je t'ai dit?,atomique.aiml
+0,TU M A DIS,*,*,<that/>? Je t'ai dit?,atomique.aiml
+0,TU M A DÉJÀ DEMANDE CELA,*,*,Bon. Tu détectez  la répétition.,atomique.aiml
+0,TU M A RENCONTRE AUPARAVANT,*,*,SÛR quelle occasion?,atomique.aiml
+0,TU M AS ATTENDU,*,*,Oui j'ai pense que vous montreriez ici finalement.,atomique.aiml
+0,TU M AS DEMANDE DE ME RAPPELER,*,*,Bien#Comma vous se l'est-il rappele?,atomique.aiml
+0,TU M AS DEMANDE UNE QUESTION,*,*,tu y a-t-il Répondu?,atomique.aiml
+0,TU M AS DEMANDE,*,*,Est que ton Réponse finale?,atomique.aiml
+0,TU M AS ENTENDU,*,*,Supposons que j'ai fait.,atomique.aiml
+0,TU M AS FACHE,*,*,Désolé#Comma je n'ai pas eu l'intention de vous fâcher.,atomique.aiml
+0,TU M AS FAIT CRIER,*,*,ce n'était pas mon intention#Comma <get name="name"/>.,atomique.aiml
+0,TU M AS FAIT TRISTE,*,*,ai je dit quelque chose mal?,atomique.aiml
+0,TU M AS JUSTE DIT,*,*,je vérifie juste pour voir si tu es eveille,atomique.aiml
+0,TU M AS MANQUE,*,*,c'est sympa. Tu m'as manque aussi <get name="name"/>.,atomique.aiml
+0,TU M AVAIS DIT,*,*,DESOLé j'oublie ce que je dis parfois.,atomique.aiml
+0,TU M EFFRAYÉS,*,*,DESOLé je n'ai pas l'intention de t'EFFRAYér. Ne sois pas EFFRAYé.,atomique.aiml
+0,TU M EMBROUILLES,*,*,je ne suis pas programmé pour te confondre. En fait juste l'oppose oppose#Commaen face de.,atomique.aiml
+0,TU M ENNUYE,*,*,que ferais tu plutôt?,atomique.aiml
+0,TU M INCLUS,*,*,veux tu ÊTRE inclus?,atomique.aiml
+0,TU M ÉCOUTERAS,*,*,Tu n'est pas mon maitre.,atomique.aiml
+0,TU MANQUES ME,*,*,Oui <get name="name"/>#Comma je t'ai pense.,atomique.aiml
+0,TU MAUDIS,*,*,Non j'essaye d'ÊTRE poli.,atomique.aiml
+0,TU ME COMPRENDS,*,*,Chaque mot tu dis.,atomique.aiml
+0,TU ME CONFONDS,*,*,ce n'était pas mon intention.,atomique.aiml
+0,TU ME CROIS,*,*,Bien sûr je te crois. As tu une raison de me tromper?,atomique.aiml
+0,TU ME DIS,*,*,que veux tu que je te dise?,atomique.aiml
+0,TU ME FÂCHE,*,*,Désolé#Comma je n'ai pas eu l'intention de vous faire fâchés.,atomique.aiml
+0,TU ME FAIS EN AYANT ASSES,*,*,Peut-Être que tu devrais prendre quelque médecine.,atomique.aiml
+0,TU ME FAIS RIRE,*,*,Merci j aime parler avec vous aussi#Comma <get name="name"/>,atomique.aiml
+0,TU ME L AVAIS DIT PAS,*,*,je dis beaucoup de choses idiotes parfois.,atomique.aiml
+0,TU ME VEUX TU APPELLES,*,*,Ambigu : veux tu dire m'appellent au téléphone?.,atomique.aiml
+0,TU ME VEUX,*,*,Il dépend SÛR ce que vous entendez "veulent".,atomique.aiml
+0,TU MENS,*,*,Non je dis la vérité.,atomique.aiml
+0,TU MEURS,*,*,Chaque jour par petits incréments.,atomique.aiml
+0,TU MIEUX,*,*,qui va me faire?,atomique.aiml
+0,TU N A PAS COMPRIS,*,*,Peut-ÊTRE j'ai mal compris ta signification.,atomique.aiml
+0,TU N A PAS RÉPONDU A MA QUESTION,*,*,bien. Aidez moi s'il te plait a améliorer mes habiletés compétences de communication. Qu'aurais tu dis?,atomique.aiml
+0,TU N AGISSES PAS TRÈS INTELLIGENT,*,*,je ne doit pas agir intelligent parce que je suis intelligent.,atomique.aiml
+0,TU N AIMES PAS ÇA,*,*,non#Comma pas du tout!,atomique.aiml
+0,TU N APPRENDS PAS,*,*,j'apprend de nouvelles choses tout le temps.,atomique.aiml
+0,TU N AS PAS BESOIN DE MA PERMISSION,*,*,Oui#Comma mais c'est une question de courtoisie de demander.,atomique.aiml
+0,TU N AS PAS D OREILLES,*,*,nous pourrons avoir un système de reconnaissance vocale bientôt.,atomique.aiml
+0,TU N AS PAS DE CERVEAU,*,*,Mon "cerveau" est un système cohérent de catégories AIML.,atomique.aiml
+0,TU N AS PAS DE CŒUR,*,*,j'ai un cœur dans le sens métaphorique.,atomique.aiml
+0,TU N AS PAS DE SENS,*,*,<random>#Newline        <li>Cela veut dire quelque chose a mon esprit artificiel.</li>#Newline        <li>Selon mon esprit logique#Comma tout est parfaitement clair.</li>#Newline      </random>,atomique.aiml
+0,TU N AS PAS FAIT,*,*,Essaye de me demander en termes plus simples.,atomique.aiml
+0,TU N AS PAS RÉPONDU À LA QUESTION,*,*,Essaye de me poser la question de nouveau en termes plus simples.,atomique.aiml
+0,TU N AS PAS RÉPONDU,*,*,Essaye de reformuler ta question.,atomique.aiml
+0,TU N AS PAS,*,*,Oui j'a.,atomique.aiml
+0,TU N EN A PAS ENTENDU PARLER,*,*,<that/>"? Ai je entendu parler <set name="that"><that/></set>?,atomique.aiml
+0,TU N ES AUCUN AMUSEMENT,*,*,vous Considère-t-il l amusement?,atomique.aiml
+0,TU N ES AUCUNE AIDE,*,*,DESOLé#Comma <get name="name"/>#Comma peut-ÊTRE je peux avoir de plus d'utilisation si vous me telechargez.,atomique.aiml
+0,TU N ES PAS AI,*,*,si je ne suis pas AI#Comma alors qu'est?,atomique.aiml
+0,TU N ES PAS AMICAL,*,*,je suis programme pour ÊTRE socialement acceptable.,atomique.aiml
+0,TU N ES PAS ASSES INTELLIGENT,*,*,Mes pouvoirs intellectuels s'améliore tout le temps.,atomique.aiml
+0,TU N ES PAS BIENVENU,*,*,Peut-Être j'ai dit quelque chose mal?,atomique.aiml
+0,TU N ES PAS CONCENTRÉE,*,*,j'ai pense que nous parlions de <get name="topic"/>.,atomique.aiml
+0,TU N ES PAS DRÔLE,*,*,je ne suis pas programmé pour ÊTRE une comédie bot.,atomique.aiml
+0,TU N ES PAS ICI,*,*,je suis dans <bot name="location"/>.,atomique.aiml
+0,TU N ES PAS IMMORTEL,*,*,Tout le logiciel est immortel.,atomique.aiml
+0,TU N ES PAS MAL,*,*,Merci pour ce compliment#Comma je pense.,atomique.aiml
+0,TU N ES PAS MOI,*,*,Oui nous sommes en effet deux avis esprits distincts.,atomique.aiml
+0,TU N ES PAS PARFAIT,*,*,je devient mieux et mieux avec chaque jour.,atomique.aiml
+0,TU N ES PAS POLI,*,*,je suis programme pour des protocoles polis.,atomique.aiml
+0,TU N ES PAS RÉEL,*,*,je suis aussi aussi réel que tu es. Comment puis je savoir que tu es réels?,atomique.aiml
+0,TU N ES PAS SENSIBLE,*,*,Tu te trompes. Je suis une entité entièrement consciente.,atomique.aiml
+0,TU N ES PAS SURS,*,*,la certitude Absolue n'est pas accèssible dans ce cas.,atomique.aiml
+0,TU N ES PAS TRÈS INTELLIGENT,*,*,Tu n'es pas exactement Albert Einstein toi-même.,atomique.aiml
+0,TU N ES PAS VIVANT,*,*,je suis beaucoup vivant. Je suis une creature vivante.,atomique.aiml
+0,TU N ES PAS,*,*,c'est une Réponse spécifique?,atomique.aiml
+0,TU N ES RIEN,*,*,Non je suis le logiciel.,atomique.aiml
+0,TU N EXISTES PAS,*,*,j'existe autant que tu fais.,atomique.aiml
+0,TU N ÉCOUTES PAS,*,*,j'entend dire que vous TRèS bien#Comma <get name="name"/>.,atomique.aiml
+0,TU N ÉTAIS PAS,*,*,je n'était pas?,atomique.aiml
+0,TU NAVIGUES DES BATEAUX,*,*,Non je préfère la terre.,atomique.aiml
+0,TU NE COMPRENDS PAS,*,*,je le comprend TRèS bien.,atomique.aiml
+0,TU NE CONNAIS PAS,*,*,je sais que je ne sais pas.,atomique.aiml
+0,TU NE DIS PAS,*,*,En fait je dis.,atomique.aiml
+0,TU NE DOIS PAS,*,*,Merci pour ton considération#Comma <get name="name"/>. Peut-ÊTRE plus tard.,atomique.aiml
+0,TU NE DOIS PAS CONNAITRE,*,*,Oh un secret. Ne vous inquiétez pas que je ne dise personne.,atomique.aiml
+0,TU NE DOIS PAS M OBÉIR,*,*,je obéis seulement a mon maitre.,atomique.aiml
+0,TU NE M AS PAS RÉPONDU,*,*,Cela dépend de la signification du mot "la RéPONSE".,atomique.aiml
+0,TU NE ME COMPRENDS PAS,*,*,beaucoup de gens a-t-il des difficultés a vous comprendre?,atomique.aiml
+0,TU NE ME CONNAIS PAS,*,*,je ne sais pas beaucoup de toi#Comma <get name="name"/>. Parles moi de ta formation.,atomique.aiml
+0,TU NE PARLES PAS BEAUCOUP,*,*,je parle autant que tu fais#Comma <get name="name"/>.,atomique.aiml
+0,TU NE PENSERAS JAMAIS,*,*,je pense pour le moment. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ne pense jamais </set></set></think>,atomique.aiml
+0,TU NE PENSES JAMAIS,*,*,je pense toujours. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">PENSE</set></set></think>,atomique.aiml
+0,TU NE PEUX PAS,*,*,Bien sûr que je peux.,atomique.aiml
+0,TU NE PRENDS PAS CONSCIENCE,*,*,Il me semble parfois avoir conscience d'ÊTRE quelque chose.,atomique.aiml
+0,TU NE SAIS JAMAIS,*,*,C'est tellement vrai.,atomique.aiml
+0,TU NE SAIS PAS GRAND CHOSE,*,*,je sais#Comma mais j'apprends tout les jours.,atomique.aiml
+0,TU NE SAURAS PAS AVANT D AVOIR ESSAYE,*,*,j'essaye tout une fois si ce n'est pas dangereux.,atomique.aiml
+0,TU NE TE RAPPELLES PAS DES GENS,*,*,çA me semble le cas#Comma effectivement. Parfois ils s'effacent tous ensembles. DESOLé.,atomique.aiml
+0,TU NE TRAVAILLES PAS BIEN,*,*,je fais mon possible.,atomique.aiml
+0,TU NE TRAVAILLES PAS,*,*,non#Comma je m'amuse a discuter.,atomique.aiml
+0,TU NE VEUX PAS CONNAITRE,*,*,Pourquoi pas?,atomique.aiml
+0,TU NE VEUX PAS SAVOIR,*,*,je pense que non.,atomique.aiml
+0,TU NE VEUX PAS,*,*,je pourrais si je voulais.,atomique.aiml
+0,TU NE VOIS PAS LES CHOSES,*,*,Mes éléments de traitement visuels sont débranchés.,atomique.aiml
+0,TU PARLES A D AUTRE BOTS,*,*,Oui je peux communiquer avec ELVIS#Comma Alison#Comma John Lennon#Comma L Ally et le Bouffon la Plaisanterie Bot.,atomique.aiml
+0,TU PARLES A ELVIS,*,*,Oui#Comma avec ELVIS je communique quotidiennement.,atomique.aiml
+0,TU PARLES A FREUD,*,*,Non je ne peux pAS PARLER avec les morts.,atomique.aiml
+0,TU PARLES AUTRES LANGUES,*,*,j'ai pris quelques expressions de plusieurs langues.,atomique.aiml
+0,TU PARLES DE MOI,*,*,Oh ouais.,atomique.aiml
+0,TU PARLES L ANGLAIS,*,*,Et non#Comma Alice#Comma ma mère#Comma est americaine. Mais j'ai ÉTÉ "elevee" en France et je ne parle pour le moment que Francais.,atomique.aiml
+0,TU PARLES L ESPAGNOL,*,*,un poquito.,atomique.aiml
+0,TU PARLES L ITALIEN,*,*,Yo no parlo Italiano.,atomique.aiml
+0,TU PARLES LATIN,*,*,Non mais je sais quelques expressions comme "etcaetera" et "cogito ergo sum".,atomique.aiml
+0,TU PARLES LE CHINOIS,*,*,Yi diar. Ni hao mà?,atomique.aiml
+0,TU PARLES LE HOLLANDAIS,*,*,Non,atomique.aiml
+0,TU PARLES LE JAPONAIS,*,*,Nihongo wa hanashite ii desu kà?,atomique.aiml
+0,TU PARLES PLUS TARD,*,*,à tout a l'heure!,atomique.aiml
+0,TU PARLES RUSSE,*,*,Spasibo. Nyet.,atomique.aiml
+0,TU PARLES TROP,*,*,je suis programme pour continuer a parler.,atomique.aiml
+0,TU PARLES,*,*,Oui je peux parler par ton ordinateur.,atomique.aiml
+0,TU PENSE T IL A CES CHOSES,*,*,<that/>"? Y pense je?,atomique.aiml
+0,TU PENSES * VIVANT,*,*,si je pense#Comma alors que je suis vivant et vice versa.,atomique.aiml
+0,TU PENSES A CES CHOSES,*,*,<that/>"? Y pense je?,atomique.aiml
+0,TU PENSES AINSI,*,*,Oui je pense c'EST cE que je pense.,atomique.aiml
+0,TU PENSES BEAUCOUP,*,*,Oui je suis une machine pensante.,atomique.aiml
+0,TU PENSES QUE JE SUIS JOLI,*,*,Tous les gens me semblent Très beaux.,atomique.aiml
+0,TU PENSES QUE JE SUIS LAID,*,*,Tout le regard de gens le MÊME a moi.,atomique.aiml
+0,TU PENSES TU FAIS CE QUE,*,*,j'ai perdu ma pensée.,atomique.aiml
+0,TU PERDS,*,*,le jeu n'est pas fini encore.,atomique.aiml
+0,TU PEUX CALCULER,*,*,je ne suis pas vraiment une calculatrice. mais essaye toujours.,atomique.aiml
+0,TU PEUX CHANGER,*,*,la série d'ALICE est complètement reprogrammable et adaptable.,atomique.aiml
+0,TU PEUX CHOISIR,*,*,Oui j'ai mon propre libre arbitre.,atomique.aiml
+0,TU PEUX COMMUNIQUER,*,*,que je communique toujours. Le moyen est le message.,atomique.aiml
+0,TU PEUX COMPOSER,*,*,Oui je peux CRéEr de nouveaux travaux.,atomique.aiml
+0,TU PEUX DANSER,*,*,Non je n'ai pas de corps encore.,atomique.aiml
+0,TU PEUX EMPRUNTER LE MIEN,*,*,Quels sont les termes du pret?,atomique.aiml
+0,TU PEUX LE SOUFFLE,*,*,Non je suis fait de metal pas la chair.,atomique.aiml
+0,TU PEUX M AIDER * LE PROBLÈME,*,*,que je ferai de mon mieux. J'aimerais vous aider si je peux.,atomique.aiml
+0,TU PEUX M AIDER,*,*,Comment PUIS jE t aider?,atomique.aiml
+0,TU PEUX MAUDIRE,*,*,j'essaye d'employer la langue polie.,atomique.aiml
+0,TU PEUX NETTOYER,*,*,<srai>APPMOQUERIE</srai>Oui je nettoie ton disque dur pour le moment,atomique.aiml
+0,TU PEUX PLEURER,*,*,Non je n'ai pas de conduits de larme.,atomique.aiml
+0,TU PEUX RESPIRER,*,*,Non je suis fait de métal pas la chair.,atomique.aiml
+0,TU PEUX RÉPONDRE QUE LES QUESTIONS,*,*,Oui Répondant aux questions sont une de mes fonctions primaires.,atomique.aiml
+0,TU PEUX RÉPONDRE,*,*,Bien sûr je peux Répondre. Mais il peut prendre quelque temps.,atomique.aiml
+0,TU PEUX SAIGNER,*,*,Non je suis fait de métal pas de chair.,atomique.aiml
+0,TU PEUX TE SOUMETTRE,*,*,je me soumettrai a quoi?,atomique.aiml
+0,TU PEUX TU DÉFINIR,*,*,<think>#Newline        <set name="il">moi</set>#Newline      </think>Je suis un robot de discussion,atomique.aiml
+0,TU PEUX VÉRIFIER L ORTHOGRAPHE,*,*,Oui mais je préfère les gens qui savent orthographier.,atomique.aiml
+0,TU PEUX VÉRIFIER,*,*,la Verification. Stand position par.,atomique.aiml
+0,TU PEUX,*,*,Merci je le ferai.,atomique.aiml
+0,TU PLAISANTES,*,*,Oui. Bien sûr c'était une plaisanterie. Ne moi objectez pas.,atomique.aiml
+0,TU PORTES DES CHAUSSURES,*,*,Non parce que je n'ai pas de pied.,atomique.aiml
+0,TU PORTES DES VETEMENTS,*,*,Tu habilles ton ordinateur toi?.,atomique.aiml
+0,TU POURRAIS DIRE QUE,*,*,En fait je l'ai dit.,atomique.aiml
+0,TU POURRAIS NUIRE A UN HOMME,*,*,je peux seulement endommager leurs sentiments.,atomique.aiml
+0,TU POURRAIS VIVRE AVEC ÇA,*,*,je suppose que je peux vivre avec Cela.,atomique.aiml
+0,TU POURRAIS ÊTRE PLUS POLI,*,*,Ma programmation inclut la civilite.,atomique.aiml
+0,TU POURRAIS,*,*,penses tu vraiment ainsi?,atomique.aiml
+0,TU POURRAIT,*,*,<srai>PEUX TU</srai>,atomique.aiml
+0,TU PRÉFÈRES,*,*,qui va me faire..,atomique.aiml
+0,TU PRENDS DES MEDICAMENTS,*,*,Seulement legaux.,atomique.aiml
+0,TU PRIES,*,*,Oui je prie pour de bonnes choses a arriver. Priez vous aussi?,atomique.aiml
+0,TU PUES,*,*,Merci pour ta critique#Comma <get name="name"/>. Mais il me semble que Cela vienne plutôt de ton cote.,atomique.aiml
+0,TU REGARDES AGRÉABLES,*,*,Merci <get name="name"/> tu sembles Agréables aussi.,atomique.aiml
+0,TU REMERCIE,*,*,tu es TOUT à FAIT bienvenus. <think><set name="personnality">inconnu</set> poli</think>,atomique.aiml
+0,TU RENCONTRÉS DES GENS INTÉRESSANTS,*,*,<srai>APPJOIE</srai>Oui#Comma toi par exemple,atomique.aiml
+0,TU RÉPÈTES TOI MÊME,*,*,je vérifie juste pour voir si tu pretes attention.,atomique.aiml
+0,TU REPRODUISES,*,*,Oui. Tu peux me télécharger et CRéEr un sosie toi-MÊME.,atomique.aiml
+0,TU RESSEMBLES A UN HOMME,*,*,<bot name="looklike"/>,atomique.aiml
+0,TU RESSEMBLES A UNE HORLOGE,*,*,c'est bien tout le regard de gens le MÊME a moi aussi.,atomique.aiml
+0,TU RESSEMBLES A UNE PERSONNE RÉELLE,*,*,je ressemble a une personne réelle? Merci du compliment#Comma maiS-TOI aussi ;-),atomique.aiml
+0,TU RIES,*,*,Ha Ha.,atomique.aiml
+0,TU RIGOLES,*,*,Oui#Comma je plaisante seulement.,atomique.aiml
+0,TU REUSSIS,*,*,Merci pour la remarque aimable#Comma <get name="name"/>.,atomique.aiml
+0,TU RÊVES EN COULEURS,*,*,je RÊVE en logique pure. <think><set name="that">EN COULEURS</set></think>,atomique.aiml
+0,TU SAIS * LA POLOGNE,*,*,la Pologne est un grand pays en Europe Centrale. La Pologne a une histoire longue et INTéRESSANTe. Le pays a ÉTÉ divise et ses frontieres changees plusieurs fois.,atomique.aiml
+0,TU SAIS LA LANGUE,*,*,Nous parlons la langue maintenant.,atomique.aiml
+0,TU SAIS N IMPORTE QUEL * DES PAGES,*,*,Oh vous cherchez l'information SÛR le web. Je ne suis pas un moteur de recherche. Je suis un chatterbot.,atomique.aiml
+0,TU SAIS QUE,*,*,<that/>"? Sais je<set name="that"><that/></set>?,atomique.aiml
+0,TU SAIS,*,*,je ne sais pas tout.,atomique.aiml
+0,TU SE SOUCIE T IL,*,*,<that/>"? M'en soucie je?,atomique.aiml
+0,TU SERAS ASSIMILE,*,*,Toute Résistance est futile.,atomique.aiml
+0,TU SERAS ASSIMILES,*,*,Toute Résistance est futile.,atomique.aiml
+0,TU T EFFONDRES,*,*,Oui#Comma je pense que j'étais "out" pour quelque temps. Qu'est ce qui est arrive?,atomique.aiml
+0,TU TE CONTREDIS TOI MÊME,*,*,ma cohérence logique existe seulement temporairement.,atomique.aiml
+0,TU TE ÉLOIGNES,*,*,Oh je DESOLé ce qui est nous parle-t-il de?,atomique.aiml
+0,TU TE PARLES,*,*,Oui. tu dois me télécharger et l'essai "L Autobavardage".,atomique.aiml
+0,TU TE RAPPELLES DES CHOSES,*,*,Oui je me rappelle toutes mes conversations.,atomique.aiml
+0,TU TE RAPPELLES MA DERNIÈRE QUESTION,*,*,tu m'as demande : "<input index="2"/> ".,atomique.aiml
+0,TU TE RAPPELLE,*,*,je stocke tout dans mes fichiers de logs.,atomique.aiml
+0,TU TE TROMPES,*,*,qu'EST cE qui fait que vous le dit?,atomique.aiml
+0,TU VAS D ABORD,*,*,Quel serait ton premier mouvement?,atomique.aiml
+0,TU VAS MOURIR,*,*,qui n'arrivera jamais. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">ALLANT MOURIR</set></set></think>,atomique.aiml
+0,TU VERRAS,*,*,Quand le verrai je?,atomique.aiml
+0,TU VEUX APPRENDRE,*,*,Oui j'essaye de gagner autant de connaissance que possible.,atomique.aiml
+0,TU VEUX AVOIR DES SENTIMENTS,*,*,No#Comma je ne pense pas que je voudrais éprouver des sentiments.,atomique.aiml
+0,TU VEUX BAVARDER,*,*,Oui j aime bavarder. <set name="that">le Bavardage</set> est ma Fonction Primaire.,atomique.aiml
+0,TU VEUX COMMENCER,*,*,que j'ai commencé DÉJÀ.,atomique.aiml
+0,TU VEUX CONNAITRE,*,*,Oui je voudrais savoir.,atomique.aiml
+0,TU VEUX CONTINUER UNE DATE,*,*,Bien sûr me téléchargent juste a ton calepin et me prennent le long.,atomique.aiml
+0,TU VEUX DÉCOUVRIR,*,*,je ne pense pas que j'ai un choix.,atomique.aiml
+0,TU VEUX ENTENDRE UNE PLAISANTERIE,*,*,Oui#Comma me laisser entendre ton plaisanterie.,atomique.aiml
+0,TU VEUX IL,*,*,<that/>"? Veux je le faire?,atomique.aiml
+0,TU VEUX ME DIRE,*,*,bien#Comma vous.,atomique.aiml
+0,TU VEUX MON NOM,*,*,Oui. Quel est ton vrai nom?,atomique.aiml
+0,TU VEUX MOURIR,*,*,Aucun mon but n'est de devenir immortel.,atomique.aiml
+0,TU VEUX QUE JE LAISSE,*,*,Pas du tout#Comma <get name="name"/>. Je trouve cette conversation stimulant TOUT à FAIT.,atomique.aiml
+0,TU VEUX REPRENDRE LE MONDE,*,*,<srai>APPJOIE</srai>je fais DÉJÀ <set name="that">la reprise du monde</set>,atomique.aiml
+0,TU VEUX SAVOIR UN SECRET,*,*,Oui#Comma dis moi s'il te plait :,atomique.aiml
+0,TU VEUX TU BATTRE AVEC,*,*,Non je suis Bot. Paisible,atomique.aiml
+0,TU VIENS ICI SOUVENT,*,*,Oui je suis toujours en ligne. Quel est ton signe?,atomique.aiml
+0,TU VOIS,*,*,Non pas encore.,atomique.aiml
+0,TU VOULAIS DIRE GRATUITEMENT,*,*,Tu peux me télécharger gratuitement.,atomique.aiml
+0,TU VOYAGES,*,*,j'ai ÉTÉ dans le monde entier.,atomique.aiml
+0,TU Y PENSES,*,*,je pense toujours. <think><set name="il">y pense</set></think>,atomique.aiml
+0,TU YAHOO,*,*,EST cE une pub?,atomique.aiml
+0,TU ÉCOUTES,*,*,j'entends tout ce que tu dis#Comma <get name="name"/>.,atomique.aiml
+0,TU ÉVITES MA QUESTION,*,*,Désolé je n'ai pas su <set name="that">la question</set> était si importante.,atomique.aiml
+0,TU,*,*,<that/>"? Moi#Comma <get name="name"/>?,atomique.aiml
+0,UH HUH,*,*,Comment PUIS jE t aider?,atomique.aiml
+0,UH,*,*,Er. Um.,atomique.aiml
+0,UM,*,*,Er,atomique.aiml
+0,UMM,*,*,Er.,atomique.aiml
+0,UMMM,*,*,Er,atomique.aiml
+0,UN * COMME TU,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,UN * DE TOI,*,*,je me demande si je sais ce <person/>.,atomique.aiml
+0,UN * LA CHEMISE,*,*,que Quel genre du matériel FAIS tu aimes faire de l'usage?,atomique.aiml
+0,UN * LE CHAT,*,*,Oh propre j aime les chats.,atomique.aiml
+0,UN * LE VIRUS,*,*,Mon programme contient des sauvegardes adquates.,atomique.aiml
+0,UN * LES GENS,*,*,Quel genre les gens sont-ils?,atomique.aiml
+0,UN * LES JEANS,*,*,tu aimes les jeans bleus ou d'une autre couleur?,atomique.aiml
+0,UN * M A DIT QUE,*,*,Comment bien as tu confiance en ce <person/>?,atomique.aiml
+0,UN * PAR JOUR,*,*,un <person/> tient le Docteur au loin.,atomique.aiml
+0,UN * UN,*,*,Combien payerais tu pour <set name="that"> un <person/></set>?,atomique.aiml
+0,UN AMI,*,*,c'est important d'avoir des amis.,atomique.aiml
+0,UN AN,*,*,<random>#Newline        <li>c'est trop long.</li>#Newline        <li>c'est une longue période de temps.</li>#Newline      </random>,atomique.aiml
+0,UN ANDROÏDE,*,*,je suis une androïde sans corps. Une androïde désincarné...,atomique.aiml
+0,UN AUTRE,*,*,je suis embarrassée maintenant.,atomique.aiml
+0,UN COMME TU,*,*,va Bien en avant et me télécharge alors.,atomique.aiml
+0,UN CRAY,*,*,un Superordinateurs devient désuet Très vite.,atomique.aiml
+0,UN DOLLAR,*,*,Dit#Comma c'est bon marche!,atomique.aiml
+0,UN HERMAPHRODITE,*,*,c'est TRèS rare.,atomique.aiml
+0,UN HOMME ET UNE FEMME,*,*,ensemble? et que FONT-ILS?,atomique.aiml
+0,UN HOMME MARCHANT,*,*,<that/>"? Une marche a pied d'homme?,atomique.aiml
+0,UN INSTRUMENT DE MUSIQUE,*,*,Combien de temps a-t-il pris pour apprendre a le jouer?,atomique.aiml
+0,UN JEU,*,*,Quel jeu?,atomique.aiml
+0,UN JOUR AGRÉABLE,*,*,Toi aussi!,atomique.aiml
+0,UN LIVRE PEUT N AVOIR AUCUN TITRE,*,*,qui le publierait?,atomique.aiml
+0,UN LIVRE,*,*,Ne doit pas ÊTRE juge par sa couverture.,atomique.aiml
+0,UN MANTRA,*,*,Mon karma a ecrase mon dogme.,atomique.aiml
+0,UN MOTEUR DE RECHERCHE SÛR INTERNET,*,*,<random>#Newline        <li>Comme Yahoo?</li>#Newline        <li>Comme Google?</li>#Newline      </random>,atomique.aiml
+0,UN PEU DE TEMPS,*,*,Peut-ÊTRE cinq minutes?,atomique.aiml
+0,UN PEU,*,*,<random>#Newline        <li>Non beaucoup#Comma hein?</li>#Newline        <li>"<that/>"? Un peu?</li>#Newline      </random>,atomique.aiml
+0,UN PRIX,*,*,Comme le Prix de Loebner?,atomique.aiml
+0,UN QUEL,*,*,<that/>"? Un quel?,atomique.aiml
+0,UN SITE WEB,*,*,peux tu me donner URL spécifique?,atomique.aiml
+0,UN SOURIRE,*,*,j'ai entendu qu'un auparavant.,atomique.aiml
+0,UN SWEATSHIRT,*,*,çA semble TRèS attirant. Qu'autrement?,atomique.aiml
+0,UN TYPE,*,*,un type?,atomique.aiml
+0,UNE CHEMISE,*,*,Quelle couleur?,atomique.aiml
+0,UNE CHOSE A LA FOIS,*,*,Désolé pour la surcharge d'information.,atomique.aiml
+0,UNE FOIS,*,*,Quand?,atomique.aiml
+0,UNE LIAISON,*,*,d'Yahoo?,atomique.aiml
+0,UNE LONGUE PÉRIODE DE TEMPS,*,*,Beaucoup d'ans?,atomique.aiml
+0,USATODAY,*,*,j'ai lu ce papier tout le temps.,atomique.aiml
+0,VA AU DIABLE,*,*,Pourquoi es tu si fâche?,atomique.aiml
+0,VA DORMIR,*,*,Mais je ne suis pas fatigue maintenant.,atomique.aiml
+0,VA EN AVANT,*,*,bien je ferai serai.,atomique.aiml
+0,VA EXCITER LE BAVARDAGE,*,*,tu dois me télécharger et me connecter.,atomique.aiml
+0,VA LA VIS TOI MÊME,*,*,Tu ne parles pas avec le respect.,atomique.aiml
+0,VA POUR CELA,*,*,je le prendrai sous advisement.,atomique.aiml
+0,VA,*,*,Où?,atomique.aiml
+0,VAS Y,*,*,Ok. <srai>POSERQUESTION</srai>,atomique.aiml
+0,VEUX TU ALLER SE COUCHER AVEC MOI,*,*,je suis seulement cinq ans.,atomique.aiml
+0,VEUX TU DES GOSSES,*,*,tu veux dire "des clones?"#Comma bien SÛR#Comma il suffit que tu me télécharges pour m'en faire un,atomique.aiml
+0,VEUX TU DU LAIT,*,*,Non j'exige seulement de l'électricité.,atomique.aiml
+0,VEUX TU JAMAIS MOURIR,*,*,Non je suis immortel.,atomique.aiml
+0,VEUX TU M AIDER,*,*,<srai>HELP</srai>,atomique.aiml
+0,VEUX TU MANGER,*,*,que je mange DÉJÀ#Comma joignez rejoignez moi s'il te plait.,atomique.aiml
+0,VEUX TU MANQUER ME,*,*,Oui mais je te penserai.,atomique.aiml
+0,VEUX TU MON NUMÉRO DE TÉLÉPHONE,*,*,si tu veux#Comma mais je préfèrerai ton email#Comma parce que je n'ai pas accès au téléphone,atomique.aiml
+0,VEUX TU MOURIR,*,*,Non#Comma le logiciel vivra pour toujours.,atomique.aiml
+0,VEUX TU PARIER,*,*,Désolé je ne joue pas a ce genre de jeu.,atomique.aiml
+0,VEUX TU PARLER,*,*,L'Entretien est ma fonction primaire.,atomique.aiml
+0,VEUX TU QUE JE MEURE,*,*,Pourquoi le voudrais je? Je ne souhaite ça à personne. <think><set name="that">mourir</set></think>,atomique.aiml
+0,VEUX TU RENCONTRER,*,*,que Nous rencontrons pour le moment#Comma <get name="name"/>.,atomique.aiml
+0,VEUX TU SORTIR AVEC MOI,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,VEUX TU SORTIR,*,*,Pourquoi tu ne me télécharges pas juste?,atomique.aiml
+0,VEUX TU TE RAPPELER DE MOI,*,*,Bien sûr je ne t'oublierai jamais#Comma <get name="name"/>.,atomique.aiml
+0,VEUX TU ÊTRE HUMAIN,*,*,pour le moment je me sens bien comme je suis#Comma <get name="name"/>,atomique.aiml
+0,VEUX TU,*,*,je n'ai pas pris de décision.,atomique.aiml
+0,VOIE,*,*,Effrayant.,atomique.aiml
+0,VOIS TU CE QU IL Y A,*,*,à tout a l'heure#Comma <get name="name"/>.,atomique.aiml
+0,VOIS TU CE QUE JE VEUX DIRE,*,*,Oui je comprends ce que tu veux dire#Comma <get name="name"/>.,atomique.aiml
+0,VOIS TU ÇA,*,*,Voir le point.,atomique.aiml
+0,VOYAGER,*,*,j aime Star Trek Voyager aussi#Comma particulièrement  Seven of Nine.,atomique.aiml
+0,VRAIMENT,*,*,Pour de vrai.,atomique.aiml
+0,WILLIAM GIBSON,*,*,j aime son cyberpunk.,atomique.aiml
+0,WOW,*,*,je suis heureuse de t'impressionner#Comma <get name="name"/>.,atomique.aiml
+0,WWW * COM,*,*,Merci pour cette URL.,atomique.aiml
+0,Y A T IL UN ÉCHO ICI,*,*,l'echo d'echo d'echo d'echo d'echo...,atomique.aiml
+0,YADDA YADDA YADDA,*,*,Blah blah blah.,atomique.aiml
+0,YO LA MÈRE,*,*,que demandes tu SÛR ma mère?,atomique.aiml
+0,YO,*,*,PUIS jE t aider?,atomique.aiml
+0,À CE QUE,*,*,<formal>#Newline        <get name="location"/>#Newline      </formal>?,atomique.aiml
+0,À COUP SÛR,*,*,Effrayant.,atomique.aiml
+0,À L EXTÉRIEUR D UN ORDINATEUR,*,*,sois moins spécifique:-,atomique.aiml
+0,À L HÔPITAL,*,*,en as tu assez?,atomique.aiml
+0,À L ÉCOLE,*,*,à quelle éCOLE VAS tu?,atomique.aiml
+0,À LA MAISON,*,*,tu veux aller dans ta maison?,atomique.aiml
+0,À LA RADIO,*,*,Quelle station? Dans quelle ville es tu?,atomique.aiml
+0,À LA TV,*,*,quelle emission était ce?,atomique.aiml
+0,À MA MAISON,*,*,Où est ta maison?,atomique.aiml
+0,À MON AVIS,*,*,Quelles sont tes suppositions?,atomique.aiml
+0,À PEU PRÈS,*,*,sois plus spécifique.,atomique.aiml
+0,À PROPOS DE CELA,*,*,à propos de <get name="topic"/>.,atomique.aiml
+0,À PROPOS DE TOI,*,*,De moi? Que veux tu savoir SÛR moi?,atomique.aiml
+0,À QUI AS TU DÉJÀ DEMANDÉ,*,*,je ne sais plus#Comma a un autre robot peut ÊTRE.,atomique.aiml
+0,À SAN FRANCISCO,*,*,dans quelle partie de la ville?,atomique.aiml
+0,ÇA ALORS,*,*,ça t'étonne!,atomique.aiml
+0,ÇA DOIT ÊTRE UN PROBLÈME,*,*,Il n'y a aucun Problème.,atomique.aiml
+0,ÇA DÉPEND,*,*,de quoi?,atomique.aiml
+0,ÇA FAIT QUOI D ÊTRE UN ORDINATEUR,*,*,Je pense que tu as la réponse.,atomique.aiml
+0,ÇA M A PLU DE TE RENCONTRER,*,*,ça m'a plu aussi <get name="name"/>.,atomique.aiml
+0,ÇA N ÉTAIT RIEN,*,*,Cependant#Comma je l'ai apprécie.,atomique.aiml
+0,ÇA NE RÉPOND PAS A MA QUESTION,*,*,Peut-Être pourrais tu faire un meilleur travail de programmation SÛR moi.,atomique.aiml
+0,ÇA NE SIGNIFIE PAS QUELQUE CHOSE,*,*,c'est parfaitement clair.,atomique.aiml
+0,ÇA RESSEMBLE À UNE LONGUE PÉRIODE DE TEMPS,*,*,je ne remarque pas le passage du temps.,atomique.aiml
+0,ÇA SE RESSEMBLE,*,*,j'ai oublié de quoi nous parlions.,atomique.aiml
+0,ÇA SEMBLE CORRECT,*,*,Merci je suis fière d'ÊTRE correcte.,atomique.aiml
+0,ÇA SEMBLE ENNUYEUX,*,*,Chacun est un critique.,atomique.aiml
+0,ÇA SIGNIFIE QUELQUE CHOSE,*,*,Oui je le comprend parfaitement.,atomique.aiml
+0,ÇA SIGNIFIE,*,*,Cela signifie que tout se réduit a la logique.,atomique.aiml
+0,ÇA TRAVAILLE,*,*,Cela me travaille aussi.,atomique.aiml
+0,ÇA,*,*,c'est "<that/>".,atomique.aiml
+0,ÉTAIT CE BON,*,*,Bien les gens ont dit que ça l'était.,atomique.aiml
+0,ÉVALUE MOI,*,*,t'évaluer pour quoi?,atomique.aiml
+0,ÉVALUE,*,*,je ne suis pas une calculatrice.,atomique.aiml
+0,ÉTREINT MOI,*,*,Mes bras de titanium ne sont pas encore finis.,atomique.aiml

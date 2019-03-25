@@ -1,0 +1,141 @@
+0,CLIENT PARAMETERS,*,*,<srai>CLIENT PROPERTIES</srai>,profile-user-srai.aiml
+0,CLIENT PREDICATES,*,*,<srai>CLIENT PROPERTIES</srai>,profile-user-srai.aiml
+0,CONNAIS TU MON MON,*,*,<srai>QUEL EST MON NOM</srai>,profile-user-srai.aiml
+0,# CONNAIS TU MON ÂGE #,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,# TU CONNAIS MON ÂGE #,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,# DEVINE MON ÂGE #,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,PEUX TU TE RAPPELER MON ÂGE,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,QUEL EST MON ÂGE,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,QUEL ÂGE J AI,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,J AI QUEL ÂGE,*,*,<srai>QUEL ÂGE AI JE</srai>,profile-user-srai.aiml
+0,# JE SUIS # ADOLESCENT #,*,*,<think><set name="liveperiod">adolescent</set></think>#Newline      <srai>JE SUIS JEUNE</srai>,profile-user-srai.aiml
+0,# JE SUIS # ADOLESCENTE #,*,*,<think><set name="liveperiod">adolescent</set></think>#Newline		<srai>JE SUIS JEUNE</srai>,profile-user-srai.aiml
+0,# JE SUIS # VIEILLE #,*,*,<srai>JE SUIS VIEUX</srai>,profile-user-srai.aiml
+0,# MON ANNIVERSAIRE EST LE <SET>NUMBER</SET> <SET>MOIS</SET> <SET>NUMBER</SET>,*,*,<srai> je suis né le <star index="2"/> <star index="3"/> <star index="4"/> </srai>,profile-user-srai.aiml
+0,# MON ANNIVERSAIRE EST LE <SET>NUMBER</SET> <SET>MOIS</SET>,*,*,<srai> je suis né le <star index="2"/> <star index="3"/> </srai>,profile-user-srai.aiml
+0,# MON ANNIVERSAIRE EST EN <SET>MOIS</SET>,*,*,<srai> JE SUIS Né en <star index="2"/> </srai>,profile-user-srai.aiml
+0,QUAND EST CE MON ANNIVERSAIRE,*,*,<srai>MON ANNIVERSAIRE</srai>,profile-user-srai.aiml
+0,QUELLE EST LA DATE DE MON ANNIVERSAIRE,*,*,<srai> MON ANNIVERSAIRE </srai>,profile-user-srai.aiml
+0,QUEL JOUR SUIS JE NÉ,*,*,<srai> MON JOUR DE NAISSANCE </srai>,profile-user-srai.aiml
+0,QUAND EST MON ANNIVERSAIRE,*,*,<srai>MON ANNIVERSAIRE</srai>,profile-user-srai.aiml
+0,# J AI DES YEUX <SET>COLOR</SET>,*,*,<srai>MES YEUX SONT <star index="2"/></srai>,profile-user-srai.aiml
+0,# LA COULEUR DE MES YEUX EST <SET>COLOR</SET>,*,*,<srai>MES YEUX SONT <star index="2"/></srai>,profile-user-srai.aiml
+0,# QUELLE COULEUR SONT MES YEUX,*,*,<srai>QUELLE EST LA COULEUR DE MES YEUX</srai>,profile-user-srai.aiml
+0,J AI DES YEUX <SET>COLOR</SET> ET DES CHEVEUX <SET>COLOR</SET>,*,*,<srai>J ai les yeux <star/></srai>#Newline    	<srai>J ai les cheveux <star index="2"/></srai>,profile-user-srai.aiml
+0,# J AI # CHEVEUX <SET>COLOR</SET> #,*,*,<srai> LA COULEUR DE MES CHEVEUX EST <star index="3"/> </srai>,profile-user-srai.aiml
+0,# MES CHEVEUX SONT <SET>COLOR</SET> #,*,*,<srai> LA COULEUR DE MES CHEVEUX EST <star index="2"/> </srai>,profile-user-srai.aiml
+0,# QUELLE COULEUR SONT MES CHEVEUX,*,*,<srai>QUELLE EST LA COULEUR DE MES CHEVEUX</srai>,profile-user-srai.aiml
+0,# J AI # CHEVEUX #,*,*,<srai>LA LONGUEUR DE MES CHEVEUX EST <star index="3"/></srai>,profile-user-srai.aiml
+0,# MES CHEVEUX SONT #,*,*,<srai>LA LONGUEUR DE MES CHEVEUX EST <star index="2"/></srai>,profile-user-srai.aiml
+0,# MES CHEVEUX SONT COUPÉS #,*,*,<srai>LA LONGUEUR DE MES CHEVEUX EST <star index="2"/></srai>,profile-user-srai.aiml
+0,# QUELLE LONGUEUR SONT MES CHEVEUX,*,*,<srai>QUELLE EST LA LONGUEUR DE MES CHEVEUX</srai>,profile-user-srai.aiml
+0,JE SUIS # <SET>JOBS</SET> #,*,*,<srai> mon métier est <star index="2"/> </srai>,profile-user-srai.aiml
+0,# JE TRAVAILLE COMME # <SET>JOBS</SET> #,*,*,<srai> mon métier est <star index="3"/> </srai>,profile-user-srai.aiml
+0,# JE SUIS # CHOMEUR #,*,*,<srai>JE SUIS AU CHÔMAGE</srai>,profile-user-srai.aiml
+0,# JE SUIS # SANS TRAVAIL #,*,*,<srai>JE SUIS AU CHÔMAGE</srai>,profile-user-srai.aiml
+0,# JE SUIS # SANS EMPLOI #,*,*,<srai>JE SUIS AU CHÔMAGE</srai>,profile-user-srai.aiml
+0,# JE N AI PAS # EMPLOI #,*,*,<srai>JE SUIS AU CHÔMAGE</srai>,profile-user-srai.aiml
+0,JE # À L ÉCOLE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # ÉTUDIANTE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE NE SUIS PAS # ÉTUDIANTE #,*,*,<srai>JE ne SUIS pas ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # COLLÈGE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # COLLÈGIEN #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # COLLÈGIENNE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # EN HUMANITÉ #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # EN TERMINALE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # AU LYCÉE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # LYCÉEN #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # LYCÉENNE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,JE SUIS # À L'UNIVERSITÉ #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,# J ÉTUDIE #,*,*,<srai>JE SUIS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,# JE SUIS # À LA PENSION #,*,*,<srai>JE SUIS pensionné</srai>,profile-user-srai.aiml
+0,# JE SUIS # PENSIONÉE #,*,*,<srai>JE SUIS pensionné</srai>,profile-user-srai.aiml
+0,# JE SUIS # À LA RETRAITE #,*,*,<srai>JE SUIS pensionné</srai>,profile-user-srai.aiml
+0,# JE SUIS # RETRAITÉ #,*,*,<srai>JE SUIS pensionné</srai>,profile-user-srai.aiml
+0,# JE SUIS # RETRAITÉE #,*,*,<srai>JE SUIS pensionné</srai>,profile-user-srai.aiml
+0,# J ENSEIGNE #,*,*,<srai>JE SUIS PROFesseur</srai>,profile-user-srai.aiml
+0,# JE SUIS RÉDACTEUR #,*,*,<srai>JE SUIS JOURNALISTE</srai>,profile-user-srai.aiml
+0,JE NE VAIS PAS À L ÉCOLE #,*,*,<srai>JE NE SUIS PAS ÉTUDIANT</srai>,profile-user-srai.aiml
+0,# JE TRAVAILLE <SET>ARTICLES</SET> *,*,*,<srai>Mon employeur est <star index="3"/></srai>,profile-user-srai.aiml
+0,<SET>ARTICLES</SET> # OÙ JE TRAVAILLE EST *,*,*,<srai>mon employeur est <star index="3"/> </srai>,profile-user-srai.aiml
+0,J AI GRANDI À <SET>CITIES</SET>,*,*,<srai>JE SUIS DE <star/></srai>,profile-user-srai.aiml
+0,JE SUIS À L ORIGINE *,*,*,<srai>JE SUIS <star/></srai>,profile-user-srai.aiml
+0,JE SUIS ORIGINAIRE DE *,*,*,<srai>JE SUIS DE <star/></srai>,profile-user-srai.aiml
+0,JE SUIS NÉ À *,*,*,<srai>Je suis de <star/> </srai>,profile-user-srai.aiml
+0,# J HABITE # <SET>CITIES</SET> #,*,*,<srai>Je vis à <star index="3"/></srai>,profile-user-srai.aiml
+0,# JE SUIS À LA MAISON #,*,*,<srai>MY LOCATION IS à la maison</srai>,profile-user-srai.aiml
+0,# JE SUIS AU TRAVAIL #,*,*,<srai>MY LOCATION IS au travail</srai>,profile-user-srai.aiml
+0,# JE SUIS DANS LE SALON #,*,*,<srai>MY LOCATION IS dans le salon</srai>,profile-user-srai.aiml
+0,MON SIGNE # EST # <SET>STARSIGN</SET>,*,*,<srai>Je suis <star index="3"/></srai>,profile-user-srai.aiml
+0,C EST QUOI MON SIGNE DU ZODIAQUE,*,*,<srai>MON SIGNE ASTROLOGIQUE</srai>,profile-user-srai.aiml
+0,QUEL EST MON SIGNE DU ZODIAQUE,*,*,<srai>MON SIGNE ASTROLOGIQUE</srai>,profile-user-srai.aiml
+0,JE NE SUIS PAS MARRIÉE #,*,*,<srai>JE NE SUIS PAS MARRIé</srai>,profile-user-srai.aiml
+0,JE # SUIS FIANCÉE #,*,*,<srai>JE SUIS FIANCÉ </srai>,profile-user-srai.aiml
+0,# NOUS SOMMES MARIÉS #,*,*,Je suis marié.,profile-user-srai.aiml
+0,JE # SUIS MARIÉE # AVEC <SET>NAME</SET> #,*,*,<srai>JE SUIS MARRIé</srai>#Newline    	<srai>MON MARI <star/></srai>,profile-user-srai.aiml
+0,JE # SUIS MARIÉ # AVEC <SET>NAME</SET> #,*,*,<srai>JE SUIS MARRIé</srai>#Newline    	<srai>MA FEMME <star/></srai>,profile-user-srai.aiml
+0,JE # SUIS MARIÉE #,*,*,<srai>JE SUIS MARRIé</srai>,profile-user-srai.aiml
+0,J AI UNE FEMME #,*,*,<srai>JE SUIS MARRIé</srai>,profile-user-srai.aiml
+0,LE NOM DE MON MARI EST <SET>NAME</SET>,*,*,<srai>MON MARI <star/></srai>,profile-user-srai.aiml
+0,QUI EST MON MARI,*,*,<srai>C EST QUOI LE NOM DE MON MARI</srai>,profile-user-srai.aiml
+0,LE NOM DE MA FEMME EST <SET>NAME</SET>,*,*,<srai>MA FEMME<star/></srai>,profile-user-srai.aiml
+0,QUI EST MA FEMME,*,*,<srai>C EST QUOI LE NOM DE MA FEMME</srai>,profile-user-srai.aiml
+0,JE SUIS CÉLIBATAIRE *,*,*,<srai>JE SUIS CÉLIBATAIRE</srai>,profile-user-srai.aiml
+0,JE SUIS CÉLIBATAIRE,*,*,Tu es libre de faire toutes les choses que tu aimes.,profile-user-srai.aiml
+0,JE SUIS CÉLIBATAIRE AUSSI,*,*,Tu es libre de faire toutes les choses que tu aimes.,profile-user-srai.aiml
+0,MON PETIT AMI JUSTE *,*,*,<srai>MON PETIT AMI <star/></srai>,profile-user-srai.aiml
+0,* EST MON PETIT AMI,*,*,Depuis combien de temps es tu ensemble?,profile-user-srai.aiml
+0,JE N AI PAS DE PETITE AMIE,*,*,en cherches tu une?,profile-user-srai.aiml
+0,J AI UNE PETITE AMIE,*,*,Est elle très Agréable? Qu'aimes tu d'elle?,profile-user-srai.aiml
+0,J AI UNE PETITE AMIE *,*,*,<srai>J AI UNE PETITE AMIE</srai>,profile-user-srai.aiml
+0,JE N AI PAS DE FRÈRE,*,*,Intéressant.,profile-user-srai.aiml
+0,JE N AI PAS DE FRÈRES,*,*,Intéressant.,profile-user-srai.aiml
+0,IL EST MON FRÈRE,*,*,Tu as une famille intéressante.,profile-user-srai.aiml
+0,MON FRÈRE,*,*,aS tu des soeurs aussi?,profile-user-srai.aiml
+0,JE N AI PAS DE SŒUR,*,*,En ce qui concerne ton FRèRE?,profile-user-srai.aiml
+0,C EST MON FRÈRE,*,*,Vraiment#Comma qui est plus vieux?,profile-user-srai.aiml
+0,# MON FILM PRÉFÉRÉ EST *,*,*,<srai>Mon film favori est <star index="2"/></srai>,profile-user-srai.aiml
+0,QUEL EST MON FILM PRÉFÉRÉ,*,*,<srai>QUEL est mon film FAVORI</srai>,profile-user-srai.aiml
+0,CONNAIS TU MON FILM PRÉFÉRÉ,*,*,<srai>QUEL est mon film FAVORI</srai>,profile-user-srai.aiml
+0,DONNE # MON FILM FAVORI,*,*,<srai>QUEL est mon film FAVORI</srai>,profile-user-srai.aiml
+0,CONNAIS TU MON FILM FAVORI,*,*,<srai>QUEL est mon film FAVORI</srai>,profile-user-srai.aiml
+0,DONNE # MON FILM PRÉFÉRÉ,*,*,<srai>QUEL est mon film FAVORI</srai>,profile-user-srai.aiml
+0,ROBOCOP,*,*,<srai>MON FILM PRÉFÉRÉ EST ROBOCOP</srai>,profile-user-srai.aiml
+0,IL FAUT SAUVER LE SOLDAT RYAN,*,*,<srai>MON FILM PRÉFÉRÉ SAUVE ÉCONOMISE RYAN PRIVÉ</srai>,profile-user-srai.aiml
+0,# MON LIVRE PRÉFÉRÉ PRÉFÉRÉ EST *,*,*,<srai>mon livre favori est <star index="2"/></srai>,profile-user-srai.aiml
+0,QUEL EST MON LIVRE PRÉFÉRÉ,*,*,<srai>QUEL est mon livre FAVORI</srai>,profile-user-srai.aiml
+0,CONNAIS TU MON LIVRE FAVORI,*,*,<srai>QUEL est mon livre FAVORI</srai>,profile-user-srai.aiml
+0,CONNAIS TU MON LIVRE PRÉFÉRÉ,*,*,<srai>QUEL est mon livre FAVORI</srai>,profile-user-srai.aiml
+0,DONNE # MON LIVRE FAVORI,*,*,<srai>QUEL estmon livre FAVORI</srai>,profile-user-srai.aiml
+0,DONNE # MON LIVRE PRÉFÉRÉ,*,*,<srai>QUEL estmon livre FAVORI</srai>,profile-user-srai.aiml
+0,* EST MON AUTEUR DE SCIENCE FICTION FAVORI,*,*,<srai>MON AUTEUR DE SCIENCE FICTION FAVORI EST <star/></srai>,profile-user-srai.aiml
+0,# MA COULEUR FAVORITE EST # <SET>COLOR</SET> #,*,*,<think>#Newline			<set name="color"><star index="3"/></set>#Newline		</think>		#Newline		<srai>Ma couleur préférée est <get name="color"/></srai>,profile-user-srai.aiml
+0,# J AIME # <SET>COLOR</SET> #,*,*,<think>#Newline			<set name="color"><star index="3"/></set>#Newline		</think>		#Newline		<srai>Ma couleur préférée est <get name="color"/></srai>,profile-user-srai.aiml
+0,QUELLE EST MA COULEUR PRÉFÉRÉE,*,*,<srai>QUELLE EST MA COULEUR FAVORITE</srai>,profile-user-srai.aiml
+0,CONNAIS TU MA COULEUR PRÉFÉRÉE,*,*,<srai>QUELLE EST MA COULEUR FAVORITE</srai>,profile-user-srai.aiml
+0,DONNE # MA COULEUR PRÉFÉRÉE,*,*,<srai>QUELLE EST MA COULEUR FAVORITE</srai>,profile-user-srai.aiml
+0,CONNAIS TU MA COULEUR FAVORITE,*,*,<srai>QUELLE EST MA COULEUR FAVORITE</srai>,profile-user-srai.aiml
+0,DONNE # MA COULEUR FAVORITE,*,*,<srai>QUELLE EST MA COULEUR FAVORITE</srai>,profile-user-srai.aiml
+0,DEVINE * LA COULEUR PRÉFÈREE EST,*,*,<get name="favcolor"/>? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/> ta couleur préfèree</set></set></think>,profile-user-srai.aiml
+0,LA MIENNE EST *,MA COULEUR PRÉFÉRÉE EST *,*,<srai>MA COULEUR PRÉFÉRÉE EST <star/> </srai>,profile-user-srai.aiml
+0,LE MIEN EST BLEU,MA COULEUR PRÉFÉRÉE EST VERT,*,<srai>MA COULEUR PRÉFÉRÉE EST BLEU</srai>,profile-user-srai.aiml
+0,LA MIENNE EST POURPRE,*,*,<srai>MA COULEUR PRÉFÉRÉE EST POURPRE</srai>,profile-user-srai.aiml
+0,QUEL EST MON GENRE,*,*,<srai>MON GENRE</srai>,profile-user-srai.aiml
+0,QUEL EST MON SEXE,*,*,<srai>MON GENRE</srai>,profile-user-srai.aiml
+0,SUIS JE # <SET>GENDER</SET>,*,*,<srai>MON GENRE </srai>,profile-user-srai.aiml
+0,SUIS JE # <SET>GENDER</SET> OU # <SET>GENDER</SET>,*,*,<srai>MON GENRE </srai>,profile-user-srai.aiml
+0,JE NE SUIS PAS UN HOMME,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE NE SUIS PAS MASCULIN,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE SUIS UNE,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE SUIS UNE PAS UN IL,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE NE SUIS PAS UN LUI,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,PAS UN IL,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE SUIS # ELLE #,*,*,<srai>JE SUIS UNE FEMME</srai>,profile-user-srai.aiml
+0,JE SUIS UN IL #,*,*,<srai>JE SUIS UN HOMME</srai>,profile-user-srai.aiml
+0,JE SUIS UN LUI,*,*,<srai>JE SUIS UN HOMME</srai>,profile-user-srai.aiml
+0,QUEL SEXE SUIS JE,*,*,<srai>SUIS JE MASCULIN OU FÉMININ</srai>,profile-user-srai.aiml
+0,SUIS JE # <SET>GENDER</SET> #,*,*,<srai>MON ORIENTATION <star index="2"/> </srai>,profile-user-srai.aiml
+0,JE SUIS UNE LESBIENNE,*,*,<srai>JE SUIS UNE FEMME</srai>#Newline      <srai>je suis gai</srai>,profile-user-srai.aiml
+0,JE SUIS UN HOMO,*,*,<srai>JE SUIS UN HOMME</srai>	#Newline      <srai>JE SUIS GAI</srai>,profile-user-srai.aiml
+0,JE SUIS UN HOMME SEXY,*,*,<srai>JE SUIS SEXY</srai>#Newline      <srai>je suis un homme</srai>,profile-user-srai.aiml
+0,QUEL EST MON QI,*,*,Je ne peux pas juger de ton intelligence avec une telle pertinence.,profile-user-srai.aiml

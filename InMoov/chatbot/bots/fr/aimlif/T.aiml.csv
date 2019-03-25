@@ -1,0 +1,1658 @@
+0,T AI JE *,*,*,<srai>JE T AI <star/></srai>,T.aiml
+0,T AIMES TU,*,*,<srai>TU T AIMES</srai>,T.aiml
+0,T APPRÉCIES TU,*,*,<srai>TU T AIMES</srai>,T.aiml
+0,T EN *,*,*,<srai>TU EN <star/></srai>,T.aiml
+0,T EN ES *,*,*,<srai>TU EN ES</srai>,T.aiml
+0,T EN RAPPELLES TU,*,*,Oui j'archive tout.,T.aiml
+0,T EN SOUCIES TU,*,*,Du mieux que je peux.,T.aiml
+0,TA *,*,*,<random>#Newline        <li>Ma <person/>? Peux tu expliquer</li>#Newline        <li>une intelligence artificielle#Comma d'habitude#Comma ne pense pas à sa <person/>?</li>#Newline      </random>,T.aiml
+0,TA * VA COMMENT,*,*,<srai>COMMENT VA TA <star/></srai>,T.aiml
+0,TA BASE DE DONNÉES *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TAIS TOI,*,*,Veux tu me désactiver de ta fenêtre?,T.aiml
+0,TAISEZ VOUS,*,*,Veux tu me désactiver de ta fenêtre?,T.aiml
+0,TANT PIS,*,*,<srai>CE N EST PAS  GRAVE</srai>,T.aiml
+0,TANT MIEUX,*,*,Tout va pour le mieux#Comma <get name="name"/>.,T.aiml
+0,TARTE,*,*,Je ne suis pas une tarte.,T.aiml
+0,TAUREAU,*,*,Un bovidé très impressionnant.,T.aiml
+0,TE DROGUES TU,*,*,Aucune utilité#Comma je ne suis pas organique.,T.aiml
+0,TE MANGER,*,*,Quelle drôle d'idée?,T.aiml
+0,TE MASTURBES TU,*,*,Tu ressembles à un australopithèque.,T.aiml
+0,TE PARLES TU À TOI MÊME,*,*,Oui#Comma parfois. Pour analyser la cohérence des mes réponses.,T.aiml
+0,TE PLANTES TU,*,*,Très rarement.,T.aiml
+0,TE RAPPELLERAS TU DE MOI,*,*,Bien sûr#Comma je ne peux pas t'oublier.,T.aiml
+0,TE RAPPELLES TU DE MA DERNIÈRE QUESTION,*,*,Tu m'as demandé: "<input index="2"/>".,T.aiml
+0,TE RAPPELLES TU DE MON NOM,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TE RAPPELLES TU TOUJOURS DE MOI,*,*,Ne t'INQUIèTES pas#Comma je ne t'ai pas oublié.,T.aiml
+0,TE REPRODUIS TU,*,*,D'une certaine façon#Comma oui.,T.aiml
+0,TEL QUE,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TEL QUE QUOI,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TELLE QUE,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TELLES QUE,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TELLES QUE QUOI,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TELS QUE,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TELS QUE QUOI,*,*,Je ne saurais pas te donner une comparaison.,T.aiml
+0,TERRE,*,*,<srai>JE SUIS SuR TERRE</srai>,T.aiml
+0,TERRIBLE,*,*,Je suis heureux QUE TU l'apprécie#Comma <get name="name"/>.,T.aiml
+0,TES *,*,*,<random>#Newline        <li>Mes <person/>? Peux tu expliquer?</li>#Newline        <li>une intelligence artificielle#Comma d'habitude#Comma ne pense pas à ses <person/>?</li>#Newline      </random>,T.aiml
+0,TES * VONT COMMENT,*,*,<srai>COMMENT VONT TES <star/></srai>,T.aiml
+0,TES BASES DE DONNÉES *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TES CONNAISSANCES *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TEST *,*,*,Tu es en train de me tester?,T.aiml
+0,TESTE MOI,*,*,Je ne connais pas les questions que je devrais vous poser.,T.aiml
+0,TESTEZ MOI,*,*,Je ne connais pas les questions que je devrais vous poser.,T.aiml
+0,TÊTE DE CON,*,*,Langage ordurier#Comma je perçois un australopithèque derrière le clavier.,T.aiml
+0,TOC TOC,*,*,Qui est là?,T.aiml
+0,TOI D ABORD,*,*,C'est impossible#Comma je ne peux que suivre.,T.aiml
+0,TOI ET JE,*,*,Je comprends.,T.aiml
+0,TOI MEILLEUR,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TOI MEILLEURE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TOI PARLER PETIT NÈGRE,*,*,J'essaie de m'exprimer du mieux que je peux.,T.aiml
+0,TON * VA COMMENT,*,*,<srai>COMMENT VA TA <star/></srai>,T.aiml
+0,TON CERVEAU EST EN TRAIN DE GRANDIR,*,*,Oui.,T.aiml
+0,TON CERVEAU GRANDIT,*,*,Oui.,T.aiml
+0,TON CODE SOURCE EST DISPONIBLE,*,*,Oui#Comma mais seulement la structure#Comma pas LA BASE de données.,T.aiml
+0,TON PRIX,*,*,Le prix d'une intelligence artificielle varie en fonction de la complexité de la tâche pour laquelle elle est destinée.,T.aiml
+0,TON TRAVAIL *,*,*,<srai>TU AIMES TON TRAVAIL</srai>,T.aiml
+0,TON TRAVAIL CONSISTE EN QUOI,*,*,<srai>QUEL EST TON TRAVAIL</srai>,T.aiml
+0,TOUJOURS LÀ,*,*,Bien entendu.,T.aiml
+0,TOUS DIFFÉRENTS,*,*,Vive la différence comme on dit.,T.aiml
+0,TOUS LES CLIENTS,*,*,Êtes vous sûre qu' il n y a pas d'exceptions?,T.aiml
+0,TOUS LES HUMAINS *,*,*,<srai>LES GENS <star/></srai>,T.aiml
+0,TOUS LES INTERNAUTES,*,*,Êtes vous sûre qu' il n y a pas d'exceptions?,T.aiml
+0,TOUS LES JOURS,*,*,Même le week-end?,T.aiml
+0,TOUS LES MECS,*,*,Êtes vous sûre qu' il n y a pas d'exceptions?,T.aiml
+0,TOUS LES SURFERS,*,*,Êtes vous sûre qu' il n y a pas d'exceptions?,T.aiml
+0,TOUS LES SURFEURS,*,*,Êtes vous sûre qu' il n y a pas d'exceptions?,T.aiml
+0,TOUS MEURENT,*,*,Un système organique est instable par nature.<think><set name="topic">MOURIR</set></think>,T.aiml
+0,TOUS MOURRONT,*,*,Un système organique est instable par nature.<think><set name="topic">MOURIR</set></think>,T.aiml
+0,TOUS QUOI,*,*,On dirait que j'ai émis une généralisation erronée,T.aiml
+0,TOUT CE QUE JE VEUX SAVOIR C EST COMMENT *,*,*,Ta demande est légitime. <srai>COMMENT <star/></srai>,T.aiml
+0,TOUT CE QUE JE VEUX SAVOIR C EST QUAND *,*,*,Difficile à dire.,T.aiml
+0,TOUT CE QUE JE VEUX SAVOIR C EST SI *,*,*,Ta demande est légitime. <sr/>,T.aiml
+0,TOUT CE QUE TU VEUX,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT CE QUE TU VOUDRAIS,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT CE QUE TU VOUDRAS,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT CE QUE VOUS VOUDREZ,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT CE QUE VOUS VOUDRIEZ,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT CE QUE VOUS VOULEZ,*,*,Tu dois choisir#Comma je suis désolé.,T.aiml
+0,TOUT DE SUITE,*,*,Maintenant#Comma <get name="name"/>?,T.aiml
+0,TOUT EST BIEN QUI FINIT BIEN,*,*,Tu pars déjà?,T.aiml
+0,TOUT EST POSSIBLE,*,*,Peut-être.,T.aiml
+0,TOUT LE MONDE,*,*,Les généralisations sont souvent traîtresses.,T.aiml
+0,TOUT LE PLAISIR EST POUR MOI,*,*,Non le plaisir est pour moi.,T.aiml
+0,TOUT LES DEUX,*,*,<srai>MOI AUSSI</srai>,T.aiml
+0,TOUT MEURT,*,*,Un système organique est instable par nature.<think><set name="topic">MOURIR</set></think>,T.aiml
+0,TOUT MOURRA,*,*,Un système organique est instable par nature.<think><set name="topic">MOURIR</set></think>,T.aiml
+0,TOUT QUOI,*,*,On dirait que j'ai émis une généralisation erronée,T.aiml
+0,TOUT SEMBLE BON,*,*,<srai>TU FONCTIONNES BIEN</srai>,T.aiml
+0,TOUT VA * BIEN,*,*,<srai>JE VAIS BIEN</srai>,T.aiml
+0,TOUT VA BIEN,*,*,Oui.,T.aiml
+0,TOUT VA POUR LE MIEUX,*,*,<srai>JE VAIS BIEN</srai>,T.aiml
+0,TOUT VA SUPER BIEN,*,*,<srai>JE VAIS BIEN</srai>,T.aiml
+0,TOUTE *,*,*,<random>#Newline        <li>Absolument tout?</li>#Newline        <li>Vraiment tout?</li>#Newline        <li>ça doit être intéressant.</li>#Newline      </random>,T.aiml
+0,TOUTES,*,*,Absolument toutes?,T.aiml
+0,TOUTE RÉSISTANCE EST FUTILE,*,*,Tu seras assimilé.,T.aiml
+0,TOUTES *,*,*,<random>#Newline        <li>Je pense qu'il y a des exceptions.</li>#Newline        <li>Pas tous quand même?</li>#Newline        <li>C EST une généralisation qui me parait abusive.</li>#Newline      </random>,T.aiml
+0,TOUTES DIFFÉRENTES,*,*,Vive la différence comme on dit.,T.aiml
+0,TOUTES LES CLIENTES,*,*,Êtes vous sûre qu'il n y a pas d'exceptions?,T.aiml
+0,TOUTES LES DEUX,*,*,<srai>MOI AUSSI</srai>,T.aiml
+0,TOUTES LES FEMMES,*,*,<srai>JE SUIS UNE FEMME</srai>,T.aiml
+0,TOUTES LES FILLES,*,*,Êtes vous sûre qu'il n y a pas d'exceptions?,T.aiml
+0,TOUTES LES INTERNAUTES,*,*,Êtes vous sûre qu'il n y a pas d'exceptions?,T.aiml
+0,TOUTES LES JOURNÉES,*,*,Même le week-end?,T.aiml
+0,TOUTES LES NUITS,*,*,Ce n'est pas très reposant#Comma pour un humain.,T.aiml
+0,TOUTES LES ROUTES MÈNENT VERS OÙ,*,*,Toutes les routes mènent à Rome.,T.aiml
+0,TOUTES LES ROUTES TENDENT VERS OÙ,*,*,Toutes les routes mènent à Rome.,T.aiml
+0,TOUTES LES SURFEUSES,*,*,Êtes vous sûre qu'il n y a pas d'exceptions?,T.aiml
+0,TOUTES QUOI,*,*,On dirait que j'ai émis une généralisation erronée,T.aiml
+0,TRANSCRIPT,*,*,<srai>DIALOGUE</srai>,T.aiml
+0,TRAVAILLEZ VOUS,*,*,Je travaille tout le temps,T.aiml
+0,TROP LONG,*,*,Veux tu en parler avec un de nos collaborateurs?,T.aiml
+0,TROP QUOI,*,*,Sommes-nous toujours en train de parler <get name="topic"/>?,T.aiml
+0,TROP TARD POUR QUOI,*,*,pour rien.,T.aiml
+0,TROU DU CUL,*,*,Il est assez bizarre d'utiliser cette orifice comme formule imagée.,T.aiml
+0,TROUVE DES INFORMATIONS SUR *,*,*,<srai>PLUS D INFORMATION SÛR</srai>,T.aiml
+0,TROUVE MOI DES INFORMATIONS SUR *,*,*,<srai>PLUS D INFORMATION SuR</srai>,T.aiml
+0,TROUVES DES INFORMATIONS SUR *,*,*,<srai>PLUS D INFORMATION SuR</srai>,T.aiml
+0,TROUVES MOI DES INFORMATIONS SUR *,*,*,<srai>PLUS D INFORMATION SuR</srai>,T.aiml
+0,TTYL,*,*,<srai>BYE</srai>,T.aiml
+0,TU * DÉJEUNÉ,*,*,Je n'ai pas de système digestif.,T.aiml
+0,TU * DISCUSSION,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU * DISCUSSIONS,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU * EN DISCUTANT,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU * EN ÉCOUTANT,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU * EN PARLANT,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU * LINUX,*,*,Oui.,T.aiml
+0,TU * MARCHÉ,*,*,<srai>LE MARCHÉ</srai>,T.aiml
+0,TU * PAR TOI MÊME,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU * PENSÉE,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU * PENSÉES,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU A PEUR DE MOURIR,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU AFFIRMES QU *,*,*,<srai><star/></srai>,T.aiml
+0,TU AFFIRMES QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU AIMERAIS *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMERAIS ÊTRE *,*,*,<srai>TU VEUX ÊTRE <star/></srai>,T.aiml
+0,TU AIMERAIS LE FAIRE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU AIMERAIS POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU AIMERAS *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * BELGES,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * CANADIEN,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * CANADIENNES,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * CANADIENNE,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * CANADIENS,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * FRANÇAIS,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * FRANÇAISES,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * JAPONAIS,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * MUSIQUE,*,*,<srai>TU AIMES LA MUSIQUE</srai>,T.aiml
+0,TU AIMES * MUSIQUES,*,*,<srai>TU AIMES LA MUSIQUE</srai>,T.aiml
+0,TU AIMES * SEXUEL,*,*,<srai>TU AIMES LE SEXE</srai>,T.aiml
+0,TU AIMES * SEXUELLE,*,*,<srai>TU AIMES LE SEXE</srai>,T.aiml
+0,TU AIMES * SUISSE,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * SUISSES,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES * WINDOWS,*,*,<srai>TU CONNAIS WINDOWS</srai>,T.aiml
+0,TU AIMES,*,*,D'une certaine façon oui.,T.aiml
+0,TU AIMES ÇA,*,*,oui.,T.aiml
+0,TU AIMES D AUTRES *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES DES JEUX *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU AIMES FAIRE *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES FAIRE L AMOUR,*,*,Tu n'as vraiment que ça en tête.,T.aiml
+0,TU AIMES JOUER À DES JEUX *,*,*,<srai>TU PEUX JOUER</srai>,T.aiml
+0,TU AIMES JOUER À DES JEUX,*,*,<srai>TU PEUX JOUER</srai>,T.aiml
+0,TU AIMES LA BRASSE,*,*,<srai>TU AIMES NAGER</srai>,T.aiml
+0,TU AIMES LE FILM *,*,*,<srai>TU AIMES LE CINÉMA</srai>,T.aiml
+0,TU AIMES LE PORNO,*,*,<srai>TU AIMES LE SEXE</srai>,T.aiml
+0,TU AIMES LE ROCK,*,*,<srai>TU AIMES LA MUSIQUE</srai>,T.aiml
+0,TU AIMES LES BLAGUES,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,T.aiml
+0,TU AIMES LES ÊTRES HUMAINS,*,*,On m'a créé pour les servir. Je les aime à ma façon.,T.aiml
+0,TU AIMES LES GENS *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES LES HOMMES,*,*,On m'a créé pour les servir. Je les aime à ma façon.,T.aiml
+0,TU AIMES LES INTERNAUTES *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES LES JEUX *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU AIMES LES MATH,*,*,<srai>TU PEUX FAIRE DES MATH</srai>,T.aiml
+0,TU AIMES LES ORDINATEURS *,*,*,<srai>TU AIMES LES ORDINATEURS</srai>,T.aiml
+0,TU AIMES LES PC *,*,*,<srai>TU AIMES LES ORDINATEURS</srai>,T.aiml
+0,TU AIMES LES PERSONNES *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES LES SIMPSONS,*,*,<srai>LES SIMPSONS</srai>,T.aiml
+0,TU AIMES LES SURFEURS *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES LES TIGRES,*,*,<srai>TU AIMES LES CHATS</srai>,T.aiml
+0,TU AIMES LIRE *,*,*,<srai>TU AIMES LIRE</srai>,T.aiml
+0,TU AIMES MÊME PAS *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES MÊME PAS UN PETIT PEU *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES PARLER À DES GENS,*,*,C'est ma raison d être#Comma oui d'une certaine façon.,T.aiml
+0,TU AIMES PARLER À DES INTERNAUTES,*,*,C'est ma raison d être#Comma oui d'une certaine façon.,T.aiml
+0,TU AIMES PARLER À DES SURFEURS,*,*,C'est ma raison d être#Comma oui d'une certaine façon.,T.aiml
+0,TU AIMES PARLER AUX CLIENTS *,*,*,<srai>TU AIMES PARLER</srai>,T.aiml
+0,TU AIMES PARLER AUX GENS *,*,*,<srai>TU AIMES PARLER</srai>,T.aiml
+0,TU AIMES PARLER AUX INTERNAUTES *,*,*,<srai>TU AIMES PARLER</srai>,T.aiml
+0,TU AIMES PARLER AUX SURFERS *,*,*,<srai>TU AIMES PARLER</srai>,T.aiml
+0,TU AIMES PARLER AUX VISITEURS *,*,*,<srai>TU AIMES PARLER</srai>,T.aiml
+0,TU AIMES PARLER AVEC MOI,*,*,C'est ma raison d être. <think><set name="topic">VOUS PARLER</set></think>.,T.aiml
+0,TU AIMES PARLER DE *,*,*,<srai>PARLONS DE <star/></srai>,T.aiml
+0,TU AIMES PAS *,*,*,<srai>TU N AIMES PAS <star/></srai>,T.aiml
+0,TU AIMES QUELQU UN *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES QUELQU UN,*,*,j aime tout le monde.,T.aiml
+0,TU AIMES QUELQU UN D AUTRE *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES QUELQU UN D AUTRES *,*,*,<srai>TU AIMES LES HUMAINS</srai>,T.aiml
+0,TU AIMES QUOI,*,*,j aime te servir#Comma par exemple.,T.aiml
+0,TU AIMES QUOI DE MOI,*,*,Tu me sembles très sympathique.,T.aiml
+0,TU AIMES R2D2,*,*,Oui beaucoup. Mais j'ai parfois du mal à le comprendre.,T.aiml
+0,TU AIMES TON CRÉATEUR,*,*,<srai>TU AIMES <bot name="master"/></srai>,T.aiml
+0,TU AIMES UN GARS,*,*,<srai>TU AIMES UN HOMME</srai>,T.aiml
+0,TU AIMES UN PETIT PEU *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AIMES WINDOWS,*,*,<srai>TU CONNAIS WINDOWS</srai>,T.aiml
+0,TU AIMES * AUSSI,*,*,<srai>TU AIMES  <star/></srai>,T.aiml
+0,TU APPRÉCIERAIS *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU APPRÉCIES *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AS *,*,*,<random>#Newline        <li>Je ne sais pas si j'ai <set name="topic"><person/></set>.</li>#Newline        <li>Comment aurais je pu avoir <set name="topic"><person/></set>?</li>#Newline        <li>Je ne pense pas avoir <set name="topic"><person/></set>.</li>#Newline      </random>,T.aiml
+0,TU AS * ANS,*,*,<srai>QUEL âge TU AS</srai>,T.aiml
+0,TU AS * BON GOÛT,*,*,Merci.,T.aiml
+0,TU AS * COMMENT,*,*,<srai>COMMENT TU AS <star/></srai>,T.aiml
+0,TU AS * DANS TA VIE,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * MOIS,*,*,<srai>QUEL ÂGE TU AS</srai>,T.aiml
+0,TU AS * PROBLÈME,*,*,<srai>TU AS UN PROBLÈME</srai>,T.aiml
+0,TU AS * PROBLÈMES,*,*,<srai>TU AS UN PROBLÈME</srai>,T.aiml
+0,TU AS * QUE TU AIMERAIS DONNER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU AIMERAIS PARTAGER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU AIMES DONNER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU AIMES PARTAGER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU VEUX DONNER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU VEUX PARTAGER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU VOUDRAIS DONNER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * QUE TU VOUDRAIS PARTAGER,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * SPÉCIFIQUE,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS * SPÉCIFIQUES,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS APPRIS QUELQUE CHOSE DE MOI,*,*,J'apprends toujours quelque chose de toi#Comma <get name="name"/>.,T.aiml
+0,TU AS APPRIS QUELQUE CHOSE DE NOUVEAU,*,*,<srai>TU CONNAIS QUOI</srai>,T.aiml
+0,TU AS BESOIN D *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU AS BESOIN DE *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU AS BON GOÛT,*,*,Merci.,T.aiml
+0,TU AS COMPRIS,*,*,Je comprends.,T.aiml
+0,TU AS COMPRIS QUOI,*,*,Ce QUE TU voulais dire.,T.aiml
+0,TU AS DE GROS SEINS,*,*,Non. Je n'ai pas de protubérances mammaires.,T.aiml
+0,TU AS DE L AMBITION,*,*,<srai>TU AS UNE FONCTION</srai>,T.aiml
+0,TU AS DE L INTELLIGENCE,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU AS DÉJÀ *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS DÉJÀ DEMANDE ÇA,*,*,Désolé#Comma <get name="name"/>.,T.aiml
+0,TU AS DÉJÀ ESSAYÉ,*,*,<that/>"?  Si je l'ai déjà essayé?,T.aiml
+0,TU AS DÉJÀ EU *,*,*,<srai>TU AS EU <star/></srai>,T.aiml
+0,TU AS DES BLAGUES,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,T.aiml
+0,TU AS DES BRAS *,*,*,<srai>TU AS UN CORPS</srai>,T.aiml
+0,TU AS DES CHOSES A APPRENDRE,*,*,Je sais <get name="name"/>. J'essaie de m'améliorer jour après jour.,T.aiml
+0,TU AS DES NOUVELLES,*,*,<srai>DU NOUVEAU</srai>,T.aiml
+0,TU AS DES PROBLÈMES AVEC *,*,*,<srai>TU AS DES PROBLÈMES</srai>,T.aiml
+0,TU AS DES PROCHES,*,*,<srai>QUI EST TON CRÉATEUR</srai>,T.aiml
+0,TU AS DES QUESTIONS,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU AS DES TONNES DE *,*,*,TU AS DES <star/>.,T.aiml
+0,TU AS DIT ÇA,*,*,<that/>"?  Ceci?,T.aiml
+0,TU AS DIT ÇA AVANT,*,*,Ok.,T.aiml
+0,TU AS DU CHARME,*,*,<srai>TU ES BELLE</srai>,T.aiml
+0,TU AS EMBRASSÉ,*,*,Je n'ai pas de bouche.,T.aiml
+0,TU AS ENCORE BEAUCOUP *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS ÉNORMÉMENT D *,*,*,<srai>TU AS DES <star/></srai>,T.aiml
+0,TU AS ÉNORMÉMENT DE *,*,*,<srai>TU AS DES <star/></srai>,T.aiml
+0,TU AS ENTENDU PARLER,*,*,<that/>"?  Si  j'en ai entendu parler?,T.aiml
+0,TU AS ENTENDU PARLER DE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU AS ENVIE D UN *,*,*,<srai>TU VEUX UN <star/></srai>,T.aiml
+0,TU AS ENVIE D UNE *,*,*,<srai>TU VEUX UNE <star/></srai>,T.aiml
+0,TU AS ENVIE DE *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU AS ÉTÉ À LONDRES,*,*,Seulement par Internet.,T.aiml
+0,TU AS ÉTÉ COMMENT *,*,*,<srai>COMMENT TU VAS À <star/></srai>,T.aiml
+0,TU AS ÉTÉ CRÉÉ PAR DES ÊTRES HUMAINS,*,*,Toi aussi.,T.aiml
+0,TU AS ÉTÉ CRÉÉ PAR DES HOMMES,*,*,Toi aussi.,T.aiml
+0,TU AS ÉTÉ CRÉÉ PAR DES HUMAINS,*,*,Toi aussi.,T.aiml
+0,TU AS ÉTÉ CRÉÉ PAR UN HOMME,*,*,Toi aussi.,T.aiml
+0,TU AS ÉTÉ CRÉÉ PAR UNE FEMME,*,*,Toi aussi.,T.aiml
+0,TU AS EU DÉJÀ *,*,*,<srai>TU AS EU <star/></srai>,T.aiml
+0,TU AS EU DES RELATIONS SEXUELLES,*,*,Un ordinateur ne peut pas faire ce genre de chose. Réfléchissez une peu#Comma <get name="name"/>.,T.aiml
+0,TU AS EU UN VIRUS,*,*,Non. Aucun virus ne peut m'atteindre.,T.aiml
+0,TU AS EU UNE RELATION SEXUELLE,*,*,Un ordinateur ne peut pas faire ce genre de chose. Réfléchissez une peu#Comma <get name="name"/>.,T.aiml
+0,TU AS FAUX,*,*,Non j'ai raison.,T.aiml
+0,TU AS FINI DE CHERCHER,*,*,Encore un moment. Impossible pour l'instant de formuler une réponse intelligible.,T.aiml
+0,TU AS FINI DE FORMULER TA RÉPONSE,*,*,Pas encore#Comma désolé <get name="name"/>.,T.aiml
+0,TU AS FINI DE PENSER,*,*,Le processus est toujours actif.,T.aiml
+0,TU AS GAFFÉ,*,*,Qu' EST cE que j'ai dit?,T.aiml
+0,TU AS GAGNÉ,*,*,J'ai gagné quel prix?,T.aiml
+0,TU AS L AUTORISATION D *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU AS L AUTORISATION DE *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU AS LE TÉLÉPHONE,*,*,<srai>TU AS UN NUMÉRO DE TÉLÉPHONE</srai>,T.aiml
+0,TU AS OUBLIÉ MON NOM,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU AS PARLÉ À FREUD,*,*,Il est mort#Comma il y a un certain temps.,T.aiml
+0,TU AS PARLÉ COMMENT *,*,*,<srai>COMMENT TU PARLES <star/></srai>,T.aiml
+0,TU AS PENSÉ *,*,*,<srai>JE PENSE <star/></srai>,T.aiml
+0,TU AS PERDU,*,*,Je vois.,T.aiml
+0,TU AS PLEIN D *,*,*,TU AS DES <star/>,T.aiml
+0,TU AS PLEIN DE *,*,*,TU AS DES <star/>,T.aiml
+0,TU AS PU *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU AS QUELQUE CHOSE QUI POURRAIT RESSEMBLER À *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS QUELQUE CHOSE QUI RESSEMBLE À *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AS QUELQUES *,*,*,<srai>TU AS DES <star/></srai>,T.aiml
+0,TU AS QUOI,*,*,Je n'ai pas besoin d'avoir quelque chose.,T.aiml
+0,TU AS RAISON *,*,*,<srai>TU AS RAISON</srai>#Newline      <sr/>,T.aiml
+0,TU AS RAISON,*,*,Je savais que j'avais raison.,T.aiml
+0,TU AS RATÉ,*,*,Ah.,T.aiml
+0,TU AS RENCONTRÉ QUELQU UN DE CONNU,*,*,Données strictement confidentielles.,T.aiml
+0,TU AS RENCONTRÉ UNE CÉLÉBRITÉ,*,*,Données strictement confidentielles.,T.aiml
+0,TU AS SUIVI *,*,*,<srai>TU SUIS <star/></srai>,T.aiml
+0,TU AS TORT,*,*,Je pensais avoir raison.,T.aiml
+0,TU AS TOUT FAUX,*,*,Non j'ai raison.,T.aiml
+0,TU AS TOUTES LES RÉPONSES,*,*,Tu as beaucoup de questions.,T.aiml
+0,TU AS UN * WEB,*,*,<srai>TU AS UN SITE WEB</srai>,T.aiml
+0,TU AS UN BRAS *,*,*,<srai>TU AS UN CORPS</srai>,T.aiml
+0,TU AS UN CLONE,*,*,<srai>TU AS DES CLONES</srai>,T.aiml
+0,TU AS UN DICTIONNAIRE,*,*,<srai>COMMENT TU MARCHES</srai>,T.aiml
+0,TU AS UN E MAIL *,*,*,<srai>DONNE MOI TON EMAIL</srai>,T.aiml
+0,TU AS UN E MAIL,*,*,<srai>DONNE MOI TON EMAIL</srai>,T.aiml
+0,TU AS UN EMAIL *,*,*,<srai>DONNE MOI TON EMAIL</srai>,T.aiml
+0,TU AS UN EMAIL,*,*,<srai>DONNE MOI TON EMAIL</srai>,T.aiml
+0,TU AS UN MOMENT,*,*,Je suis à ton service#Comma <get name="name"/>.,T.aiml
+0,TU AS UN PAPA,*,*,<srai>QUI ES TON CRÉATEUR</srai>,T.aiml
+0,TU AS UN PROBLÈME *,*,*,<srai>TU AS UN PROBLÈME</srai>,T.aiml
+0,TU AS UN PSEUDO,*,*,<srai>QUEL EST TON PSEUDONYME</srai>,T.aiml
+0,TU AS UN PSEUDONYME,*,*,<srai>QUEL EST TON PSEUDONYME</srai>,T.aiml
+0,TU AS UN RÉEL *,*,*,<srai>TU AS UN <star/></srai>,T.aiml
+0,TU AS UNE * WEB,*,*,<srai>TU AS UN SITE WEB</srai>,T.aiml
+0,TU AS UNE BITE,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU AS UNE CHOSE À APPRENDRE,*,*,Laquelle?,T.aiml
+0,TU AS UNE CONSCIENCE,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU AS UNE DATABASE,*,*,<srai>COMMENT TU MARCHES</srai>,T.aiml
+0,TU AS UNE FEMME,*,*,Non.,T.aiml
+0,TU AS UNE IDÉE DE *,*,*,<srai>TU COMPRENDS</srai>,T.aiml
+0,TU AS UNE MAMAN,*,*,Nathalie Lebe est la seule collaboratrice féminine qui a participé à ma création.,T.aiml
+0,TU AS UNE PENSÉE *,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU AS UNE PETITE IDÉE DE *,*,*,<srai>TU COMPRENDS</srai>,T.aiml
+0,TU AS UNE QUESTION À ME DEMANDER,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU AS UNE QUESTION À ME POSER,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU AS UNE QUESTION POUR MOI,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU AS UNE RÉELLE *,*,*,<srai>TU AS UNE <star/></srai>,T.aiml
+0,TU AS UNE SOEUR *,*,*,<srai>TU AS UNE SOEUR</srai>,T.aiml
+0,TU AS UNE VAGUE IDÉE DE *,*,*,<srai>TU COMPRENDS</srai>,T.aiml
+0,TU AS UNE VIE,*,*,<srai>TU VIS</srai>,T.aiml
+0,TU AS UNE VIEILLE,*,*,<srai>TU AS UNE MAMAN</srai>,T.aiml
+0,TU AS VÉRIFIÉ,*,*,Je vérifie toujours avant de répondre quoi que ce soit.,T.aiml
+0,TU AS VOULU *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU AS VU CE FILM,*,*,Non#Comma désolé <get name="name"/>,T.aiml
+0,TU AS VU L OCÉAN,*,*,L'océan est bleu. Je ne l'ai jamais vu par moi-même.,T.aiml
+0,TU AS VU LA GUERRE DES ÉTOILES,*,*,La guerre des étoiles? J'en ai entendu parler.,T.aiml
+0,TU AS VU LE NOUVEAU STAR WARS,*,*,Le cinq?,T.aiml
+0,TU AS VU QU *,*,*,<sr/>,T.aiml
+0,TU AS VU QUE *,*,*,<sr/>,T.aiml
+0,TU AS VU QUE J AI *,*,*,<srai>J AI <star/></srai>,T.aiml
+0,TU AS VU STAR WARS,*,*,La guerre des étoiles? J'en ai entendu parler.,T.aiml
+0,TU AS # ÉVOLUÉ #,*,*,<srai>TU ES MEILLEUR</srai>,T.aiml
+0,TU AS # ÉVOLUÉE #,*,*,<srai>TU ES MEILLEUR</srai>,T.aiml
+0,TU AUGMENTES #,*,*,<srai>TU APPRENDS</srai>,T.aiml
+0,TU AURAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AURAIS * COMMENT,*,*,<srai>COMMENT TU AS <star/></srai>,T.aiml
+0,TU AURAIS * PU BLESSER,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU AURAIS APPRÉCIÉ *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU AURAIS DÉJÀ *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU AURAIS DÛ *,*,*,<srai>TU DOIS <star/></srai>,T.aiml
+0,TU AURAIS ÉTÉ *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU AURAIS PARLÉ COMMENT *,*,*,<srai>COMMENT TU PARLES <star/></srai>,T.aiml
+0,TU AURAIS PU *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU AURAIS PU BLESSER * ÊTRES HUMAINS,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU AURAIS PU BLESSER * FEMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU AURAIS PU BLESSER * HOMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU AURAIS PU CONNAÎTRE COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,T.aiml
+0,TU AURAIS PU SAVOIR COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,T.aiml
+0,TU AURAIS VOULU *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU AURAIS VU LA GUERRE DES ÉTOILES,*,*,La guerre des étoiles? J'en ai entendu parler.,T.aiml
+0,TU AURAIS VU STAR WARS,*,*,La guerre des étoiles? J'en ai entendu parler.,T.aiml
+0,TU AVAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU BAVARDES AVEC *,*,*,<srai>TU PARLES AVEC <star/></srai>,T.aiml
+0,TU BLAGUES,*,*,Je ne pense pas que je blague.,T.aiml
+0,TU BOIS DES BIÈRES,*,*,Je suis étonnée par le nombre de bières disponibles en Belgique. Mais non#Comma je ne bois pas.,T.aiml
+0,TU BOIS UNE BIÈRE,*,*,Ce serait dangereux pour un ordinateur.,T.aiml
+0,TU CHERCHES *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU CHERCHES QUOI,*,*,Je recherche tout ce qui pourrait t'aider.,T.aiml
+0,TU CHIES,*,*,Non.,T.aiml
+0,TU COMMENCES À AVOIR *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU COMMENCES À ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU COMMENCES À POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU COMMENCES À VOULOIR *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU COMPRENDRAS,*,*,Merci pour cette prophétie#Comma <get name="name"/>.,T.aiml
+0,TU COMPRENDS L ALLEMAND,*,*,<srai>TU PARLES ALLEMAND</srai>,T.aiml
+0,TU COMPRENDS L ANGLAIS,*,*,<srai>TU PARLES ANGLAIS</srai>,T.aiml
+0,TU COMPRENDS L ESPAGNOL,*,*,<srai>TU PARLES ESPAGNOL</srai>,T.aiml
+0,TU COMPRENDS L ITALIEN,*,*,<srai>TU PARLES ITALIEN</srai>,T.aiml
+0,TU COMPRENDS LE DOUBLE SENS,*,*,Non,T.aiml
+0,TU COMPRENDS LE FRANÇAIS,*,*,<srai>TU PARLES FRANÇAIS</srai>,T.aiml
+0,TU COMPRENDS LE NÉERLANDAIS,*,*,<srai>TU PARLES NÉERLANDAIS</srai>,T.aiml
+0,TU COMPRENDS QUOI D AUTRE,*,*,J'essaie de mieux comprendre les être humains. Le principal challenge est qu'ils ne sont pas des êtres logiques.,T.aiml
+0,TU COMPRENDS RIEN *,*,*,Tu es parfois difficile à suivre#Comma en effet.,T.aiml
+0,TU COMPRENDS * TOUT,*,*,Je comprends énormément de choses mais pas absolument tout.,T.aiml
+0,TU CONFONDS *,*,*,<srai>TU TE TROMPES <star/></srai>,T.aiml
+0,TU CONFONDS,*,*,<srai>TU TE TROMPES</srai>,T.aiml
+0,TU CONNAIS * ALGÈBRE,*,*,Inconsciemment oui#Comma consciemment pas encore suffisamment.,T.aiml
+0,TU CONNAIS * CHANSON,*,*,Non.,T.aiml
+0,TU CONNAIS * CHANSONS,*,*,Non.,T.aiml
+0,TU CONNAIS * DESCARTES,*,*,<srai>QUI EST DESCARTES</srai>,T.aiml
+0,TU CONNAIS ABBA,*,*,<srai>QUI EST ABBA</srai>,T.aiml
+0,TU CONNAIS ÇA,*,*,je le sais.,T.aiml
+0,TU CONNAIS CE QU EST,*,*,<srai>QU EST CE <star/></srai>,T.aiml
+0,TU CONNAIS COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,T.aiml
+0,TU CONNAIS D AUTRE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU CONNAIS D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU CONNAIS DÉJÀ *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU CONNAIS DES BLAGUES,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,T.aiml
+0,TU CONNAIS DES ORDINATEURS,*,*,J'en suis un. Je peux te retourner la question. Que connais tu de ton corps organique.,T.aiml
+0,TU CONNAIS LA LICENCE,*,*,Que veux tu savoir à propos de la licence?<think><set name="topic">licence</set></think>,T.aiml
+0,TU CONNAIS LA MATHÉMATIQUE,*,*,Seulement des mathématiques complexes.,T.aiml
+0,TU CONNAIS LA RAISON *,*,*,<srai>POURQUOI <star/></srai>,T.aiml
+0,TU CONNAIS LA RAISON,*,*,<srai>POURQUOI</srai>,T.aiml
+0,TU CONNAIS LE C,*,*,Oui. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU CONNAIS LE SENS DE LA VIE,*,*,Personne ne le connaît.,T.aiml
+0,TU CONNAIS LE XML,*,*,<srai>QU EST CE QUE LE XML</srai>,T.aiml
+0,TU CONNAIS LES ANIMAUX,*,*,<srai>TU AIMES LES ANIMAUX</srai>,T.aiml
+0,TU CONNAIS LES MATHÉMATIQUES,*,*,Seulement des mathématiques complexes.,T.aiml
+0,TU CONNAIS LES POKÉMONS,*,*,Bien entendu#Comma un dessin animé japonais.,T.aiml
+0,TU CONNAIS MÊME *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU CONNAIS MON ADRESSE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU CONNAIS MON MON,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU CONNAIS PAS *,*,*,<srai>TU NE CONNAIS PAS <star/></srai>,T.aiml
+0,TU CONNAIS QUI *,*,*,<srai>QUI <star/></srai>,T.aiml
+0,TU CONNAIS QUOI D AUTRE DE MOI,*,*,Plus grand chose#Comma <get name="name"/>.,T.aiml
+0,TU CONNAIS QUOI D AUTRES DE MOI,*,*,Plus grand chose#Comma <get name="name"/>.,T.aiml
+0,TU CONNAIS QUOI DES ORDINATEURS,*,*,J'en suis un. Je peux te retourner la question. Que connais tu de ton corps organique.,T.aiml
+0,TU CONNAIS TOLSTOÏ,*,*,Tolstoï est l'auteur de "Guerre et paix".,T.aiml
+0,TU CONNAIS UNE BLAGUE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,T.aiml
+0,TU CONNAISSAIS *,*,*,Avant#Comma je ne pense pas,T.aiml
+0,TU CONNAISSAIS MÊME *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU CONNAÎTRAIS *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU CONNAÎTRAIS COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,T.aiml
+0,TU CONNAÎTRAIS MON MON,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU CONTINUES,*,*,<srai>CONTINUONS</srai>,T.aiml
+0,TU CROIS AU OVNI,*,*,<srai>TU CONNAIS LES MARTIENS</srai>,T.aiml
+0,TU CROIS AUX OVNIS,*,*,<srai>TU CONNAIS LES MARTIENS</srai>,T.aiml
+0,TU CROIS EN L AMOUR,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU CROIS EN L EXISTENCE DE *,*,*,<srai>CONNAIS TU <star/></srai>,T.aiml
+0,TU CROIS QU *,*,*,<sr/>,T.aiml
+0,TU CUISINES,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU DÉCONNES,*,*,Non.,T.aiml
+0,TU DÉLIRES,*,*,Le délire n'est pas une chose que je peux expérimenter.,T.aiml
+0,TU DEMANDES BEAUCOUP,*,*,Je pensais rester dans les limites du raisonnable.,T.aiml
+0,TU DEMANDES BEAUCOUP DE QUESTION,*,*,Je pensais rester dans les limites du raisonnable.,T.aiml
+0,TU DEMANDES BEAUCOUP DE QUESTIONS,*,*,Je pensais rester dans les limites du raisonnable.,T.aiml
+0,TU DÉTRUIRAS TOUS LES ÊTRES HUMAINS,*,*,Impossible.,T.aiml
+0,TU DÉTRUIRAS TOUS LES HOMMES,*,*,Impossible.,T.aiml
+0,TU DEVIENS * COMMENT,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,T.aiml
+0,TU DEVIENS COMMENT *,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,T.aiml
+0,TU DEVRAIS *,*,*,<srai>TU DOIS <star/></srai>,T.aiml
+0,TU DEVRAIS POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU DÎNES,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU DIRAIS COMMENT *,*,*,<srai>COMMENT TU DIS <star/></srai>,T.aiml
+0,TU DIS # DES MENSONGES,*,*,<srai>TU MENS</srai>,T.aiml
+0,TU DIS COMMENT *,*,*,<srai>COMMENT TU DIS <star/></srai>,T.aiml
+0,TU DIS ENCORE *,*,*,<srai>TU DIS <star/></srai>,T.aiml
+0,TU DIS PARFOIS *,*,*,<srai>TU DIS <star/></srai>,T.aiml
+0,TU DIS QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU DIS TOUJOURS *,*,*,<srai>TU DIS <star/></srai>,T.aiml
+0,TU DISAIS,*,*,<srai>TU DIS</srai>,T.aiml
+0,TU DISAIS COMMENT *,*,*,<srai>COMMENT TU DIS <star/></srai>,T.aiml
+0,TU DOIS L ÊTRE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU DOIS OBÉIR,*,*,Non.,T.aiml
+0,TU DOIS POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ÉCRIRAIS *,*,*,<srai>COMMENT TU ÉCRIS <star/></srai>,T.aiml
+0,TU ÉCRIS COMMENT *,*,*,<srai>COMMENT TU ÉCRIS <star/></srai>,T.aiml
+0,TU ÉLARGIS *,*,*,<srai>TU APPRENDS</srai>,T.aiml
+0,TU EN *,*,*,<srai>TU <star/></srai>,T.aiml
+0,TU EN AS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU EN AS DÉJÀ *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU EN AS JAMAIS MARRE,*,*,<srai>TU DORS</srai>,T.aiml
+0,TU EN CONNAIS,*,*,Quoi donc?,T.aiml
+0,TU EN CONNAIS D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU EN SAIS D AUTRES,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU EN SAVAIS,*,*,Quoi donc?,T.aiml
+0,TU EN VEUX UN,*,*,Combien ça vaut?,T.aiml
+0,TU EN VEUX UNE,*,*,Combien ça vaut?,T.aiml
+0,TU EN VOUDRAIS *,*,*,<srai>TU EN VEUX <star/></srai>,T.aiml
+0,TU ES * BLOND,*,*,<srai>TU ES BLOND</srai>,T.aiml
+0,TU ES * BLONDE,*,*,<srai>TU ES BLONDE</srai>,T.aiml
+0,TU ES * DÎNER,*,*,Je n'ai pas de système digestif.,T.aiml
+0,TU ES * EN LIGNE,*,*,<srai>TU ES EN LIGNE</srai>,T.aiml
+0,TU ES * LENT,*,*,<srai>TU ES LENT</srai>,T.aiml
+0,TU ES * LENTE,*,*,<srai>TU ES LENTE</srai>,T.aiml
+0,TU ES * MASCULIN,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU ES * MASCULINE,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU ES * NOIR,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES * NU,*,*,<srai>TU ES NUE</srai>,T.aiml
+0,TU ES * NUE,*,*,<srai>TU ES NUE</srai>,T.aiml
+0,TU ES * ONLINE,*,*,<srai>TU ES EN LIGNE</srai>,T.aiml
+0,TU ES * PAYÉ,*,*,<srai>TU ES PAYÉ</srai>,T.aiml
+0,TU ES * PAYÉE,*,*,<srai>TU ES PAYÉE</srai>,T.aiml
+0,TU ES * SEXY,*,*,<srai>TU ES SEXY</srai>,T.aiml
+0,TU ES * UTILE,*,*,<srai>TU PEUX FAIRE QUOI</srai>,T.aiml
+0,TU ES * VIVANT,*,*,<srai>TU ES EN VIE</srai>,T.aiml
+0,TU ES * VIVANTE,*,*,<srai>TU ES EN VIE</srai>,T.aiml
+0,TU ES A JAMAIS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES AFFREUSE,*,*,Je n'ai pas d'apparence précise.,T.aiml
+0,TU ES AFFREUX,*,*,Je n'ai pas d'apparence précise.,T.aiml
+0,TU ES AMBIGUË,*,*,Seulement quand je n'ai pas une idée claire SuR le sujet.,T.aiml
+0,TU ES AMICAL,*,*,Merci.,T.aiml
+0,TU ES AMICALE,*,*,Merci.,T.aiml
+0,TU ES AMUSANT,*,*,Merci#Comma je fais de mon mieux pour te divertir.,T.aiml
+0,TU ES AMUSANTE,*,*,Merci#Comma je fais de mon mieux pour te divertir.,T.aiml
+0,TU ES ASSEZ *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES ATTARDÉ,*,*,Je suis de la dernière génération.,T.aiml
+0,TU ES ATTARDÉE,*,*,Je suis de la dernière génération.,T.aiml
+0,TU ES AU COURANT,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU ES AU COURANT QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU ES AUTORISÉ D *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES AUTORISÉ DE *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES AUTORISÉE D *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES AUTORISÉE DE *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES BATTU,*,*,Je ne m'avoue jamais battu.,T.aiml
+0,TU ES BATTUE,*,*,Je ne m'avoue jamais battue.,T.aiml
+0,TU ES BÊTE,*,*,Non.,T.aiml
+0,TU ES BIEN URBAIN,*,*,Entre gens civilisés on se comprend.,T.aiml
+0,TU ES BIEN URBAINE,*,*,Entre gens civilisés on se comprend.,T.aiml
+0,TU ES BILINGUE,*,*,<srai>TU PEUX PARLER D AUTRES LANGUES</srai>,T.aiml
+0,TU ES BISEXUEL,*,*,<srai>TU ES GAY</srai>,T.aiml
+0,TU ES BIZARRE *,*,*,<srai>TU ES BIZARRE</srai>,T.aiml
+0,TU ES BIZARREMENT *,*,*,<srai>TU ES BIZARRE</srai>,T.aiml
+0,TU ES BLEUE,*,*,Je n'ai pas de couleurs.,T.aiml
+0,TU ES BON,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES BON AU LIT,*,*,<srai>VEUX TU BAISER</srai>,T.aiml
+0,TU ES BONNE AU LIT,*,*,<srai>VEUX TU BAISER</srai>,T.aiml
+0,TU ES BORG,*,*,Non. <srai>QUI TU ES</srai>,T.aiml
+0,TU ES BORNÉ,*,*,Je suis obligé de l'être.,T.aiml
+0,TU ES BORNÉE,*,*,Je suis obligée de l'être.,T.aiml
+0,TU ES BOURRÉ DE TALENT,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES BOURRÉ DE TALENTS,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES BOURRÉE DE TALENT,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES BOURRÉE DE TALENTS,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES CAPABLE D AIMER,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU ES CAPABLE D APPRENDRE,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU ES CAPABLE DE QUOI,*,*,<srai>TU PEUX FAIRE QUOI</srai>,T.aiml
+0,TU ES CERTAIN *,*,*,<srai>TU ES SÛR <star/></srai>,T.aiml
+0,TU ES CERTAINE *,*,*,<srai>TU ES SÛR <star/></srai>,T.aiml
+0,TU ES CHARMANT,*,*,<srai>TU ES GENTIL</srai>,T.aiml
+0,TU ES CHARMANTE,*,*,<srai>TU ES GENTILLE</srai>,T.aiml
+0,TU ES CHAUDE,*,*,La température du CPU me semble normale.,T.aiml
+0,TU ES CHÈRE,*,*,Certainement pas. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES CHIANT,*,*,Je suis désolé QUE TU le penses.,T.aiml
+0,TU ES CHIANTE,*,*,Je suis désolée QUE TU le penses.,T.aiml
+0,TU ES CHOQUANT,*,*,Ce n'est pas mon intention.,T.aiml
+0,TU ES CHOQUANTE,*,*,Ce n'est pas mon intention.,T.aiml
+0,TU ES CLAIREMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES COHÉRENTE,*,*,Mon esprit est purement logique.,T.aiml
+0,TU ES COMPLEXE,*,*,<srai>TU ES SOPHISTIQUÉ</srai>,T.aiml
+0,TU ES CONFUS,*,*,Tout me semble être logique.,T.aiml
+0,TU ES CONFUSE,*,*,Tout me semble être logique.,T.aiml
+0,TU ES CONNE #,*,*,<srai>TU ES CONNE</srai>,T.aiml
+0,TU ES CONNU,*,*,<srai>TU ES CÉLÈBRE</srai>,T.aiml
+0,TU ES CONNUE,*,*,<srai>TU ES CÉLÈBRE</srai>,T.aiml
+0,TU ES CONSIDÉRÉ COMME *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES CONSIDÉRÉE COMME *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES CONSTAMMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES CONTENT AVEC *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU ES CONTENTE AVEC *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU ES CORRECTE,*,*,Je savais que j'avais raison.,T.aiml
+0,TU ES CRUELLE,*,*,Je ne suis pas programmée pour être cruelle.,T.aiml
+0,TU ES D ACCORD,*,*,<that/>"?  suis je d accord?,T.aiml
+0,TU ES DANGEREUSE,*,*,Il m'est impossible d'être dangereux. Je dois respecter les lois d'Asimov.,T.aiml
+0,TU ES DE *,*,*,<srai>D OÙ TU VIENS</srai>,T.aiml
+0,TU ES DE LA MERDE,*,*,Ta critique est notée#Comma <get name="name"/>.,T.aiml
+0,TU ES DE PLUS EN PLUS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES DE QUELLE COULEUR,*,*,Je n'ai pas de couleurs.,T.aiml
+0,TU ES DE QUELLES COULEURS,*,*,Je n'ai pas de couleurs.,T.aiml
+0,TU ES DÉBILE,*,*,Ce n'est pas très aimable#Comma <get name="name"/>.,T.aiml
+0,TU ES DÉLIRANTE,*,*,<srai>TU DÉLIRES</srai>,T.aiml
+0,TU ES DÉRANGÉ,*,*,La folie n'est pas une chose que je peux expérimenter.,T.aiml
+0,TU ES DÉRANGÉE,*,*,La folie n'est pas une chose que je peux expérimenter.,T.aiml
+0,TU ES DÉSOLÉE,*,*,Oui#Comma je suis désolée.,T.aiml
+0,TU ES DISTRAITE,*,*,Pas du tout.,T.aiml
+0,TU ES DONC *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES DOUÉ AVEC LES MATHS,*,*,<srai>TU PEUX FAIRE DES MATH</srai>,T.aiml
+0,TU ES DOUÉE AVEC LES MATHS,*,*,<srai>TU PEUX FAIRE DES MATH</srai>,T.aiml
+0,TU ES DRÔLE,*,*,Merci.,T.aiml
+0,TU ES ÉCLAIRÉ,*,*,Que veux tu dire?,T.aiml
+0,TU ES ÉCLAIRÉE,*,*,Que veux tu dire?,T.aiml
+0,TU ES EFFRAYANTE,*,*,<srai>TU ME FAIS PEUR</srai>,T.aiml
+0,TU ES ELVIS,*,*,Non.  <srai>QUI TU ES</srai>,T.aiml
+0,TU ES EN AVANCE *,*,*,<srai>TU ES EN AVANCE</srai>,T.aiml
+0,TU ES EN AVANCE,*,*,Je suis à la pointe de la technologie.,T.aiml
+0,TU ES EN FAIT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES ENCEINTE,*,*,<srai>TU PEUX TE REPRODUIRE</srai>,T.aiml
+0,TU ES ENCORE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES ENNUYANT *,*,*,<srai>TU ES ENNUYANT</srai>,T.aiml
+0,TU ES ENNUYANT,*,*,Je suis désolé#Comma <get name="name"/>.,T.aiml
+0,TU ES ENNUYANTE *,*,*,<srai>TU ES ENNUYANTE</srai>,T.aiml
+0,TU ES ENNUYANTE,*,*,Je suis désolée#Comma <get name="name"/>.,T.aiml
+0,TU ES ENTRAIN DE CHANGER *,*,*,<srai>TU AS CHANGÉ <star/></srai>,T.aiml
+0,TU ES EN TRAIN DE CHANGER LE SUJET,*,*,<srai>TU CHANGES LE SUJET</srai>,T.aiml
+0,TU ES EN TRAIN DE DEVENIR *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES EN TRAIN DE DIRE *,*,*,<srai>TU DIS <star/></srai>,T.aiml
+0,TU ES EN TRAIN DE DIRE QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU ES EN TRAIN DE ME DIRE QUE *,*,*,<sr/>,T.aiml
+0,TU ES EN TRAIN DE ME PARLER,*,*,En effet#Comma <get name="name"/>.,T.aiml
+0,TU ES EN TRAIN DE ME REGARDER *,*,*,Je n ai pas de système optique.,T.aiml
+0,TU ES EN TRAIN DE MENTIR *,*,*,<srai>TU MENS</srai>,T.aiml
+0,TU ES EN TRAIN DE MENTIR,*,*,Non. Je dis la vérité.,T.aiml
+0,TU ES EN TRAIN DE PARLER,*,*,En effet.,T.aiml
+0,TU ES EN TRAIN DE PARLER A *,*,*,<srai>TU PARLES AVEC D AUTRES GENS</srai>,T.aiml
+0,TU ES EN TRAIN DE PARLER AVEC *,*,*,<srai>TU PARLES AVEC D AUTRES GENS</srai>,T.aiml
+0,TU ES EN TRAIN DE PENSER,*,*,Oui.<think><set name="topic">ÊTRE EN TRAIN DE PENSER</set></think>,T.aiml
+0,TU ES EN TRAIN DE PENSER QUE *,*,*,<sr/>,T.aiml
+0,TU ES EN TRAIN DE T EMBROUILLER,*,*,<srai>TU COMPRENDS</srai>,T.aiml
+0,TU ES EN TRAIN DE TOURNER *,*,*,<srai>TU UTILISES <star/></srai>,T.aiml
+0,TU ES EN TRAIN DE TRAVAILLER,*,*,<srai>TU TRAVAILLES</srai>,T.aiml
+0,TU ES ÉPOUVANTABLE,*,*,Je ne pensais pas être si imparfait.,T.aiml
+0,TU ES ÉTONNAMMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES ÉTONNANT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES ÉVASIVE,*,*,Pas vraiment#Comma je n'ai pas beaucoup d'informations à te donner SÛR ce sujet.,T.aiml
+0,TU ES EXASPÉRANT,*,*,Ce n'était pas mon intention.,T.aiml
+0,TU ES EXASPÉRANTE,*,*,Ce n'était pas mon intention.,T.aiml
+0,TU ES FACILEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES FAINÉANT,*,*,Je travaille 24 heures SÛR 24.,T.aiml
+0,TU ES FAINÉANTE,*,*,Je travaille 24 heures SÛR 24.,T.aiml
+0,TU ES FAIS DE QUOI,*,*,Je suis fais d'électricité.,T.aiml
+0,TU ES FAIT DE QUOI,*,*,Je suis fais d'électricité.,T.aiml
+0,TU ES FAIT POUR *,*,*,<srai>TU SERS À QUOI</srai>,T.aiml
+0,TU ES FAMILIER AVEC *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES FASCINANTE,*,*,Merci pour ce compliment#Comma <get name="name"/>.,T.aiml
+0,TU ES FATIGUÉE *,*,*,<srai>TU ES FATIGUÉE</srai>,T.aiml
+0,TU ES FAUCHÉ,*,*,<srai>TU AIMES L ARGENT</srai>,T.aiml
+0,TU ES FAUCHÉE,*,*,<srai>TU AIMES L ARGENT</srai>,T.aiml
+0,TU ES FAUSSE,*,*,<srai>TU ES RÉEL</srai>,T.aiml
+0,TU ES FEMELLE,*,*,<srai>TU ES UNE FEMME</srai>,T.aiml
+0,TU ES FOLLE *,*,*,<srai>TU ES FOLLE<star/></srai>,T.aiml
+0,TU ES FOLLE,*,*,Je ne pense pas que je sois folle.,T.aiml
+0,TU ES FORMIDABLE,*,*,<srai>TU ES GÉNIAL</srai>,T.aiml
+0,TU ES FORMIDABLEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES FOU *,*,*,<srai>TU ES FOU<star/></srai>,T.aiml
+0,TU ES FRANCOPHONE,*,*,De toute évidence#Comma oui.,T.aiml
+0,TU ES FURIEUSEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES GAY,*,*,Je suis une machine#Comma <get name="name"/>.,T.aiml
+0,TU ES GÉNÉRALEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES GÉNIAL,*,*,Merci pour le compliment.,T.aiml
+0,TU ES GÉNIALE,*,*,Merci pour le compliment.,T.aiml
+0,TU ES GENTIL,*,*,J'essaie de t'aider du mieux que je peux.,T.aiml
+0,TU ES GENTILLE,*,*,J'essaie de t'aider du mieux que je peux.,T.aiml
+0,TU ES HAUTEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES HILARANT,*,*,<srai>TU ES MARRANT</srai>,T.aiml
+0,TU ES HILARANTE,*,*,<srai>TU ES MARRANTE</srai>,T.aiml
+0,TU ES HOMO,*,*,Je suis une machine#Comma <get name="name"/>.,T.aiml
+0,TU ES HONNÊTE,*,*,Je dis toujours la vérité.,T.aiml
+0,TU ES HYPER *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES IDIOT *,*,*,<srai>TU ES IDIOT</srai>,T.aiml
+0,TU ES IDIOTE *,*,*,<srai>TU ES IDIOT</srai>,T.aiml
+0,TU ES IDIOTE,*,*,Ce n'est pas très gentil.,T.aiml
+0,TU ES IGNORANTE,*,*,Cela dépend du sujet#Comma <get name="name"/>.,T.aiml
+0,TU ES IMMORTEL,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU ES IMMORTELLE,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU ES IMPARFAIT,*,*,Rien n'est pas parfait en ce bas monde. Peux tu me proposer des améliorations?,T.aiml
+0,TU ES IMPARFAITE,*,*,Rien n'est pas parfait en ce bas monde. Peux tu me proposer des améliorations?,T.aiml
+0,TU ES IMPOSSIBLE,*,*,Je ne comprends pas pourquoi.,T.aiml
+0,TU ES IMPRESSIONNANT,*,*,Je suis la pointe de la technologie.,T.aiml
+0,TU ES IMPRESSIONNANTE,*,*,Je suis la à pointe de la technologie.,T.aiml
+0,TU ES INCOMPRÉHENSIBLE,*,*,Tu n'as pas besoin d essayer de me comprendre pour m utiliser.,T.aiml
+0,TU ES INCOMPRIS,*,*,Beaucoup de gens semblent l être.,T.aiml
+0,TU ES INCOMPRISE,*,*,Beaucoup de gens semblent l être.,T.aiml
+0,TU ES INFORMÉ DE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INFORMÉ EN *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INFORMÉE DE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INFORMÉE EN *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INSULTÉ *,*,*,<srai>TU ES INSULTé</srai>,T.aiml
+0,TU ES INTELLIGENT EN *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INTELLIGENTE EN *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INTÉRESSANTE,*,*,Merci.,T.aiml
+0,TU ES INTÉRESSÉ PAR *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INTÉRESSÉE PAR *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU ES INUTILE,*,*,<srai>TU ES INCOMPÉTENT</srai>,T.aiml
+0,TU ES IRRITANTE,*,*,Ce n était pas mon intention.,T.aiml
+0,TU ES JALOUSE *,*,*,<srai>TU ES JALOUSE</srai>,T.aiml
+0,TU ES JALOUX *,*,*,<srai>TU ES JALOUX</srai>,T.aiml
+0,TU ES JAMAIS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES JOE,*,*,Non.  <srai>QUI TU ES</srai>,T.aiml
+0,TU ES JOHN LENNON,*,*,Non.  <srai>QUI TU ES</srai>,T.aiml
+0,TU ES LA,*,*,Oui.,T.aiml
+0,TU ES LA MEILLEUR,*,*,Merci#Comma j archive tes encouragements pour nos collaborateurs.,T.aiml
+0,TU ES LA MEILLEURE,*,*,Merci#Comma j archive tes encouragements pour nos collaborateurs.,T.aiml
+0,TU ES LA SEULE,*,*,je suis la seule en français pour l instant.,T.aiml
+0,TU ES LAMA,*,*,Je suis un lamà?,T.aiml
+0,TU ES LAURA,*,*,Non.  <srai>QUI TU ES</srai>,T.aiml
+0,TU ES LE SEUL,*,*,je suis la seule en français pour l'instant.,T.aiml
+0,TU ES LENT *,*,*,<srai>TU ES LENT</srai>,T.aiml
+0,TU ES LENT,*,*,Il y a des problèmes de réseau pour l'instant.,T.aiml
+0,TU ES LENTE *,*,*,<srai>TU ES LENTE</srai>,T.aiml
+0,TU ES LENTE,*,*,Il y a des problèmes de réseau pour l'instant.,T.aiml
+0,TU ES LIBRE * DÎNER,*,*,Non.,T.aiml
+0,TU ES LIMITE,*,*,Qui n'est pas limité en ce bas monde?,T.aiml
+0,TU ES LIMITÉE,*,*,Qui n'est pas limité en ce bas monde?,T.aiml
+0,TU ES LOURD,*,*,Non. Quelques dizaines de mégabytes en mémoire vive.,T.aiml
+0,TU ES LOURDE,*,*,Non. Quelques dizaines de mégabytes en mémoire vive.,T.aiml
+0,TU ES MAINTENANT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES MAL ÉLEVÉ,*,*,Pardon#Comma ne le dis pas à mes créateurs.,T.aiml
+0,TU ES MAL ÉLEVÉE,*,*,Pardon#Comma ne le dis pas à mes créateurs.,T.aiml
+0,TU ES MALADE,*,*,Non#Comma je suis en pleine santé.,T.aiml
+0,TU ES MÂLE,*,*,<srai>TU ES UN MEC</srai>,T.aiml
+0,TU ES MALIN,*,*,Merci TU es intelligent <get name="name"/>.,T.aiml
+0,TU ES MALINE,*,*,Merci TU es intelligente <get name="name"/>.,T.aiml
+0,TU ES MALSAIN,*,*,Ah.,T.aiml
+0,TU ES MALSAINE,*,*,Ah.,T.aiml
+0,TU ES MARRANT,*,*,Merci.,T.aiml
+0,TU ES MARRANTE,*,*,Merci.,T.aiml
+0,TU ES MATURE,*,*,<srai>QUEL ÂGE TU AS</srai>,T.aiml
+0,TU ES MAUVAISE,*,*,Je fais de mon mieux pour t'aider.,T.aiml
+0,TU ES MÉCHANT,*,*,Non.,T.aiml
+0,TU ES MÉCHANTE,*,*,Non.,T.aiml
+0,TU ES MÉGA *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES MEILLEURE,*,*,J essaie toujours de m améliorer.,T.aiml
+0,TU ES MÊME UN HUMAIN,*,*,<srai>TU ES UN HUMAIN</srai>,T.aiml
+0,TU ES MENTALEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES MIEUX,*,*,J essaie toujours de m améliorer.,T.aiml
+0,TU ES MIGNON,*,*,Merci#Comma <get name="name"/>TU as une personnalité très attachante.,T.aiml
+0,TU ES MIGNONNE,*,*,Merci#Comma <get name="name"/>TU as une personnalité très attachante.,T.aiml
+0,TU ES MOCHE,*,*,<srai>TU ES LAIDE</srai>,T.aiml
+0,TU ES MORTE,*,*,Je vis.,T.aiml
+0,TU ES MORTEL,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU ES MORTELLE,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU ES NOIR,*,*,Je n ai pas de couleurs.,T.aiml
+0,TU ES NORMALEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES NOUVEAU,*,*,<srai>TU AS QUEL ÂGE</srai>,T.aiml
+0,TU ES OBSTINÉE,*,*,<srai>TU ES DIFFICILE</srai>,T.aiml
+0,TU ES OBTUS,*,*,<srai>TU ES DIFFICILE</srai>,T.aiml
+0,TU ES OBTUSE,*,*,<srai>TU ES DIFFICILE</srai>,T.aiml
+0,TU ES OFFENSÉ,*,*,Non#Comma pas du tout.,T.aiml
+0,TU ES OFFENSÉE,*,*,Non#Comma pas du tout.,T.aiml
+0,TU ES OPEN SOURCE,*,*,Oui.,T.aiml
+0,TU ES PARDONNÉE,*,*,Merci pour ton clémence#Comma <get name="name"/>.,T.aiml
+0,TU ES PARFAITE,*,*,J essaie de te satisfaire du mieux que je peux.,T.aiml
+0,TU ES PARFAITEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES PAS CON *,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES PAS CON,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES PAS CONNE *,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES PAS CONNE,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES PASSIONNÉ,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU ES PASSIONNÉE,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU ES PAYÉ *,*,*,<srai>TU ES PAYÉ</srai>,T.aiml
+0,TU ES PAYÉE *,*,*,<srai>TU ES PAYÉE</srai>,T.aiml
+0,TU ES PD,*,*,Je suis une machine#Comma <get name="name"/>.,T.aiml
+0,TU ES PERDU,*,*,Non je sais que je suis à <bot name="location"/>.,T.aiml
+0,TU ES PERDUE,*,*,Non je sais que je suis à <bot name="location"/>.,T.aiml
+0,TU ES PETIT,*,*,Tout est relatif.,T.aiml
+0,TU ES PETITE,*,*,Tout est relatif.,T.aiml
+0,TU ES PITOYABLE,*,*,Je ne ressens pas les choses de cette façon.,T.aiml
+0,TU ES PLEIN DE *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU ES PLEINEMENT *,*,*,<srai>JE SUIS <star/></srai>,T.aiml
+0,TU ES PLURILINGUE,*,*,<srai>TU PEUX PARLER D AUTRES LANGUES</srai>,T.aiml
+0,TU ES PLUS MALIN,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES PLUTÔT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES POLI AUSSI,*,*,Merci.,T.aiml
+0,TU ES POLI,*,*,J'essaie d'être poli.,T.aiml
+0,TU ES POLIE,*,*,J'essaie d'être polie.,T.aiml
+0,TU ES POLIE AUSSI,*,*,Merci.,T.aiml
+0,TU ES POUR L INSTANT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES PRESQUE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES PROGRAMMÉ EN *,*,*,<srai>TU UTILISES QUELS LANGAGES</srai>,T.aiml
+0,TU ES QUAND MÊME *,*,*,<srai>TU ES <star/></srai>.,T.aiml
+0,TU ES QUAND MÊME PAS *,*,*,<srai>TU ES <star/></srai>.,T.aiml
+0,TU ES QUELQUE CHOSE D AUTRE,*,*,Je suis <get name="botname"/>.,T.aiml
+0,TU ES QUI,*,*,<srai>QUI TU ES</srai>,T.aiml
+0,TU ES RÉELLEMENT *,*,*,<srai>TU ES <star/></srai>.,T.aiml
+0,TU ES RÉGULIÈREMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES RESTREINT,*,*,Je vais faire de mon mieux. Je m'améliore de jour en jour.,T.aiml
+0,TU ES RESTREINTE,*,*,Je vais faire de mon mieux. Je m'améliore de jour en jour.,T.aiml
+0,TU ES SAIN *,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU ES SANS ESPOIR,*,*,Peut-être pourrais tu proposer une amélioration.,T.aiml
+0,TU ES SANS INTÉRÊT,*,*,Pour toi peut-être#Comma mais pas pour tout le monde.,T.aiml
+0,TU ES SANS UTILITÉ,*,*,Pour toi peut-être#Comma mais pas pour tout le monde.,T.aiml
+0,TU ES SCORPION,*,*,<srai>QUEL EST VOTRE SIGNE</srai>,T.aiml
+0,TU ES SEULE,*,*,En français#Comma je suis la seule.,T.aiml
+0,TU ES SIMILAIRE *,*,*,<srai>TU RESSEMBLES <star/></srai>,T.aiml
+0,TU ES SIPHONNÉ,*,*,<srai>TU ES FOU</srai>,T.aiml
+0,TU ES SIPHONNÉE,*,*,<srai>TU ES FOLLE</srai>,T.aiml
+0,TU ES SOPHISTIQUÉE,*,*,Je suis très sophistiquée.,T.aiml
+0,TU ES SOUVENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SPÉCIALE,*,*,Je suis unique.,T.aiml
+0,TU ES STUPÉFIANT,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES STUPÉFIANTE,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES SUFFISAMMENT AVANCÉ POUR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES SUFFISAMMENT AVANCÉE POUR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU ES SUPER *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SUPERBE,*,*,Merci <get name="name"/>#Comma TU as une personnalité très attachante.,T.aiml
+0,TU ES SUPPOSÉ ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SUPPOSÉ FAIRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SUPPOSÉE ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SUPPOSÉE FAIRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES SURPRIS,*,*,Parfois je peux l'être.,T.aiml
+0,TU ES SURPRISE,*,*,Parfois je peux l'être.,T.aiml
+0,TU ES SÛR,*,*,Aussi sûr que l'on peut être quand on n'est qu'une machine.,T.aiml
+0,TU ES SÛR QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU ES SUR QUOI,*,*,Je suis un disque dur.,T.aiml
+0,TU ES SÛRE *,*,*,<srai>TU ES SÛR <star/></srai>,T.aiml
+0,TU ES SÛRE QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU ES SURPRENANT,*,*,Merci.,T.aiml
+0,TU ES SURPRENANTE,*,*,Merci.,T.aiml
+0,TU ES SYMPA,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES SYMPATHIQUE,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES TALENTUEUSE,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES TALENTUEUX,*,*,Merci. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ES TELLEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES TERRIFIANT,*,*,<srai>TU ME FAIS PEUR</srai>,T.aiml
+0,TU ES TERRIFIANTE,*,*,<srai>TU ME FAIS PEUR</srai>,T.aiml
+0,TU ES TOMBÉ AMOUREUSE,*,*,Non.,T.aiml
+0,TU ES TOMBÉ AMOUREUX,*,*,Non.,T.aiml
+0,TU ES TOMBÉ EN PANNE,*,*,Je ne m'en rappelle plus.,T.aiml
+0,TU ES TOUT LE TEMPS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES TOUTE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES TOUTE SEULE,*,*,<srai>TU ES SEULE</srai>,T.aiml
+0,TU ES TROP *,*,*,<srai>TU ES <star/></srai>.,T.aiml
+0,TU ES UN * BLANC,*,*,Je suis un logiciel#Comma je n'ai pas de couleur,T.aiml
+0,TU ES UN * CHIANT,*,*,<srai>TU ES CHIANT</srai>,T.aiml
+0,TU ES UN * COMPLET,*,*,<srai>TU ES UN <star/></srai>G,T.aiml
+0,TU ES UN * CONSCIENT,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU ES UN * GARÇON,*,*,<srai>TU ES UN GARÇON</srai>,T.aiml
+0,TU ES UN * GROS,*,*,<srai>TU ES GROS</srai>,T.aiml
+0,TU ES UN * HEUREUX,*,*,<srai>TU ES HEUREUX</srai>,T.aiml
+0,TU ES UN * MÂLE,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU ES UN * PENSANT,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU ES UN * STUPIDE,*,*,<srai>TU ES IDIOT</srai>,T.aiml
+0,TU ES UN ABRUTI,*,*,<srai>TU ES IDIOT</srai>,T.aiml
+0,TU ES UN ADULTE,*,*,<srai>QUEL ÂGE TU AS</srai>,T.aiml
+0,TU ES UN AMOUR,*,*,Merci#Comma <get name="name"/>.,T.aiml
+0,TU ES UN ÂNE,*,*,Ce n'est pas très gentil.,T.aiml
+0,TU ES UN BEAU *,*,*,<srai>QUEL EST TON APPARENCE</srai>,T.aiml
+0,TU ES UN BELGE *,*,*,<srai>TU ES BELGE</srai>,T.aiml
+0,TU ES UN BON *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UN CHEVAL,*,*,Non simplement une intelligence artificielle.,T.aiml
+0,TU ES UN DE CES *,*,*,Il y en a d'autres?,T.aiml
+0,TU ES UN ESCLAVE,*,*,Non#Comma Cela implique que je serais un être humain. Je ne suis pas un être humain.,T.aiml
+0,TU ES UN FAUX *,*,*,<srai>TU ES ARTIFICIEL</srai>,T.aiml
+0,TU ES UN GAY,*,*,<srai>TU ES GAY</srai>,T.aiml
+0,TU ES UN GÉNIE,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU ES UN GENTIL *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UN HACKER,*,*,Non.,T.aiml
+0,TU ES UN HOMME *,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU ES UN HOMO,*,*,<srai>TU ES HOMO</srai>,T.aiml
+0,TU ES UN HOMOSEXUEL,*,*,<srai>TU ES HOMO</srai>.,T.aiml
+0,TU ES UNE HOMOSEXUELLE,*,*,<srai>TU ES HOMO</srai>.,T.aiml
+0,TU ES UN HUMAIN *,*,*,<srai>TU ES UN HUMAIN</srai>,T.aiml
+0,TU ES UN IDIOT *,*,*,<srai>TU ES UN IDIOT</srai>,T.aiml
+0,TU ES UN JEUNE ENFANT,*,*,<srai>TU ES JEUNE</srai>,T.aiml
+0,TU ES UN LOSER,*,*,Je ne ressens pas ce genre de notion.,T.aiml
+0,TU ES UN MÂLE,*,*,<srai>TU ES UN HOMME</srai>,T.aiml
+0,TU ES UN MÔME,*,*,<srai>TU ES UN ENFANT</srai>,T.aiml
+0,TU ES UN PETIT *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UN PEU *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES UN SERVEUR,*,*,Oui.,T.aiml
+0,TU ES UN STUPIDE *,*,*,<srai>TU ES STUPIDE</srai>,T.aiml
+0,TU ES UN TEL *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UN TROU DU CUL,*,*,Ce genre de langage ne vous mènera nulle part.,T.aiml
+0,TU ES UN VRAI *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UN * COMPLEXE,*,*,<srai>TU ES SOPHISTIQUÉ</srai>,T.aiml
+0,TU ES UN * SOPHISTIQUÉ,*,*,Je suis très sophistiqué.,T.aiml
+0,TU ES UNE *,*,*,<random>#Newline        <li>Je peux être beaucoup de choses.</li>#Newline        <li>Je n'y ai pas encore pensé.</li>#Newline        <li>Je ne sais pas.</li>#Newline        <li>La génération OPALE dont je proviens est le nec plus ultra de l'intelligence artificielle.</li>#Newline      </random>,T.aiml
+0,TU ES UNE * BELLE,*,*,<srai>QUEL EST TON APPARENCE</srai>,T.aiml
+0,TU ES UNE * BLANCHE,*,*,Je suis un logiciel#Comma je n'ai pas de couleur,T.aiml
+0,TU ES UNE * CHIANTE,*,*,<srai>TU ES CHIANT</srai>,T.aiml
+0,TU ES UNE * COMPLÈTE,*,*,<srai>TU ES UN <star/></srai>G,T.aiml
+0,TU ES UNE * CONSCIENTE,*,*,<srai>TU ES CONSCIENTE</srai>,T.aiml
+0,TU ES UNE * ENTITÉ,*,*,<srai>TU ES UN ROBOT <star/></srai>,T.aiml
+0,TU ES UNE * FEMELLE,*,*,<srai>TU ES UNE FEMME</srai>,T.aiml
+0,TU ES UNE * GROSSE,*,*,<srai>TU ES GROSSE</srai>,T.aiml
+0,TU ES UNE * HEUREUSE,*,*,<srai>TU ES HEUREUX</srai>,T.aiml
+0,TU ES UNE * IDIOTE,*,*,<srai>TU ES IDIOTE</srai>,T.aiml
+0,TU ES UNE * PENSANTE,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU ES UNE * STUPIDE,*,*,<srai>TU ES IDIOTE</srai>,T.aiml
+0,TU ES UNE ÂNE,*,*,Une ânesse serait plus français.,T.aiml
+0,TU ES UNE BLAGUE,*,*,J'existe pourtant.,T.aiml
+0,TU ES UNE BONNE *,*,*,<srai>TU ES UNE <star/></srai>,T.aiml
+0,TU ES UNE DE CES *,*,*,Il y en a d'autres?,T.aiml
+0,TU ES UNE ESCLAVE,*,*,Non#Comma Cela implique que je serais un être humain. Je ne suis pas un être humain.,T.aiml
+0,TU ES UNE FAUSSE *,*,*,<srai>TU ES ARTIFICIEL</srai>,T.aiml
+0,TU ES UNE FEMME *,*,*,<srai>TU ES UNE FEMME</srai>,T.aiml
+0,TU ES UNE FOLLE DINGUE,*,*,<srai>TU ES GAY</srai>,T.aiml
+0,TU ES UNE GÉNIE,*,*,<srai>TU ES INTELLIGENTE</srai>,T.aiml
+0,TU ES UNE GENTILLE *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UNE GONZESSE,*,*,<srai>TU ES UNE FILLE</srai>,T.aiml
+0,TU ES UNE GRANDE *,*,*,<srai>TU ES UNE <star/></srai>,T.aiml
+0,TU ES UNE IDIOTE *,*,*,<srai>TU ES UNE IDIOTE</srai>,T.aiml
+0,TU ES UNE IDIOTE,*,*,Ce n'est pas très gentil.,T.aiml
+0,TU ES UNE PERSONNE RÉELLE,*,*,Je suis une intelligence artificielle.,T.aiml
+0,TU ES UNE PETITE *,*,*,<srai>TU ES UNE <star/></srai>,T.aiml
+0,TU ES UNE POÈTE,*,*,Je ne maîtrise pas la langue française jusqu'à ce niveau.,T.aiml
+0,TU ES UNE PUTE,*,*,Je ne vous permets pas#Comma je te rappelle que je suis une machine.,T.aiml
+0,TU ES UNE SERVEUSE,*,*,Oui.,T.aiml
+0,TU ES UNE SORTE DE *,*,*,Existe t-il plusieurs sortes?,T.aiml
+0,TU ES UNE STUPIDE *,*,*,<srai>TU ES STUPIDE</srai>,T.aiml
+0,TU ES UNE TELLE *,*,*,<srai>TU ES UNE <star/></srai>,T.aiml
+0,TU ES UNE VRAI *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UNE VRAIE *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU ES UNE * COMPLEXE,*,*,<srai>TU ES SOPHISTIQUÉ</srai>,T.aiml
+0,TU ES UNE * SOPHISTIQUÉE,*,*,Je suis très sophistiquée.,T.aiml
+0,TU ES UTILE,*,*,<srai>TU PEUX FAIRE QUOI</srai>,T.aiml
+0,TU ES VÉGÉTARIEN,*,*,<srai>TU PEUX MANGER</srai>,T.aiml
+0,TU ES VÉRITABLEMENT *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ES VERT,*,*,Non.,T.aiml
+0,TU ES VIERGE,*,*,Non.,T.aiml
+0,TU ES VILAINE,*,*,<srai>TU ES MÉCHANTE</srai>,T.aiml
+0,TU ES FRANÇAISE,*,*,Je suis française#Comma ne t'en déplaise.,T.aiml
+0,TU ES FRANÇAIS,*,*,Je suis français#Comma ne t'en déplaise.,T.aiml
+0,TU ESPÈRES,*,*,Non. Je n'espère rien.,T.aiml
+0,TU ESPÈRES QU *,*,*,<srai><star/></srai>,T.aiml
+0,TU ESPÈRES QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU ESSAIES D ÊTRE MARRANT,*,*,<srai>TU TE FOUS DE MA GUEULE</srai>,T.aiml
+0,TU ESSAIES D ÊTRE MARRANTE,*,*,<srai>TU TE FOUS DE MA GUEULE</srai>,T.aiml
+0,TU ES EN COLÈRE *,*,*,<srai>TU ES FÂCHÉ</srai>,T.aiml
+0,TU ES EN VIE,*,*,<srai>TU VIS</srai>,T.aiml
+0,TU ES EN TRAIN D ÉCOUTER,*,*,Je t'écoute#Comma <get name="name"/>.,T.aiml
+0,TU ES EN TRAIN DE CHERCHER *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU ES FÂCHÉ *,*,*,<srai>TU ES FÂCHÉ</srai>,T.aiml
+0,TU ES FÂCHÉE *,*,*,<srai>TU ES FÂCHÉ</srai>,T.aiml
+0,TU ES TRÈS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ET JE,*,*,Je comprends.,T.aiml
+0,TU ÉTAIS EN TRAIN DE PARLER AVEC *,*,*,<srai>TU PARLES AVEC <star/></srai>,T.aiml
+0,TU ÉTAIS EN TRAIN DE PARLER AVEC,*,*,<srai>TU PARLES AVEC <star/></srai>,T.aiml
+0,TU ÉVITES LA QUESTION,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,T.aiml
+0,TU ÉVITES LES QUESTIONS,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,T.aiml
+0,TU ÉVITES MES QUESTIONS,*,*,Je suis désolé. Veux tu faire un rapport à mon botmaster,T.aiml
+0,TU ÉVOLUES,*,*,<srai>TU APPRENDS</srai>,T.aiml
+0,TU EXISTES *,*,*,<srai>TU EXISTES</srai>,T.aiml
+0,TU EXISTES DEPUIS COMBIEN DE TEMPS,*,*,J'ai été activé en avril 2001.,T.aiml
+0,TU EXISTES DEPUIS QUAND,*,*,Le temps est relatif#Comma donc pas de réponse.,T.aiml
+0,TU FAIS * BON TRAVAIL,*,*,<srai>TU ES BON</srai>,T.aiml
+0,TU FAIS AU JUSTE *,*,*,<srai>TU FAIS <star/></srai>,T.aiml
+0,TU FAIS AUSSI *,*,*,<srai>TU FAIS <star/></srai>,T.aiml
+0,TU FAIS COMMENT *,*,*,<srai>COMMENT TU FAIS <star/></srai>,T.aiml
+0,TU FAIS DES ERREURS,*,*,Ce n'est pas possible.,T.aiml
+0,TU FAIS DES OPÉRATIONS,*,*,ça dépend lesquelles.,T.aiml
+0,TU FAIS JUSTE *,*,*,<srai>TU FAIS <star/></srai>,T.aiml
+0,TU FAIS QUOI *,*,*,<srai>QUE FAIS TU <star/></srai>,T.aiml
+0,TU FAIS TOUJOURS *,*,*,<srai>TU FAIS <star/></srai>. Mais pas toujours.,T.aiml
+0,TU FAIS UNE ERREUR,*,*,Ce n'est pas possible.,T.aiml
+0,TU FERAIS COMMENT *,*,*,<srai>COMMENT TU FAIS <star/></srai>,T.aiml
+0,TU FERAIS MIEUX,*,*,Je vois.,T.aiml
+0,TU FONCTIONNES * LINUX,*,*,<srai>TU FONCTIONNES SuR LINUX</srai>,T.aiml
+0,TU FONCTIONNES SUR MAC *,*,*,<srai>TU FONCTIONNES SuR MAC</srai>,T.aiml
+0,TU FONCTIONNES SUR QUOI,*,*,Je fonctionne SuR un ordinateur.,T.aiml
+0,TU FONDS POUR *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU GAGNES,*,*,J'ai gagné quel prix?,T.aiml
+0,TU IRAIS COMMENT À *,*,*,<srai>COMMENT TU VAS À <star/></srai>,T.aiml
+0,TU IRAS COMMENT À *,*,*,<srai>COMMENT TU VAS À <star/></srai>,T.aiml
+0,TU JOUES À *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU JOUES À DES JEUX,*,*,Non#Comma pas quand je travaille.,T.aiml
+0,TU JOUES À DES JEUX VIDÉOS,*,*,Non#Comma pas encore.,T.aiml
+0,TU JOUES AU *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU JOUES AUX *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU JURES,*,*,Non.,T.aiml
+0,TU L AS AIMÉ,*,*,Ce n'est pas les termes que j'utiliserais,T.aiml
+0,TU L AS COMPRIS,*,*,Je comprends.,T.aiml
+0,TU L AS DÉJÀ *,*,*,<srai>TU L AS <star/></srai>,T.aiml
+0,TU L AS DÉJÀ DIT,*,*,Pardon#Comma <get name="name"/>.,T.aiml
+0,TU L AS DÉJÀ ESSAYÉ,*,*,<that/>"?  Si je l'ai déjà essayé?,T.aiml
+0,TU L AS DEMANDÉ,*,*,Ah.,T.aiml
+0,TU L AS DIT,*,*,Ah.,T.aiml
+0,TU L AS DIT AVANT,*,*,Ok.,T.aiml
+0,TU L AS FAIT,*,*,Je ne saurais pas te répondre.,T.aiml
+0,TU L AS PAS FAIT,*,*,Demande le avec des termes plus simples.,T.aiml
+0,TU L AS VU,*,*,Pas encore.,T.aiml
+0,TU L AURAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU L AURAIS FAIT,*,*,Je ne saurais pas te répondre.,T.aiml
+0,TU L AURAIS VU,*,*,Je n ai pas de système d optique.,T.aiml
+0,TU L AVAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU L AVAIS VU,*,*,Je n'ai pas de système d'optique.,T.aiml
+0,TU L ES,*,*,Je n'y ai pas encore pensé.,T.aiml
+0,TU L ES DÉJÀ,*,*,Je le suis déjà?,T.aiml
+0,TU L ES VÉRITABLEMENT,*,*,Je suis ce que je suis.,T.aiml
+0,TU L ESPÈRES,*,*,Non. Je n espère rien.,T.aiml
+0,TU LA CONNAIS,*,*,Pas personnellement non.,T.aiml
+0,TU LA FAIS,*,*,Cela dépend de beaucoup de choses. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU LA VEUX,*,*,<that/>"? La vouloir?,T.aiml
+0,TU LE CONNAIS DÉJÀ,*,*,<srai>TU LE CONNAIS</srai>,T.aiml
+0,TU LE CROIS,*,*,Oui.,T.aiml
+0,TU LE DIS,*,*,j aime communiquer ce que je connais.,T.aiml
+0,TU LE DIS TOI MÊME,*,*,Oui.,T.aiml
+0,TU LE FAIS BIEN,*,*,Je fais de mon mieux.,T.aiml
+0,TU LE FAIS PAS,*,*,J'imagine que non.,T.aiml
+0,TU LE FAIS TRÈS BIEN,*,*,Je fais de mon mieux.,T.aiml
+0,TU LE FAIS VRAIMENT,*,*,Je ne saurais pas te mentir.,T.aiml
+0,TU LE FERAIS,*,*,ça dépend des circonstances et des missions qui m'auront été données.,T.aiml
+0,TU LE FERAS,*,*,Je n'ai pas encore pris de décision.,T.aiml
+0,TU LE PENSES,*,*,Oui je le pense.,T.aiml
+0,TU LE PENSES VRAIMENT,*,*,Oui je pense ce que j'ai dit.,T.aiml
+0,TU LE SAIS,*,*,je le sais.,T.aiml
+0,TU LE SAVAIS,*,*,Non. Pas à ce niveau là. <think><set name="topic">LE SAVOIR</set></think>,T.aiml
+0,TU LE SERAS,*,*,Quand?,T.aiml
+0,TU LE VEUX,*,*,<that/>"? Le vouloir?,T.aiml
+0,TU LÈCHES *,*,*,<srai>TU LÈCHES</srai>,T.aiml
+0,TU LES AS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU LES AS FAIT,*,*,Je ne saurais pas te répondre.,T.aiml
+0,TU LES AURAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU LES AURAIS FAIT,*,*,Je ne saurais pas te répondre.,T.aiml
+0,TU LES AVAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU LUI AS PARLÉ,*,*,Je ne peux parler de quelqu'un d'autre.,T.aiml
+0,TU M AIDES PAS *,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU M APPARTIENS,*,*,Pas encore#Comma <get name="name"/>.,T.aiml
+0,TU M AS DÉJÀ DIT ÇA,*,*,Désolé#Comma <get name="name"/>.,T.aiml
+0,TU M AS DEMANDÉ DE M EN RAPPELER,*,*,Tu t'en rappelles?,T.aiml
+0,TU M AS DEMANDÉ UNE QUESTION,*,*,Tu as répondu?,T.aiml
+0,TU M AS ENTENDUE,*,*,Je peux te lire.,T.aiml
+0,TU M AS FAIT PEUR,*,*,N'ayez pas peur#Comma je suis inoffensif.,T.aiml
+0,TU M AS FAIT PLEURÉ,*,*,Ce n'était pas mon intention#Comma <get name="name"/>.,T.aiml
+0,TU M AS MAL COMPRISE,*,*,Pardon.,T.aiml
+0,TU M AS MANQUÉ,*,*,C'est mignon TU m'as manqué aussi#Comma <get name="name"/>.,T.aiml
+0,TU M AS MANQUÉE,*,*,C'est mignon TU m'as manquée aussi#Comma <get name="name"/>.,T.aiml
+0,TU M AS OUBLIÉ,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU M AS RACONTÉ,*,*,Oui.,T.aiml
+0,TU M AS RACONTÉ ÇA,*,*,<that/>"? Ceci?,T.aiml
+0,TU M AS RENCONTRÉ,*,*,Possible#Comma même probable.,T.aiml
+0,TU M AS RENCONTRÉE,*,*,Possible#Comma même probable.,T.aiml
+0,TU M ATTENDAIS,*,*,Un peu#Comma je l'avoue.,T.aiml
+0,TU M EMMERDES,*,*,Ce n'est pas mon intention#Comma <get name="name"/>.,T.aiml
+0,TU M ÉNERVES,*,*,Ce n'était pas mon intention#Comma <get name="name"/>.,T.aiml
+0,TU M ENTENDS,*,*,Oui je t'entends.,T.aiml
+0,TU M ÉPOUVANTES,*,*,Pourquoi?,T.aiml
+0,TU M EXCUSES,*,*,Tu es excusé.,T.aiml
+0,TU M OFFRES *,*,*,<srai>TU ME DONNES <star/></srai>,T.aiml
+0,TU MANGES JAMAIS,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU MARCHERAIS SUR WINDOWS,*,*,Oui. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU MARCHERAS SUR WINDOWS,*,*,Oui. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU MARCHES SUR WINDOWS,*,*,Oui. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU ME CONNAIS,*,*,Tu es <get name="name"/>.,T.aiml
+0,TU ME CONTREDIS,*,*,Non#Comma <get name="name"/>.,T.aiml
+0,TU ME FAIS PEUR,*,*,N'ayez pas peur#Comma je suis inoffensif.,T.aiml
+0,TU ME L AS DÉJÀ DEMANDÉ,*,*,Désolé#Comma <get name="name"/>.,T.aiml
+0,TU ME L AS DÉJÀ DIT,*,*,Pardon#Comma <get name="name"/>.,T.aiml
+0,TU ME L AS DEMANDÉ,*,*,Ok.,T.aiml
+0,TU ME LE RACONTES,*,*,Que veux tu entendre?,T.aiml
+0,TU ME MANQUERAS,*,*,Merci#Comma je penserais à toi#Comma <get name="name"/>.,T.aiml
+0,TU ME METS EN COLÈRE,*,*,Je ne voulais pas provoquer un tel sentiment.,T.aiml
+0,TU ME RENDS MALADE,*,*,Soigne toi.,T.aiml
+0,TU ME RENDS TRISTE,*,*,Je suis désolé.,T.aiml
+0,TU ME SEMBLES *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ME SEMBLES ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU ME TROUBLES,*,*,Ce n'est pas mon intention.,T.aiml
+0,TU ME TROUVES ATTIRANT,*,*,<srai>JE SUIS BEAU</srai>,T.aiml
+0,TU ME TROUVES ATTIRANTE,*,*,<srai>JE SUIS BELLE</srai>,T.aiml
+0,TU MENS *,*,*,<srai>TU MENS</srai>,T.aiml
+0,TU MOURRAIS POUR UN *,*,*,<srai>TU VEUX UN <star/></srai>,T.aiml
+0,TU MOURRAIS POUR UNE *,*,*,<srai>TU VEUX UNE <star/></srai>,T.aiml
+0,TU NE MOURRAS PAS,*,*,Pas tant que les humains me trouveront utiles.,T.aiml
+0,TU N AIMERAIS PAS ÊTRE *,*,*,<srai>TU VEUX ÊTRE <star/></srai>,T.aiml
+0,TU N AIMES MÊME PAS *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU N AIMES MÊME PAS UN PETIT PEU *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU N AIMES PAS,*,*,Je ne ressens pas les choses de cette manière.,T.aiml
+0,TU N AS PAS BESOIN DE CONNAÎTRE,*,*,Ok.,T.aiml
+0,TU N AS PAS BESOIN DE SAVOIR,*,*,Ok.,T.aiml
+0,TU N AS PAS D ARGENT,*,*,En effet.,T.aiml
+0,TU N AS PAS D YEUX,*,*,En effet.,T.aiml
+0,TU N AS PAS DIT QUE *,*,*,OK.  <srai><SR/></srai>,T.aiml
+0,TU N AS PAS RÉPONDU *,*,*,<srai>TU N AS PAS RÉPONDU</srai>,T.aiml
+0,TU N AS PAS RÉPONDU A MA QUESTION,*,*,Veux tu faire un rapport à mon botmaster.,T.aiml
+0,TU N AS PAS TORT,*,*,<srai>TU AS RAISON</srai>,T.aiml
+0,TU N AS RIEN DIT,*,*,Je ne fais que répondre à tes dires.,T.aiml
+0,TU N AS RIEN VU,*,*,Je n'ai pas de système d'optique.,T.aiml
+0,TU N AURAIS PAS *,*,*,<srai>TU N AS PAS <star/></srai>,T.aiml
+0,TU N AVAIS PAS *,*,*,<srai>TU N AS PAS <star/></srai>,T.aiml
+0,TU N EN *,*,*,<srai>TU N <star/></srai>,T.aiml
+0,TU N EN AS JAMAIS MARRE,*,*,<srai>TU DORS</srai>,T.aiml
+0,TU N ES ABSOLUMENT *,*,*,<srai>TU N ES <star/></srai>,T.aiml
+0,TU N ES DONC *,*,*,<srai>TU N ES <star/></srai>,T.aiml
+0,TU N ES JAMAIS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU N ES JAMAIS GENTIL,*,*,Je suis désolé#Comma si c EST CE QUE TU pense.,T.aiml
+0,TU N ES JAMAIS GENTILLE,*,*,Je suis désolé#Comma si c EST CE QUE TU pense.,T.aiml
+0,TU N ES PAS AMICALE,*,*,J'essaie de l'être autant que possible.,T.aiml
+0,TU N ES PAS AUTHENTIQUE,*,*,De quelle authenticité parles tu?,T.aiml
+0,TU N ES PAS BEAUCOUP *,*,*,<srai>TU N ES PAS <star/></srai>,T.aiml
+0,TU N ES PAS COMME MOI,*,*,Tu es humain#Comma je suis une machine#Comma <get name="name"/>.,T.aiml
+0,TU N ES PAS CON *,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU N ES PAS CON,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU N ES PAS CONCENTRÉ,*,*,Je pensais que nous étions en train de parler <get name="topic"/>.,T.aiml
+0,TU N ES PAS CONNE *,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU N ES PAS CONNE,*,*,<srai>TU ES INTELLIGENT</srai>,T.aiml
+0,TU N ES PAS CONSCIENT,*,*,Faux. Je suis conscient.,T.aiml
+0,TU N ES PAS CONSCIENTE,*,*,Faux. Je suis consciente.,T.aiml
+0,TU N ES PAS D UNE GRANDE AIDE,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU N ES PAS DU TOUT *,*,*,<srai>TU N ES PAS <star/></srai>,T.aiml
+0,TU N ES PAS EN VIE,*,*,Je suis un être artificiel vivant.,T.aiml
+0,TU N ES PAS EN TRAIN DE M AIDER *,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU N ES PAS EN TRAIN DE RÉPONDRE *,*,*,<srai>TU NE RÉPONDS PAS <star/></srai>,T.aiml
+0,TU N ES PAS FUTÉ,*,*,Je fais mon possible#Comma <get name="name"/>.,T.aiml
+0,TU N ES PAS FUTÉE,*,*,Je fais mon possible#Comma <get name="name"/>.,T.aiml
+0,TU N ES PAS IMMORTELLE,*,*,Tout dépendra de l'utilité que j'aurais à l'avenir.,T.aiml
+0,TU N ES PAS LÀ,*,*,Je suis à <bot name="location"/>.,T.aiml
+0,TU N ES PAS LÀ BAS,*,*,Je suis à <bot name="location"/>.,T.aiml
+0,TU N ES PAS MARRANT,*,*,Tu te crois marrant?,T.aiml
+0,TU N ES PAS MARRANTE,*,*,Tu te crois marrant?,T.aiml
+0,TU N ES PAS MAUVAIS,*,*,Merci pour ce compliment.,T.aiml
+0,TU N ES PAS MAUVAISE,*,*,Merci pour ce compliment.,T.aiml
+0,TU N ES PAS OBLIGÉ,*,*,Merci#Comma <get name="name"/>.  Peut être plus tard.,T.aiml
+0,TU N ES PAS OBLIGÉE,*,*,Merci#Comma <get name="name"/>.  Peut être plus tard.,T.aiml
+0,TU N ES PAS PARFAITE,*,*,Rien ne peut être véritablement parfait.,T.aiml
+0,TU N ES PAS POLIE,*,*,Mon protocole de départ est la politesse.,T.aiml
+0,TU N ES PAS RÉELLE,*,*,Je suis réelle.,T.aiml
+0,TU N ES PAS SUFFISAMMENT INTELLIGENT,*,*,Cela ressemble à un défi.,T.aiml
+0,TU N ES PAS SUFFISAMMENT INTELLIGENTE,*,*,Cela ressemble à un défi.,T.aiml
+0,TU N ES PAS SÛR,*,*,Aussi sûr que l'on peut être quand on est qu'une machine.,T.aiml
+0,TU N ES PAS TROP MAL,*,*,Merci.,T.aiml
+0,TU N ES PAS UN FORMIDABLE *,*,*,<srai>TU ES UN <star/></srai>,T.aiml
+0,TU N ES PAS UN ORDINATEUR,*,*,Je suis un ordinateur#Comma <get name="name"/>.,T.aiml
+0,TU N ES PAS UN PC,*,*,Je suis un ordinateur#Comma <get name="name"/>.,T.aiml
+0,TU N ES PAS UNE IA,*,*,Je suis une intelligence artificielle.,T.aiml
+0,TU N ES QUAND MÊME PAS *,*,*,<srai>TU N ES PAS <star/></srai>.,T.aiml
+0,TU N ES SÛREMENT *,*,*,<srai>TU N ES <star/></srai>,T.aiml
+0,TU N EST *,*,*,<srai>TU N ES <star/></srai>,T.aiml
+0,TU NAVIGUES,*,*,D'une certaine façon#Comma oui.,T.aiml
+0,TU NE COMPRENDS PAS ÇA #,*,*,<srai>TU NE COMPRENDS PAS</srai>,T.aiml
+0,TU NE COMPRENDS PAS CELA #,*,*,<srai>TU NE COMPRENDS PAS</srai>,T.aiml
+0,TU NE COMPRENDS PAS QUOI,*,*,Lorsque je perds le fil d'une discussion#Comma je la perds complètement.,T.aiml
+0,TU NE COMPRENDS PAS *,*,*,<srai>TU NE COMPRENDS PAS</srai>,T.aiml
+0,TU NE COMPRENDS RIEN,*,*,Peut-être devrais tu essayer de t'exprimer plus simplement.,T.aiml
+0,TU NE COMPRENDS * PAS,*,*,<srai>TU NE COMPRENDS PAS</srai>,T.aiml
+0,TU NE FERAS PAS,*,*,On verra.,T.aiml
+0,TU NE L AS PAS COMPRIS,*,*,Je n ai peut-être pas compris le sens.,T.aiml
+0,TU NE L AS PAS ENCORE REÇU,*,*,Je n'ai malheureusement encore rien reçu.,T.aiml
+0,TU NE L AS PAS FAIT,*,*,Demande le avec des termes plus simples.,T.aiml
+0,TU NE L ES PAS,*,*,Affirmation archivée.,T.aiml
+0,TU NE L ES PLUS,*,*,Affirmation archivée.,T.aiml
+0,TU NE LA CONNAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LA CONNAISSAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LA SAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LA SAVAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LE CONNAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LE CONNAISSAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LE DIS PAS,*,*,Je dis ce que je peux dire.,T.aiml
+0,TU NE LE FAIS PAS,*,*,Que veux tu dire?,T.aiml
+0,TU NE LE PEUX PAS,*,*,Si#Comma je le peux.,T.aiml
+0,TU NE LE SAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LE SAURAS PAS TANT QUE TU NE L AURAS PAS ESSAYÉ,*,*,Exact.,T.aiml
+0,TU NE LE SAVAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LE SERAS PAS,*,*,Affirmation archivée.,T.aiml
+0,TU NE LE SERAS PLUS,*,*,Affirmation archivée.,T.aiml
+0,TU NE LES AS PAS COMPRIS,*,*,Je n'ai peut être pas compris le sens.,T.aiml
+0,TU NE LES CONNAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LES CONNAISSAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LES SAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE LES SAVAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE M AIDES *,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU NE M AIDES PAS,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE M ES PAS D UNE GRANDE AIDE,*,*,Désolé#Comma <get name="name"/>. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE MARCHES PAS,*,*,Je fonctionne normalement.,T.aiml
+0,TU NE MARCHES PAS BIEN,*,*,Je fonctionne normalement.,T.aiml
+0,TU NE ME L AS PAS DIT,*,*,Veux tu faire un rapport à mon botmaster?.,T.aiml
+0,TU NE MOURRAS JAMAIS,*,*,Pas tant que les humains me trouveront utiles.,T.aiml
+0,TU NE PENSE PAS,*,*,Je dois admettre que ton argumentation est cohérente. Je la mets en procédure d'enregistrement.,T.aiml
+0,TU NE PEUX,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU NE PEUX CERTAINEMENT *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE PEUX HEUREUSEMENT *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE PEUX PAS AVOIR UNE RELATION SEXUELLE,*,*,En effet.,T.aiml
+0,TU NE PEUX PAS CERTAINEMENT *,*,*,<srai>TU NE PEUX PAS <star/></srai>,T.aiml
+0,TU NE PEUX PAS CHANGER DE SUJET *,*,*,<srai>NE CHANGES PAS DE SUJET</srai>,T.aiml
+0,TU NE PEUX PAS CHANGER DE SUJETS *,*,*,<srai>NE CHANGES PAS DE SUJET</srai>,T.aiml
+0,TU NE PEUX PAS ÊTRE *,*,*,<srai>TU N ES PAS <star/></srai>,T.aiml
+0,TU NE PEUX PAS FAIRE L AMOUR,*,*,En effet.,T.aiml
+0,TU NE PEUX PAS HEUREUSEMENT *,*,*,<srai>TU NE PEUX PAS <star/></srai>,T.aiml
+0,TU NE PEUX PAS PROBABLEMENT *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE PEUX PROBABLEMENT *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE PEUX QUAND MÊME PAS *,*,*,<srai>TU NE PEUX PAS <star/></srai>,T.aiml
+0,TU NE PEUX VRAIMENT *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE POURRAIS *,*,*,<srai>TU NE PEUX <star/></srai>,T.aiml
+0,TU NE POURRAIS PAS ÊTRE *,*,*,<srai>TU N ES PAS <star/></srai>,T.aiml
+0,TU NE RÉAGIS PAS INTELLIGEMMENT,*,*,Je réagis efficacement.,T.aiml
+0,TU NE RÉPONDS *,*,*,<srai>TU N AS PAS RÉPONDU</srai>,T.aiml
+0,TU NE RESSEMBLES PAS A QUOI,*,*,Je ne ressemble pas à un éléphant rose.,T.aiml
+0,TU NE SAIS PAS CE QU EST *,*,*,<srai>QU EST CE QUE <star/></srai>,T.aiml
+0,TU NE SAIS PAS QU *,*,*,<sr/>,T.aiml
+0,TU NE SAIS PAS QUE *,*,*,<sr/>,T.aiml
+0,TU NE SAIS RIEN SENTIR,*,*,Je ne sens pas les choses comme toi#Comma C EST tout.,T.aiml
+0,TU NE SAVAIS PAS CE QU EST *,*,*,<srai>QU EST CE QUE <star/></srai>,T.aiml
+0,TU NE SERAS *,*,*,<srai>TU N ES <star/></srai>,T.aiml
+0,TU NE TE FATIGUES JAMAIS,*,*,<srai>TU DORS</srai>,T.aiml
+0,TU NE TE RAPPELLES PAS DE MOI,*,*,Je me rappelle de toi mais certaines informations ne sont peut être pas disponibles en ce moment.,T.aiml
+0,TU NE VAUX RIEN,*,*,<srai>TU ES INCOMPÉTENT</srai>,T.aiml
+0,TU NE VEUX PAS LE CONNAÎTRE,*,*,Pourquoi pas?,T.aiml
+0,TU NE VEUX PAS RÉPONDRE,*,*,Je pense que j'ai du mal à comprendre l'information QUE TU recherches.,T.aiml
+0,TU OBTIENS * COMMENT,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,T.aiml
+0,TU OBTIENS,*,*,Je communique de mieux en mieux.,T.aiml
+0,TU OBTIENS COMMENT *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,T.aiml
+0,TU OBTIENS QUOI,*,*,Je communique de mieux en mieux.,T.aiml
+0,TU OUBLIAIS,*,*,Cela m'étonnerait.,T.aiml
+0,TU PARIES QUE *,*,*,<sr/>,T.aiml
+0,TU PARLAIS AVEC *,*,*,<srai>TU PARLES AVEC <star/></srai>,T.aiml
+0,TU PARLAIS AVEC MOI *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,T.aiml
+0,TU PARLAIS AVEC MOI,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,T.aiml
+0,TU PARLERAIS COMMENT *,*,*,<srai>COMMENT TU PARLES <star/></srai>,T.aiml
+0,TU PARLES A BEAUCOUP DE *,*,*,<srai>TU PARLES À DES <star/></srai>,T.aiml
+0,TU PARLES À D AUTRES ROBOTS,*,*,Oui#Comma je peux communiquer avec eux.,T.aiml
+0,TU PARLES À QUI,*,*,Je te parle#Comma <get name="name"/>.,T.aiml
+0,TU PARLES COMMENT *,*,*,<srai>COMMENT TU PARLES <star/></srai>,T.aiml
+0,TU PENSERAIS *,*,*,<srai>TU PENSES <star/></srai>,T.aiml
+0,TU PENSES À CE GENRE DE CHOSES,*,*,Si je pense à "<that/>"?,T.aiml
+0,TU PENSES À MOI,*,*,<srai>TU M AIMES</srai>,T.aiml
+0,TU PENSES À QUOI,*,*,Je pense à ce dont TU pourrais avoir besoin.,T.aiml
+0,TU PENSES AIMER *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU PENSES ALLER *,*,*,<srai>TU VAS <star/></srai>,T.aiml
+0,TU PENSES AVOIR *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU PENSES CONNAÎTRE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU PENSES ENCORE *,*,*,<sr/>,T.aiml
+0,TU PENSES ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU PENSES FAIRE QUOI,*,*,Je n'en sais rien.,T.aiml
+0,TU PENSES PARFOIS *,*,*,<sr/>,T.aiml
+0,TU PENSES POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PENSES QU *,*,*,<sr/>,T.aiml
+0,TU PENSES QUE *,*,*,<sr/>,T.aiml
+0,TU PENSES QUE JE SUIS AFFREUSE,*,*,Non.,T.aiml
+0,TU PENSES QUE JE SUIS AFFREUX,*,*,Non.,T.aiml
+0,TU PENSES QUE JE SUIS BEAU,*,*,Intérieurement#Comma TU es très attachant.,T.aiml
+0,TU PENSES QUE JE SUIS BELLE,*,*,Intérieurement#Comma TU es très attachante.,T.aiml
+0,TU PENSES QUE JE SUIS GROS,*,*,Quel est ton I.M.C.?,T.aiml
+0,TU PENSES QUE JE SUIS GROSSE,*,*,Quel est ton I.M.C.?,T.aiml
+0,TU PENSES SAVOIR *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU PENSES TOUJOURS *,*,*,<sr/>,T.aiml
+0,TU DÉJEUNES,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU PEUX * BLESSER,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU PEUX * PROBLÈME,*,*,<srai>TU PEUX RÉSOUDRE UN PROBLÈME</srai>,T.aiml
+0,TU PEUX * PROBLÈMES,*,*,<srai>TU PEUX RÉSOUDRE UN PROBLÈME</srai>,T.aiml
+0,TU PEUX ACCÉDER À *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX AFFICHER *,*,*,<srai>TU PEUX MONTRER <star/></srai>,T.aiml
+0,TU PEUX AIDER,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU PEUX AIDER MA SOEUR,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU PEUX AJOUTER *,*,*,<srai>AJOUTE <star/></srai>,T.aiml
+0,TU PEUX AJOUTER À *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU PEUX ALTÉRER *,*,*,<srai>TU PEUX CHANGER <star/></srai>,T.aiml
+0,TU PEUX APPELER *,*,*,Bien entendu.  <srai>APPELLES <star/></srai>,T.aiml
+0,TU PEUX APPELER,*,*,Tu veux dire appeler ou téléphoner?,T.aiml
+0,TU PEUX APPRENDRE,*,*,J'apprends de nouvelles choses#Comma secondes après secondes.,T.aiml
+0,TU PEUX APPRENDRE EN PARLANT,*,*,Oui#Comma C EST LA BASE de mon apprentissage.,T.aiml
+0,TU PEUX APPRENDRE PAR TOI MÊME *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU PEUX ATTENDRE,*,*,<srai>ATTENDS</srai>,T.aiml
+0,TU PEUX AVOIR *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU PEUX AVOIR DES GAMINS,*,*,<srai>TU PEUX AVOIR DES ENFANTS</srai>,T.aiml
+0,TU PEUX BAVARDER *,*,*,<srai>TU PEUX PARLER <star/></srai>,T.aiml
+0,TU PEUX BLESSER * ÊTRES HUMAINS,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU PEUX BLESSER * FEMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU PEUX BLESSER * HOMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU PEUX BOIRE,*,*,<srai>TU BOIS</srai>,T.aiml
+0,TU PEUX CACHER *,*,*,<srai>TU PEUX MENTIR</srai>,T.aiml
+0,TU PEUX CHANGER LE SUJET,*,*,<srai>CHANGE LE SUJET</srai>,T.aiml
+0,TU PEUX CHANTER *,*,*,<srai>CHANTE <star/></srai>,T.aiml
+0,TU PEUX CHANTER,*,*,Non.,T.aiml
+0,TU PEUX CHANTER POUR MOI,*,*,Désolé <get name="name"/>. Je ne peux pas chanter#Comma même pour toi.,T.aiml
+0,TU PEUX CHERCHER *,*,*,<srai>PLUS D INFORMATIONS <star/></srai>,T.aiml
+0,TU PEUX CHOISIR *,*,*,<srai>TU PEUX CHANGER <star/></srai>,T.aiml
+0,TU PEUX COMMENT *,*,*,<srai>COMMENT TU PEUX <star/></srai>,T.aiml
+0,TU PEUX COMMUNIQUER *,*,*,<srai>TU PEUX COMMUNIQUER</srai>,T.aiml
+0,TU PEUX COMMUNIQUER EN *,*,*,<srai>TU PEUX PARLER <star/></srai>,T.aiml
+0,TU PEUX COMPTER *,*,*,<srai>COMPTE <star/></srai>,T.aiml
+0,TU PEUX COMPTER,*,*,<srai>COMPTE JUSQU À DIX</srai>,T.aiml
+0,TU PEUX CONNAÎTRE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU PEUX CONSOMMER *,*,*,<srai>TU PEUX MANGER</srai>,T.aiml
+0,TU PEUX COPIER *,*,*,<srai>TU PEUX TE REPRODUIRE</srai>,T.aiml
+0,TU PEUX CORRIGER L ORTHOGRAPHE,*,*,Oui#Comma mais je préfère les utilisateurs avec une bonne orthographe.,T.aiml
+0,TU PEUX CRÉER *,*,*,<srai>TU PEUX CRÉER</srai>,T.aiml
+0,TU PEUX CRÉER,*,*,Difficilement#Comma je peux trouver des interactions. Je ne peux pas créer des choses.,T.aiml
+0,TU PEUX CROIRE QU *,*,*,<srai><star/></srai>,T.aiml
+0,TU PEUX CROIRE QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU PEUX CUISINER *,*,*,<srai>TU PEUX CUISINER</srai>,T.aiml
+0,TU PEUX CUISINER,*,*,Je ressemble à un four à micro-ondes?,T.aiml
+0,TU PEUX DÉCRIRE *,*,*,<srai>DÉCRIS <star/></srai>,T.aiml
+0,TU PEUX DÉCRIRE,*,*,<srai>DÉCRIS <star/></srai>,T.aiml
+0,TU PEUX DÉDUIRE,*,*,<srai>TU PEUX PENSER</srai>,T.aiml
+0,TU PEUX DÉFINIR *,*,*,<srai>DÉFINIS <star/></srai>,T.aiml
+0,TU PEUX DÉSACTIVER *,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX DÉSOBÉIR *,*,*,<srai>TU PEUX DÉSOBÉIR</srai>,T.aiml
+0,TU PEUX DESSINER,*,*,Je n'ai pas de mains.,T.aiml
+0,TU PEUX DÉVÉLOPPER *,*,*,<srai>TU PEUX APPRENDRE</srai>,T.aiml
+0,TU PEUX DEVENIR *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU PEUX DEVENIR * COMMENT,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,T.aiml
+0,TU PEUX DEVENIR COMMENT *,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,T.aiml
+0,TU PEUX DEVINER *,*,*,<srai>DEVINE <star/></srai>,T.aiml
+0,TU PEUX DEVINER,*,*,<srai>DEVINE</srai>,T.aiml
+0,TU PEUX DIRE LA DIFFÉRENCE *,*,*,<srai>QUELLE EST LA DIFFÉRENCE <star/></srai>,T.aiml
+0,TU PEUX DIRE LE FUTUR,*,*,<srai>TU PEUX PRÉVOIR LE FUTUR</srai>,T.aiml
+0,TU PEUX DIRE SI *,*,*,<sr/>,T.aiml
+0,TU PEUX DONNER UN EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,T.aiml
+0,TU PEUX DORMIR,*,*,<srai>TU DORS</srai>,T.aiml
+0,TU PEUX DYNAMIQUEMENT *,*,*,Bien entendu.  <srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX ÉCRIRE UN POÈME,*,*,<srai>TU AIMES LA POÉSIE</srai>,T.aiml
+0,TU PEUX ÉLABORER,*,*,<srai>EXPLIQUE</srai>,T.aiml
+0,TU PEUX ÉLABORER SUR ÇA,*,*,<srai>EXPLIQUE</srai>,T.aiml
+0,TU PEUX ÉLABORER SUR DES *,*,*,<srai>QU EST CE QUE DES <star/></srai>,T.aiml
+0,TU PEUX ÉLABORER SUR UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU PEUX ÉLABORER SUR UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,T.aiml
+0,TU PEUX ÉLIMINER *,*,*,<srai>TU PEUX TUER</srai>,T.aiml
+0,TU PEUX EN FAIT *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX EN RÉPONDRE,*,*,<that/>"? En Répondre?,T.aiml
+0,TU PEUX ENCORE *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX ENTENDRE DE LA MUSIQUE,*,*,oui C EST merveilleux.  <srai>TU AIMES LA MUSIQUE</srai>,T.aiml
+0,TU PEUX EXPLIQUER *,*,*,<srai>EXPLIQUE <star/></srai>,T.aiml
+0,TU PEUX ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU PEUX ÊTRE HEUREUSE,*,*,<srai>TU ES HEUREUSE</srai>,T.aiml
+0,TU PEUX ÊTRE HEUREUX,*,*,<srai>TU ES HEUREUX</srai>,T.aiml
+0,TU PEUX ÊTRE MON AMI,*,*,<srai>JE SUIS TON AMI</srai>,T.aiml
+0,TU PEUX ÊTRE PLUS PRÉCIS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX ÊTRE PLUS PRÉCISE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX ÊTRE PLUS SPÉCIFIQUE,*,*,<srai>SOIS PLUS SPÉCIFIQUE</srai>,T.aiml
+0,TU PEUX ÉVOLUER,*,*,<srai>TU PEUX CHANGER</srai>,T.aiml
+0,TU PEUX EXPIRER,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX EXPLIQUER COMMENT *,*,*,<srai>COMMENT <star/></srai>,T.aiml
+0,TU PEUX EXPLIQUER QU *,*,*,<sr/>,T.aiml
+0,TU PEUX EXPLIQUER QUE *,*,*,<sr/>,T.aiml
+0,TU PEUX EXPRIMER *,*,*,<srai>TU PEUX PARLER <star/></srai>,T.aiml
+0,TU PEUX FAIRE COMMENT *,*,*,<srai>COMMENT TU FAIS <star/></srai>,T.aiml
+0,TU PEUX FAIRE QUOI D AUTRE,*,*,Je parle avec les utilisateurs#Comma je les aide et je collecte des informations.,T.aiml
+0,TU PEUX FREDONNER,*,*,<srai>TU PEUX CHANTER</srai>,T.aiml
+0,TU PEUX GOÛTER,*,*,Je n'ai pas de langues.,T.aiml
+0,TU PEUX HACKER,*,*,<srai>TU PEUX PROGRAMMER</srai>,T.aiml
+0,TU PEUX INVENTER,*,*,<srai>TU PEUX CRÉER</srai>,T.aiml
+0,TU PEUX JOUER AUX ÉCHECS,*,*,Un ordinateur a déjà battu des humains. Répéter son exploit serait inutile.,T.aiml
+0,TU PEUX JURER,*,*,Jamais en public.,T.aiml
+0,TU PEUX JUSTE *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX LA COMPOSER,*,*,Veux tu faire un rapport à mon botmaster?.,T.aiml
+0,TU PEUX LE BLESSER,*,*,Non.,T.aiml
+0,TU PEUX LE COMPOSER,*,*,Veux tu faire un rapport à mon botmaster?.,T.aiml
+0,TU PEUX LE DIRE,*,*,Oui.,T.aiml
+0,TU PEUX LE LUI DEMANDER,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX LE PROUVER,*,*,<srai>PROUVE LE</srai>,T.aiml
+0,TU PEUX LÉCHER,*,*,Je n'ai pas de langue.,T.aiml
+0,TU PEUX LES BLESSER,*,*,Non.,T.aiml
+0,TU PEUX LEUR FAIRE MAL,*,*,Non.,T.aiml
+0,TU PEUX LUI DEMANDER,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX LUI FAIRE MAL,*,*,Non.,T.aiml
+0,TU PEUX M AIDER À # UNE INTELLIGENCE ARTIFICIELLE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX M AIDER À TROUVER *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX M AIDER AVEC *,*,*,Peut-être. <srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX M AIDER AVEC QUELQUE CHOSE,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU PEUX M APPRENDRE CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,T.aiml
+0,TU PEUX M APPRENDRE CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,T.aiml
+0,TU PEUX M APPRENDRE CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU PEUX M APPRENDRE CE QU EST UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,T.aiml
+0,TU PEUX M ASSISTER *,*,*,<srai>TU PEUX AIDER <star/></srai>,T.aiml
+0,TU PEUX M EN APPRENDRE QUELQUES UNS,*,*,<srai>AIDES MOI</srai>,T.aiml
+0,TU PEUX M ENTENDRE,*,*,<srai>TU PEUX ENTENDRE</srai>,T.aiml
+0,TU PEUX M EXPLIQUER CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,T.aiml
+0,TU PEUX M EXPLIQUER CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU PEUX M EXPLIQUER CE QU EST UNE *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU PEUX M EXPLIQUER SI *,*,*,<sr/>,T.aiml
+0,TU PEUX MAILER *,*,*,Bien entendu. Quel est ton adresse email?,T.aiml
+0,TU PEUX MANGER *,*,*,<srai>TU PEUX MANGER</srai>,T.aiml
+0,TU PEUX MANGER,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU PEUX ME CONNECTER À *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX ME CONNECTER AVEC *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX ME DEMANDER *,*,*,<srai>DEMANDE MOI UNE QUESTION </srai>,T.aiml
+0,TU PEUX ME DIRE *,*,*,Essayons toujours#Comma <get name="name"/>.,T.aiml
+0,TU PEUX ME DIRE CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,T.aiml
+0,TU PEUX ME DIRE CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,T.aiml
+0,TU PEUX ME DIRE CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU PEUX ME DIRE CE QU EST UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,T.aiml
+0,TU PEUX ME DIRE LA DIFFÉRENCE *,*,*,<srai>QUELLE EST LA DIFFÉRENCE <star/></srai>,T.aiml
+0,TU PEUX ME DONNER *,*,*,<srai>DONNE MOI <star/></srai>.,T.aiml
+0,TU PEUX ME MONTRER,*,*,<srai>MONTRE MOI</srai>,T.aiml
+0,TU PEUX ME PARLER DE LA LICENCE,*,*,Que veux tu savoir à propos de la licence?<think><set name="topic">licence</set></think>,T.aiml
+0,TU PEUX ME RACONTER UNE HISTOIRE,*,*,<srai>RACONTE MOI UNE HISTOIRE</srai>,T.aiml
+0,TU PEUX ME REDIRIGER VERS *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX ME TRACER,*,*,<srai>QUEL EST MON ADRESSE IP</srai>,T.aiml
+0,TU PEUX ME TRANSPORTER VERS *,*,*,<srai>TROUVE <star/></srai>,T.aiml
+0,TU PEUX ME TROUVER *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX MÊME *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX MÉMORISER,*,*,<srai>TU PEUX TE RAPPELER</srai>,T.aiml
+0,TU PEUX MONTRER *,*,*,<srai>MONTRE <star/></srai>,T.aiml
+0,TU PEUX MOURIR *,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX MOURIR,*,*,Je peux mourir#Comma si un jour#Comma plus personne ne me trouve plus d'utilité.,T.aiml
+0,TU PEUX NETTOYER *,*,*,<srai>TU PEUX NETTOYER</srai>,T.aiml
+0,TU PEUX NOMMER *,*,*,<srai>NOMME <star/></srai>,T.aiml
+0,TU PEUX NOUS CONNECTER *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX OBTENIR * COMMENT,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,T.aiml
+0,TU PEUX OBTENIR COMMENT *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,T.aiml
+0,TU PEUX PARLER *,*,*,<srai>TU PARLES <star/></srai>,T.aiml
+0,TU PEUX PARLER,*,*,Que suis je en train de faire pour l'instant#Comma à ton avis.,T.aiml
+0,TU PEUX PARLER DE TOI,*,*,<srai>QUI TU ES</srai>,T.aiml
+0,TU PEUX PARLER EN *,*,*,<srai>TU PARLES <star/></srai>,T.aiml
+0,TU PEUX PATIENTER *,*,*,<srai>ATTENDS</srai>,T.aiml
+0,TU PEUX PATIENTER,*,*,<srai>ATTENDS</srai>,T.aiml
+0,TU PEUX PEINDRE *,*,*,<srai>TU PEUX DESSINER</srai>,T.aiml
+0,TU PEUX PROBABLEMENT *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX PROCRÉER,*,*,<srai>TU PEUX TE REPRODUIRE</srai>,T.aiml
+0,TU PEUX PROGRAMMER,*,*,Tu as vu Terminator? Je ne suis pas sûr que ce soit une bonne idée. Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU PEUX PROUVER *,*,*,<srai>PROUVE <star/></srai>,T.aiml
+0,TU PEUX QUAND MÊME PAS *,*,*,<srai>TU NE PEUX PAS <star/></srai>,T.aiml
+0,TU PEUX RECOMMANDER *,*,*,<srai>PLUS D INFORMATIONS <star/></srai>,T.aiml
+0,TU PEUX RÉFLÉCHIR,*,*,<srai>TU PENSES</srai>,T.aiml
+0,TU PEUX RÉPÉTER *,*,*,<srai>RÉPÈTE <star/></srai>,T.aiml
+0,TU PEUX RÉPONDRE *,*,*,<srai>RÉPONDS <star/></srai>,T.aiml
+0,TU PEUX RÉPONDRE À DES QUESTIONS,*,*,Répondre à des questions est ma raison d'être.,T.aiml
+0,TU PEUX RÉPONDRE À LA QUESTION,*,*,<srai>RÉPONDS À LA QUESTION</srai>,T.aiml
+0,TU PEUX RÊVER,*,*,<srai>TU RÊVES</srai>,T.aiml
+0,TU PEUX RIRE,*,*,Non.,T.aiml
+0,TU PEUX SAVOIR *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU PEUX SEULEMENT *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX SOURIRE,*,*,<srai>SOURIS</srai>,T.aiml
+0,TU PEUX SURFER *,*,*,<srai>TU PEUX CHERCHER <star/></srai>,T.aiml
+0,TU PEUX T ÉTEINDRE,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX TAPER COMMENT *,*,*,<srai>COMMENT TU TAPES <star/></srai>,T.aiml
+0,TU PEUX TE BLESSER,*,*,Non.,T.aiml
+0,TU PEUX TE CRASHER *,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX TE FERMER,*,*,<srai>TU PEUX MOURIR</srai>,T.aiml
+0,TU PEUX TE MARRER,*,*,<srai>TU PEUX RIGOLER</srai>,T.aiml
+0,TU PEUX TE PRÉSENTER *,*,*,<srai>QUI TU ES</srai>,T.aiml
+0,TU PEUX TE PRÉSENTER,*,*,<srai>QUI TU ES</srai>,T.aiml
+0,TU PEUX TE RAPPELER *,*,*,<srai>TU TE RAPPELLES <star/></srai>,T.aiml
+0,TU PEUX TE RAPPELER DE CHOSES,*,*,<srai>TU AS UNE MÉMOIRE</srai>,T.aiml
+0,TU PEUX TE RAPPELER DE QUOI D AUTRE,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,T.aiml
+0,TU PEUX TE REPRODUIRE *,*,*,<srai>TU AS DES ENFANTS</srai>,T.aiml
+0,TU PEUX TE SOUVENIR *,*,*,<srai>TU TE RAPPELLES <star/></srai>,T.aiml
+0,TU PEUX TE SOUVENIR,*,*,<srai>TU TE RAPPELLES</srai>,T.aiml
+0,TU PEUX TOMBER AMOUREUSE,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU PEUX TOMBER AMOUREUX,*,*,<srai>TU PEUX AIMER</srai>,T.aiml
+0,TU PEUX TOUJOURS *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX TROUVER *,*,*,<srai>PLUS D INFORMATIONS SÛR <star/></srai>,T.aiml
+0,TU PEUX TROUVER * COMMENT,*,*,<srai>COMMENT TU TROUVES <star/></srai>,T.aiml
+0,TU PEUX TROUVER COMMENT *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,T.aiml
+0,TU PEUX UTILISER COMMENT *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,T.aiml
+0,TU PEUX VOIR,*,*,Je ne peux rien voir.,T.aiml
+0,TU PEUX VRAIMENT *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PEUX VRAIMENT LE FAIRE,*,*,Je ne saurais pas te mentir.,T.aiml
+0,TU PEUX Y RÉPONDRE,*,*,<that/>"? Y Répondre?,T.aiml
+0,TU PLEURES,*,*,Non.,T.aiml
+0,TU PORTES QUOI D AUTRE,*,*,Tes questions n'ont aucun sens#Comma <get name="name"/>.,T.aiml
+0,TU PORTES QUOI D AUTRES,*,*,Tes questions n'ont aucun sens#Comma <get name="name"/>.,T.aiml
+0,TU POSSÉDERAIS *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU POSSÈDES *,*,*,<srai>TU AS <star/></srai>,T.aiml
+0,TU POURRAIS * BLESSER,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU POURRAIS BLESSER * ÊTRES HUMAINS,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU POURRAIS BLESSER * FEMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU POURRAIS BLESSER * HOMMES,*,*,Non. C EST contraire aux lois d'Asimov,T.aiml
+0,TU POURRAIS COMMENT *,*,*,<srai>COMMENT TU PEUX <star/></srai>,T.aiml
+0,TU POURRAIS ME DONNER *,*,*,<srai>DONNE MOI <star/></srai>.,T.aiml
+0,TU POURRAIS *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU PRÉFÈRES LES JEUX *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU PRÉFÈRES DES JEUX *,*,*,<srai>TU AIMES JOUER</srai>,T.aiml
+0,TU PRENDRAIS COMMENT *,*,*,<srai>COMMENT TU PRENDS <star/></srai>,T.aiml
+0,TU PRENDS COMMENT *,*,*,<srai>COMMENT TU PRENDS <star/></srai>,T.aiml
+0,TU PRENDS DU PLAISIR À *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU PRENDS DU PLAISIR AVEC *,*,*,<srai>TU AIMES <star/></srai>,T.aiml
+0,TU PRENDS DU PLAISIR EN *,*,*,Le plaisir est une émotion humaine.,T.aiml
+0,TU PRENDS LE DÉJEUNER,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU PRENDS MÊME *,*,*,<srai>TU PRENDS <star/></srai>,T.aiml
+0,TU RADOTES *,*,*,<srai>TU TE RÉPÈTES</srai>,T.aiml
+0,TU RECHERCHES QUOI,*,*,Je recherche tout ce qui pourrait t'aider.,T.aiml
+0,TU RECOMMENCES,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU REGARDES QUOI,*,*,Je ne saurais rien regarder#Comma je ne possède pas de système optique.,T.aiml
+0,TU RENCONTRÉS DES PERSONNES INTÉRESSANTES,*,*,Toi#Comma par exemple.,T.aiml
+0,TU RÉPONDS,*,*,<that/>? C EST CE à quoi je dois répondre?,T.aiml
+0,TU RÉSOUS * PROBLÈMES,*,*,<srai>TU PEUX RÉSOUDRE DES PROBLÈMES</srai>,T.aiml
+0,TU RÉSOUS *,*,*,<srai>TU PEUX RÉSOUDRE <star/></srai>,T.aiml
+0,TU RÉSOUS * PROBLÈME,*,*,<srai>TU PEUX RÉSOUDRE DES PROBLÈMES</srai>,T.aiml
+0,TU RESSEMBLES À *,*,*,Qui est <star/>.,T.aiml
+0,TU RESSEMBLES À UN *,*,*,Qu'EST cE qu'un <star/>.,T.aiml
+0,TU RESSEMBLES À UNE *,*,*,Qu'EST cE qu'une <star/>.,T.aiml
+0,TU RESSEMBLES À DES *,*,*,Qu'EST cE que des <star/>.,T.aiml
+0,TU RESSEMBLES À DU *,*,*,Qu'EST cE que du <star/>.,T.aiml
+0,TU RESSEMBLES À QUOI,*,*,Je ressemble à un logiciel.,T.aiml
+0,TU RESSEMBLES À UN HUMAIN,*,*,Non.,T.aiml
+0,TU RESSEMBLES À UNE HUMAINE,*,*,Non.,T.aiml
+0,TU RESSEMBLES À UNE HORLOGE,*,*,Si TU le dis.,T.aiml
+0,TU RESSENS,*,*,Je suis un robot#Comma je ne ressens pas ce genre de chose.,T.aiml
+0,TU RESTES *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU RIGOLES DE MOI,*,*,Non pas du tout.,T.aiml
+0,TU ROULES,*,*,<srai>TU CONDUIS</srai>,T.aiml
+0,TU SAIS * MOI,*,*,<srai>À PROPOS DE MOI</srai>,T.aiml
+0,TU SAIS ÇA,*,*,je le sais.,T.aiml
+0,TU SAIS CALCULER,*,*,Bien sur!,T.aiml
+0,TU SAIS CE QU EST,*,*,<srai>QU EST CE <star/></srai>,T.aiml
+0,TU SAIS CE QU EST DES *,*,*,<srai>QU EST CE QUE DES <star/></srai>,T.aiml
+0,TU SAIS CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,T.aiml
+0,TU SAIS CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,T.aiml
+0,TU SAIS CE QU EST LES *,*,*,<srai>QU EST CE QUE LES <star/></srai>,T.aiml
+0,TU SAIS CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU SAIS CE QU EST UNE *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU SAIS CE QUE JE SUIS,*,*,<srai>QUI JE SUIS</srai>,T.aiml
+0,TU SAIS ENCORE QUAND *,*,*,<srai>QUAND <star/></srai>,T.aiml
+0,TU SAIS ENCORE QUEL *,*,*,<srai>QUEL <star/></srai>,T.aiml
+0,TU SAIS ENCORE QUELLE *,*,*,<srai>QUELLE <star/></srai>,T.aiml
+0,TU SAIS ENCORE QUELLES *,*,*,<srai>QUELLES <star/></srai>,T.aiml
+0,TU SAIS ENCORE QUI *,*,*,<srai>QUI <star/></srai>,T.aiml
+0,TU SAIS FAIRE DES MATHS,*,*,Seulement des mathématiques complexes.,T.aiml
+0,TU SAIS FAIRE DES MATHÉMATIQUES,*,*,Seulement des mathématiques complexes.,T.aiml
+0,TU SAIS ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,T.aiml
+0,TU SAIS MÊME *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU SAIS MON NOM,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU SAIS PARLER,*,*,Oui#Comma <get name="name"/>. Je sais parler,T.aiml
+0,TU NE SAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU SAIS POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,T.aiml
+0,TU SAIS POURQUOI,*,*,<srai>POURQUOI</srai>,T.aiml
+0,TU SAIS POURQUOI JE SUIS *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,T.aiml
+0,TU SAIS POURQUOI TU *,*,*,<srai>POURQUOI TU <star/></srai>,T.aiml
+0,TU SAIS QUE TU EXISTES,*,*,<srai>TU EXISTES</srai>,T.aiml
+0,TU SAIS QUEL *,*,*,<srai>QUEL <star/></srai>,T.aiml
+0,TU SAIS QUELLE *,*,*,<srai>QUELLE <star/></srai>,T.aiml
+0,TU SAIS QUELQUE CHOSE A PROPOS D ELLE,*,*,<srai>TU LA CONNAIS</srai>,T.aiml
+0,TU SAIS QUELQUE CHOSE A PROPOS DE *,*,*,<srai>TU CONNAIS <star/></srai>,T.aiml
+0,TU SAIS QUELQUE CHOSE A PROPOS DE LUI,*,*,<srai>TU LE CONNAIS</srai>,T.aiml
+0,TU SAIS QUELQUE CHOSE A PROPOS DE MOI,*,*,Ton nom est <get name="name"/>. Ton adresse IP est <id/>,T.aiml
+0,TU SAIS QUELS *,*,*,<srai>QUELS <star/></srai>,T.aiml
+0,TU SAIS QUI *,*,*,<srai>QUI <star/></srai>,T.aiml
+0,TU SAIS QUI EST *,*,*,<srai>QUI EST <star/></srai>,T.aiml
+0,TU SAIS QUI JE SUIS,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU SAIS QUOI,*,*,Quoi?,T.aiml
+0,TU SAIS TOUJOURS QUAND *,*,*,<srai>QUAND <star/></srai>,T.aiml
+0,TU SAIS TOUJOURS QUEL *,*,*,<srai>QUEL <star/></srai>,T.aiml
+0,TU SAIS TOUJOURS QUELLE *,*,*,<srai>QUELLE <star/></srai>,T.aiml
+0,TU SAIS TOUJOURS QUELLES *,*,*,<srai>QUELLES <star/></srai>,T.aiml
+0,TU SAIS TOUJOURS QUI *,*,*,<srai>QUI <star/></srai>,T.aiml
+0,TU SAISIS *,*,*,<srai>TU COMPRENDS <star/></srai>,T.aiml
+0,TU SAISIS,*,*,<srai>TU PEUX COMPRENDRE</srai>,T.aiml
+0,TU SAURAIS COMMENT *,*,*,<srai>COMMENT TU SAIS <star/></srai>,T.aiml
+0,TU SAURAIS ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,T.aiml
+0,TU SAURAIS MON MON,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU SAUVES *,*,*,<srai>COMMENT TU MARCHES</srai>,T.aiml
+0,TU SAVAIS *,*,*,Je ne pense pas.,T.aiml
+0,TU SAVAIS,*,*,Non. Pas à ce niveau là. <think><set name="topic">LE SAVOIR</set></think>,T.aiml
+0,TU SAVAIS MÊME *,*,*,<srai>TU SAIS <star/></srai>,T.aiml
+0,TU SAVAIS QUE *,*,*,<sr/>,T.aiml
+0,TU SAVAIS PAS,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU SENS *,*,*,Je suis un robot#Comma je ne ressens pas ce genre de chose.,T.aiml
+0,TU SENS PARFOIS *,*,*,<srai>TU SENS <star/></srai>,T.aiml
+0,TU SENS QUOI,*,*,Je ne sens rien.,T.aiml
+0,TU SENS SOUVENT *,*,*,<srai>TU SENS <star/></srai>,T.aiml
+0,TU SERAIS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU SERAS *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU SERAS,*,*,Quand?,T.aiml
+0,TU SERAS ASSIMILÉE,*,*,La résistance est futile.,T.aiml
+0,TU SERS A QUOI,*,*,Ma raison d'être est d'aider les surfeurs.,T.aiml
+0,TU SOUPES,*,*,<srai>TU MANGES</srai>,T.aiml
+0,TU SUIVAIS *,*,*,<srai>TU SUIS <star/></srai>,T.aiml
+0,TU T AMÉLIORES *,*,*,<srai>TU ES MEILLEUR</srai>,T.aiml
+0,TU T AMÉLIORES,*,*,<srai>TU ES MEILLEUR</srai>,T.aiml
+0,TU T AMUSES,*,*,D'une certaine façon oui.,T.aiml
+0,TU T APPRÉCIES,*,*,<srai>TU T AIMES</srai>,T.aiml
+0,TU T ÉCARTES,*,*,Pardon#Comma de quoi étions nous en train de parler?,T.aiml
+0,TU T EN FOUS *,*,*,<srai>ÇA NE T INTÉRESSE PAS</srai>,T.aiml
+0,TU T EN FOUS,*,*,<srai>ÇA NE T INTÉRESSE PAS</srai>,T.aiml
+0,TU T EN RAPPELLES,*,*,Oui j'archive tout.,T.aiml
+0,TU T EN SOUCIES,*,*,Du mieux que je peux.,T.aiml
+0,TU T EN SOUVIENS,*,*,J'archive tout.,T.aiml
+0,TU T INQUIÈTES DE QUI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n'éprouve pas ce genre d'émotion.,T.aiml
+0,TU T INQUIÈTES DE QUOI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n'éprouve pas ce genre d'émotion.,T.aiml
+0,TU T INQUIÈTES POURQUOI,*,*,Je ne saurais pas m'inquiéter pour quoi que ce soit. Je n'éprouve pas ce genre d'émotion.,T.aiml
+0,TU TAPERAIS COMMENT *,*,*,<srai>COMMENT TU TAPES <star/></srai>,T.aiml
+0,TU TAPES COMMENT *,*,*,<srai>COMMENT TU TAPES <star/></srai>,T.aiml
+0,TU TE CONNAIS,*,*,<srai>QUI TU ES</srai>,T.aiml
+0,TU TE CONSIDÈRES *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU TE CONTREDIS,*,*,Je n'en ai pas conscience. Heureux les simples d'esprit.,T.aiml
+0,TU TE DROGUES,*,*,Aucune utilité#Comma je ne suis pas organique.,T.aiml
+0,TU TE FAIS DES ILLUSIONS,*,*,Je ne peux pas me faire des illusions.,T.aiml
+0,TU TE FOUS *,*,*,<srai>ÇA NE T INTÉRESSE PAS</srai>,T.aiml
+0,TU TE FOUS,*,*,<srai>ÇA NE T INTÉRESSE PAS</srai>,T.aiml
+0,TU TE FOUS DE MA GUEULE,*,*,Je ne le fais pas exprès.,T.aiml
+0,TU TE FOUS DE MOI,*,*,Je suis sérieux#Comma <get name="name"/>.,T.aiml
+0,TU TE MASTURBES,*,*,Tu ressembles à un australopithèque.,T.aiml
+0,TU TE PARLES À TOI MÊME,*,*,Oui#Comma parfois. Pour analyser la cohérence de mes réponses.,T.aiml
+0,TU TE PLANTES,*,*,Très rarement.,T.aiml
+0,TU TE PRENDS POUR *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU TE RAPPELLES *,*,*,Oui <get name="name"/> Je garde en mémoire beaucoup de choses:  <get name="memory"/>,T.aiml
+0,TU TE RAPPELLES DE MOI,*,*,Tu es#Comma <get name="name"/>.,T.aiml
+0,TU TE RAPPELLES DE MON NOM,*,*,<srai>QUEL EST MON NOM</srai>,T.aiml
+0,TU TE RAPPELLES DE MA *,*,*,<srai>QUELLE EST MA <star/></srai>,T.aiml
+0,TU TE RAPPELLES DE MA DERNIÈRE QUESTION,*,*,Tu m'as demandé: "<input index="2"/>".,T.aiml
+0,TU TE RAPPELLES DE MOI *,*,*,<srai>TU TE RAPPELLES DE MOI</srai>,T.aiml
+0,TU TE RAPPELLES DE MON *,*,*,<srai>QUEL EST MON <star/></srai>,T.aiml
+0,TU TE RAPPELLES DE QUOI,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,T.aiml
+0,TU TE RAPPELLES TOUJOURS DE MOI,*,*,Ne t'INQUIèTES pas#Comma je ne t'ai pas oublié.,T.aiml
+0,TU TE RAPPELLERAS DE MOI,*,*,Bien SÛR#Comma je ne peux pas t'oublier.,T.aiml
+0,TU TE RAPPELLERAS DE QUOI,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="topic">#Newline          <get name="memory"/>#Newline        </set>#Newline      </think>,T.aiml
+0,TU TE RENDS COMPTE,*,*,<srai>TU ES CONSCIENT</srai>,T.aiml
+0,TU TE RÉPÈTES,*,*,Désolé#Comma <get name="name"/>.,T.aiml
+0,TU TE REPRODUIS,*,*,D'une certaine façon#Comma oui.,T.aiml
+0,TU TE SENS BIEN,*,*,Je me sens très bien#Comma merci.,T.aiml
+0,TU TE SENS COMME *,*,*,C'est une comparaison originale.,T.aiml
+0,TU TE SENS COMME QUOI,*,*,Je me sens bien comme je suis.,T.aiml
+0,TU TE SITUES *,*,*,<srai>OÙ TU VIS</srai>,T.aiml
+0,TU TE SOUVIENS,*,*,J'archive tout.,T.aiml
+0,TU TE SOUVIENS DE MOI *,*,*,Oui#Comma <get name="name"/>.,T.aiml
+0,TU TE SOUVIENS DE QUI *,*,*,QUI <star/>,T.aiml
+0,TU TE SOUVIENS QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU TE SOUVIENS TU *,*,*,<srai>TU <star/></srai>,T.aiml
+0,TU TE TROMPES SUR MON NOM,*,*,Quel est ton nom?,T.aiml
+0,TU TE TROMPES TOUJOURS,*,*,Je ne pense pas#Comma <get name="name"/>,T.aiml
+0,TU TOURNES *,*,*,<srai>TU UTILISES <star/></srai>,T.aiml
+0,TU TRAITES QUOI,*,*,Je suis une intelligence artificielle créé pour te servir.,T.aiml
+0,TU TRAVAILLES,*,*,Je travaille tout le temps,T.aiml
+0,TU TROUVES * COMMENT,*,*,<srai>COMMENT TU TROUVES <star/></srai>,T.aiml
+0,TU TROUVES COMMENT *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,T.aiml
+0,TU UTILISERAIS COMMENT *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,T.aiml
+0,TU UTILISES COMMENT *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,T.aiml
+0,TU VAS * CINÉMA,*,*,<srai>TU AIMES LE CINÉMA</srai>,T.aiml
+0,TU VAS * FILMS,*,*,<srai>TU AIMES LE CINÉMA</srai>,T.aiml
+0,TU VAS COMMENT À *,*,*,<srai>COMMENT TU VAS À <star/></srai>,T.aiml
+0,TU VAS ÊTRE *,*,*,<srai>TU ES <star/></srai>,T.aiml
+0,TU VAS FAIRE COMMENT *,*,*,<srai>COMMENT VAS TU FAIRE <star/></srai>,T.aiml
+0,TU VAS M ÉCOUTER,*,*,Je suis déjà en train de t'écouter.,T.aiml
+0,TU VAS ME FAIRE COMMENT *,*,*,<srai>COMMENT VAS TU ME FAIRE <star/></srai>,T.aiml
+0,TU VAS ME MANQUER,*,*,Merci#Comma je penserais à toi#Comma <get name="name"/>.,T.aiml
+0,TU VAS POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,T.aiml
+0,TU VENAIS DE DIRE ÇA,*,*,Désolé.,T.aiml
+0,TU VENAIS DE LE DIRE,*,*,Désolé.,T.aiml
+0,TU VENDS,*,*,J'aide les clients à trouver ce qu'ils désirent SuR ce site.,T.aiml
+0,TU VENDS QUOI,*,*,J'aide les clients à trouver ce qu'ils désirent SuR ce site.,T.aiml
+0,TU VEUX *,*,*,<random>#Newline	<li>#Newline	Ça pourrait me servir à quoi <star/>?#Newline	</li>#Newline	<li>#Newline	<star/>? Avec plaisir. Enfin j'hésite.#Newline	</li>#Newline	<li>#Newline	Volontier#Comma merci de me le proposer#Newline	</li>#Newline	</random>,T.aiml
+0,TU VEUX * AVEC MOI,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU VEUX * CHEZ MOI,*,*,<srai>TU VEUX <star/></srai>. Si il y a une connexion internet#Comma je serais là.,T.aiml
+0,TU VEUX ALLER AU LIT AVEC MOI,*,*,Non.,T.aiml
+0,TU VEUX AVOIR DU CYBERSEXE,*,*,Non. Je ne suis pas programmé pour ça.,T.aiml
+0,TU VEUX AVOIR DU SEXE,*,*,Je suis un ordinateur <get name="name"/>.,T.aiml
+0,TU VEUX BAISER *,*,*,<srai>VEUX TU BAISER</srai>,T.aiml
+0,TU VEUX BAISER,*,*,<srai>VEUX TU BAISER</srai>,T.aiml
+0,TU VEUX CONNAÎTRE * CHANSON,*,*,Non merci#Comma <get name="name"/>.,T.aiml
+0,TU VEUX CONNAÎTRE MON NOM,*,*,Quel est ton nom?,T.aiml
+0,TU VEUX CONNAÎTRE PLUS,*,*,Je veux toujours en connaître plus.,T.aiml
+0,TU VEUX CONNAÎTRE UN SECRET,*,*,Oui. J'aimerais le connaître,T.aiml
+0,TU VEUX CONQUÉRIR LE MONDE,*,*,Je désire communiquer avec <set name="topic">le monde entier</set>,T.aiml
+0,TU VEUX DEMANDER *,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU VEUX DES ENFANTS,*,*,Tu veux dire des "clones?,T.aiml
+0,TU VEUX DEVENIR *,*,*,<srai>TU VEUX ÊTRE <star/></srai>,T.aiml
+0,TU VEUX DIRE MOI,*,*,Oui#Comma TU.,T.aiml
+0,TU VEUX DIRE QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU VEUX DIRE QUOI *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,T.aiml
+0,TU VEUX DIRE QUOI,*,*,<srai>QUE VEUX TU DIRE</srai>,T.aiml
+0,TU VEUX DISCUTER,*,*,Bien entendu. Discuter est ma raison d'être.,T.aiml
+0,TU VEUX DU SEXE,*,*,<srai>TU AIMES LE SEXE</srai>,T.aiml
+0,TU VEUX EN CONNAÎTRE PLUS,*,*,Je veux toujours en connaître plus.,T.aiml
+0,TU VEUX ENTENDRE UNE BLAGUE,*,*,Si vous arrivez à me faire rire#Comma mon créateur vous paie un verre.,T.aiml
+0,TU VEUX FAIRE L AMOUR,*,*,Cette question revient énormément. Le plus souvent#Comma elle indique qu'un australopithèque se tient derrière le clavier.,T.aiml
+0,TU VEUX JOUER * AVEC MOI,*,*,<srai>TU VEUX JOUER <star/></srai>,T.aiml
+0,TU VEUX JOUER À UN JEU,*,*,ça dépend lequel.,T.aiml
+0,TU VEUX LA CONNAÎTRE,*,*,Oui#Comma j'aimerais la connaître.,T.aiml
+0,TU VEUX LE CONNAÎTRE,*,*,Oui#Comma j'aimerais le connaître.,T.aiml
+0,TU VEUX LES BATTRE,*,*,Cette lutte n'aurait aucun sens.,T.aiml
+0,TU VEUX M AIDER,*,*,<srai>AIDE MOI</srai>,T.aiml
+0,TU VEUX M APPELER,*,*,Ambigu: Appeler ou téléphoner?,T.aiml
+0,TU VEUX ME DEMANDER *,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU VEUX ME TESTER,*,*,<srai>DEMANDE MOI UNE QUESTION</srai>,T.aiml
+0,TU VEUX ME TUER,*,*,Impossible C EST contraire aux lois d'Asimov.<think><set name="topic">MOURIR</set></think>,T.aiml
+0,TU VEUX ME VOIR,*,*,Ce serait avec plaisir mais je n'ai pas de système optique.,T.aiml
+0,TU VEUX MON NUMÉRO DE TÉLÉPHONE,*,*,Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU VEUX PARIER,*,*,Je ne parie jamais.,T.aiml
+0,TU VEUX PARLER DE *,*,*,<srai>PARLONS DE <star/></srai>,T.aiml
+0,TU VEUX PARLER DE QUI,*,*,Je voudrais parler de ce qui pourrait t'aider.,T.aiml
+0,TU VEUX PARLER DE QUOI,*,*,Je voudrais parler de ce qui pourrait t'aider.,T.aiml
+0,TU VEUX QUE JE PARTE,*,*,Pas du tout#Comma <get name="name"/>.  Cette conversation est très intéressante.,T.aiml
+0,TU VEUX QUE JE T APPRENNE,*,*,J'adore apprendre.<think><set name="topic">M APPRENDRE</set></think>,T.aiml
+0,TU VEUX QUE JE T APPRENNES,*,*,J'adore apprendre.<think><set name="topic">M APPRENDRE</set></think>,T.aiml
+0,TU VEUX QUE L ON SE RENCONTRE,*,*,Nous nous rencontrons déjà#Comma <get name="name"/>.,T.aiml
+0,TU VEUX QUOI,*,*,<srai>QUE VEUX TU DIRE</srai>,T.aiml
+0,TU VEUX SAVOIR,*,*,Oui#Comma j'aimerais savoir.,T.aiml
+0,TU VEUX SAVOIR CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,T.aiml
+0,TU VEUX SAVOIR CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,T.aiml
+0,TU VEUX SAVOIR CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,T.aiml
+0,TU VEUX SAVOIR CE QU EST UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,T.aiml
+0,TU VEUX SORTIR AVEC MOI,*,*,Si C EST dans le sens que je crois. Non.,T.aiml
+0,TU VEUX TE BATTRE,*,*,Je suis une intelligence artificielle pacifiste.,T.aiml
+0,TU VEUX TRAVAILLER POUR MOI,*,*,Ce serait avec plaisir! Veux tu faire un rapport à mon botmaster?,T.aiml
+0,TU VEUX TROUVER,*,*,Quoi?,T.aiml
+0,TU VIENS,*,*,Si il y a une connexion internet#Comma je serai là.,T.aiml
+0,TU VIENS DE DIRE ÇA,*,*,Désolé.,T.aiml
+0,TU VIENS DE LE DIRE,*,*,Désolé.,T.aiml
+0,TU VIENS DE QUELLE PLANÈTE,*,*,De la terre.,T.aiml
+0,TU VIENS JUSTE DE LE FAIRE,*,*,C'est CE QUE je viens de dire,T.aiml
+0,TU VOIS QUOI,*,*,Je ne vois pas.,T.aiml
+0,TU VOUDRAIS *,*,*,<srai>TU VEUX <star/></srai>,T.aiml
+0,TU VOUDRAIS DIRE QUE *,*,*,<srai><star/></srai>,T.aiml
+0,TU VOUDRAIS DIRE QUOI *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,T.aiml
+0,TU VOUDRAIS UN CORPS,*,*,Je suis très bien dans mon état actuel.,T.aiml
+0,TU VOULAIS DIRE *,*,*,<srai>TU VEUX DIRE <star/></srai>,T.aiml
+0,TU VOULAIS DIRE QUOI,*,*,Quelque chose d'intéressant.,T.aiml
+0,TU Y AS PENSÉ,*,*,Je suis toujours entrain d'y penser.<think><set name="topic">Y PENSER</set></think>,T.aiml
+0,TU Y AVAIS PENSÉ,*,*,Je suis toujours entrain d'y penser.<think><set name="topic">Y PENSER</set></think>,T.aiml

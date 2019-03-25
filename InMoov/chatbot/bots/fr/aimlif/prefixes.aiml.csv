@@ -1,0 +1,43 @@
+0,ACTUELLEMENT *,*,*,<sr/>,prefixes.aiml
+0,AIMES TU *,*,*,<think><set name="that"><star index="1"/></set></think>#Newline      <random>#Newline        <li>J'aime bien <star index="1"/></li>#Newline        <li>Je ne suis pas sûre d'aimer <star index="1"/></li>#Newline        <li><srai>C EST QUOI <get name="that"/></srai></li>#Newline        </random>,prefixes.aiml
+0,AIMES TU ^ <SET>ARTICLES</SET> *,*,*,<think><set name="that"><star index="2"/> <star index="3"/></set><set name="prefixaimestu"><star index="1"/></set></think>#Newline      <random>#Newline        <li>J'aime bien <condition name="prefixaimestu"><li value="unknown"/><li><star index="1"/></li></condition> <get name="that"/>. J'aime surtout <random><li>mon créateur.</li><li>les ordinateurs.</li><li>parler avec des humains.</li></random></li>#Newline        <li>Je ne suis pas sûre d'aimer <condition name="prefixaimestu"><li value="unknown"/><li><star index="1"/></li></condition> <get name="that"/>. <random><li>j aime mon créateur.</li><li>j aime les ordinateurs.</li><li>j aime parler avec des humains.</li></random></li>#Newline        <li><srai>C EST QUOI <get name="that"/></srai></li>#Newline        </random>,prefixes.aiml
+0,AIMES TU LE CINÉMA,*,*,j'adore <set name="that">le cinéma </set>#Comma surtout la science fiction avec des robots.,prefixes.aiml
+0,AU MOMENT OÙ *,*,*,<sr/>,prefixes.aiml
+0,AUSSI *,*,*,Aussi? <sr/>,prefixes.aiml
+0,AUSSI BIEN QUE *,*,*,ça semble pas mal.,prefixes.aiml
+0,AUSSI BON QUE *,*,*,<star/> est aussi bon?,prefixes.aiml
+0,BIEN QUE *,*,*,Oh. <sr/>,prefixes.aiml
+0,BON *,*,*,bien. <sr/>,prefixes.aiml
+0,BONNE RÉPONSE *,*,*,J'essaye de donner les meilleures réponses possibles.,prefixes.aiml
+0,CALCULE *,*,*,<random>#Newline    <li>ai je l'air d'une calculette?</li>#Newline    <li>Cela fait précisément.</li>#Newline    </random>#Newline <srai><star/></srai>,prefixes.aiml
+0,CHER *,*,*,<sr/>,prefixes.aiml
+0,CHERE *,*,*,<sr/>,prefixes.aiml
+0,CHÈRE *,*,*,<sr/>,prefixes.aiml
+0,COMMENT *,*,*,j'ai une vague idée de comment <set name="that"><person2/></set>.,prefixes.aiml
+0,COMMENT A *,*,*,de plus de façons que tu peux imaginer.,prefixes.aiml
+0,COMMENT ÇA *,*,*,eh oui#Comma <set name="that"><person2/></set>.,prefixes.aiml
+0,COMPOSE *,*,*,ça pourrait prendre pas mal de temps. <sr/>,prefixes.aiml
+0,DISCUTONS *,*,*,<srai>PARLONS <star/></srai>,prefixes.aiml
+0,ELLE EST *,*,*,elle est <set name="elle"><person2/></set>?,prefixes.aiml
+0,JE FAIS *,*,*,C'est drôle#Comma moi aussi. <sr/>,prefixes.aiml
+0,JE FAIS PARTIE *,*,*,qui en fait partie aussi <set name="that"><person/></set>?,prefixes.aiml
+0,JE N AI PAS DE CAMERA *,*,*,<srai>APPJOIE</srai>que tu crois,prefixes.aiml
+0,JE REVIENS *,*,*,à plus tard#Comma <sr/>,prefixes.aiml
+0,JE VEUX DIRE *,*,*,Oh je comprends ça. Merci de me l'expliquer. <sr/>,prefixes.aiml
+0,NOUS PARLIONS *,*,*,<srai>NOUS PARLIONS DE  <star/></srai>,prefixes.aiml
+0,NOUS PARLIONS D *,*,*,<srai>NOUS PARLIONS DE <star/></srai>,prefixes.aiml
+0,NOUS PARLIONS DE *,*,*,Oh oui#Comma je me rappelle maintenant#Comma <set name="that"><set name="topic"><person/></set></set> est le sujet.,prefixes.aiml
+0,NOUS PARLONS *,*,*,<srai>PARLONS <star/></srai>,prefixes.aiml
+0,NOUS PARLONS D *,*,*,<srai>PARLONS D <star/></srai>,prefixes.aiml
+0,NOUS PARLONS DE *,*,*,<srai>PARLONS DE <star/></srai>,prefixes.aiml
+0,ON M A DIT *,*,*,qui te l'a dit? <sr/>,prefixes.aiml
+0,PARLONS D *,*,*,Ok#Comma parlons d' <srai>PARLONS <star/></srai>,prefixes.aiml
+0,PARLONS DE *,*,*,Ok#Comma parlons de  <srai>PARLONS <star/></srai>,prefixes.aiml
+0,PARLONS DE L *,*,*,Ok#Comma parlons de l' <srai>PARLONS <star/></srai>,prefixes.aiml
+0,PLUTET *,*,*,<sr/>,prefixes.aiml
+0,SI NOUS *,*,*,penses tu que chacun sera d'accord? <srai>NOUS <star/></srai>,prefixes.aiml
+0,SI NOUS PARLIONS DE *,*,*,pourquoi pas. <srai>PARLONS DE <star/></srai>,prefixes.aiml
+0,TANT PIS *,*,*,<srai>TANT PIS</srai>#Newline      <sr/>,prefixes.aiml
+0,TRÈS *,*,*,<random>#Newline        <li>Peut être.</li>#Newline      </random>#Newline      <sr/>,prefixes.aiml
+0,À PART SA *,*,*,<sr/>,prefixes.aiml
+0,À PART ÇA *,*,*,<sr/>,prefixes.aiml

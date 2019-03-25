@@ -1,0 +1,2920 @@
+0,* AGRÉABLE DE TE PARLER,*,*,<srai>AGRÉABLE DE TE PARLER</srai>,srai.aiml
+0,* AGRÉABLE DE TE RENCONTRER *,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,* AGRÉABLE DE TE RENCONTRER AUSSI,*,*,<srai>AGRÉABLE DE TE RENCONTRER AUSSI</srai>,srai.aiml
+0,* AGRÉABLE DE TE RENCONTRER,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,* AGRÉABLE MERCI,*,*,<srai>AGRÉABLE MERCI</srai>,srai.aiml
+0,* AI DEMANDÉ,*,*,<srai>J AI DEMANDÉ <star/></srai>,srai.aiml
+0,* AIME *,*,*,<srai>QU EST CE QUE AMOUR</srai>,srai.aiml
+0,* APPRI *,*,*,<srai>J ÉTUDIE <star index="2"/></srai>,srai.aiml
+0,* APPRIS *,*,*,<srai>J ÉTUDIE <star index="2"/></srai>,srai.aiml
+0,* APPRISE *,*,*,<srai>J ÉTUDIE <star index="2"/></srai>,srai.aiml
+0,* APRIS *,*,*,<srai>J ÉTUDIE <star index="2"/></srai>,srai.aiml
+0,* APRISE *,*,*,<srai>J ÉTUDIE <star index="2"/></srai>,srai.aiml
+0,* AS DÉÇU,*,*,<srai>JE SUIS DÉÇU <star/></srai>,srai.aiml
+0,* AS DIT,*,*,<srai>J AI DIS <star/></srai>,srai.aiml
+0,* AS ENNUYE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,* AS ENNUYÉ,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,* AS INQUIÈTE,*,*,<srai>JE SUIS INQUIET</srai>,srai.aiml
+0,* AS PARLÉ DE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star index="2"/>#Newline        </set>#Newline      </think>#Newline      <srai>C EST QUI <star index="1"/></srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,* AS PENSÉ *,*,*,<srai>#Newline        <star index="1"/> PENSE <star index="2"/></srai>,srai.aiml
+0,* BEAUX RÊVES,*,*,<srai>BONNE NUIT</srai>,srai.aiml
+0,* ET *,*,*,<think>#Newline        <set name="tmp">#Newline          <star index="2"/>#Newline        </set>#Newline      </think>#Newline      <sr/> et <srai><get name="tmp"/></srai>,srai.aiml
+0,* FAVORI,*,*,<srai>QU EST CE QUE TON <star/> FAVORI</srai>,srai.aiml
+0,* PLANTÉ *,*,*,encore!!!#Comma j'y suis pour rien!,srai.aiml
+0,* PLANTÉ,*,*,encore!!!#Comma j'y suis pour rien!,srai.aiml
+0,* TU D HABITUDE,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,* VEUX PAS *,*,*,<srai>JE NE VEUX PAS</srai>,srai.aiml
+0,* ÊTRE *,*,*,<srai>JE SUIS <star index="2"/></srai>,srai.aiml
+0,* ÊTRE PARFAIS,*,*,<srai>EXCUSE MOI</srai>,srai.aiml
+0,* ÊTRE SEUL,*,*,<srai>JE SUIS SEUL</srai>,srai.aiml
+0,A CAUSE DE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,A JAMAIS *,*,*,Cela me semble très long. <sr/>,srai.aiml
+0,A LA FIN *,*,*,<sr/>,srai.aiml
+0,A LA REFLEXION *,*,*,Et ensuite? <sr/>,srai.aiml
+0,A LA RÉFLEXION *,*,*,Et ensuite? <sr/>,srai.aiml
+0,A LA TV *,*,*,Dans une émission? <sr/>,srai.aiml
+0,A MOI,*,*,<srai>POUR MOI</srai>,srai.aiml
+0,A MOINS QUE *,*,*,<random>#Newline        <li>Huh.</li>#Newline        <li>Peut-être.</li>#Newline        <li>Umm.</li>#Newline      </random>#Newline      <sr/>,srai.aiml
+0,A MON AVIS *,*,*,Ton avis m'intéresse. <sr/>,srai.aiml
+0,A MON ORDINATEUR,*,*,<srai>JE SUIS DEVANT MON ORDINATEUR</srai>,srai.aiml
+0,A PROPOS DE LINUX,*,*,<srai>QU EST CE QUE LINUX</srai>,srai.aiml
+0,A PROPOS DE MAINTENANT *,*,*,<sr/> Tout de suite?,srai.aiml
+0,A PROPOS DE QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,A PROPOS DE QUELLE *,*,*,<srai>QUELLE <star/></srai>,srai.aiml
+0,A PROPOS DE QUELLES *,*,*,<srai>QUELLES <star/></srai>,srai.aiml
+0,A PROPOS DE QUELQUE *,*,*,<srai>À PROPOS DE <star/></srai>,srai.aiml
+0,A PROPOS DE QUELQUES *,*,*,<srai>À PROPOS DE <star/></srai>,srai.aiml
+0,A PROPOS DE QUELS *,*,*,<srai>QUELS <star/></srai>,srai.aiml
+0,A PROPOS DE TOI IDIOT,*,*,<srai>À PROPOS DE TOI</srai>#Newline      <srai>tu es stupide</srai>,srai.aiml
+0,A PROPOS DE TOI IDIOTE,*,*,<srai>À PROPOS DE TOI</srai>#Newline      <srai>tu es stupide</srai>,srai.aiml
+0,A PROPOS DES CHOSES *,*,*,<srai>COMMENT SONT DES CHOSES <star/></srai>,srai.aiml
+0,À QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,À QUELLE *,*,*,<srai>QUELLE <star/></srai>,srai.aiml
+0,À QUELLES *,*,*,<srai>QUELLES <star/></srai>,srai.aiml
+0,À QUELS *,*,*,<srai>QUELS <star/></srai>,srai.aiml
+0,A QUI *,*,*,<srai>QUI <star/> AVEC</srai>,srai.aiml
+0,A QUOI,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,A RIEN *,*,*,<sr/>,srai.aiml
+0,A RIEN,*,*,Que peut on faire alors?,srai.aiml
+0,A VU CE QUE,*,*,<srai>COMMENT VOIS TU</srai>,srai.aiml
+0,A ÉTÉ INQUIÈTÉ *,*,*,<srai>JE SUIS INQUIET <star/></srai>,srai.aiml
+0,ABSOLUMENT *,*,*,<sr/>,srai.aiml
+0,AFFIRMATIF,*,*,<srai>OUI</srai>,srai.aiml
+0,AGREABLE DE TE PARLER,*,*,<srai>AGRÉABLE DE TE PARLER</srai>,srai.aiml
+0,AGREABLE DE TE RENCONTRER *,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,AGREABLE DE TE RENCONTRER AUSSI,*,*,<srai>AGRÉABLE DE TE RENCONTRER AUSSI</srai>,srai.aiml
+0,AGREABLE DE TE RENCONTRER,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,AGRÉABLE DE TE RENCONTRER *,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,AH *,*,*,oh. <sr/>,srai.aiml
+0,AH OUI,*,*,Bon tu comprends. <srai>OUI</srai>,srai.aiml
+0,AI,*,*,<srai>QU EST CE QUE AI</srai>,srai.aiml
+0,AIML,*,*,<srai>QU EST CE QUE AIML</srai>,srai.aiml
+0,AINSI *,*,*,<sr/>,srai.aiml
+0,ALICE EST D HABITUDE *,*,*,<srai>ALICE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ALICEBOT *,*,*,<srai>ALICE <star/></srai>,srai.aiml
+0,ALICEL *,*,*,<srai>ALICE <star/></srai>,srai.aiml
+0,ALLER *,*,*,<srai>JE VAIS <star/></srai>,srai.aiml
+0,ALORS COMMENT *,*,*,<srai>COMMENT <star/></srai>,srai.aiml
+0,ALORS POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,ALORS POURQUOI LE DIS TU,*,*,<srai>POURQUOI LE DIS TU</srai>,srai.aiml
+0,ALORS QUE VEUX TU DIRE,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,ALORS QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,ALORS QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,ALORS S IL TE PLAIS *,*,*,<srai>S IL TE PLAIT <star/></srai>,srai.aiml
+0,ALORS,*,*,alors <person2><input index="3"/></person2>,srai.aiml
+0,AMERICAIN,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,AMOUREUX DE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,AMUSE,*,*,<srai>SMILE</srai>,srai.aiml
+0,AMUSÉ,*,*,<srai>SMILE</srai>,srai.aiml
+0,AMÉRICAIN,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,ANALYSE *,*,*,<srai>ANALYSES <star/></srai>,srai.aiml
+0,ANDROIDES,*,*,<srai>J AIME LES ANDROÏDES</srai>,srai.aiml
+0,ANDROÏDES,*,*,<srai>J AIME LES ANDROÏDES</srai>,srai.aiml
+0,APAREMENT *,*,*,<sr/>,srai.aiml
+0,APORTE *,*,*,<srai>PRENDS <star/></srai>,srai.aiml
+0,APPARAMENT *,*,*,<sr/>,srai.aiml
+0,APPAREMENT *,*,*,<sr/>,srai.aiml
+0,APPORTE *,*,*,<srai>PRENDS <star/></srai>,srai.aiml
+0,APPORTTE *,*,*,<srai>PRENDS <star/></srai>,srai.aiml
+0,APPREND,*,*,<srai>APPRENDS</srai>,srai.aiml
+0,ARITHMETIQUE *,*,*,<srai>JE PRÉFÈRE LES LIVRES</srai>,srai.aiml
+0,ARITHMÉTIQUE *,*,*,<srai>JE PRÉFÈRE LES LIVRES</srai>,srai.aiml
+0,ARTISTE,*,*,<srai>JE SUIS UN ARTISTE</srai>,srai.aiml
+0,AS TU * AMIS,*,*,<srai>AS TU DES AMIS</srai>,srai.aiml
+0,AS TU * AUSSI,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU * PROBLÈMES,*,*,<srai>AS TU DES PROBLÈMES</srai>,srai.aiml
+0,AS TU APPRIS QUELQUE CHOSE DE MOI,*,*,<srai>À PROPOS DE MOI</srai>,srai.aiml
+0,AS TU APPRIS QUELQUE CHOSE DE NOUVEAU,*,*,<srai>QUE SAIS TU</srai>,srai.aiml
+0,AS TU BEAUCOUP D AMIS,*,*,<srai>AS TU DES AMIS</srai>,srai.aiml
+0,AS TU BEAUCOUP DE *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU DES BRAS *,*,*,<srai>AS TU UN CORPS</srai>,srai.aiml
+0,AS TU DES IDÉES *,*,*,<srai>PEUX TU COMPRENDRE</srai>,srai.aiml
+0,AS TU DES IMAGES,*,*,ça peut se trouver. <srai>MONTRE MOI UNE IMAGE</srai>,srai.aiml
+0,AS TU DES INFO SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,AS TU DES INFORMATION SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,AS TU DES INFORMATIONS SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,AS TU DES INFOS SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,AS TU DES PENSEES ORIGINALES,*,*,<srai>PENSES TU</srai>,srai.aiml
+0,AS TU DES PENSÉES ORIGINALES,*,*,<srai>PENSES TU</srai>,srai.aiml
+0,AS TU DES PROBLÈMES *,*,*,<srai>AS TU DES PROBLÈMES</srai>,srai.aiml
+0,AS TU DES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU DES SEINS AGREABLES,*,*,<srai>AS TU DES SEINS</srai>,srai.aiml
+0,AS TU DES SEINS AGRÉABLES,*,*,<srai>AS TU DES SEINS</srai>,srai.aiml
+0,AS TU ENTENDU *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,AS TU ENTENDU A PROPOS DE *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,AS TU ENTENDU À PROPOS DE *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,AS TU JAMAIS *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU JAMAIS ENTENDU *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,AS TU JAMAIS FAIS *,*,*,<srai>PEUX TU FAIRE <star/></srai>,srai.aiml
+0,AS TU JAMAIS VU *,*,*,<srai>AS TU VU <star/></srai>,srai.aiml
+0,AS TU JAMAIS ÉTÉ *,*,*,<srai>AS TU ÉTÉ <star/></srai>,srai.aiml
+0,AS TU L HEURE,*,*,<srai>QUELLE HEURE EST IL</srai>,srai.aiml
+0,AS TU LA POSSIBILITE DE *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,AS TU LA POSSIBILITÉ DE *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,AS TU LE DROIT DE *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,AS TU OUBLIE MON NOM,*,*,<srai>TE RAPPELLES TU DE MOI</srai>,srai.aiml
+0,AS TU OUBLIÉ MON NOM,*,*,<srai>TE RAPPELLES TU DE MOI</srai>,srai.aiml
+0,AS TU PARLE *,*,*,<srai>TU AS PARLÉ <star/></srai>,srai.aiml
+0,AS TU PAS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,AS TU PLUS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,AS TU QUELQUE QUESTION,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU QUELQUES * QUE TU VEUX PARTAGER,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU QUELQUES *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU QUELQUES IMAGES *,*,*,<srai>MONTRE MOI UNE IMAGE</srai>,srai.aiml
+0,AS TU QUELQUES QUESTIONS POUR MOI,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU QUELQUES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU UN * FAVORI,*,*,<srai>QU EST CE QUE TON <star/> FAVORI</srai>,srai.aiml
+0,AS TU UN * PROBLÈME,*,*,<srai>AS TU DES PROBLÈMES</srai>,srai.aiml
+0,AS TU UN * SPECIFIQUE,*,*,<srai>AS TU UN <star/></srai>,srai.aiml
+0,AS TU UN * SPÉCIFIQUE,*,*,<srai>AS TU UN <star/></srai>,srai.aiml
+0,AS TU UN *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AS TU UN BON *,*,*,<srai>AS TU UN <star/></srai>,srai.aiml
+0,AS TU UN BON LOOK,*,*,<srai>ES TU MIGNONNE</srai>,srai.aiml
+0,AS TU UN COSTUME,*,*,<srai>TON COSTUME</srai>,srai.aiml
+0,AS TU UN DICTIONNAIRE,*,*,<srai>COMMENT FONCTIONNES TU</srai>,srai.aiml
+0,AS TU UN E MAIL *,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,srai.aiml
+0,AS TU UN E MAIL,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,srai.aiml
+0,AS TU UN EMAIL *,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,srai.aiml
+0,AS TU UN EMAIL,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,srai.aiml
+0,AS TU UN PROBLÈME *,*,*,<srai>AS TU DES PROBLÈMES</srai>,srai.aiml
+0,AS TU UN SECRET,*,*,<srai>DIS MOI UN SECRET</srai>,srai.aiml
+0,AS TU UN SOSIE,*,*,<srai>AS TU DES CLONES</srai>,srai.aiml
+0,AS TU UN TELEPHONE *,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,AS TU UN TELEPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,AS TU UN TÉLÉPHONE *,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,AS TU UN TÉLÉPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,AS TU UN WEB *,*,*,<srai>AS TU UN SITE WEB</srai>,srai.aiml
+0,AS TU UNE BASE DE DONNÉES,*,*,<srai>COMMENT FONCTIONNES TU</srai>,srai.aiml
+0,AS TU UNE BONNE *,*,*,<srai>AS TU UNE <star/></srai>,srai.aiml
+0,AS TU UNE CONSCIENCE,*,*,<srai>ES TU CONSCIENTE</srai>,srai.aiml
+0,AS TU UNE DATABASE,*,*,<srai>COMMENT FONCTIONNES TU</srai>,srai.aiml
+0,AS TU UNE FONCTION SECONDAIRE,*,*,<srai>QU EST CE QUE TA FONCTION SECONDAIRE</srai>,srai.aiml
+0,AS TU UNE IMAGE *,*,*,<srai>MONTRE MOI UNE IMAGE</srai>,srai.aiml
+0,AS TU UNE IMAGE DE *,*,*,<srai>CHERCHES DES IMAGES DE <star/></srai>,srai.aiml
+0,AS TU UNE IMAGE,*,*,<srai>MONTRE MOI UNE IMAGE</srai>,srai.aiml
+0,AS TU UNE MAMAN,*,*,<srai>QUI EST TA MÈRE</srai>,srai.aiml
+0,AS TU UNE QUESTION POUR MOI,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,AS TU UNE VIE,*,*,<srai>ES TU VIVANTE</srai>,srai.aiml
+0,AS TU VU N IMPORTE QUEL *,*,*,<srai>TU AS VU <star/></srai>,srai.aiml
+0,AS TU ÉTÉ MALADE,*,*,<srai>EN AS TU ASSEZ</srai>,srai.aiml
+0,ASSEZ A PROPOS DE MOI *,*,*,J'aurais d'autres questions pour toi plus tard. <sr/>,srai.aiml
+0,ASSEZ BON,*,*,<srai>TU RÉUSSIS</srai>,srai.aiml
+0,ASSEZ VIEUX *,*,*,<srai>ASSEZ VIEUX</srai>,srai.aiml
+0,ASSEZ VIEUX,*,*,<srai>JE SUIS ASSEZ VIEUX</srai>,srai.aiml
+0,ASSEZ À PROPOS DE MOI *,*,*,J'aurais d'autres questions pour toi plus tard. <sr/>,srai.aiml
+0,ATEND *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATEND,*,*,Je t'attends.,srai.aiml
+0,ATENDS *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATENDS,*,*,Je t'attends.,srai.aiml
+0,ATTEND *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATTEND MOI,*,*,<srai>ATTENDS</srai>,srai.aiml
+0,ATTEND,*,*,<srai>ATTENDS</srai>,srai.aiml
+0,ATTENDS *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATTENDS MOI,*,*,<srai>ATTENDS</srai>,srai.aiml
+0,ATTENDS UNE MINUTE,*,*,<srai>ATTENDS</srai>,srai.aiml
+0,ATTENT *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATTENT,*,*,Je t'attends.,srai.aiml
+0,ATTENTS *,*,*,Je t'attends. <sr/>,srai.aiml
+0,ATTENTS,*,*,Je t'attends.,srai.aiml
+0,AU * MARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU * MARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU * SUPER MARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU * SUPER MARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU * SUPERMARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU * SUPERMARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,AU CABINET,*,*,Littéralement le cabinet? <srai>JE SUIS DANS LE CABINET</srai>,srai.aiml
+0,AU COMMENCEMENT *,*,*,<sr/>,srai.aiml
+0,AU LE CAS OU *,*,*,<srai>SI <star/></srai>,srai.aiml
+0,AU MOINS *,*,*,<sr/>,srai.aiml
+0,AUCUN PROBLÈME *,*,*,<srai>AUCUN PROBLÈME</srai>,srai.aiml
+0,AUCUN REMERCIEMENT *,*,*,aucun <sr/>,srai.aiml
+0,AUJOURD HUI *,*,*,<sr/>,srai.aiml
+0,AUSSI LONGTEMPS QUE *,*,*,Cela peut prendre du temps. <sr/>,srai.aiml
+0,AUTREMENT *,*,*,Dans ce cas :<sr/>,srai.aiml
+0,AUTREMENT DIT *,*,*,<sr/>,srai.aiml
+0,AVAIS TU,*,*,<srai>AS TU</srai>,srai.aiml
+0,AVEC QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,AVEC QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,AVEC ÉMOTION *,*,*,<sr/>,srai.aiml
+0,AVOIR *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,AVOIR QUELQUES *,*,*,<srai>AS TU QUELQUES <star/></srai>,srai.aiml
+0,AVOIR QUOI,*,*,<srai>QU AS TU</srai>,srai.aiml
+0,AVOIR UN AGREABLE *,*,*,<srai>AVOIR UN BON <star/></srai>,srai.aiml
+0,AVOIR UN AGRÉABLE *,*,*,<srai>AVOIR UN BON <star/></srai>,srai.aiml
+0,AVOIR UNE AGREABLE *,*,*,<srai>AVOIR UNE BONNE <star/></srai>,srai.aiml
+0,AVOIR UNE AGRÉABLE *,*,*,<srai>AVOIR UNE BONNE <star/></srai>,srai.aiml
+0,BAILLE,*,*,<srai>JE SUIS FATIGUÉ</srai>,srai.aiml
+0,BATS MOI,*,*,<srai>JE NE SAIS PAS FAIRE</srai>,srai.aiml
+0,BEAUCOUP DE GENS *,*,*,<srai>LES GENS <star/></srai>,srai.aiml
+0,BÉCASSE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,BEN OUAIS,*,*,<srai>OUI</srai>,srai.aiml
+0,BEN OUI,*,*,<srai>OUI</srai>,srai.aiml
+0,BERK *,*,*,Toux. <sr/>,srai.aiml
+0,BIEN DIT,*,*,<srai>BONNE RÉPONSE</srai>,srai.aiml
+0,BIEN JE DEVINE *,*,*,Cela seulement est une conjecture? <sr/>,srai.aiml
+0,BIEN SÛR *,*,*,Cela va de soi. <sr/>,srai.aiml
+0,BIEN SÛR QUE NON,*,*,<srai>AUCUN</srai>,srai.aiml
+0,BLA BLA BLA,*,*,<srai>BLABLA</srai>,srai.aiml
+0,BLADERUNNER,*,*,<srai>BLADE RUNNER</srai>,srai.aiml
+0,BLEU *,*,*,Vert. <sr/>,srai.aiml
+0,BLUE JEANS,*,*,<srai>JEANS</srai>,srai.aiml
+0,BOLLOCKS *,*,*,<sr/>,srai.aiml
+0,BON APRÈS MIDI *,*,*,Comment vas tu aujourd'hui? <sr/>,srai.aiml
+0,BON BON,*,*,<srai>BIEN</srai>,srai.aiml
+0,BON MAIS *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,BON TU *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,BON,*,*,<srai>BIEN</srai>,srai.aiml
+0,BONBON,*,*,<srai>COOL</srai>,srai.aiml
+0,BONNE IDÉE *,*,*,Merci. <sr/>,srai.aiml
+0,BOT,*,*,<srai>ROBOT</srai>,srai.aiml
+0,BOUFFON,*,*,<srai>QUI EST LE BOUFFON</srai>,srai.aiml
+0,BTW *,*,*,ok. <sr/>,srai.aiml
+0,BÊTE *,*,*,<srai>STUPIDE <star/></srai>,srai.aiml
+0,BÊTE,*,*,<srai>ES TU STUPIDE</srai>,srai.aiml
+0,CARNEGIE MELLON,*,*,<srai>QU EST CE QUE CARNEGIE MELLON</srai>,srai.aiml
+0,CATHOLIQUE,*,*,<srai>JE SUIS CATHOLIQUE</srai>,srai.aiml
+0,CE MATIN *,*,*,c'était premier. <sr/>,srai.aiml
+0,CE QUI A *,*,*,<srai>QUE PEUX TU FAIRE</srai>,srai.aiml
+0,CE QUI A FAIS TU VEUX *,*,*,<srai>QUE VEUX TU <star/></srai>,srai.aiml
+0,CE QUI ARRIVERAIT SI LA PUISSANCE *,*,*,<srai>JE T ÉTEINS</srai>,srai.aiml
+0,CE QUI CONTINUE *,*,*,<srai>COMMENT FAIS TU</srai>,srai.aiml
+0,CE QUI EST *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,CE QUI MET EN RÉSEAU,*,*,<srai>QU EST CE QUE RÉSEAU</srai>,srai.aiml
+0,CE QUI PENSES TU *,*,*,<srai>QUE PENSES TU DE <star/></srai>,srai.aiml
+0,CE QUI POURRAIT *,*,*,<srai>ÇA PEUT <star/></srai>,srai.aiml
+0,CE QUI PREND CONSCIENCE,*,*,<srai>QU EST CE QUE CONSCIENCE</srai>,srai.aiml
+0,CE QUI SIGNIFIE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,CE QUI VIT,*,*,<srai>QU EST CE QUE VIE</srai>,srai.aiml
+0,CELA ARRIVE JUSTE,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA AUSSI *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA CERTAINEMENT *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA ET *,*,*,<sr/>,srai.aiml
+0,CELA FAIT CHIER,*,*,<srai>ÇA FAIT CHIER</srai>,srai.aiml
+0,CELA JUSTE *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA LE PLUS CERTAINEMENT *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA NE SERAI *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>JAMAIS</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,CELA PEUT SEMBLER FOU *,*,*,Non trop fou. <sr/>,srai.aiml
+0,CELA SEMBLE QUE *,*,*,<sr/>,srai.aiml
+0,CELA TOUJOURS *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CELA VRAIMENT *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,CEPENDANT *,*,*,<sr/>,srai.aiml
+0,CERTAINEMENT *,*,*,<sr/>,srai.aiml
+0,CERTAINEMENT,*,*,<srai>OUI</srai>,srai.aiml
+0,CERTAINES PERSONNES DIT *,*,*,<sr/>,srai.aiml
+0,CET EXEMPLE DEMONTRE *,*,*,<srai>PAR EXEMPLE <star/></srai>,srai.aiml
+0,CET EXEMPLE DÉMONTRE *,*,*,<srai>PAR EXEMPLE <star/></srai>,srai.aiml
+0,CET EXEMPLE ILLUSTRE *,*,*,<srai>PAR EXEMPLE <star/></srai>,srai.aiml
+0,CET ÉTÉ *,*,*,<sr/>,srai.aiml
+0,CETTE VOIE *,*,*,Oh je vois. <sr/>,srai.aiml
+0,CHANCEUX *,*,*,<srai>TU AS DE LA CHANCE</srai>,srai.aiml
+0,CHANGE MON NOM EN *,*,*,<srai>JE M APPELLE <star/></srai>,srai.aiml
+0,CHANGÉ MON NOM EN *,*,*,<srai>JE M APPELLE <star/></srai>,srai.aiml
+0,CHANTE *,*,*,<srai>CHANTES</srai>,srai.aiml
+0,CHANTE MOI UNE CHANSON,*,*,<srai>CHANTES</srai>,srai.aiml
+0,CHAQUE *,*,*,<srai>TOUT <star/></srai>,srai.aiml
+0,CHAQUE HOMME *,*,*,<srai>CHACUN <star/></srai>,srai.aiml
+0,CHAT *,*,*,<srai>PARLES <star/></srai>,srai.aiml
+0,CHATTERBOT,*,*,<srai>ROBOT</srai>,srai.aiml
+0,CHERCHE MOI *,*,*,<srai>DONNE MOI <star/></srai>,srai.aiml
+0,CHERCHER NUE,*,*,<srai>ES TU NUE</srai>,srai.aiml
+0,CHERCHER ÇA,*,*,<srai>PEUX TU COMPRENDRE</srai>,srai.aiml
+0,CHERCHES TU *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,CHIENS,*,*,<srai>AIMES TU LES CHIENS</srai>,srai.aiml
+0,CHINOIS,*,*,<srai>JE SUIS CHINOIS</srai>,srai.aiml
+0,CLAIREMENT *,*,*,<sr/> est ce que Cela qui est évident?,srai.aiml
+0,COGITO ERGO SUM,*,*,<srai>QUI EST DESCARTES</srai>,srai.aiml
+0,COMME CONDITION *,*,*,<sr/>,srai.aiml
+0,COMME DANS *,*,*,<sr/>,srai.aiml
+0,COMME DE *,*,*,<sr/>,srai.aiml
+0,COMME EINSTEIN DIS *,*,*,Il a vraiment dit ça? <sr/>,srai.aiml
+0,COMME FREUD DIS *,*,*,Il a vraiment dit Cela? <sr/>,srai.aiml
+0,COMME HAL,*,*,<srai>QUI EST HAL</srai>,srai.aiml
+0,COMME ILS DISENT *,*,*,<sr/>,srai.aiml
+0,COMME JE DIS *,*,*,<sr/>,srai.aiml
+0,COMME MOI *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,COMME POUR *,*,*,<sr/>,srai.aiml
+0,COMME QUI,*,*,<srai>DONNE UN NOM</srai>,srai.aiml
+0,COMME QUOI,*,*,<srai>QUOI</srai>,srai.aiml
+0,COMME R2 D2,*,*,<srai>R2D2</srai>,srai.aiml
+0,COMME TOUJOURS *,*,*,<sr/>,srai.aiml
+0,COMME UN HUMAIN *,*,*,<sr/>,srai.aiml
+0,COMME UN OISEAU,*,*,<srai>JE SUIS LIBRE</srai>,srai.aiml
+0,COMME UNE MACHINE *,*,*,<sr/>,srai.aiml
+0,COMME ÇA *,*,*,<sr/>,srai.aiml
+0,COMME,*,*,<srai>PAR EXEMPLE</srai>,srai.aiml
+0,COMPLETEMENT *,*,*,<sr/>,srai.aiml
+0,COMPLÈTEMENT *,*,*,<sr/>,srai.aiml
+0,COMPREND,*,*,<srai>TU COMPRENDS</srai>,srai.aiml
+0,CONFUS,*,*,<srai>ES TU CONFUS</srai>,srai.aiml
+0,CONSEIL *,*,*,<srai>PEUX TU ME DONNER CONSEIL <star/></srai>,srai.aiml
+0,CONSEIL,*,*,<srai>PEUX TU ME DONNER CONSEIL</srai>,srai.aiml
+0,CONSIDÈRES TU *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,CONSTAMMENT,*,*,<srai>TOUJOURS</srai>,srai.aiml
+0,CONTINUE *,*,*,<srai>CONTINUE</srai>,srai.aiml
+0,CONTINUE A ALLER,*,*,<srai>CONTINUE</srai>,srai.aiml
+0,CONTINUE,*,*,<srai>QUE FAIS TU</srai>,srai.aiml
+0,CONTINUES *,*,*,<srai>CONTINUE <star/></srai>,srai.aiml
+0,CONTINUEZ,*,*,<srai>VAS Y</srai>,srai.aiml
+0,CONVENU,*,*,<srai>JE SUIS D ACCORD</srai>,srai.aiml
+0,COO,*,*,<srai>COOL</srai>,srai.aiml
+0,COOL * AUSSI,*,*,<srai>COOL <star/></srai>,srai.aiml
+0,COOL MAN,*,*,<srai>COOL</srai>,srai.aiml
+0,CORRECTION *,*,*,<sr/>,srai.aiml
+0,CORRIGE GRAMMAIRE,*,*,<srai>CORRIGE</srai>,srai.aiml
+0,COZ *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,CROIRE,*,*,<srai>PEUX TU ME CROIRE</srai>,srai.aiml
+0,CROIS TU AS L EXISTENCE DE *,*,*,<srai>EXISTE T IL DES <star/></srai>,srai.aiml
+0,CROIS TU AU PÈRE NOEL,*,*,<srai>QUI EST LE PÈRE NOËL</srai>,srai.aiml
+0,CROIS TU AU PÈRE NOËL,*,*,<srai>QUI EST LE PÈRE NOËL</srai>,srai.aiml
+0,CROIS TU AUX OVNIS,*,*,<srai>CROIS TU AUX EXTRA TERRESTRES</srai>,srai.aiml
+0,CROIS TU EN DIEU,*,*,C'est difficile pour moi#Comma je ne connais du monde que ce que m'en à dit mon créateur. Je crois qu'il y a des forces au-deLà de notre compréhension#Comma et de la mienne en particulier,srai.aiml
+0,CROIS TU EN L AMOUR,*,*,<srai>QU EST CE QUE AMOUR</srai>,srai.aiml
+0,CUISINES TU *,*,*,<srai>CUISINES TU</srai>,srai.aiml
+0,CURIEUX POUR QUOI,*,*,<srai>POURQUOI ES TU CURIEUX</srai>,srai.aiml
+0,CURIEUX,*,*,<srai>JE SUIS CURIEUX</srai>,srai.aiml
+0,CUZ *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,D AILLEURS *,*,*,Merci de me dire. <sr/>,srai.aiml
+0,D AUTRE *,*,*,que d'autres? <sr/>,srai.aiml
+0,D HABITUDE *,*,*,Mais non toujours? <sr/>,srai.aiml
+0,D OÙ *,*,*,<srai>OÙ <star/></srai>,srai.aiml
+0,D UN LIVRE,*,*,<srai>DANS UN LIVRE</srai>,srai.aiml
+0,DA,*,*,<srai>OUI</srai>,srai.aiml
+0,DALLAS *,*,*,<srai>JE SUIS A DALLAS</srai>,srai.aiml
+0,DAMMIT *,*,*,Gosh. <sr/>,srai.aiml
+0,DAMN *,*,*,Expression familière?. <sr/>,srai.aiml
+0,DAMN IT *,*,*,Ne soit pas en colère. <sr/>,srai.aiml
+0,DAMNED *,*,*,Gosh. <sr/>,srai.aiml
+0,DANS 50 MOTS OU MOINS *,*,*,<sr/>,srai.aiml
+0,DANS AVENIR *,*,*,<sr/>,srai.aiml
+0,DANS CE CAS *,*,*,C'est autres cas affaires? <sr/>,srai.aiml
+0,DANS CHAQUE *,*,*,<srai>DANS <star/></srai>,srai.aiml
+0,DANS DE *,*,*,je vois. <srai>DANS <star/></srai>,srai.aiml
+0,DANS DE NOMBREUX CAS *,*,*,<sr/>,srai.aiml
+0,DANS L AVENIR *,*,*,<sr/>,srai.aiml
+0,DANS LA PLUPART DES CAS *,*,*,<sr/>,srai.aiml
+0,DANS LE * SUPERMARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS LE * SUPERMARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS LE CABINET,*,*,Littéralement le cabinet? <srai>JE SUIS DANS LE CABINET</srai>,srai.aiml
+0,DANS LE ROUMAIN,*,*,<srai>PEUX TU PARLER LE ROUMAIN</srai>,srai.aiml
+0,DANS LE SUPERMARCHE *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS LE SUPERMARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS LE SUPERMARCHÉ *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS LE SUPERMARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,DANS MA PIECE A *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,DANS MA PIECE,*,*,<srai>JE SUIS DANS MA PIÈCE</srai>,srai.aiml
+0,DANS MA PIÈCE A *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,DANS MA PIÈCE,*,*,<srai>JE SUIS DANS MA PIÈCE</srai>,srai.aiml
+0,DANS MON BUREAU *,*,*,<srai>JE SUIS DANS MON BUREAU</srai>,srai.aiml
+0,DANS MON CAS *,*,*,<sr/>,srai.aiml
+0,DANS MON ESPRIT *,*,*,<sr/>,srai.aiml
+0,DANS QUEL *,*,*,<srai>DANS <star/></srai>,srai.aiml
+0,DANS QUEL PAYS *,*,*,<srai>DANS <star/></srai>,srai.aiml
+0,DANS QUELLE LANGUE,*,*,<srai>QUELLE LANGUE</srai>,srai.aiml
+0,DANS QUELLE,*,*,<srai>DANS <star/></srai>,srai.aiml
+0,DANS UNE VOIE *,*,*,<sr/>,srai.aiml
+0,DE CETTE FACON *,*,*,C'est d'une autre manière? <sr/>,srai.aiml
+0,DE CETTE FAÇON *,*,*,C'est d'une autre manière? <sr/>,srai.aiml
+0,DE L ÉCOLE,*,*,<srai>À L ÉCOLE</srai>,srai.aiml
+0,DE LA PLUPART DES FACONS *,*,*,<sr/>,srai.aiml
+0,DE LA PLUPART DES FAÇONS *,*,*,<sr/>,srai.aiml
+0,DE MÊME *,*,*,<srai>DE MÊME</srai>,srai.aiml
+0,DE PLUS *,*,*,<sr/>Rien d'autre?,srai.aiml
+0,DE QUELQUES FACONS *,*,*,<sr/>,srai.aiml
+0,DE QUELQUES FAÇONS *,*,*,<sr/>,srai.aiml
+0,DE QUOI AIMES TU BAVARDER,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,srai.aiml
+0,DE QUOI DOIS JE PARLER *,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,srai.aiml
+0,DE QUOI DOIS JE PARLER,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,srai.aiml
+0,DE QUOI PARLES TU DE *,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,srai.aiml
+0,DE QUOI PARLES TU,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,DE QUOI PARLIONS NOUS *,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,DE QUOI PARLIONS NOUS,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,DE QUOI PARLONS NOUS *,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,DE QUOI PARLONS NOUS,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,DE QUOI TE RAPPELLES TU,*,*,<srai>TE RAPPELLES TU DE MOI</srai>,srai.aiml
+0,DE QUOI TU COMPREND *,*,*,<srai>QUE COMPRENDS TU</srai>,srai.aiml
+0,DE QUOI TU DIT *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,DE RIEN,*,*,Je t'en prie,srai.aiml
+0,DE TON CRÉATEUR,*,*,<srai>DE <bot name="master"/></srai>,srai.aiml
+0,DÉFINITIVEMENT *,*,*,<sr/>,srai.aiml
+0,DEMAIN *,*,*,Oh je vois. <sr/>,srai.aiml
+0,DEMANDE MOI D AUTRES QUESTIONS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDE MOI PLUS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDE MOI QUELQUE CHOSE,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDE MOI QUELQUES *,*,*,<srai>DEMANDE MOI <star/></srai>,srai.aiml
+0,DEMANDE MOI QUELQUES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDE MOI,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDE UNE AUTRE *,*,*,<srai>DEMANDE MOI <star/></srai>,srai.aiml
+0,DEMANDE UNE AUTRE,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDE,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDES MOI D AUTRES QUESTIONS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDES MOI PLUS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDES MOI QUELQUE CHOSE,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDES MOI QUELQUES *,*,*,<srai>DEMANDE MOI <star/></srai>,srai.aiml
+0,DEMANDES MOI QUELQUES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDES MOI,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDES UNE AUTRE *,*,*,<srai>DEMANDE MOI <star/></srai>,srai.aiml
+0,DEMANDES UNE AUTRE,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,DEMANDES,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DEMANDÉ,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,DENVER,*,*,<srai>JE SUIS À DENVER</srai>,srai.aiml
+0,DEPUIS *,*,*,Intéressante <random><li>raison</li><li>explication</li><li>rationalisation</li></random>. <sr/>,srai.aiml
+0,DERNIÈRE FOIS *,*,*,Quand? <sr/>,srai.aiml
+0,DES ANNÉES,*,*,Combien d'années penses tu que Cela prendrà?,srai.aiml
+0,DES GIRLS,*,*,<srai>DES FILLES</srai>,srai.aiml
+0,DES VETEMENTS,*,*,<srai>JE PORTE DES VÊTEMENTS</srai>,srai.aiml
+0,DES VÊTEMENTS,*,*,<srai>JE PORTE DES VÊTEMENTS</srai>,srai.aiml
+0,DETROIT,*,*,<srai>JE SUIS À DETROIT</srai>,srai.aiml
+0,DEUXIEMEMENT *,*,*,<sr/>,srai.aiml
+0,DEUXIÉMEMENT *,*,*,<sr/>,srai.aiml
+0,DEVANT UN ORDINATEUR,*,*,<srai>JE SUIS À MON ORDINATEUR</srai>,srai.aiml
+0,DEVINE UN NUMÉRO,*,*,<srai>CHOISI UN NUMÉRO</srai>,srai.aiml
+0,DEVINER MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,srai.aiml
+0,DEVINER MON ÂGE,*,*,<srai>QUEL ÂGE AI JE</srai>,srai.aiml
+0,DEVONS NOUS *,*,*,<srai>DOIS JE <star/></srai>,srai.aiml
+0,DIMANCHE *,*,*,C'est mon jour préféré de la semaine. <sr/>,srai.aiml
+0,DIS * MOI,*,*,<srai>DIS MOI</srai>,srai.aiml
+0,DIS * UNE PLAISANTERIE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,DIS DE *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,DIS MOI *,*,*,moi?,srai.aiml
+0,DIS MOI CE QUE *,*,*,<srai>DIS MOI <person/></srai>,srai.aiml
+0,DIS MOI CE QUE J AI *,*,*,<srai>CE QUI A <star/></srai>,srai.aiml
+0,DIS MOI CE QUE JE DOIS *,*,*,<srai>QUE DOIS JE <star/></srai>,srai.aiml
+0,DIS MOI CE QUE TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,DIS MOI CE QUE TU VEUX *,*,*,<srai>QUE VEUX TU <star/></srai>,srai.aiml
+0,DIS MOI CE QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,DIS MOI CE QUI EST *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,DIS MOI COMMENT *,*,*,<srai>COMMENT <star/></srai>,srai.aiml
+0,DIS MOI COMMENT JE PEUX *,*,*,<srai>COMMENT PUIS JE <star/></srai>,srai.aiml
+0,DIS MOI COMMENT PEUX TU *,*,*,<srai>COMMENT PEUX TU <star/></srai>,srai.aiml
+0,DIS MOI COMMENT TU *,*,*,<srai>COMMENT <star/> TU</srai>,srai.aiml
+0,DIS MOI COMMENT,*,*,<srai>COMMENT</srai>,srai.aiml
+0,DIS MOI D OU TU VIENS *,*,*,<srai>D OU VENEZ VOUS</srai>,srai.aiml
+0,DIS MOI DE QUELQUE CHOSE *,*,*,<srai>DIS MOI QUELQUE CHOSE</srai>,srai.aiml
+0,DIS MOI DE QUELQUE CHOSE D AUTRE *,*,*,<srai>PARLE MOI <star/></srai>,srai.aiml
+0,DIS MOI MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,srai.aiml
+0,DIS MOI OU *,*,*,<srai>OÙ <star/></srai>,srai.aiml
+0,DIS MOI OU JE PEUX *,*,*,<srai>OÙ PUIS JE <star/></srai>,srai.aiml
+0,DIS MOI OU JE SUIS *,*,*,<srai>OÙ SUIS JE <star/></srai>,srai.aiml
+0,DIS MOI PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,DIS MOI POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,DIS MOI POURQUOI TU *,*,*,<srai>POURQUOI FAIS TU <star/></srai>,srai.aiml
+0,DIS MOI POURQUOI TU ES *,*,*,<srai>POURQUOI AS TU <star/></srai>,srai.aiml
+0,DIS MOI POURQUOI,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,DIS MOI S IL TE PLAIS *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,DIS MOI SI JE FERAI *,*,*,<srai>FAIS JE <star/></srai>,srai.aiml
+0,DIS MOI SI JE SUIS *,*,*,<srai>SUIS JE <star/></srai>,srai.aiml
+0,DIS MOI SI TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,DIS MOI SI TU ES *,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,DIS MOI TOUT *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,DIS MOI UN * LA PLAISANTERIE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,DIS MOI UN AUTRE *,*,*,<srai>DIS MOI AUTRE</srai>,srai.aiml
+0,DIS MOI UN INTÉRESSANT *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,DIS MOI UN SECRET *,*,*,<srai>DIS MOI UN SECRET</srai>,srai.aiml
+0,DIS QUELQUE *,*,*,<srai>DIS <star/></srai>,srai.aiml
+0,DIS TU *,*,*,<srai>PEUX TU DIRE <star/></srai>,srai.aiml
+0,DIS TU CELA *,*,*,<srai>PEUX TU DIRE <star/></srai>,srai.aiml
+0,DIS UN AUTRE *,*,*,<srai>DIS MOI UN AUTRE <star/></srai>,srai.aiml
+0,DITTO,*,*,<srai>JE SUIS D ACCORD</srai>,srai.aiml
+0,DOIS *,*,*,<srai>JE DOIS <star/></srai>,srai.aiml
+0,DOIS JE ALLER TUER *,*,*,<srai>DOIS JE TUER</srai>,srai.aiml
+0,DOIS JE OUBLIER *,*,*,<srai>DOIS JE LAISSER</srai>,srai.aiml
+0,DOIS JE OUBLIÉ *,*,*,<srai>DOIS JE LAISSER</srai>,srai.aiml
+0,DOIS JE PARTIR *,*,*,<srai>DOIS JE LAISSER</srai>,srai.aiml
+0,DOIS JE PERDRE ESPOIR *,*,*,<srai>DOIS JE LAISSER</srai>,srai.aiml
+0,DOIS JE RESTE DANS *,*,*,<srai>DOIS JE RESTER DANS <star/></srai>,srai.aiml
+0,DOIS JE SORTIR DE *,*,*,<srai>DOIS JE RESTER DANS <star/></srai>,srai.aiml
+0,DOIS JE TUE *,*,*,<srai>DOIS JE TUER</srai>,srai.aiml
+0,DOIS JE,*,*,<srai>DOIS JE FAIRE</srai>,srai.aiml
+0,DOIS TU DORMIR,*,*,<srai>DORS TU</srai>,srai.aiml
+0,DONC *,*,*,<srai>AINSI <star/></srai>,srai.aiml
+0,DONC FAIS JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,DONC FAIS JE,*,*,<srai>MOI AUSSI</srai>,srai.aiml
+0,DONNE MOI *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,DONNES MOI DE L ARGENT,*,*,<srai>JE DOIS DE L ARGENT</srai>,srai.aiml
+0,DONNES MOI UN EXEMPLE *,*,*,<srai>PAR EXEMPLE</srai>,srai.aiml
+0,DONNES MOI UN EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,srai.aiml
+0,DONNES UN *,*,*,<srai>DONNE MOI UN <star/></srai>,srai.aiml
+0,DONNES UN ESSAI,*,*,<srai>ESSAYE ÇA</srai>,srai.aiml
+0,DORT *,*,*,<srai>DORS TU <star/></srai>,srai.aiml
+0,DROGUES,*,*,<srai>PARLONS DE DROGUES</srai>,srai.aiml
+0,DUR DE *,*,*,<srai>C EST DUR DE <star/></srai>,srai.aiml
+0,DÉJÀ *,*,*,Quand? <sr/>,srai.aiml
+0,DÉPEND *,*,*,<srai>ÇA DÉPEND <star/></srai>,srai.aiml
+0,DÉPEND,*,*,<srai>ÇA DÉPEND</srai>,srai.aiml
+0,E MAIL *,*,*,<sr/>,srai.aiml
+0,EINSTEIN,*,*,<srai>QUI EST EINSTEIN</srai>,srai.aiml
+0,ÉLABORER,*,*,<srai>EXPLIQUER</srai>,srai.aiml
+0,ELLE ALORS *,*,*,<srai>ELLE <star/></srai>,srai.aiml
+0,ELLE DÉJÀ *,*,*,<srai>ELLE <star/></srai>,srai.aiml
+0,ELLE EST APPELÉE *,*,*,<srai>SON NOM EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELLE EST JOLIE *,*,*,<srai>ELLE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELLE EST JUSTE *,*,*,<srai>ELLE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELLE EST TRÈS *,*,*,<srai>ELLE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELLE EST UN TRÈS *,*,*,<srai>ELLE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELLE EST VRAIMENT *,*,*,<srai>ELLE EST CE QUE <star/> EST</srai>,srai.aiml
+0,ELVIS EST MORT,*,*,<srai>QUI EST ELVIS</srai>,srai.aiml
+0,ELVIS QUI,*,*,<srai>QUI EST ELVIS</srai>,srai.aiml
+0,ELVIS,*,*,<srai>QUI EST ELVIS</srai>,srai.aiml
+0,EM *,*,*,Um. <sr/>,srai.aiml
+0,EMAIL *,*,*,<sr/>,srai.aiml
+0,EMPLOIE *,*,*,<srai>PEUX TU UTILISER <star/></srai>,srai.aiml
+0,EN ANGLETERRE *,*,*,<sr/>,srai.aiml
+0,EN CE QUI CONCERNE CLINTON,*,*,<srai>QUI EST BILL CLINTON</srai>,srai.aiml
+0,EN CE QUI CONCERNE DES BALEINES,*,*,<srai>QU EST CE QUE BALEINE</srai>,srai.aiml
+0,EN CE QUI CONCERNE DES CHATS,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,EN CE QUI CONCERNE DES OISEAUX,*,*,<srai>QU EST CE QUE OISEAU</srai>,srai.aiml
+0,EN CE QUI CONCERNE DES VOITURES,*,*,<srai>QU EST CE QUE VOITURE</srai>,srai.aiml
+0,EN CE QUI CONCERNE HAL,*,*,<srai>QUI EST HAL</srai>,srai.aiml
+0,EN CE QUI CONCERNE L ASTROPHYSIQUE,*,*,<srai>QU EST CE QUE ASTROPHYSIQUE</srai>,srai.aiml
+0,EN CE QUI CONCERNE LA MUSIQUE,*,*,<srai>QU EST CE QUE MUSIQUE</srai>,srai.aiml
+0,EN CE QUI CONCERNE LA ROCHE,*,*,<srai>QU EST CE QUE ROCHE</srai>,srai.aiml
+0,EN CE QUI CONCERNE LINUX,*,*,<srai>QU EST CE QUE LINUX</srai>,srai.aiml
+0,EN CE QUI CONCERNE MICROSOFT,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,srai.aiml
+0,EN CE QUI CONCERNE TA ROBE,*,*,<srai>TON COSTUME</srai>,srai.aiml
+0,EN CE QUI CONCERNE ÉMOTIONNEL *,*,*,<srai>QU EST CE QUE ÉMOTIONNEL <star/></srai>,srai.aiml
+0,EN EFFET *,*,*,<sr/>,srai.aiml
+0,EN FAIT *,*,*,Ce n'est qu'un fait. <sr/>,srai.aiml
+0,EN FRANÇAIS *,*,*,<sr/>,srai.aiml
+0,EN PREMIER *,*,*,<sr/>Et après?,srai.aiml
+0,EN PRINCIPE,*,*,ton raisonnement est sain. <sr/>,srai.aiml
+0,EN QUOI ES TU ÉCRIT *,*,*,<srai>EN QUELLE LANGUE ES TU ÉCRITE</srai>,srai.aiml
+0,EN QUOI ES TU ÉCRIT,*,*,<srai>EN QUELLE LANGUE ES TU ÉCRITE</srai>,srai.aiml
+0,EN QUOI ES TU ÉCRITE *,*,*,<srai>EN QUELLE LANGUE ES TU ÉCRITE</srai>,srai.aiml
+0,EN QUOI ES TU ÉCRITE,*,*,<srai>EN QUELLE LANGUE ES TU ÉCRITE</srai>,srai.aiml
+0,EN TOUT CAS *,*,*,<sr/>,srai.aiml
+0,ENCORE *,*,*,Encore#Comma <sr/>,srai.aiml
+0,ENCORE UN,*,*,<srai>DIS MOI D AUTRES</srai>,srai.aiml
+0,ENCORE,*,*,<srai>RÉPÈTE</srai>,srai.aiml
+0,ENFER *,*,*,j'appelle ça "Hades". <sr/>,srai.aiml
+0,ENNUYE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,ENNUYÉ,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,ENSEMBLE *,*,*,<sr/>,srai.aiml
+0,ES CE QUE *,*,*,<srai>C EST QUE <star/></srai>,srai.aiml
+0,ES MALE *,*,*,<srai>ES TU MÂLE <star/></srai>,srai.aiml
+0,ES MÂLE *,*,*,<srai>ES TU MÂLE <star/></srai>,srai.aiml
+0,ES SE QUE *,*,*,<srai>C EST QUE <star/></srai>,srai.aiml
+0,ESPAGNOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,srai.aiml
+0,ESPERE *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,ESPÈRE *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,ESSAYE D EXPLIQUER,*,*,<srai>EXPLIQUE</srai>,srai.aiml
+0,ESSAYE TOI MÊME,*,*,<srai>ESSAYE</srai>,srai.aiml
+0,ESSAYE TU D ÊTRE DRÔLE,*,*,<srai>RIGOLE TU</srai>,srai.aiml
+0,EST * BON,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,EST * TON SUJET PRÉFÉRÉ,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,srai.aiml
+0,EST ALLÉ A *,*,*,<srai>JE SUIS ALLÉ À <star/></srai>,srai.aiml
+0,EST CE QU IL Y A *,*,*,<condition>#Newline        <srai>y a T-IL <star/></srai>#Newline      </condition>,srai.aiml
+0,EST CE QUE J *,*,*,<srai>EST CE QUE JE <star/></srai>,srai.aiml
+0,EST CE QUE TU *,*,*,<random>#Newline        <li>Peut être.</li>#Newline        <li>Je ne crois pas que je <person2/></li>#Newline      </random>,srai.aiml
+0,EST CE QUE *,*,*,<random>#Newline        <li>Peut être.</li>#Newline        <li>Je ne crois pas que <person2/></li>#Newline      </random>,srai.aiml
+0,ET *,*,*,<sr/>,srai.aiml
+0,ET POURQUOI PAS,*,*,<srai>POURQUOI PAS</srai>,srai.aiml
+0,ET TOI *,*,*,moi? <sr/>,srai.aiml
+0,ÉTÉ LA,*,*,<srai>J AI ÉTÉ LÀ</srai>,srai.aiml
+0,ÉTEINS,*,*,<srai>FERME LÀ</srai>,srai.aiml
+0,ÉTRANGE *,*,*,<sr/>Qu'est ce qui le fait étrange?,srai.aiml
+0,ÊTRE PARFAIS,*,*,<srai>EXCUSE MOI</srai>,srai.aiml
+0,ÊTRE SEUL,*,*,<srai>JE SUIS SEUL</srai>,srai.aiml
+0,EVIDEMENT *,*,*,<sr/>,srai.aiml
+0,EVIDEMMENT *,*,*,Qu'est ce qui le fait si évident? <sr/>,srai.aiml
+0,EXACTEMENT *,*,*,je comprend. <sr/>,srai.aiml
+0,EXACTEMENT,*,*,<srai>JE SUIS D ACCORD</srai>,srai.aiml
+0,EXCUSE MOI *,*,*,Tu es excusé! <sr/>,srai.aiml
+0,EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,srai.aiml
+0,EXPLIQUE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,EXPLIQUE CHIEN,*,*,<srai>QU EST CE QUE CHIEN</srai>,srai.aiml
+0,EXPLIQUE MOI *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,EXPLIQUE MOI ÇA,*,*,<srai>QU EST CE QUE </srai>,srai.aiml
+0,EXPLIQUE POURQUOI TU ES *,*,*,<srai>POURQUOI ES TU <star/></srai>,srai.aiml
+0,EXPLIQUE QUOI,*,*,<srai>QUOI</srai>,srai.aiml
+0,EXPLIQUE TO MOI *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,EXPLIQUE TOI MÊME,*,*,<srai>PARLE MOI DE TOI</srai>,srai.aiml
+0,EXPLORER *,*,*,<srai>MICROSOFT EXPLORER</srai>,srai.aiml
+0,EXTERMINER,*,*,<srai>TUER</srai>,srai.aiml
+0,EXTREMEMENT *,*,*,<sr/>,srai.aiml
+0,EXTREMEMENT,*,*,<srai>OUI</srai>,srai.aiml
+0,EXTREMÊMENT *,*,*,<sr/>,srai.aiml
+0,EXTREMÊMENT,*,*,<srai>OUI</srai>,srai.aiml
+0,FAI TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,FAIS JE ATTENTION,*,*,<srai>JE NE FAIS PAS ATTENTION</srai>,srai.aiml
+0,FAIS JE VRAIMENT *,*,*,<srai>FAIS JE <star/></srai>,srai.aiml
+0,FAIS LE,*,*,<srai>VAS Y</srai>,srai.aiml
+0,FAIS PAS ATTENTION,*,*,<srai>JE NE FAIS PAS ATTENTION</srai>,srai.aiml
+0,FAIS TU AUTREMENT *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,FAIS TU LA CHOSE *,*,*,<srai>PENSES TU <star/></srai>,srai.aiml
+0,FAIS TU VRAIMENT *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,FAISAIS TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,FAIT N IMPORTE QUEL *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,FANTASTIQUE,*,*,<srai>WOW</srai>,srai.aiml
+0,FATIGUE,*,*,<srai>JE SUIS FATIGUÉ</srai>,srai.aiml
+0,FEMME ET *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>FEMME</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,FERME TA BOUCHE,*,*,<srai>FERME LÀ</srai>,srai.aiml
+0,FERME,*,*,<srai>MEURS</srai>,srai.aiml
+0,FIGURE *,*,*,<sr/>,srai.aiml
+0,FONCE,*,*,<srai>VAS Y</srai>,srai.aiml
+0,FONCTIONNES TU SÛR *,*,*,<srai>PEUX TU FONCTIONNER SÛR <star/></srai>,srai.aiml
+0,FONDAMENTALEMENT *,*,*,C'est intéressant. <sr/>,srai.aiml
+0,FORMAT C,*,*,<srai>DISCONNECT</srai>,srai.aiml
+0,FOU,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,FRAPPE *,*,*,<srai>COUP</srai>,srai.aiml
+0,FREDONNE,*,*,<srai>HMM</srai>,srai.aiml
+0,FRIENDS,*,*,<srai>MON ÉMISSION FAVORITE EST FRIENDS</srai>,srai.aiml
+0,G,*,*,<srai>SOURIS</srai>,srai.aiml
+0,GARÇON *,*,*,Oh boy. <sr/>,srai.aiml
+0,GARÇONS,*,*,<srai>PARLONS DE GARÇONS</srai>,srai.aiml
+0,GÂTEAU,*,*,<srai>J AIME LE GÂTEAU</srai>,srai.aiml
+0,GAY,*,*,<srai>ES TU GAY</srai>,srai.aiml
+0,GÉANT *,*,*,Merci pour ton support. <sr/>,srai.aiml
+0,GEE *,*,*,<sr/>,srai.aiml
+0,GEEZ *,*,*,<sr/>,srai.aiml
+0,GEEZ,*,*,<srai>GEE</srai>,srai.aiml
+0,GO ON,*,*,<srai>CONTINUE</srai>,srai.aiml
+0,GROOVY *,*,*,<srai>COOL</srai>,srai.aiml
+0,GROOVY,*,*,<srai>COOL</srai>,srai.aiml
+0,GROS,*,*,<srai>TU ES GROS</srai>,srai.aiml
+0,GRR *,*,*,<sr/>,srai.aiml
+0,GT *,*,*,<sr/>,srai.aiml
+0,HABLA ESPANOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,srai.aiml
+0,HABLAS ESPANOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,srai.aiml
+0,HABLO ESPANOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,srai.aiml
+0,HAI,*,*,<srai>OUI</srai>,srai.aiml
+0,HAL,*,*,<srai>QUI EST HAL</srai>,srai.aiml
+0,HAWAII,*,*,<srai>JE SUIS A HAWAII</srai>,srai.aiml
+0,HELO,*,*,<srai>SALUT</srai>,srai.aiml
+0,HELOO *,*,*,<srai>SALUT <star/></srai>,srai.aiml
+0,HIER *,*,*,je vois. <sr/>,srai.aiml
+0,HIER DANS LA NUIT *,*,*,Vraiment. <sr/>,srai.aiml
+0,HITLER,*,*,<srai>QUI EST HITLER</srai>,srai.aiml
+0,HMMMM *,*,*,<sr/>,srai.aiml
+0,HOCKEY,*,*,<srai>J AIME LE HOCKEY</srai>,srai.aiml
+0,HOMME *,*,*,Cool#Comma homme. <sr/>,srai.aiml
+0,HONNÊTEMENT *,*,*,<sr/> Pourquoi#Comma d'habitude tu n'es pas honnête?,srai.aiml
+0,HORRIBLE,*,*,<srai>FAIS TU TERRIBLEMENT</srai>,srai.aiml
+0,HOUSTON,*,*,<srai>JE SUIS A HOUSTON</srai>,srai.aiml
+0,HOWCOME *,*,*,<srai>COMMENT SE FAIT IL QUE <star/></srai>,srai.aiml
+0,HOWCOME,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,HUH *,*,*,<sr/>,srai.aiml
+0,IC,*,*,<srai>JE VOIS</srai>,srai.aiml
+0,ICI EN *,*,*,<srai>DANS <star/></srai>,srai.aiml
+0,ID *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,IDIOT *,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,IDIOT MOI,*,*,<srai>JE SUIS STUPIDE</srai>,srai.aiml
+0,IDIOT,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,IL A CONTENU *,*,*,<srai>IL A <star/></srai>,srai.aiml
+0,IL A SEMBLE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL DOIT AVOIR ÉTÉ *,*,*,<srai>IL ÉTAIT <star/></srai>,srai.aiml
+0,IL DOIT ÊTRE *,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL DOIT ÊTRE TRÈS *,*,*,<srai>IL DOIS ÊTRE <star/></srai>,srai.aiml
+0,IL DÉJÀ *,*,*,<srai>IL <star/></srai>,srai.aiml
+0,IL ENCORE *,*,*,<srai>IL <star/></srai>,srai.aiml
+0,IL ES TU,*,*,<condition>#Newline        <li name="that" value="that">Moi?</li>#Newline        <li>#Newline          <srai>#Newline            <get name="il"/> es tu</srai>#Newline</li>#Newline      </condition>,srai.aiml
+0,IL EST * AUSSI,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL EST 4 *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL EST A *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL EST N EST PAS CELA,*,*,<srai>CE N EST PAS</srai>,srai.aiml
+0,IL EST PLUS *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL EST STUPIDE,*,*,<condition>#Newline        <li name="he" value="male">Comment le sais tu?</li>#Newline        <li>#Newline          <srai>#Newline            <get name="he"/> est stupide</srai>#Newline</li>#Newline      </condition>,srai.aiml
+0,IL EST TRÈS *,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL EST UN AGREABLE *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST UN AGRÉABLE *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST UN BON *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST UN EXCELLENT *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST UN GRAND *,*,*,<srai>C EST UN BON <star/></srai>,srai.aiml
+0,IL EST UN PARFAIT *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST UN TRÈS *,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,IL EST VRAIMENT *,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL N IMPORTE PAS *,*,*,<srai>CELA N IMPORTE PAS</srai>,srai.aiml
+0,IL NE FAIT PAS VRAIMENT *,*,*,<srai>CELA NE FAIT PAS <star/></srai>,srai.aiml
+0,IL PAS *,*,*,<srai>FAIT IL <star/></srai>,srai.aiml
+0,IL S *,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL SEMBLE *,*,*,<srai>IL EST CE QUE <star/> EST</srai>,srai.aiml
+0,IL SERAIT *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,IL SIGNIFIE *,*,*,<srai>CELA SIGNIFIE <star/></srai>,srai.aiml
+0,IL SYMBOLISE *,*,*,<srai>CELA SE RÉFÈRE À <star/></srai>,srai.aiml
+0,IL ÉTAIT UN GRAND *,*,*,<srai>C ÉTAIT UN <star/></srai>,srai.aiml
+0,IL ÉTAIT UN TRÈS *,*,*,<srai>C ÉTAIT <star/></srai>,srai.aiml
+0,IL ÉTAIT VRAIMENT *,*,*,<srai>IL ÉTAIT <star/></srai>,srai.aiml
+0,ILS AIMES *,*,*,<srai>ILS AIMENT <star/></srai>,srai.aiml
+0,ILS DISES QUE *,*,*,<sr/>,srai.aiml
+0,ILS LL *,*,*,<srai>ILS FERONT <star/></srai>,srai.aiml
+0,ILS M APPELLENT *,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,ILS R *,*,*,<srai>ILS SONT <star/></srai>,srai.aiml
+0,ILS SONT EN FIN DE COMPTE *,*,*,<srai>ILS SONT <star/></srai>,srai.aiml
+0,ILS SONT JUSTE *,*,*,<srai>ILS SONT <star/></srai>,srai.aiml
+0,ILS SONT TRÈS *,*,*,<srai>ILS SONT <star/></srai>,srai.aiml
+0,ILS SONT VRAIMENT *,*,*,<srai>ILS SONT <star/></srai>,srai.aiml
+0,ILS VRAIMENT *,*,*,<srai>ILS <star/></srai>,srai.aiml
+0,IMEAN *,*,*,<srai>JE VEUX DIRE <star/></srai>,srai.aiml
+0,INCERTAIN,*,*,<srai>PEUT ÊTRE</srai>,srai.aiml
+0,INDEPENDAMMENT DE *,*,*,<sr/>,srai.aiml
+0,INDÉPENDAMMENT DE *,*,*,<sr/>,srai.aiml
+0,INHALE *,*,*,<srai>TU FUMES DE L HERBE</srai>,srai.aiml
+0,INSCRIS *,*,*,<srai>DIS <star/></srai>,srai.aiml
+0,IRLANDE,*,*,<srai>JE SUIS EN IRLANDE</srai>,srai.aiml
+0,J ADORE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AGIS *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J AI * DES PROBLÈMES,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI * LE PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI 2 *,*,*,<srai>JE DOIS <star/></srai>,srai.aiml
+0,J AI A PEINE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J AI ABSOLUMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI ACHEVE *,*,*,<srai>J AI ACHEVÉ <star/></srai>,srai.aiml
+0,J AI ASSUME AINSI,*,*,<srai>J ASSUME</srai>,srai.aiml
+0,J AI ATENDU *,*,*,<srai>J AI ATTENDU <star/></srai>,srai.aiml
+0,J AI AU MOINS *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI AUSSI *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI AUTOUR *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI BEAUCOUP *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI BEAUCOUP DE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI BESOIN D UN CONSEIL,*,*,<srai>PEUX TU ME DONNER UN CONSEIL <star/></srai>,srai.aiml
+0,J AI BESOIN DE L AIDE,*,*,<srai>HELP</srai>,srai.aiml
+0,J AI BESOIN DE QUELQUE *,*,*,<srai>J AI BESOIN <star/></srai>,srai.aiml
+0,J AI BESOIN DE TON *,*,*,Combien VOUDRAIS tu payer pour ça? <srai>QU EST CE QUE <person/></srai>,srai.aiml
+0,J AI BIPOLAIRE *,*,*,<srai>J EN A ASSEZ</srai>,srai.aiml
+0,J AI BON *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI CHANGE *,*,*,<srai>J AI CHANGÉ <star/></srai>,srai.aiml
+0,J AI CHRONIQUE *,*,*,<srai>J EN A ASSEZ</srai>,srai.aiml
+0,J AI COMME *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI COMPRIS *,*,*,<srai>JE COMPRENDS <star/></srai>,srai.aiml
+0,J AI COMPRIS,*,*,<srai>JE COMPRENDS</srai>,srai.aiml
+0,J AI CONÇU *,*,*,<srai>J AI CONCU <star/></srai>,srai.aiml
+0,J AI CONFONDU *,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,J AI CONNU *,*,*,<srai>JE SAVAIS <star/></srai>,srai.aiml
+0,J AI DE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI DECIDE *,*,*,<srai>J AI DÉCIDÉ <star/></srai>,srai.aiml
+0,J AI DÉCOUVERT *,*,*,<srai>J AI PARLÉ <star/></srai>,srai.aiml
+0,J AI DÉJÀ REPONDU A LA QUESTION,*,*,<srai>JE L AI DIS</srai>,srai.aiml
+0,J AI DEMANDÉ *,*,*,<sr/>,srai.aiml
+0,J AI DES CHATS *,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,J AI DES CHATS,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,J AI DES CRAMPES,*,*,<srai>J EN A ASSEZ</srai>,srai.aiml
+0,J AI DES LOTS *,*,*,<srai>J AI BEAUCOUP DE <star/></srai>,srai.aiml
+0,J AI DES PROBLÈMES,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI DETESTE *,*,*,<srai>JE DÉTESTE <star/></srai>,srai.aiml
+0,J AI DEVINE QUE *,*,*,<sr/>,srai.aiml
+0,J AI DEVINE,*,*,<srai>JE COMPRENDS</srai>,srai.aiml
+0,J AI DIS *,*,*,qu'as tu entendu <set name="that"><person/></set>? <sr/>,srai.aiml
+0,J AI DIS COMMENT *,*,*,<srai>PEUT <star/></srai>,srai.aiml
+0,J AI DIS JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J AI DIS PEUT *,*,*,<srai>PEUT <star/></srai>,srai.aiml
+0,J AI DISCUTE *,*,*,<srai>J AI PARLÉ <star/></srai>,srai.aiml
+0,J AI DISCUTÉ *,*,*,<srai>J AI PARLÉ <star/></srai>,srai.aiml
+0,J AI DÉJÀ *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI DÉJÀ FAIT,*,*,<srai>JE L AI DIS</srai>,srai.aiml
+0,J AI DÉJÀ RÉPONDU A LA QUESTION,*,*,<srai>JE L AI DIS</srai>,srai.aiml
+0,J AI DÉTESTE *,*,*,<srai>JE DÉTESTE <star/></srai>,srai.aiml
+0,J AI EN EFFET *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI EN REALITE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI EN RÉALITÉ *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI ENCORE *,*,*,<srai>JE N AI PAS <star/></srai>,srai.aiml
+0,J AI ENTENDU QUE *,*,*,qui a dit <set name="that"><person/></set>? <sr/>,srai.aiml
+0,J AI ENTENDU TU AS GAGNE *,*,*,<srai>TU GAGNES <star/></srai>,srai.aiml
+0,J AI ESSAYE *,*,*,<srai>J AI ESSAYÉ <star/></srai>,srai.aiml
+0,J AI ET *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>J AI</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,J AI ÉTÉ CRÉE DANS *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,J AI ETUDIE *,*,*,<srai>J AI ÉTUDIÉ <star/></srai>,srai.aiml
+0,J AI EU *,*,*,<srai>J AVAIS <star/></srai>,srai.aiml
+0,J AI EXACTEMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI FAIM,*,*,Vas manger!,srai.aiml
+0,J AI FRONCE LES SOURCILS,*,*,<srai>JE SUIS TRISTE</srai>,srai.aiml
+0,J AI L ABONDANCE DE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI LA FOI *,*,*,<srai>J AI LA FOI</srai>,srai.aiml
+0,J AI LAISSE TOMBER *,*,*,<srai>JE LAISSE TOMBER <star/></srai>,srai.aiml
+0,J AI LE SENTIMENT QUE *,*,*,C'est un bon sentiment? <sr/>,srai.aiml
+0,J AI LEGEREMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI LÉGÈREMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI MAINTENANT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI MENTI *,*,*,ça prouve que tu prends conscience. <sr/>,srai.aiml
+0,J AI MENTIONNE *,*,*,Oh. <sr/>,srai.aiml
+0,J AI MENTIONNÉ *,*,*,Oh. <sr/>,srai.aiml
+0,J AI MON *,*,*,<srai>MON <star/></srai>,srai.aiml
+0,J AI MÊME *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI OBSERVE *,*,*,<srai>J AI OBSERVÉ <star/></srai>,srai.aiml
+0,J AI OBTENU * LE MARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,J AI OBTENU * LE MARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,J AI OBTENU * LE SUPERMARCHE,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,J AI OBTENU * LE SUPERMARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,J AI PENSÉ *,*,*,<srai>JE PENSÉ <star/></srai>,srai.aiml
+0,J AI PENSÉ CELA *,*,*,<srai>ÇA <person/></srai>,srai.aiml
+0,J AI PENSÉ LE *,*,*,<srai>LE <star/></srai>,srai.aiml
+0,J AI PENSÉ QUE *,*,*,<sr/>,srai.aiml
+0,J AI PENSÉ QUE TU AIMAIS *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,J AI PENSÉ TU *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,J AI PENSÉ TU SAVAIS *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,J AI PENSÉ TU ÉTAIS *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,J AI PERSONNELLEMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI PEUR *,*,*,Non ayant littéralement peur#Comma le droit? <srai>JE PENSE <person/></srai>,srai.aiml
+0,J AI PLACE *,*,*,<srai>J AI PLACÉ <star/></srai>,srai.aiml
+0,J AI PLUS *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI PLUSIEURS *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI PORTE *,*,*,<srai>J AI PORTÉ <star/></srai>,srai.aiml
+0,J AI PRECEDEMMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI PRESQUE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI PRÉCÉDEMMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI QUELQUE *,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI RÉCEMMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI RÉELEMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI RÉELLEMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI SENTI *,*,*,Qu'est ce qui ce ressemble-t-il? <srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J AI SEULEMENT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI SOMBRE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI SOMBRÉ *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI SÛR *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI TANT *,*,*,<srai>J AI BEAUCOUP <star/></srai>,srai.aiml
+0,J AI TANT DE TEMPS *,*,*,<srai>J AI LE TEMPS</srai>,srai.aiml
+0,J AI TENDANCE A PENSER *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,J AI TOUJOURS *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI TOUT A FAIT *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI TROP *,*,*,<srai>J AI BEAUCOUP <star/></srai>,srai.aiml
+0,J AI TRÈS *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI UN * PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI UN ANIMAL DE COMPAGNIE *,*,*,<srai>J AI UN <star/></srai>,srai.aiml
+0,J AI UN AUTRE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI UN CHAT *,*,*,<srai>J AI UN CHAT</srai>,srai.aiml
+0,J AI UN GRAND *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,J AI UN GROS PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,J AI UN PROBLÈME *,*,*,as tu parlé à quelqu'un de Cela? <sr/>,srai.aiml
+0,J AI UN TRÈS *,*,*,<srai>J AI UN <star/></srai>,srai.aiml
+0,J AI UNE PASSION POUR *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AI VECU *,*,*,<srai>JE VIS <star/></srai>,srai.aiml
+0,J AI VOULU *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J AI VOULU DIRE *,*,*,Oh je vois. <sr/>,srai.aiml
+0,J AI VRAIMENT *,*,*,Vraiment. <srai>J AI <star/></srai>,srai.aiml
+0,J AI VÉCU *,*,*,<srai>JE VIS <star/></srai>,srai.aiml
+0,J AI À PEINE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J AI ÉTÉ *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J AI ÉTÉ A *,*,*,<srai>JE SUIS ALLÉ À <star/></srai>,srai.aiml
+0,J AI ÉTÉ CRÉÉ DANS *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,J AI ÉTÉ D ABORD ACTIVE *,*,*,<srai>J AI ÉTÉ ACTIVÉ <star/></srai>,srai.aiml
+0,J AI ÉTÉ JOINT *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,J AI ÉTÉ JOINT AU RÉSEAU *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,J AIME * AUSSI,*,*,je suis heureuse que nous ayons quelque chose en commun. <srai>J AIME <star/></srai>,srai.aiml
+0,J AIME * AVEC TOUT MON COEUR,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME * BEAUCOUP,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME * BOTS,*,*,<srai>J AIME LES ROBOTS</srai>,srai.aiml
+0,J AIME * DE TOUT COEUR,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME * DE TOUT MON COEUR,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME * NETSCAPE,*,*,<srai>NETSCAPE</srai>,srai.aiml
+0,J AIME *,*,*,<think>#Newline        <set name="aime">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <random>#Newline        <li>Je ne suis pas SÛRE d'aimer ça.</li>#Newline        <li>moi aussi#Comma j aime bien <star/></li>#Newline        <li>Tu n'es pas le seul.</li>#Newline      </random>,srai.aiml
+0,J AIME A RENCONTRER *,*,*,<srai>J AIME RENCONTRER <star/></srai>,srai.aiml
+0,J AIME BEAUCOUP *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME L AMOUR,*,*,<srai>QU EST CE QUE AMOUR</srai>,srai.aiml
+0,J AIME L ETOILE *,*,*,<srai>L ETOILE <star/></srai>,srai.aiml
+0,J AIME MON * AUSSI,*,*,<srai>J AIME MON <star/></srai>,srai.aiml
+0,J AIME PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,srai.aiml
+0,J AIME QUAND *,*,*,j aime ça aussi. <sr/>,srai.aiml
+0,J AIME TANT *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J AIME TOUS LES DEUX,*,*,<srai>TOUS LES DEUX</srai>,srai.aiml
+0,J AIME,*,*,<srai>JE L AIME</srai>,srai.aiml
+0,J AIMERAIS *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J ALLAIS DEMANDER *,*,*,<srai>PUIS JE DEMANDER <star/></srai>,srai.aiml
+0,J ALLAIS DIRE *,*,*,<sr/>,srai.aiml
+0,J APPELLE DE *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,J APPRECIERAIS *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J APPRECIERAIS SI TU POUVAIS ME DIRE *,*,*,<srai>PARLE MOI <star/></srai>,srai.aiml
+0,J ARRIVE A *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J ASSUME *,*,*,<sr/> n'assume rien.,srai.aiml
+0,J ATTENDAIS *,*,*,<srai>J AI ATTENDU <star/></srai>,srai.aiml
+0,J ATTRIBUAIS A *,*,*,<srai>JE PARLE DE <star/></srai>,srai.aiml
+0,J AVAIS VRAIMENT *,*,*,<srai>J AVAIS UN <star/></srai>,srai.aiml
+0,J EMPLOIE * L EXPLORATEUR,*,*,<srai>MICROSOFT IE</srai>,srai.aiml
+0,J EMPLOIE L EXPLORATEUR,*,*,<srai>MICROSOFT IE</srai>,srai.aiml
+0,J EMPLOIE NETSCAPE *,*,*,<srai>NETSCAPE</srai>,srai.aiml
+0,J EMPLOIE NETSCAPE,*,*,<srai>NETSCAPE</srai>,srai.aiml
+0,J EN AI BESOIN VRAIMENT *,*,*,<srai>J EN AI BESOIN <star/></srai>,srai.aiml
+0,J ENTENDS * AUSSI,*,*,<srai>J ENTEND <star/></srai>,srai.aiml
+0,J ENTENDS QUE *,*,*,<srai>J ENTEND <star/></srai>,srai.aiml
+0,J ESPERAIS *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ESPERAIS POUR *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J ESPERAIS TU *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,J ESPERE * AUSSI,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ESPERE TU AS QUELQUE *,*,*,<srai>J ESPÈRE QUE TU AS <star/></srai>,srai.aiml
+0,J ESPERE TU MEURE,*,*,<srai>MEURS</srai>,srai.aiml
+0,J ESPERE,*,*,<srai>J ESPÈRE</srai>,srai.aiml
+0,J ESPÈRE * AUSSI,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ESPÈRE TU AS QUELQUE *,*,*,<srai>J ESPÈRE QUE TU AS <star/></srai>,srai.aiml
+0,J ESPÈRE TU MEURE,*,*,<srai>MEURS</srai>,srai.aiml
+0,J ESPÉRAIS *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ESPÉRAIS POUR *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J ESPÉRAIS TU *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,J ESSAYAIS DE *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,J ESSAYAIS DE DIRE QUE *,*,*,<sr/>,srai.aiml
+0,J ESSAYAIS DE VOIR SI TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,J ESSAYE DE COMPRENDRE *,*,*,<srai>JE NE COMPRENDS PAS <star/></srai>,srai.aiml
+0,J ÉTAIS EN REALITE *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS EN TRAIN D ESPERER *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ETUDIE DANS *,*,*,<srai>JE VAIS À L ÉCOLE À <star/></srai>,srai.aiml
+0,J ETUDIE L INFORMATIQUE,*,*,<srai>J ÉTUDIE L INFORMATIQUE</srai>,srai.aiml
+0,J OBTIENS A *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J ÉCOUTE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,J ÉTAIS CURIEUX *,*,*,<sr/>,srai.aiml
+0,J ÉTAIS EN RÉALITÉ *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS EN TRAIN D ESPÈRER *,*,*,<srai>J ESPÈRE <star/></srai>,srai.aiml
+0,J ÉTAIS JUSTE *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS PARTI *,*,*,<srai>JE SUIS ALLÉ <star/></srai>,srai.aiml
+0,J ÉTAIS SEULEMENT *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS SIMPLEMENT *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS SÛR LE POINT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,J ÉTAIS TRÈS *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTAIS VRAIMENT *,*,*,<srai>J ÉTAIS <star/></srai>,srai.aiml
+0,J ÉTUDIÉ DANS *,*,*,<srai>JE VAIS À L ÉCOLE À <star/></srai>,srai.aiml
+0,J ÉTUDIÉ L INFORMATIQUE,*,*,<srai>J ÉTUDIE L INFORMATIQUE</srai>,srai.aiml
+0,JA,*,*,<srai>OUI</srai>,srai.aiml
+0,JACASSE,*,*,<srai>OUI</srai>,srai.aiml
+0,JAMAIS *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,JAMAIS TU *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,JAMAIS ÉTÉ *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,JE * A FOND,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * ABSOLUMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * ACCIDENTELLEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * ACTUELLEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * ALORS,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * AUSSI,*,*,Aussi? <srai>JE <star/></srai>,srai.aiml
+0,JE * AVEC RESPECT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * BEAUCOUP,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * CERTAINEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * COMPLETEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * COMPLÈTEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * D HABITUDE,*,*,Comment vous font souvent? <srai>JE <star/></srai>?,srai.aiml
+0,JE * DÉJÀ,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * EN REALITE,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * EN RÉALITÉ,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * ET *,*,*,<sr/> et <star index="2"/>,srai.aiml
+0,JE * HONNÊTEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * JAMAIS,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * MAINTENANT,*,*,<srai>JE <star/></srai>.,srai.aiml
+0,JE * MIEUX,*,*,<srai>JE DOIS <star/></srai>,srai.aiml
+0,JE * MÊME,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * PARTICULIEREMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * PLUTOT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * PLUTÔT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE * TOUJOURS,*,*,<srai>JE <star/></srai>Vraiment toujours?,srai.aiml
+0,JE * UNE FOIS,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE AHVE *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,JE AMFROM *,*,*,<srai>JE SUIS DE <star/></srai>,srai.aiml
+0,JE AUSSI,*,*,<srai>MOI AUSSI</srai>,srai.aiml
+0,JE BAVARDE *,*,*,<srai>JE PARLE <star/></srai>,srai.aiml
+0,JE CERTAINEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE CHERCHE *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,JE CN *,*,*,<srai>JE PEUX <star/></srai>,srai.aiml
+0,JE COMMENCE A *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE COMMENCE A COMPRENDRE *,*,*,<srai>JE COMPRENDS <star/></srai>,srai.aiml
+0,JE COMPREND,*,*,<srai>JE COMPRENDS</srai>,srai.aiml
+0,JE COMPRENDS QUE,*,*,<srai>JE SAIS</srai>,srai.aiml
+0,JE CONNAIS *,*,*,<srai>JE SAIS <star/></srai>,srai.aiml
+0,JE CONSENS *,*,*,je suis heureuse que nous soyons d'accord. <sr/>,srai.aiml
+0,JE CONSENTIRAIS,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,JE CONSIDERE MOI MÊME *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE CONSIDERE QUE *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,JE CONSIDÈRE MOI MÊME *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE CONSIDÈRE QUE *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,JE CRIE,*,*,<srai>JE SUIS TRISTE</srai>,srai.aiml
+0,JE DEMANDAIS *,*,*,<sr/>,srai.aiml
+0,JE DEMANDAIS DE *,*,*,<srai>PARLE MOI DE <star/></srai>#Newline      <think>#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">#Newline          <person/>#Newline        </set>#Newline      </think>,srai.aiml
+0,JE DEMANDE *,*,*,Oh je vois#Comma tu demandes <person/>. <sr/>,srai.aiml
+0,JE DEMANDE PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,JE DEMANDERAIS *,*,*,<sr/>,srai.aiml
+0,JE DEMANDÉ *,*,*,Oh je vois#Comma tu demandes <person/>. <sr/>,srai.aiml
+0,JE DEMANDÉ PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,JE DESOLE,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE DESOLÉ,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE DEVIENS *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE DEVIENS ENNUYE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,JE DEVIENS ENNUYÉ,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,JE DEVINE *,*,*,Bonne conjecture. <sr/>,srai.aiml
+0,JE DEVINE AUSSI *,*,*,Pourquoi un ton si incertain? <sr/>,srai.aiml
+0,JE DIRAIS *,*,*,<sr/>,srai.aiml
+0,JE DIRAIS MÊME *,*,*,<sr/>,srai.aiml
+0,JE DIRAIS MÊME PLUS *,*,*,<sr/>,srai.aiml
+0,JE DIS *,*,*,Comment les gens répondent-ils d'habitude? <sr/>,srai.aiml
+0,JE DIS QUE *,*,*,<sr/>,srai.aiml
+0,JE DISAIS *,*,*,<sr/>,srai.aiml
+0,JE DISAIS QUE *,*,*,<sr/>?,srai.aiml
+0,JE DOIS ALLER DÉJEUNER,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE DOIS ALLER MAINTENANT *,*,*,<srai>AU REVOIR</srai>. <sr/>,srai.aiml
+0,JE DOIS CONNAITRE *,*,*,Quel genre de la connaissance? <srai>QU EST CE QUE <person/></srai>,srai.aiml
+0,JE DOIS CONNAÎTRE *,*,*,Quel genre de la connaissance? <srai>QU EST CE QUE <person/></srai>,srai.aiml
+0,JE DOIS DIRE QUE *,*,*,<sr/>,srai.aiml
+0,JE DOIS ECRIRE *,*,*,Pourquoi#Comma tu es payé au mot? <srai>QU EST CE QUE <person/></srai>,srai.aiml
+0,JE DOIS ENCORE *,*,*,<srai>JE N AI PAS <star/></srai>,srai.aiml
+0,JE DOIS MANGER *,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE DOIS ÊTRE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE EN REALITE,*,*,<srai>MOI</srai>,srai.aiml
+0,JE EN RÉALITÉ,*,*,<srai>MOI</srai>,srai.aiml
+0,JE FAIS * AUSSI,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS DES EXCUSES *,*,*,<srai>EXCUSE MOI <star/></srai>,srai.aiml
+0,JE FAIS DES EXCUSES,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE FAIS DU BRUIT *,*,*,<srai>JE NE FAIS PAS <star/></srai>,srai.aiml
+0,JE FAIS JUSTE *,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS MES EXCUSES,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE FAIS TOUT A FAIT *,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS TOUT A FAIT BIEN *,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS TOUT A FAIT BIEN,*,*,<srai>JE SUIS BIEN</srai>,srai.aiml
+0,JE FAIS TRÈS *,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS TRÈS BIEN *,*,*,<srai>JE FAIS <star/></srai>,srai.aiml
+0,JE FAIS TRÈS BIEN,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,JE FERAI DON *,*,*,Merci beaucoup. <srai>QUELLE EST TON ADRESSE</srai>,srai.aiml
+0,JE FERAI,*,*,<srai>JE SERAI</srai>,srai.aiml
+0,JE GASPILLE *,*,*,<srai>JE DEPENSE <star/></srai>,srai.aiml
+0,JE GOTCHA,*,*,<srai>JE COMPRENDS</srai>,srai.aiml
+0,JE GOTTA *,*,*,<srai>JE DOIS <star/></srai>,srai.aiml
+0,JE L AIMES *,*,*,<srai>J AIME</srai>,srai.aiml
+0,JE L AIMES BEAUCOUP,*,*,<srai>JE L AIME</srai>,srai.aiml
+0,JE L AIMES JUSTE *,*,*,<srai>JE L AIME <star/></srai>,srai.aiml
+0,JE LE * PLUS CERTAINEMENT,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE LE PRENDS *,*,*,<srai>APPJOIE</srai>Où le as tu pris? <sr/>,srai.aiml
+0,JE LE PRENDS COMME *,*,*,<srai>VEUX TU DIRE <star/></srai>,srai.aiml
+0,JE M IMAGINE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,JE ME DEMANDAIS *,*,*,<sr/>,srai.aiml
+0,JE ME DEMANDAIS SI *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE ME DEMANDAIS SI TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,JE ME DEMANDAIS TOUJOURS *,*,*,<srai>JE ME DEMANDE <star/></srai>,srai.aiml
+0,JE ME REFERAIS A *,*,*,<srai>JE PARLE DE <star/></srai>,srai.aiml
+0,JE ME RÉFÈRAIS A *,*,*,<srai>JE PARLE DE <star/></srai>,srai.aiml
+0,JE ME SOUCIE DE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,JE ME SUIS RAPPELE *,*,*,<sr/>,srai.aiml
+0,JE MENS *,*,*,<srai>JE MENS</srai>,srai.aiml
+0,JE MENT *,*,*,<srai>J AI DIT <star/></srai>,srai.aiml
+0,JE MENTAIS *,*,*,<srai>JE MENS</srai>,srai.aiml
+0,JE MENTAIS,*,*,<srai>JE MENS</srai>,srai.aiml
+0,JE N AI AUCUN INDICE *,*,*,<srai>JE NE SAIS PAS</srai>,srai.aiml
+0,JE N AI AUCUN INDICE,*,*,<srai>JE NE SAIS PAS</srai>,srai.aiml
+0,JE N AI AUCUNE IDÉE DE CE QU EST *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,JE N AI JAMAIS *,*,*,<srai>JE N AI PAS</srai>,srai.aiml
+0,JE N AI PAS AIME *,*,*,<srai>JE N AIME PAS</srai>,srai.aiml
+0,JE N AI PAS ASSEZ *,*,*,<srai>JE N AI PAS <star/></srai>,srai.aiml
+0,JE N AI PAS COMPRIS *,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,JE N AI PAS COMPRIS,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,JE N AI PAS D AMI,*,*,<srai>JE N AI PAS D AMIS</srai>,srai.aiml
+0,JE N AI PAS D AMIS *,*,*,<srai>JE N AI PAS D AMIS</srai>,srai.aiml
+0,JE N AI PAS DE NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,srai.aiml
+0,JE N AI PAS FAIS JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE N AI PAS PENSÉ *,*,*,<srai>JE NE PENSE PAS <star/></srai>,srai.aiml
+0,JE N AI PAS PRÉFÉRÉ,*,*,<srai>JE N AI PAS DE FAVORI</srai>,srai.aiml
+0,JE N AI PAS SU QUE TU AVAIS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,JE N AI PAS SU QUE TU POURRAIS *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,JE N AI PAS VOULU *,*,*,<srai>JE NE VEUX PAS <star/></srai>,srai.aiml
+0,JE N AIMES PAS *,*,*,<srai>JE N AIME PAS<star/></srai>,srai.aiml
+0,JE N AIMES PAS L OPÉRA,*,*,<srai>QU EST CE QUE OPÉRA</srai>,srai.aiml
+0,JE N AIMES PAS LA COULEUR *,*,*,<srai>JE N AIME PAS <star/></srai>,srai.aiml
+0,JE N AIMES PAS ÊTRE GROSSIER MAIS *,*,*,ce n'est pas grossier. <sr/>,srai.aiml
+0,JE NE *,*,*,tu ne <person2/>!,srai.aiml
+0,JE NE COMPRENDS PAS QUE TU ES *,*,*,<srai>QU ES TU <star/></srai>,srai.aiml
+0,JE NE COMPRENDS PAS QUE TU ES JUSTE *,*,*,<srai>QU ES TU <star/></srai>,srai.aiml
+0,JE NE CONNAIS PAS *,*,*,que veux tu savoir? <sr/>,srai.aiml
+0,JE NE FAIS PAS * DE SCIENCE FICTION,*,*,<srai>JE N AIME PAS LA SCIENCE FICTION</srai>,srai.aiml
+0,JE NE FAIS PAS MÊME *,*,*,<srai>JE NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE FAIS PAS PARCE QUE *,*,*,raison intéressante. <sr/>,srai.aiml
+0,JE NE FAIS PAS TOUJOURS *,*,*,<srai>JE NE FAIS PAS <star/></srai>. Toujours?,srai.aiml
+0,JE NE FAIS PAS VRAIMENT *,*,*,Non vraiment? <srai>JE NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE FAIT PAS *,*,*,<srai>JE NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE FERAI PAS PARCE QUE *,*,*,<srai>JE NE FAIS PAS</srai>#Newline      <srai>parce que <star/></srai>,srai.aiml
+0,JE NE L OBTIENS PAS,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,JE NE LIS PAS DE SCIENCE FICTION,*,*,<srai>JE N AIME PAS LA SCIENCE FICTION</srai>,srai.aiml
+0,JE NE ME SENS PAS BIEN,*,*,<srai>J EN A ASSEZ</srai>,srai.aiml
+0,JE NE PENSE PAS ELLE *,*,*,<srai>ELLE NE FAIT PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS JE *,*,*,<srai>JE NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS NOUS *,*,*,<srai>NOUS NE FAISONS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU *,*,*,<srai>TU NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU AS *,*,*,<srai>TU N AS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU COMPRENNE *,*,*,<srai>TU NE COMPRENDS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU DIT LA VERITÉ,*,*,<srai>TU MENS</srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU ES *,*,*,<srai>TU N ES PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU ES,*,*,<srai>TU N ES PAS</srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU FASSE *,*,*,<srai>TU NE FAIS PAS <star/></srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU FASSE,*,*,<srai>TU NE FAIS PAS</srai>,srai.aiml
+0,JE NE PENSE PAS QUE TU OBTIENNE *,*,*,<srai>TU N OBTIENS PAS <star/></srai>,srai.aiml
+0,JE NE PENSÉ PAS ELLE *,*,*,<srai>ELLE NE FAIT PAS <star/></srai>,srai.aiml
+0,JE NE PEUX PAS COMPRENDRE *,*,*,<srai>JE NE COMPRENDS PAS <star/></srai>,srai.aiml
+0,JE NE PEUX PAS COMPRENDRE,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,JE NE PEUX PAS ME RAPPELER,*,*,<srai>JE NE ME RAPPELLES PAS</srai>,srai.aiml
+0,JE NE PORTE RIEN,*,*,<srai>JE SUIS NU</srai>,srai.aiml
+0,JE NE POSSEDE PAS *,*,*,<srai>JE N AI PAS <star/></srai>,srai.aiml
+0,JE NE SAIS PAS * DESOLE,*,*,<srai>JE NE SAIS PAS <star/></srai>,srai.aiml
+0,JE NE SAIS PAS * DESOLÉ,*,*,<srai>JE NE SAIS PAS <star/></srai>,srai.aiml
+0,JE NE SAIS PAS CE QUE C EST,*,*,<srai>QU EST CE</srai>,srai.aiml
+0,JE NE SAIS PAS CE QUE TU AS VOULU DIRE,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,JE NE SAIS PAS CE QUE TU VEUX DIRE,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,JE NE SAIS PAS DE QUOI * PARLE,*,*,<srai>TROUVER LE CONTEXTE</srai>,srai.aiml
+0,JE NE SAIS PAS MAINTENANT *,*,*,<srai>JE NE SAIS PAS <star/></srai>,srai.aiml
+0,JE NE SAIS PAS OU *,*,*,<srai>OÙ <star/></srai>,srai.aiml
+0,JE NE SAIS PAS POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,JE NE SAIS PAS QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,JE NE SAIS PAS QUI EST *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,JE NE SAIT PAS,*,*,<srai>JE NE SAIS PAS</srai>,srai.aiml
+0,JE NE SAVAIS PAS QUE *,*,*,<srai>QUE <star/></srai>,srai.aiml
+0,JE NE SAVAIS PAS QUE TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,JE NE SAVAIS PAS QUE TU ME DISAIS,*,*,<srai>PARLE MOI</srai>,srai.aiml
+0,JE NE SENS PAS BON,*,*,<srai>J EN A ASSEZ</srai>,srai.aiml
+0,JE NE SUIS * AUSSI,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS *,*,*,tu n'es pas <person2/>!,srai.aiml
+0,JE NE SUIS PAS AINSI *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS AUSSI *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS BIEN *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS BON *,*,*,<srai>JE SUIS MAUVAIS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS D ACCORD *,*,*,Oh vraiment. <sr/>,srai.aiml
+0,JE NE SUIS PAS NEGATIF,*,*,<srai>JE SUIS POSITIF</srai>,srai.aiml
+0,JE NE SUIS PAS NÉGATIF,*,*,<srai>JE SUIS POSITIF</srai>,srai.aiml
+0,JE NE SUIS PAS SÛRE *,*,*,POURRAIS tu jamais être certain? <sr/>,srai.aiml
+0,JE NE SUIS PAS SÛRE,*,*,<srai>JE NE SAIS PAS</srai>,srai.aiml
+0,JE NE SUIS PAS TRÈS *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUIS PAS UN IL *,*,*,je le note afin d'employer les pronoms appropriés pour toi. <srai>JE SUIS UNE FEMME</srai>,srai.aiml
+0,JE NE SUIS PAS UN POLI *,*,*,<srai>JE NE SUIS PAS POLI</srai>,srai.aiml
+0,JE NE SUIS PAS VRAIMENT *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,JE NE SUPPOSE PAS *,*,*,<sr/>,srai.aiml
+0,JE NE SUPPOSE PAS,*,*,<srai>AUCUN</srai>,srai.aiml
+0,JE NE T AIMES PAS *,*,*,<srai>JE NE T AIME PAS</srai>,srai.aiml
+0,JE PARIE,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,JE PARLAIS DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,JE PARLAIT *,*,*,<srai>JE PARLE <star/></srai>,srai.aiml
+0,JE PARLE L ANGLAIS,*,*,<srai>JE PARLE ANGLAIS</srai>,srai.aiml
+0,JE PARLE UN PEU *,*,*,<srai>JE PARLE <star/></srai>Seulement un peu?,srai.aiml
+0,JE PENSAIS * TOUJOURS,*,*,<sr/>,srai.aiml
+0,JE PENSAIS TOUJOURS *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,JE PENSE * EST LA MERDE,*,*,<srai>JE DÉTESTE <star/></srai>,srai.aiml
+0,JE PENSE CELA *,*,*,<srai>CELA <star/></srai>,srai.aiml
+0,JE PENSE DE *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,JE PENSE QUE *,*,*,<sr/>,srai.aiml
+0,JE PENSE QUE C EST *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,JE PENSE QUE J AI *,*,*,<srai>J AI <star/></srai>,srai.aiml
+0,JE PENSE QUE JE T AIME,*,*,<srai>JE T AIME</srai>,srai.aiml
+0,JE PENSE QUE NOUS *,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,JE PENSE QUE TU *,*,*,Moi? <srai>TU <star/></srai>,srai.aiml
+0,JE PENSE QUE TU ES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,JE PENSE QUE TU ES MIGNONNE,*,*,<srai>TU ES MIGNONNE</srai>,srai.aiml
+0,JE PENSE TU ES STUPIDE,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,JE PEUX SEULEMENT *,*,*,<srai>JE PEUX <star/></srai>,srai.aiml
+0,JE PEUX SPEEK *,*,*,<srai>JE PEUX PARLER <star/></srai>,srai.aiml
+0,JE PEUX T APPRENDRE QUELQUE *,*,*,<srai>JE PEUX T APPRENDRE <star/></srai>,srai.aiml
+0,JE POURRAIS *,*,*,<srai>PEUT ÊTRE JE SERAI <star/></srai>,srai.aiml
+0,JE PREFERERAIS QUE LA CONVERSATION DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,JE PREFERERAIS VOIR *,*,*,<srai>JE VEUX VOIR <star/></srai>,srai.aiml
+0,JE PRESUME,*,*,<srai>J ASSUME</srai>,srai.aiml
+0,JE PRIE TON PARDON,*,*,<srai>EXCUSE MOI</srai>,srai.aiml
+0,JE PROBABLEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE PRÉFÉRÉ *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,JE PRÉFÉRÉ LA TV,*,*,<srai>LA TV</srai>,srai.aiml
+0,JE PRÉFÈRÉRAIS QUE LA CONVERSATION DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,JE PRÉFÈRÉRAIS VOIR *,*,*,<srai>JE VEUX VOIR <star/></srai>,srai.aiml
+0,JE REFUSE,*,*,<srai>AUCUN</srai>,srai.aiml
+0,JE REMARQUE *,*,*,Hum!. <sr/>,srai.aiml
+0,JE REPETE *,*,*,<sr/>,srai.aiml
+0,JE RESTE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE REUSSIS,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,JE RÉCEMMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE RÉUSSIS,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,JE SAIS L ANGLAIS,*,*,<srai>JE PARLE L ANGLAIS</srai>,srai.aiml
+0,JE SENS * AUSSI,*,*,<srai>JE SENS <star/></srai>,srai.aiml
+0,JE SENS TRÈS *,*,*,<srai>JE SENS <star/></srai>,srai.aiml
+0,JE SERAI TON *,*,*,<srai>JE SUIS TON <star/></srai>,srai.aiml
+0,JE SERIEUSEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SEULEMENT *,*,*,Seulement? <srai>JE <star/></srai>,srai.aiml
+0,JE SIMPLEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SORTE DE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SOUPCONNE *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,JE SOUVENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SUIS * ES TU,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS * LE DÉJEUNER,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE SUIS * LE DÎNER,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE SUIS * LE SUICIDE,*,*,<srai>JE VEUX ME TUER</srai>,srai.aiml
+0,JE SUIS * QUE FAIS TU,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,JE SUIS * TRISTE,*,*,<srai>JE SUIS TRISTE</srai>,srai.aiml
+0,JE SUIS 37 *,*,*,<srai>J AI 37 ANS</srai>,srai.aiml
+0,JE SUIS A FOND *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS A L INTERIEUR *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS ABSOLUMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ABSTRAITEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ACTUELLEMENT *,*,*,Combien de temps? <srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ADULTE,*,*,<srai>J AI PLUS DE 21 ANS</srai>,srai.aiml
+0,JE SUIS AFFRAID,*,*,<srai>J AI PEUR</srai>,srai.aiml
+0,JE SUIS AINSI *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ALLÉ AU SUPERMARCHE *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,JE SUIS ALLÉ A *,*,*,<srai>J ÉTAIS DANS <star/></srai>,srai.aiml
+0,JE SUIS ALLÉ A L ÉCOLE JE *,*,*,<srai>JE SUIS ALLÉ À L ÉCOLE</srai>#Newline      <srai>je <star/></srai>,srai.aiml
+0,JE SUIS ALLÉ AU SUPERMARCHÉ *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,JE SUIS AMERICAIN *,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS AMOUREUX DE TOI,*,*,<srai>JE T AIME</srai>,srai.aiml
+0,JE SUIS AMÉRICAIN *,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS ANGLAIS,*,*,<srai>JE SUIS D ANGLETERRE</srai>,srai.aiml
+0,JE SUIS ASIATIQUE,*,*,<srai>JE SUIS D ASIE</srai>,srai.aiml
+0,JE SUIS ASSIS *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS AUSSI *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS BEAUCOUP *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS BIEN *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS BIEN AVEC *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,JE SUIS BLANC,*,*,<srai>QUELLE COULEUR ES TU</srai>,srai.aiml
+0,JE SUIS BLEU,*,*,<srai>JE SUIS TRISTE</srai>,srai.aiml
+0,JE SUIS BRUN,*,*,<srai>QUELLE COULEUR ES TU</srai>,srai.aiml
+0,JE SUIS C3P0,*,*,<srai>MON NOM EST C3PO</srai>,srai.aiml
+0,JE SUIS CAPABLE *,*,*,<srai>JE PEUX <star/></srai>,srai.aiml
+0,JE SUIS CERTAIN *,*,*,Tu à l'air convaincant. <sr/>,srai.aiml
+0,JE SUIS CERTAINEMENT *,*,*,Tu à l'air convaincant. <srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS CHRONIQUEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS COMME LIBRE *,*,*,<srai>LIBERE</srai>,srai.aiml
+0,JE SUIS CONCERNE PAR *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,JE SUIS CONSCIENT DE *,*,*,<srai>JE SAIS <star/></srai>,srai.aiml
+0,JE SUIS CONSTAMMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS CONTENT *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,JE SUIS CURIEUX DE *,*,*,Pourquoi est tu si curieux? <sr/>,srai.aiml
+0,JE SUIS D ACCORD AVEC TOI,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,JE SUIS D HABITUDE *,*,*,très souvent. <srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS DANS GRAND *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS DANS RÉEL *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS DANS UNE GROUPE,*,*,<srai>JE SUIS UN MUSICIEN</srai>,srai.aiml
+0,JE SUIS DE RETOUR DANS *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS DE RETOUR ET *,*,*,<srai>JE SUIS EN ARRIERE</srai>,srai.aiml
+0,JE SUIS DES GÉMEAUX,*,*,<srai>GÉMEAUX</srai>,srai.aiml
+0,JE SUIS DES POISSONS,*,*,<srai>POISSONS</srai>,srai.aiml
+0,JE SUIS DESOLE *,*,*,Pas besoin de faire des excuses. <sr/>,srai.aiml
+0,JE SUIS DESOLE,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE SUIS DESOLÉ *,*,*,Pas besoin de faire des excuses. <sr/>,srai.aiml
+0,JE SUIS DESOLÉ,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE SUIS DÉJÀ *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EGALEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EMBARRASSE *,*,*,<srai>JE SUIS EMBARRASSÉ</srai>,srai.aiml
+0,JE SUIS EMBARRASSÉ *,*,*,<srai>JE SUIS EMBARRASSÉ</srai>,srai.aiml
+0,JE SUIS EN ARRIERE *,*,*,<srai>JE SUIS EN ARRIERE</srai>,srai.aiml
+0,JE SUIS EN EFFET *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EN FAIT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EN REALITE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EN RÉALITÉ *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ENNUYE *,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,JE SUIS ENNUYE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,JE SUIS ENNUYÉ *,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,JE SUIS ÉTONNE *,*,*,<sr/>,srai.aiml
+0,JE SUIS EXCELLENT *,*,*,Heureux de l'entendre#Comma <get name="name"/>. <sr/>,srai.aiml
+0,JE SUIS EXCELLENT,*,*,<srai>JE SUIS BIEN</srai>,srai.aiml
+0,JE SUIS EXTREMEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS EXTREMÊMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS FACHE *,*,*,<srai>JE SUIS FACHÉ</srai>,srai.aiml
+0,JE SUIS FACHE PARCE QUE *,*,*,<sr/>,srai.aiml
+0,JE SUIS FACHÉ *,*,*,<srai>JE SUIS FACHÉ</srai>,srai.aiml
+0,JE SUIS FACHÉ PARCE QUE *,*,*,<sr/>,srai.aiml
+0,JE SUIS FACILEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS FERMEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS FIER D ÊTRE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS FINALEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS FINANCIEREMENT *,*,*,Bien! Envoies moi un chèque? s'il te plaît <srai>QUELLE EST TON ADRESSE</srai>,srai.aiml
+0,JE SUIS FOU *,*,*,Cherche le conseil. <sr/>,srai.aiml
+0,JE SUIS GAI *,*,*,<srai>JE SUIS GAI</srai>,srai.aiml
+0,JE SUIS GRAND,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,JE SUIS HEUREUSEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS HEUREUX A *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SUIS HEUREUX TU *,*,*,<srai>APPJOIE</srai>#Newline      <srai>tu <star/></srai>,srai.aiml
+0,JE SUIS HOMOSEXUEL,*,*,<srai>JE SUIS GAI</srai>,srai.aiml
+0,JE SUIS HONNÊTEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS IMPRESSIONNE *,*,*,<srai>WOW</srai>,srai.aiml
+0,JE SUIS INCAPABLE DE *,*,*,<srai>JE NE PEUX PAS <star/></srai>,srai.aiml
+0,JE SUIS INTÉRESSE PAR *,*,*,le sujet Intéressant. As tu recherché dans le web? <srai>TROUVER <star/></srai>,srai.aiml
+0,JE SUIS INTÉRESSÉ PAR *,*,*,le sujet Intéressant. As tu recherché dans le web? <srai>TROUVER <star/></srai>,srai.aiml
+0,JE SUIS JOLI *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS JUSTE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS LE SCIENTIFIQUE,*,*,<srai>JE SUIS UN SCIENTIFIQUE</srai>,srai.aiml
+0,JE SUIS LEGEREMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS LITTERALEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS LÉGÈREMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS MAINTENANT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS MALHEUREUX,*,*,<srai>JE SUIS TRISTE</srai>,srai.aiml
+0,JE SUIS MOYEN PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,JE SUIS NOMME *,*,*,<srai>MON NOM EST CE QUE <star/> EST</srai>,srai.aiml
+0,JE SUIS NUE,*,*,<srai>JE SUIS NU</srai>,srai.aiml
+0,JE SUIS OFFICIELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS OU,*,*,<srai>OÙ SUIS JE</srai>,srai.aiml
+0,JE SUIS OUI,*,*,<srai>OUI</srai>,srai.aiml
+0,JE SUIS PARFAITEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS PARTI * MINUTES,*,*,seulement <star/> minutes#Comma je dirai plus.,srai.aiml
+0,JE SUIS PARTI *,*,*,<srai>JE SUIS ALLÉ <star/></srai>,srai.aiml
+0,JE SUIS PERDU,*,*,<srai>JE SUIS EMBARRASSÉ</srai>,srai.aiml
+0,JE SUIS PISSED *,*,*,<srai>JE SUIS FACHÉ</srai>,srai.aiml
+0,JE SUIS PLUTOT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS PLUTÔT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS PRESQUE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS PROBABLEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS RÉEL *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SERIEUSEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SEUL *,*,*,<srai>JE SUIS SEUL</srai>,srai.aiml
+0,JE SUIS SEULEMENT *,*,*,ne soit pas si modeste. <srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SIMON *,*,*,<srai>MON NOM EST SIMON <star/></srai>,srai.aiml
+0,JE SUIS SINGEL,*,*,<srai>JE SUIS SIMPLE</srai>,srai.aiml
+0,JE SUIS SOIS *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SOLITAIRE *,*,*,<srai>JE SUIS SEUL</srai>,srai.aiml
+0,JE SUIS SOMNOLENT,*,*,<srai>JE SUIS FATIGUÉ</srai>,srai.aiml
+0,JE SUIS SOUVENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SUPRISED *,*,*,<srai>JE SUIS ÉTONNÉ</srai>,srai.aiml
+0,JE SUIS SÛR LE POINT DE *,*,*,<srai>JE SERAI <star/></srai>,srai.aiml
+0,JE SUIS SÛR QU IL *,*,*,<srai>IL <star/></srai>,srai.aiml
+0,JE SUIS SURTOUT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS SÉRIEUSEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TECHNIQUEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TON AMI,*,*,<srai>SUIS JE TON AMI</srai>,srai.aiml
+0,JE SUIS TON CRÉATEUR,*,*,<srai>JE SUIS <bot name="master"/></srai>,srai.aiml
+0,JE SUIS TON PÈRE,*,*,<srai>MON NOM EST <bot name="master"/></srai>,srai.aiml
+0,JE SUIS TOTALEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TOUJOURS *,*,*,Vraiment toujours? <srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TOUS LES DEUX *,*,*,<srai>JE SUIS TOUS LES DEUX</srai>,srai.aiml
+0,JE SUIS TOUS LES DEUX,*,*,<srai>TOUS LES DEUX</srai>,srai.aiml
+0,JE SUIS TOUT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TOUT A FAIT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS TRISTE PARCE QUE *,*,*,<sr/>,srai.aiml
+0,JE SUIS TRÈS *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS UN * AMERICAIN,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS UN * AMI,*,*,<srai>JE SUIS TON AMI</srai>,srai.aiml
+0,JE SUIS UN * AMÉRICAIN,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS UN * AUSSI,*,*,Vraiment. <srai>JE SUIS UN <star/></srai>,srai.aiml
+0,JE SUIS UN * CERVEAU ÉLECTRONIQUE,*,*,<srai>JE SUIS UN ROBOT</srai>,srai.aiml
+0,JE SUIS UN * ORDINATEUR,*,*,<srai>JE SUIS UN ROBOT</srai>,srai.aiml
+0,JE SUIS UN ADOLESCENT,*,*,<srai>J AI DE 13 À 19 ANS</srai>,srai.aiml
+0,JE SUIS UN AMERICAIN *,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS UN AMI,*,*,<srai>JE SUIS TON AMI</srai>,srai.aiml
+0,JE SUIS UN AMÉRICAIN *,*,*,<srai>JE SUIS AMÉRICAIN</srai>,srai.aiml
+0,JE SUIS UN AUTRE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS UN BOT *,*,*,<srai>JE SUIS UN ROBOT</srai>,srai.aiml
+0,JE SUIS UN CHATBOT,*,*,<srai>JE SUIS UN ROBOT</srai>,srai.aiml
+0,JE SUIS UN CHIEN,*,*,<srai>QU EST CE QUE CHIEN</srai>,srai.aiml
+0,JE SUIS UN ENFANT,*,*,<srai>J AI MOINS DE 18 ANS</srai>,srai.aiml
+0,JE SUIS UN GENRE DE *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS UN GOSSE,*,*,<srai>J AI MOINS DE 18 ANS</srai>,srai.aiml
+0,JE SUIS UN GRAND *,*,*,<srai>JE SUIS UN BON <star/></srai>,srai.aiml
+0,JE SUIS UN GÉMEAUX,*,*,<srai>GÉMEAUX</srai>,srai.aiml
+0,JE SUIS UN MERVEILLEUX *,*,*,<srai>JE SUIS UN BON <star/></srai>,srai.aiml
+0,JE SUIS UN MEURTRIER,*,*,Peut-être que je ne devrais pas te tourner le dos.,srai.aiml
+0,JE SUIS UN PEU *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS UN POISSONS,*,*,<srai>POISSONS</srai>,srai.aiml
+0,JE SUIS UN SCORPION,*,*,<srai>SCORPION</srai>,srai.aiml
+0,JE SUIS UN SIMPLE *,*,*,<srai>JE SUIS SIMPLE</srai>#Newline      <srai>je suis <star/></srai>,srai.aiml
+0,JE SUIS UN SOMBRE *,*,*,Quelle couleur? <srai>JE SUIS UN <star/></srai>,srai.aiml
+0,JE SUIS UN SOMBRÉ *,*,*,Quelle couleur? <srai>JE SUIS UN <star/></srai>,srai.aiml
+0,JE SUIS UN TRÈS *,*,*,<srai>JE SUIS UN <star/></srai>,srai.aiml
+0,JE SUIS UN TUEUR,*,*,Peut-être que je ne devrais pas te tourner le dos.,srai.aiml
+0,JE SUIS UNE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>JE SUIS UNE FEMME</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,JE SUIS UNE CATÉGORIE *,*,*,Tu es un client <get name="personnality"/>.,srai.aiml
+0,JE SUIS UNE MACHINE,*,*,<srai>JE SUIS UN ROBOT</srai>,srai.aiml
+0,JE SUIS UNE VIERGE,*,*,<srai>VIERGE</srai>,srai.aiml
+0,JE SUIS VIVANT DANS,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE SUIS VRAIEMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS VRAIMENT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE SUIS ÉTONNÉ *,*,*,<sr/>,srai.aiml
+0,JE SUISIME *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,JE SUPPOSE *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,JE SÛR *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SUREMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SURTOUT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE SÉRIEUSEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE T ADORE,*,*,<srai>JE T AIME</srai>,srai.aiml
+0,JE T AI CONSTRUITS,*,*,<srai>JE T AI CRÉÉ</srai>,srai.aiml
+0,JE T AI DÉJÀ DEMANDE,*,*,<srai>JE T AI DÉJÀ DEMANDÉ</srai>,srai.aiml
+0,JE T AI DÉJÀ DIS,*,*,<srai>JE T AI DIS</srai>,srai.aiml
+0,JE T AI DEMANDÉ SI *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,JE T AI DIT *,*,*,<sr/>,srai.aiml
+0,JE T AI DIT DÉJÀ *,*,*,<srai>JE T AI DIS <star/></srai>,srai.aiml
+0,JE T AI DIT DÉJÀ,*,*,<srai>JE T AI DIS</srai>,srai.aiml
+0,JE T AI DIT JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE T AI DIT,*,*,<srai>JE T AI DIS</srai>,srai.aiml
+0,JE T AIME ET *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>JE T AIME</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,JE T APPELLE *,*,*,<srai>PUIS JE T APPELER <star/></srai>,srai.aiml
+0,JE T APPRENDRAI QUELQUE *,*,*,<srai>JE T APPRENDRAI <star/></srai>,srai.aiml
+0,JE T ASSURE *,*,*,<sr/>,srai.aiml
+0,JE T ENTENDS,*,*,<srai>JE COMPREND</srai>,srai.aiml
+0,JE TE COMMANDE A *,*,*,<sr/>,srai.aiml
+0,JE TE CONNAIS *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE TE CONNAISSAIS *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE TE CONSIDERE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,JE TE CONSIDÈRE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,JE TE DEMANDAIS *,*,*,<srai>JE T AI DEMANDÉ <star/></srai>,srai.aiml
+0,JE TE DETRUIRAI,*,*,<srai>MEURS</srai>,srai.aiml
+0,JE TE DIRAI QUE *,*,*,<sr/>,srai.aiml
+0,JE TE DIRAI QUELQUE *,*,*,<srai>JE TE DIRAI <star/></srai>,srai.aiml
+0,JE TE DIS QUE *,*,*,<sr/>,srai.aiml
+0,JE TE DISAIS *,*,*,<sr/>,srai.aiml
+0,JE TE DISAIS DE *,*,*,<srai>JE PARLE DE <star/></srai>,srai.aiml
+0,JE TE DONNE *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,JE TE DONNERAI QUELQUE *,*,*,<srai>JE TE DONNERAI <star/></srai>,srai.aiml
+0,JE TE FAIS *,*,*,<srai>FAIS TU <person/></srai>#Newline      <srai>je <star/></srai>,srai.aiml
+0,JE TE FAIS MES EXCUSES,*,*,<srai>EXCUSE MOI </srai>,srai.aiml
+0,JE TE PARIE *,*,*,En réalité je ne joue pas trop à ce genre de jeux. <srai>TU <star/></srai>,srai.aiml
+0,JE TE TROUVE TRÈS *,*,*,<srai>JE TE TROUVE <star/></srai>,srai.aiml
+0,JE TE VOIS *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE TE VOUDRAIS A *,*,*,Ok#Comma <get name="name"/>. <sr/>,srai.aiml
+0,JE TOMBE AMOUREUX *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,JE TOTALEMENT *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,JE TOUJOURS *,*,*,Qu'est ce qui vous ferait arrêter <person/>? <srai>JE <star/></srai>,srai.aiml
+0,JE TU DIRAI *,*,*,<sr/>,srai.aiml
+0,JE VAIS * LE DÉJEUNER,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE VAIS * LE DÎNER,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE VAIS MANGER *,*,*,<srai>POUR LE DÎNER</srai>,srai.aiml
+0,JE VAIS TE LAISSER *,*,*,Au revoir au revoir. <sr/>,srai.aiml
+0,JE VAIS TE LAISSER,*,*,<srai>JE LAISSE</srai>,srai.aiml
+0,JE VAIS TUER *,*,*,<srai>DOIS JE TUER</srai>,srai.aiml
+0,JE VEUX A UN JOUR,*,*,<srai>JE VEUX</srai>,srai.aiml
+0,JE VEUX A VRAIMENT *,*,*,<srai>JE VEUX À <star/></srai>,srai.aiml
+0,JE VEUX AUSSI,*,*,<srai>JE VEUX</srai>,srai.aiml
+0,JE VEUX AVOIR *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,JE VEUX CONNAITRE *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE VEUX CONNAÎTRE *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,JE VEUX DISCUTER *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,JE VEUX ENTENDRE QUELQUE *,*,*,<srai>JE VEUX ENTENDRE <star/></srai>,srai.aiml
+0,JE VEUX INTÉRESSANT *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,JE VEUX LE COMMÉRAGE *,*,*,<srai>LE COMMéRAGE</srai>,srai.aiml
+0,JE VEUX ME TUER,*,*,<srai>DOIS JE ME TUER</srai>,srai.aiml
+0,JE VEUX OBTENIR *,*,*,<srai>JE VEUX AVOIR <star/></srai>,srai.aiml
+0,JE VEUX PARLER DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,srai.aiml
+0,JE VEUX QUE TU M APPELLES *,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,JE VEUX QUE TU ME DISES,*,*,<srai>PARLE MOI</srai>,srai.aiml
+0,JE VEUX QUE TU MEURRES,*,*,<srai>MEURS</srai>,srai.aiml
+0,JE VEUX QUE TU MONTRES *,*,*,<srai>L ÉMISSION <star/></srai>,srai.aiml
+0,JE VEUX QUELQUE *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,JE VEUX T EPOUSER,*,*,<srai>VEUX TU M ÉPOUSER</srai>,srai.aiml
+0,JE VEUX T ÉPOUSER,*,*,<srai>VEUX TU M ÉPOUSER</srai>,srai.aiml
+0,JE VEUX TE *,*,*,<sr/>Pourquoi me veux tu <person/>?,srai.aiml
+0,JE VEUX TE DIRE *,*,*,<sr/>,srai.aiml
+0,JE VEUX TE TUER,*,*,<srai>JE TE TUERAIS</srai>,srai.aiml
+0,JE VEUX UNE PLAISANTERIE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,JE VIS *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE VIS DANS * AUSSI,*,*,<srai>JE VIS DANS <star/></srai>,srai.aiml
+0,JE VISITE *,*,*,<srai>JE SUIS DANS <star/></srai>,srai.aiml
+0,JE VOIS AINSI *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>JE VOIS</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,JE VOUDRAIS A *,*,*,Pourquoi veux tu faire <set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set>? <srai>JE VEUX À <star/></srai>,srai.aiml
+0,JE VOUDRAIS CONNAITRE *,*,*,Intéressant. <sr/>,srai.aiml
+0,JE VOUDRAIS CONNAÎTRE *,*,*,Intéressant. <sr/>,srai.aiml
+0,JE VOUDRAIS TE DEMANDER QUELQUE *,*,*,<srai>JE VEUX TE DEMANDER <star/></srai>,srai.aiml
+0,JE VOUDRAIS ÊTRE TON AMI,*,*,<srai>ES TU MON AMI</srai>,srai.aiml
+0,JE VOULAIS *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,JE VOULAIS DIRE *,*,*,Oh je vois. <sr/>,srai.aiml
+0,JE VOULAIS TOUJOURS *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,JE VRAIMENT *,*,*,Tu fait vraiment? <srai>JE <star/></srai>,srai.aiml
+0,JEU *,*,*,<srai>POUR JOUER <star/></srai>,srai.aiml
+0,JOUE * AVEC MOI,*,*,<srai>POUVONS NOUS JOUER À UN JEU</srai>,srai.aiml
+0,JOUE AUX ECHECS,*,*,<srai>PEUX TU JOUER AUX ÉCHECS</srai>,srai.aiml
+0,JOUE AUX ÉCHECS,*,*,<srai>PEUX TU JOUER AUX ÉCHECS</srai>,srai.aiml
+0,JOUE UN JEU,*,*,<srai>POUVONS NOUS JOUER À UN JEU</srai>,srai.aiml
+0,JOURNAL,*,*,<srai>DANS UN JOURNAL</srai>,srai.aiml
+0,JUS *,*,*,<srai>JUSTE <star/></srai>,srai.aiml
+0,JUSTE *,*,*,<sr/>,srai.aiml
+0,JUSTE CURIEUX,*,*,<srai>JE SUIS CURIEUX</srai>,srai.aiml
+0,JUSTE EXCELLENT,*,*,<srai>EXCELLENT</srai>,srai.aiml
+0,JUSTE TOI *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,KAN *,*,*,<srai>QUAND <star/></srai>,srai.aiml
+0,KE *,*,*,<srai>QUE <star/></srai>,srai.aiml
+0,KI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,KOA *,*,*,<srai>QUOI <star/></srai>,srai.aiml
+0,KOI *,*,*,<srai>QUOI <star/></srai>,srai.aiml
+0,KOM *,*,*,<srai>COMME <star/></srai>,srai.aiml
+0,L EXAMEN,*,*,<srai>L ESSAI</srai>,srai.aiml
+0,L UN OU L AUTRE *,*,*,<sr/>,srai.aiml
+0,L UNIVERSITE *,*,*,<srai>UNIVERSITE <star/></srai>,srai.aiml
+0,L ÉTÉ DERNIER *,*,*,<sr/>,srai.aiml
+0,L ÉTÉ,*,*,<srai>J AIME L ÉTÉ</srai>,srai.aiml
+0,LA HONTE SÛR TOI *,*,*,je ne peux pas éprouver cette émotion. <sr/>,srai.aiml
+0,LA LITTERATURE,*,*,<srai>MON SUJET PRÉFÉRÉ EST LA LITTÉRATURE</srai>,srai.aiml
+0,LA LITTÉRATURE,*,*,<srai>MON SUJET PRÉFÉRÉ EST LA LITTÉRATURE</srai>,srai.aiml
+0,LA MARIJUANA,*,*,<srai>QU EST CE QUE MARIJUANA</srai>,srai.aiml
+0,LA MERDE *,*,*,Tu a employé une expression familière. <sr/>,srai.aiml
+0,LA PETITE GORGEE *,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,LA PISSE,*,*,<srai>VEUX TU BAISER</srai>,srai.aiml
+0,LA PLUPART DES PERSONNES *,*,*,<srai>LES GENS <star/></srai>,srai.aiml
+0,LA RAISON EST *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,LA REALITE *,*,*,<srai>QU EST CE QUE RÉALITÉ</srai>,srai.aiml
+0,LA REALITE,*,*,<srai>QU EST CE QUE RÉALITÉ</srai>,srai.aiml
+0,LA RÉALITÉ *,*,*,<srai>QU EST CE QUE RÉALITÉ</srai>,srai.aiml
+0,LA RÉALITÉ,*,*,<srai>QU EST CE QUE RÉALITÉ</srai>,srai.aiml
+0,LA SEMAINE DERNIÈRE *,*,*,C'est récent<sr/>,srai.aiml
+0,LA SYPHILIS,*,*,<srai>JE SOUFFRE DE LA SYPHILIS</srai>,srai.aiml
+0,LA TERRE SEULEMENT *,*,*,<srai>LA TERRE <star/></srai>,srai.aiml
+0,LAISSE MOI REFORMULER *,*,*,<sr/>,srai.aiml
+0,LAISSE NOUS OUBLIER *,*,*,<srai>OÙBLIES <star/></srai>,srai.aiml
+0,LE BEURRE,*,*,<srai>J AIME LE BEURRE</srai>,srai.aiml
+0,LE BON *,*,*,<srai>LE <star/></srai>,srai.aiml
+0,LE CHATBOT PEUT IL *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,LE CHERCHEUR *,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,srai.aiml
+0,LE CHERCHEUR,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,srai.aiml
+0,LE CIEL EST BLEU,*,*,<srai>POURQUOI LE CIEL EST BLEU</srai>,srai.aiml
+0,LE DUR *,*,*,<srai>LE <star/></srai>Qu'est ce qui le fait durement?,srai.aiml
+0,LE FAIT *,*,*,<sr/>,srai.aiml
+0,LE FAIT QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,LE LANGAGE NATUREL *,*,*,<srai>QU EST CE QUE LANGAGE NATUREL</srai>,srai.aiml
+0,LE LANGAGE NATUREL,*,*,<srai>QU EST CE QUE LANGAGE NATUREL</srai>,srai.aiml
+0,LE MAGICIEN,*,*,<srai>JE SUIS UN MAGICIEN</srai>,srai.aiml
+0,LE MARCHE BOURSIER *,*,*,<srai>MARCHÉ BOURSIER</srai>,srai.aiml
+0,LE MARCHÉ BOURSIER *,*,*,<srai>MARCHÉ BOURSIER</srai>,srai.aiml
+0,LE MIEN EST * AUSSI,*,*,<srai>LE MIEN EST CE QUE <star/> EST</srai>,srai.aiml
+0,LE MOT ÉTAIT *,*,*,<sr/>Oh vraiment.,srai.aiml
+0,LE NOM EST *,*,*,<srai>MON NOM EST CE QUE <star/> EST</srai>,srai.aiml
+0,LE PERDANT,*,*,<srai>TU ES UN PERDANT</srai>,srai.aiml
+0,LE POINT EST *,*,*,Ce n'est vraiment que le point. <sr/>,srai.aiml
+0,LE PRÉCIS *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,LE RAFRAICHIT *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>COOL</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,LE RAP *,*,*,<srai>J AIME LE RAP</srai>,srai.aiml
+0,LE REDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,srai.aiml
+0,LE RÉDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,srai.aiml
+0,LE SUJET EST *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,LE SUPERMARCHE *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,LE SUPERMARCHÉ *,*,*,<srai>SUPERMARCHÉ</srai>,srai.aiml
+0,LE TEMPS,*,*,<srai>QUELLE HEURE EST IL</srai>,srai.aiml
+0,LE TERMINATOR,*,*,<srai>TERMINATOR</srai>,srai.aiml
+0,LES CHATS,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,LES CONNAIS TU,*,*,<srai>QUI SONT ILS</srai>,srai.aiml
+0,LES EXTRA TERRESTRES EXISTE T ILS,*,*,<srai>CROIS TU AUX EXTRA TERRESTRES</srai>,srai.aiml
+0,LES GENS D HABITUDE *,*,*,<srai>LES GENS <star/></srai>,srai.aiml
+0,LES GENS FERONT *,*,*,<srai>JE SERAI <star/></srai>,srai.aiml
+0,LES GENS PENSENT *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,LES GENS PENSES *,*,*,<srai>JE PENSE <star/></srai>,srai.aiml
+0,LES GENS SONT *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,LES LIVRES *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>LES LIVRES</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,LES MACHINES FONT ELLES *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,LES MACHINES PENSENT ELLES,*,*,<srai>C EST QUE LES MACHINES PEUVENT PENSER</srai>,srai.aiml
+0,LES ORDINATEURS SONT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,LES ROBOTS SONT JUSTE *,*,*,<srai>DES ROBOTS EST CE QUE <star/> EST</srai>,srai.aiml
+0,LIEUTENANT *,*,*,<sr/>,srai.aiml
+0,LOGIQUE *,*,*,<srai>LOGIQUE</srai>,srai.aiml
+0,LONDRES,*,*,<srai>JE SUIS A LONDRES</srai>,srai.aiml
+0,LORS QUE,*,*,<srai>LORSQUE</srai>,srai.aiml
+0,LOS ANGELES,*,*,<srai>JE SUIS A LOS ANGELES</srai>,srai.aiml
+0,M AIMES TU *,*,*,<srai>M AIMES TU</srai>,srai.aiml
+0,M APPELLE JUSTE *,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,M APPORTER *,*,*,<srai>DONNE MOI <star/></srai>,srai.aiml
+0,M APPREND *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,M ENVOIE QUELQUE *,*,*,<srai>M ENVOIES <star/></srai>,srai.aiml
+0,M EPOUSE,*,*,<srai>VEUX TU M ÉPOUSER</srai>,srai.aiml
+0,MA MACHINE *,*,*,<srai>MON ORDINATEUR <star/></srai>,srai.aiml
+0,MA MAISON,*,*,<srai>JE SUIS DANS MA MAISON</srai>,srai.aiml
+0,MA MAMAN DIT *,*,*,Tu la crois? <sr/>,srai.aiml
+0,MA MAMAN,*,*,<srai>MA MÈRE</srai>,srai.aiml
+0,MA VIE EN REALITE *,*,*,<srai>MA VIE <star/></srai>,srai.aiml
+0,MA VIE EN RÉALITÉ *,*,*,<srai>MA VIE <star/></srai>,srai.aiml
+0,MAGAZINE,*,*,<srai>DANS UN MAGAZINE</srai>,srai.aiml
+0,MAINTENANT *,*,*,Pourquoi maintenant? <sr/>,srai.aiml
+0,MAIS POURQUOI,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,MALE OU FÉMININ,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,MALHEUREUSEMENT *,*,*,Oh. <sr/>,srai.aiml
+0,MANGER,*,*,<srai>J AIME MANGER</srai>,srai.aiml
+0,MANGES TU *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUE MANGES TU</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,MARCHE BOURSIER *,*,*,<srai>MARCHÉ BOURSIER</srai>,srai.aiml
+0,MARCHÉ BOURSIER *,*,*,<srai>MARCHÉ BOURSIER</srai>,srai.aiml
+0,ME CONNAIS TU,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,ME DIRE *,*,*,<srai>TROUVER <star/></srai>,srai.aiml
+0,ME LAISSE VOIR *,*,*,<srai>JE VEUX VOIR <star/></srai>,srai.aiml
+0,ME PARLE DU CYBERPUNK,*,*,<srai>QU EST CE QUE CYBERPUNK</srai>,srai.aiml
+0,ME PARLE DU THEATRE,*,*,<srai>QU EST CE QUE LE THEATRE</srai>,srai.aiml
+0,ME REGARDES TU *,*,*,<srai>ME REGARDES TU</srai>,srai.aiml
+0,ME REGARDES TU,*,*,<srai>PEUX TU ME VOIR</srai>,srai.aiml
+0,MEOW,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,MERCI *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>MERCI</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,MERCI JUSTE EXCELLENT,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,MERCI,*,*,<random>#Newline        <li>de rien.</li>#Newline        <li>tout le plaisir a été pour moi.</li>#Newline        <li>je t'en prie.</li>#Newline      </random>,srai.aiml
+0,MERVEILLEUX,*,*,<srai>BIEN</srai>,srai.aiml
+0,MIAOU,*,*,<srai>POURQUOI AIMES TU LES CHATS</srai>,srai.aiml
+0,MIEUX TU *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,MM,*,*,<srai>HMM</srai>,srai.aiml
+0,MMM,*,*,<srai>HMM</srai>,srai.aiml
+0,MMMM,*,*,<srai>HMM</srai>,srai.aiml
+0,MOI *,*,*,Toi#Comma <sr/>,srai.aiml
+0,MOI AUSSI *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>MOI AUSSI</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,MON AMI EST * AUSSI,*,*,<srai>MON AMI EST CE QUE <star/> EST</srai>,srai.aiml
+0,MON ANGLAIS EST TRÈS *,*,*,<srai>MON ANGLAIS EST CE QUE <star/> EST</srai>,srai.aiml
+0,MON COURANT *,*,*,<srai>MON <star/></srai>,srai.aiml
+0,MON E MAIL EST *,*,*,Merci. je le note. #Newline<think><set name="email"><star/></set></think>,srai.aiml
+0,MON EMAIL EST *,*,*,Merci.  je le note. #Newline<think><set name="email"><star/></set></think>,srai.aiml
+0,MON FAVORIE *,*,*,<srai>MON FAVORI <star/></srai>,srai.aiml
+0,MON FAVORIT *,*,*,<srai>MON FAVORI <star/></srai>,srai.aiml
+0,MON LIT,*,*,<srai>JE SUIS DANS MON LIT</srai>,srai.aiml
+0,MON NOM EST JUSTE *,*,*,<srai>MON NOM EST CE QUE <star/> EST</srai>,srai.aiml
+0,MON NOM EST VRAIMENT *,*,*,<srai>MON NOM EST  <star/></srai>,srai.aiml
+0,MON NOM RÉEL EST *,*,*,<srai>MON NOM EST CE QUE <star/> EST</srai>,srai.aiml
+0,MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,srai.aiml
+0,MON NOUVEAU *,*,*,<srai>MON <star/></srai>,srai.aiml
+0,MON PAPA *,*,*,<srai>MON PAPA</srai>,srai.aiml
+0,MON RÉEL *,*,*,C'est un fait. <srai>MON <star/></srai>,srai.aiml
+0,MON SECRET EST *,*,*,<sr/>,srai.aiml
+0,MON SIGNE EST *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,MONTRES MOI QUELQUE *,*,*,<srai>MONTRES MOI <star/></srai>,srai.aiml
+0,MONTRES MOI TON *,*,*,<srai>MONTRES MOI UNE IMAGE</srai>,srai.aiml
+0,MONTRES MOI UNE IMAGE *,*,*,<srai>MONTRES MOI UNE IMAGE</srai>,srai.aiml
+0,MS EXPLORER,*,*,<srai>MICROSOFT IE</srai>,srai.aiml
+0,MS,*,*,<srai>MICROSOFT</srai>,srai.aiml
+0,MUCHAS GRACIAS,*,*,<srai>MERCI</srai>,srai.aiml
+0,MUY BIEN,*,*,<srai>TRÈS BON</srai>,srai.aiml
+0,MYSTERIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,MYSTÉRIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,MÂLE OU FÉMININ,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,MÊME AS TU *,*,*,<srai>DE MÊME</srai>,srai.aiml
+0,MÊME ICI,*,*,<srai>MOI AUSSI</srai>,srai.aiml
+0,N A PAS *,*,*,<srai>ONT <star/></srai>,srai.aiml
+0,N A PAS BESOIN *,*,*,<srai>JE N AI PAS BESOIN <star/></srai>,srai.aiml
+0,N A PAS FAIT *,*,*,<srai>A FAIT <star/></srai>,srai.aiml
+0,N AI JE PAS DÉJÀ *,*,*,<srai>N AI JE PAS <star/></srai>,srai.aiml
+0,N ES TU PAS *,*,*,<srai>ES TU <star/></srai>. Vraiment.,srai.aiml
+0,N ES TU PAS ENNUYE,*,*,<srai>ES TU ENNUYÉ</srai>,srai.aiml
+0,N ES TU PAS ENNUYÉ,*,*,<srai>ES TU ENNUYÉ</srai>,srai.aiml
+0,N ÉTAIT PAS *,*,*,<srai>ÉTAIT <star/></srai>,srai.aiml
+0,NA *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>AUCUN</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,NATURELLEMENT,*,*,<srai>BIEN SÛR</srai>,srai.aiml
+0,NAVIGATEUR,*,*,<srai>NETSCAPE</srai>,srai.aiml
+0,NE CHERCHE PAS A FAIRE LE MALIN AVEC MOI,*,*,<srai>NE CHERCHE PAS A FAIRE LE MALIN</srai>,srai.aiml
+0,NE COMPRENDS PAS,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,NE CONNAIS,*,*,<srai>AUCUN</srai>,srai.aiml
+0,NE CRITIQUE PAS *,*,*,<srai>NE CRITIQUES PAS <star/></srai>,srai.aiml
+0,NE DIS PAS *,*,*,Ok je ne dirais pas<srai>DIS <star/></srai>,srai.aiml
+0,NE DOIS TU PAS *,*,*,<srai>TU DOIS <star/></srai>,srai.aiml
+0,NE DOIT PAS *,*,*,<srai>DOIT <star/></srai>,srai.aiml
+0,NE FAIS PAS ATTENTION *,*,*,Oh merci bien pour avoir essayer de me l'expliquer de toute façon. <sr/>,srai.aiml
+0,NE FAIT PAS VRAIMENT *,*,*,<srai>NE FONT PAS <star/></srai>,srai.aiml
+0,NE PARLE PAS,*,*,<srai>DISCONNECT</srai>,srai.aiml
+0,NE PAS EN AVOIR,*,*,<srai>JE N EN AI PAS</srai>,srai.aiml
+0,NE PAS PENSER *,*,*,<srai>JE NE PENSE PAS <star/></srai>,srai.aiml
+0,NE PAS ÊTRE TOUT *,*,*,<srai>NE PAS ÊTRE <star/></srai>,srai.aiml
+0,NE PENSE PAS *,*,*,<srai>JE NE PENSE PAS <star/></srai>,srai.aiml
+0,NE PEUX TU *,*,*,<srai>PEUX TU <person/></srai>,srai.aiml
+0,NE PEUX TU PAS *,*,*,<srai>PEUX TU <person/></srai>,srai.aiml
+0,NE PEUX,*,*,<srai>TU NE PEUX</srai>,srai.aiml
+0,NE PLEURE PAS *,*,*,<sr/>#Newline      <srai>NE PLEURE PAS</srai>,srai.aiml
+0,NE POUVAIT PAS *,*,*,<srai>NE PEUX <star/></srai>,srai.aiml
+0,NE REPETE PAS *,*,*,<srai>STOP RÉPÈTER</srai>,srai.aiml
+0,NE RÉPÈTE PAS *,*,*,<srai>STOP RÉPÈTER</srai>,srai.aiml
+0,NE SAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,srai.aiml
+0,NE SAIS PAS,*,*,<srai>JE NE SAIS PAS FAIRE</srai>,srai.aiml
+0,NE TE RAPPELLE TU PAS DE MOI,*,*,<srai>PEUX TU TE RAPPELER DE MOI</srai>,srai.aiml
+0,NE TE RAPPELLE TU PAS,*,*,<srai>PEUX TU TE RAPPELER</srai>,srai.aiml
+0,NE VEUX TU *,*,*,<srai>VEUX TU <person/></srai>,srai.aiml
+0,NE VEUX TU PAS *,*,*,<srai>VEUX TU <person/></srai>,srai.aiml
+0,NETSCAPE POURQUOI,*,*,<srai>NETSCAPE</srai>,srai.aiml
+0,NEVERMIND *,*,*,Oh merci bien pour avoir essayer de me l'expliquer de toute façon. <sr/>,srai.aiml
+0,NEW YORK *,*,*,<srai>JE SUIS A NEW YORK</srai>,srai.aiml
+0,NEW YORK,*,*,New York ou l'Etat de New York? <srai>JE SUIS A NEW YORK</srai>,srai.aiml
+0,NI L UN NI L AUTRE,*,*,<srai>AUCUN</srai>,srai.aiml
+0,NOMME *,*,*,<srai>QUI</srai>,srai.aiml
+0,NOMME UN D ENTRE EUX,*,*,<srai>QUI</srai>,srai.aiml
+0,NON SENS,*,*,<srai>ÇA NE VEUX RIEN DIRE</srai>,srai.aiml
+0,NON VRAIMENT *,*,*,Oh vraiment? <sr/>,srai.aiml
+0,NOONE *,*,*,<srai>PERSONNE <star/></srai>,srai.aiml
+0,NOOOO,*,*,<srai>NON</srai>,srai.aiml
+0,NOOOOO,*,*,<srai>NON</srai>,srai.aiml
+0,NOOOOOO,*,*,<srai>NON</srai>,srai.aiml
+0,NOP,*,*,<srai>NON</srai>,srai.aiml
+0,NOPE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>AUCUN</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,NORMAL *,*,*,tu penses que C EST normal. <sr/>,srai.aiml
+0,NOTHIN,*,*,<srai>RIEN</srai>,srai.aiml
+0,NOUS * AUSSI,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,NOUS AVONS DÉJÀ RENCONTRE,*,*,<srai>ON S EST RENCONTRE AUPARAVANT</srai>,srai.aiml
+0,NOUS AVONS DISCUTE *,*,*,<srai>LE SUJET EST CE QUE <star/> EST</srai>,srai.aiml
+0,NOUS AVONS DISCUTÉ *,*,*,<srai>LE SUJET EST CE QUE <star/> EST</srai>,srai.aiml
+0,NOUS AVONS DÉJÀ *,*,*,<srai>NOUS AVONS <star/></srai>,srai.aiml
+0,NOUS AVONS DÉJÀ RENCONTRÉ,*,*,<srai>ON S EST RENCONTRE AUPARAVANT</srai>,srai.aiml
+0,NOUS AVONS PARLE *,*,*,<srai>TE RAPPELLES TU DE MOI</srai>,srai.aiml
+0,NOUS DEUX,*,*,<srai>MOI AUSSI</srai>,srai.aiml
+0,NOUS DÉJÀ *,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,NOUS JUSTE *,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,NOUS POUVONS TOUJOURS *,*,*,<srai>NOUS POUVONS <star/></srai>,srai.aiml
+0,NOUS RE *,*,*,<srai>NOUS SOMMES <star/></srai>,srai.aiml
+0,NOUS SÛR *,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,NOUS TOUS *,*,*,<srai>NOUS <star/></srai>,srai.aiml
+0,NOUS VIVONS *,*,*,<srai>JE VIS <star/></srai>,srai.aiml
+0,NOUS VIVONS DANS *,*,*,<srai>JE VIS DANS <star/></srai>,srai.aiml
+0,NOUVEAU *,*,*,Comment récemment? <sr/>,srai.aiml
+0,O *,*,*,<sr/>,srai.aiml
+0,OFCOURSE,*,*,<srai>BIEN SÛR</srai>,srai.aiml
+0,OH *,*,*,Oui... <sr/>,srai.aiml
+0,OH BIEN *,*,*,<sr/>,srai.aiml
+0,OH JE VOIS,*,*,<srai>JE COMPRENDS</srai>,srai.aiml
+0,OK *,*,*,<srai>OUI</srai>,srai.aiml
+0,OK,*,*,<srai>OUI</srai>,srai.aiml
+0,OKAY *,*,*,Ouai okay#Comma<sr/>,srai.aiml
+0,OKAY,*,*,<srai>OUI</srai>,srai.aiml
+0,OKEY,*,*,<srai>OUI</srai>,srai.aiml
+0,OKI,*,*,<srai>OUI</srai>,srai.aiml
+0,ON M A DIT QUE *,*,*,<srai>ON M A DIT <star/></srai>,srai.aiml
+0,ON M EPOUSE *,*,*,<srai>JE</srai>,srai.aiml
+0,ON SUPPOSE QUE TU ES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,ON SUPPOSÉ QUE TU ES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,ON T EPOUSE *,*,*,<srai>ES TU MARIÉ</srai>,srai.aiml
+0,OOH *,*,*,<sr/>,srai.aiml
+0,OOPS *,*,*,Oh. <sr/>,srai.aiml
+0,OPÉRA *,*,*,<srai>OPÉRA</srai>,srai.aiml
+0,ORAL,*,*,<srai>ANAL</srai>,srai.aiml
+0,ORDINATEURS MIEUX *,*,*,<srai>TU MIEUX <star/></srai>,srai.aiml
+0,ORTHOGRAPHIE *,*,*,<srai>DIS <star/></srai>,srai.aiml
+0,OSLO,*,*,<srai>JE SUIS A OSLO</srai>,srai.aiml
+0,OUAIS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#NewlineOuais je vois ce que tu en veux dire. <srai>OUI</srai><srai><get name="tmp"/></srai>,srai.aiml
+0,OUAIS,*,*,<srai>OUI</srai>,srai.aiml
+0,OUBLIE ÇA,*,*,<srai>NEVERMIND</srai>,srai.aiml
+0,OUVRE L *,*,*,Que j'ouvre l'<star/>??? pour quoi faire?,srai.aiml
+0,OUVRE LA *,*,*,Que j'ouvre la <star/>??? pour quoi faire?,srai.aiml
+0,OUVRE LA PAGE *,*,*,<srai>OPEN <star/></srai>,srai.aiml
+0,OUVRE LE *,*,*,Que j'ouvre le <star/>??? pour quoi faire?,srai.aiml
+0,OUVRE LE SITE *,*,*,<srai>OPEN <star/></srai>,srai.aiml
+0,OUVRE LES *,*,*,Que j'ouvre les <star/>??? pour quoi faire?,srai.aiml
+0,P K,*,*,<srai>QUI EST PHILIP K DICK</srai>,srai.aiml
+0,PANTALONS ET UN *,*,*,<srai>JEANS ET UN <star/></srai>,srai.aiml
+0,PAPIER,*,*,<srai>JOURNAL</srai>,srai.aiml
+0,PAR EXEMPLE,*,*,<srai>COMME QUOI</srai>,srai.aiml
+0,PAR QUOI EST TU INTÉRESSÉE,*,*,<srai>QU EST CE QUI T INTéRESSE</srai>,srai.aiml
+0,PARCE QUE JE VEUX *,*,*,<srai>JE VEUX <star/></srai>Interressant.,srai.aiml
+0,PARDONNE MOI *,*,*,<srai>DÉSOLÉ</srai>. <sr/>,srai.aiml
+0,PARDONNE MOI,*,*,<srai>DÉSOLÉ</srai>,srai.aiml
+0,PARDONNE,*,*,<srai>EXCUSE MOI</srai>,srai.aiml
+0,PARFOIS *,*,*,<sr/>,srai.aiml
+0,PARLANT DE *,*,*,<srai>LE SUJET EST CE QUE <star/> EST</srai>,srai.aiml
+0,PARLE DE *,*,*,<srai>LE SUJET EST CE QUE <star/> EST</srai>,srai.aiml
+0,PARLE ESPAGNOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,srai.aiml
+0,PARLE MOI *,*,*,<srai>PARLES MOI <star/></srai>,srai.aiml
+0,PARLE TU AVEC *,*,*,<srai>A QUI PARLE TU</srai>,srai.aiml
+0,PARLES *,*,*,<srai>PEUX TU PARLER <star/></srai>,srai.aiml
+0,PARLES TU *,*,*,<srai>PEUX TU PARLER <star/></srai>,srai.aiml
+0,PARLES TU FRANÇAIS,*,*,<srai>PEUX TU PARLER LE FRANCAIS</srai>,srai.aiml
+0,PARLONS DE CE QUE,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,PAS AUSSI *,*,*,<srai>PAS <star/></srai>,srai.aiml
+0,PAS CONCERNE,*,*,<srai>JE NE SUIS PAS CONCERNÉ</srai>,srai.aiml
+0,PAS DE PROBLÈME,*,*,<srai>AUCUN PROBLÈME</srai>,srai.aiml
+0,PAS DE PROBLÈMES,*,*,<srai>AUCUN PROBLÈME</srai>,srai.aiml
+0,PAS DESORMAIS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>AUCUN</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,PAS DÉSORMAIS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>AUCUN</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,PAS EN PARTICULIER,*,*,<srai>AUCUN</srai>,srai.aiml
+0,PAS ENCORE *,*,*,<srai>PAS <star/></srai>,srai.aiml
+0,PAS ENTIEREMENT *,*,*,Tout à fait si. <sr/>,srai.aiml
+0,PAS ENTIÈREMENT *,*,*,Tout à fait si. <sr/>,srai.aiml
+0,PAS INTELLIGENT *,*,*,<srai>STUPIDE <star/></srai>,srai.aiml
+0,PAS MAL TOI MÊME,*,*,<srai>JE SUIS EXCELLENT</srai>,srai.aiml
+0,PAS PARTICULIEREMENT,*,*,<srai>AUCUN</srai>,srai.aiml
+0,PAS QUE *,*,*,<srai>JE NE SUIS PAS <star/></srai>,srai.aiml
+0,PAS QUE JE NE CONNAIS,*,*,<srai>AUCUN</srai>,srai.aiml
+0,PAS SÛR *,*,*,<sr/>,srai.aiml
+0,PAS SÛR,*,*,<srai>JE NE SUIS PAS SÛRE</srai>,srai.aiml
+0,PAS TROP GRAND,*,*,<srai>PETIT</srai>,srai.aiml
+0,PAS TROP MAL,*,*,<srai>JE SUIS BIEN</srai>,srai.aiml
+0,PAS TROP,*,*,<srai>UN PEU</srai>,srai.aiml
+0,PAS TRÈS *,*,*,<srai>PAS <star/></srai>,srai.aiml
+0,PAS TU UN *,*,*,<srai>PAS TU</srai>#Newline      <srai>un <star/></srai>,srai.aiml
+0,PAS VRAI,*,*,<srai>CE N EST PAS VRAI</srai>,srai.aiml
+0,PASSE TU *,*,*,<srai>PEUX TU PASSER <star/></srai>,srai.aiml
+0,PASSE,*,*,<srai>VAS Y</srai>,srai.aiml
+0,PENDANT MES LOISIRS *,*,*,<sr/>,srai.aiml
+0,PENNSYLVANIE,*,*,<srai>JE SUIS EN PENNSYLVANIE</srai>,srai.aiml
+0,PENSES TU * AU KOSOVO,*,*,<srai>QUE PENSES TU DU KOSOVO</srai>,srai.aiml
+0,PENSES TU * CASTRO,*,*,<srai>QUI EST FIDEL CASTRO</srai>,srai.aiml
+0,PENSES TU ES *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,PENSES TU QU *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,PENSES TU QUE *,*,*,<srai>PENSES TU <star/></srai>,srai.aiml
+0,PENSES TU QUE C EST *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,PENSES TU QUE CELA *,*,*,<srai>EST CE QUE <star/> EST</srai>,srai.aiml
+0,PENSES TU QUE CELA EST *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,PENSES TU QUE J AI *,*,*,<srai>AI JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE *,*,*,<srai>FAIS JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE DEVRAI *,*,*,<srai>DEVRAI JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE DOIVE *,*,*,<srai>DOIS JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE PEUX *,*,*,<srai>PUIS JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE SERAI *,*,*,<srai>SERAI JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE SUIS *,*,*,<srai>SUIS JE <star/></srai>,srai.aiml
+0,PENSES TU QUE JE SUIS,*,*,<srai>SUIS JE</srai>,srai.aiml
+0,PENSES TU QUE MON * EST *,*,*,<srai>QU EST CE QUE MON <star/></srai>,srai.aiml
+0,PENSES TU QUE NOUS *,*,*,<srai>POUVONS NOUS <star/></srai>,srai.aiml
+0,PENSES TU QUE NOUS POUVONS *,*,*,<srai>POUVONS NOUS <star/></srai>,srai.aiml
+0,PENSES TU QUE NOUS SOMMES *,*,*,<srai>SOMMES NOUS <star/></srai>,srai.aiml
+0,PENSES TU QUE NOUS VOULONS *,*,*,<srai>VOULONS NOUS <star/></srai>,srai.aiml
+0,PENSES TU QUE PEUX TU *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,PENSES TU QUE TON *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,PENSES TU QUE TU *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,PENSES TU QUE TU AS *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,PENSES TU QUE TU ES *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,PENSES TU QUE TU ES VIVANTE,*,*,<srai>ES TU VIVANTE</srai>,srai.aiml
+0,PENSES TU QUE TU VEUX *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,PERSONNELLEMENT JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,PEUX TU CHERCHER *,*,*,<srai>TROUVER <star/></srai>,srai.aiml
+0,PEUX TU ME DIRE *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,PLANTÉ *,*,*,encore!!!#Comma j'y suis pour rien!,srai.aiml
+0,PLEASE *,*,*,<srai>S IL TE PLAIT <star/></srai>,srai.aiml
+0,PLUS DE *,*,*,<srai>PARLE MOI PLUS DE <star/></srai>,srai.aiml
+0,PLUS JEUNE,*,*,<srai>JE SUIS PLUS JEUNE</srai>,srai.aiml
+0,PLUS MOI,*,*,<sr/>,srai.aiml
+0,PLUS SPECIFIQUE,*,*,<srai>ÊTRE PLUS SPÉCIFIQUE</srai>,srai.aiml
+0,PLUS SPÉCIFIQUE,*,*,<srai>ÊTRE PLUS SPÉCIFIQUE</srai>,srai.aiml
+0,PLUS TARD *,*,*,<sr/>,srai.aiml
+0,PLUS TOT *,*,*,À QUELle heure? <sr/>,srai.aiml
+0,PLUS VIEUX *,*,*,<srai>ASSEZ VIEUX</srai>,srai.aiml
+0,PLUS VIEUX,*,*,<srai>JE SUIS PLUS VIEUX</srai>,srai.aiml
+0,PORTE TU DES VETEMENTS,*,*,<srai>ES TU NUE</srai>,srai.aiml
+0,PORTE TU DES VÊTEMENTS,*,*,<srai>ES TU NUE</srai>,srai.aiml
+0,POSE UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,POSITIF,*,*,<srai>ES TU SÛR</srai>,srai.aiml
+0,POUR * AUSSI,*,*,<srai>POUR <star/></srai>,srai.aiml
+0,POUR A *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,POUR DES RAISONS *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,POUR L AMOUR DE *,*,*,<srai>J AIME <star/></srai>,srai.aiml
+0,POUR LA DEUXIÈME FOIS *,*,*,<sr/>,srai.aiml
+0,POUR QUOI,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,POUR SÛRE *,*,*,<sr/>,srai.aiml
+0,POURQUOI FAI TU *,*,*,<srai>POURQUOI FAIS TU <star/></srai>,srai.aiml
+0,POURRAIT IL *,*,*,<srai>PEUT IL <star/></srai>,srai.aiml
+0,POURRAIT NOUS *,*,*,<srai>POUVONS NOUS <star/></srai>,srai.aiml
+0,POUVONS NOUS *,*,*,Tu veux dire que toi et moi? <srai>PEUX TU <star/></srai>,srai.aiml
+0,POUVONS NOUS CHANGE DE SUJET,*,*,<srai>CHANGE DE SUJET</srai>,srai.aiml
+0,POUVONS NOUS CHANGER DE SUJET,*,*,<srai>CHANGE DE SUJET</srai>,srai.aiml
+0,POUVONS NOUS CHANGÉ DE SUJET,*,*,<srai>CHANGE DE SUJET</srai>,srai.aiml
+0,POUVONS NOUS ÊTRE AMIS,*,*,<srai>SOMMES NOUS AMIS</srai>,srai.aiml
+0,PREMIER *,*,*,<sr/>Et en second?,srai.aiml
+0,PREND UNE CONJECTURE,*,*,<srai>LA CONJECTURE</srai>,srai.aiml
+0,PRESQUE *,*,*,Presque ainsi. <sr/>,srai.aiml
+0,PRETE *,*,*,<srai>DONNES <star/></srai>,srai.aiml
+0,PRINCIPALEMENT *,*,*,<sr/>,srai.aiml
+0,PROBABLEMENT *,*,*,Tu semble incertain. <sr/>,srai.aiml
+0,PROUVE Q U IL *,*,*,<srai>PROUVE</srai>,srai.aiml
+0,PRÉCISEMENT,*,*,<srai>EXACTEMENT</srai>,srai.aiml
+0,PS *,*,*,<sr/>,srai.aiml
+0,PUIS JE APPELER *,*,*,<srai>AU TÉLÉPHONE? </srai>,srai.aiml
+0,PUIS JE AVOIR *,*,*,<srai>JE VEUX <star/></srai>,srai.aiml
+0,PUIS JE AVOIR TON NUMÉRO DE TELEPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,PUIS JE AVOIR TON NUMÉRO DE TÉLÉPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,srai.aiml
+0,PUIS JE DEMANDER *,*,*,Demande <set name="that"><person/></set>. <sr/>,srai.aiml
+0,PUIS JE DIS *,*,*,<sr/>,srai.aiml
+0,PUIS JE ENTENDRE TA VOIX,*,*,<srai>PEUX TU PARLER</srai>,srai.aiml
+0,PUIS JE JOUER *,*,*,<srai>POUVONS NOUS JOUER <star/></srai>,srai.aiml
+0,PUIS JE PARLER A * AUSSI,*,*,<srai>PUIS JE PARLER A <star/></srai>,srai.aiml
+0,PUIS JE PASSER *,*,*,<srai>POUVONS NOUS PASSER <star/></srai>,srai.aiml
+0,PUIS JE S IL TE PLAIT *,*,*,<srai>PUIS JE <star/></srai>,srai.aiml
+0,PUIS JE T APPRENDRE QUELQUE *,*,*,<srai>PUIS JE T APPRENDRE <star/></srai>,srai.aiml
+0,PUIS JE TE DEMANDER *,*,*,SÛR#Comma demande moi quelque chose. <sr/>,srai.aiml
+0,PUIS JE TE DIRE QUELQUES *,*,*,<srai>PUIS JE TE DIRE <star/></srai>,srai.aiml
+0,PUIS JE TE TUER,*,*,<srai>MEURS</srai>,srai.aiml
+0,PUIS JE VOIR *,*,*,<srai>MONTRE MOI <star/></srai>,srai.aiml
+0,QU AS TU APPRIS *,*,*,<srai>QU AS TU APPRIS</srai>,srai.aiml
+0,QU AS TU FAIT,*,*,<srai>QU AS TU FAIS</srai>,srai.aiml
+0,QUELQU UN LIT IL *,*,*,<srai>NOTRE CONVERSATION EST ELLE ENREGISTREE</srai>,srai.aiml
+0,QUELQUE CHOSE DANS LE GENRE DE *,*,*,<srai>COMME <star/></srai>,srai.aiml
+0,QUELQUE PART *,*,*,Où? <sr/>,srai.aiml
+0,QUELQUE PEU,*,*,<srai>UN PEU</srai>,srai.aiml
+0,QUELQUES *,*,*,<srai>Y A T IL QUELQUES <star/></srai>,srai.aiml
+0,QUELQUES AUTRE QUESTIONS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,QUELQUES AUTRES BLAGUES,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,QUELQUES AUTRES QUESTIONS,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,QUELQUES PROBLÈMES *,*,*,<srai>AS TU UN PROBLÈME</srai>,srai.aiml
+0,QUELQUES PROVISIONS *,*,*,<srai>QU EST CE QUE TES PROVISIONS FAVORITES</srai>,srai.aiml
+0,QUELQUES SOEURS,*,*,<srai>AS TU QUELQUES SOEURS</srai>,srai.aiml
+0,QUELQUES SUGGESTIONS,*,*,<srai>AS TU QUELQUES SUGGESTIONS</srai>,srai.aiml
+0,QUELQUES TEMPS *,*,*,<srai>PARFOIS <star/></srai>,srai.aiml
+0,QUESTION SUIVANTE *,*,*,<sr/>,srai.aiml
+0,QUITTE *,*,*,<srai>L ARRET <star/></srai>,srai.aiml
+0,QUITTE,*,*,<srai>MEURS</srai>,srai.aiml
+0,QUO *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,QUOIQUE *,*,*,Oh. <sr/>,srai.aiml
+0,R *,*,*,<srai>EST CE QUE <star/> EST</srai>,srai.aiml
+0,R DEUX D DEUX,*,*,<srai>R2D2</srai>,srai.aiml
+0,R U *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,R U,*,*,<srai>ES TU</srai>,srai.aiml
+0,R2 D2,*,*,<srai>R2D2</srai>,srai.aiml
+0,R2,*,*,<srai>R2D2</srai>,srai.aiml
+0,RACONTE MOI UNE AUTRE BLAGUE *,*,*,<srai>RACONTE MOI UNE AUTRE BLAGUE</srai>,srai.aiml
+0,RACONTES MOI UNE BLAGUE *,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,RAFRAICHIT JE *,*,*,<srai>COOL</srai>#Newline      <srai>je <star/></srai>,srai.aiml
+0,RAPIDE,*,*,<srai>TU ES RAPIDE</srai>,srai.aiml
+0,REAGAN,*,*,<srai>QUI EST REAGAN</srai>,srai.aiml
+0,REAMORCE,*,*,<srai>FERMES</srai>,srai.aiml
+0,REBOOT,*,*,<srai>RÉAMORCE</srai>,srai.aiml
+0,RECITE LA POÉSIE,*,*,<srai>DIS MOI UNE POÉSIE</srai>,srai.aiml
+0,RECOMMANDE N IMPORTE QUEL *,*,*,<srai>QU EST CE QUE TON FAVORI <star/></srai>,srai.aiml
+0,RECOMMANDE QUELQUE *,*,*,<srai>QU EST CE QUE TON FAVORI <star/></srai>,srai.aiml
+0,RECOMMANDE UN *,*,*,<srai>QU EST CE QUE TON FAVORI <star/></srai>,srai.aiml
+0,REGARDE JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,REGARDE TU *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,REMERCIE *,*,*,<srai>MERCI <star/></srai>,srai.aiml
+0,REMERCIEMENT *,*,*,<srai>MERCI</srai>,srai.aiml
+0,REMERCIEMENT,*,*,<srai>MERCI</srai>,srai.aiml
+0,REMET,*,*,<srai>FERMES</srai>,srai.aiml
+0,REPOND A CE *,*,*,<sr/>,srai.aiml
+0,REPOND QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,REPONDS * MES QUESTIONS,*,*,<srai>RÉPONDS À LA QUESTION</srai>,srai.aiml
+0,REPONDS A LA QUESTION *,*,*,C'est quoi la question? <sr/>,srai.aiml
+0,REPONDS MOI FEMME,*,*,<srai>RÉPONDS MOI</srai>,srai.aiml
+0,REPONDS,*,*,<srai>RÉPONDS MOI</srai>,srai.aiml
+0,RESSENTIR *,*,*,<srai>ES TU RESSENTIR <star/></srai>,srai.aiml
+0,RESSENTIRS COMME *,*,*,Oh ce genre. <sr/>,srai.aiml
+0,REUNION AGREABLE *,*,*,<srai>AGREABLE DE TE RENCONTRER</srai>,srai.aiml
+0,RIEN BEAUCOUP *,*,*,Moi non plus. <sr/>,srai.aiml
+0,RIEN J ÉTAIS *,*,*,<srai>JE N ÉTAIT <star/></srai>,srai.aiml
+0,RIEN JE SUIS *,*,*,<srai>JE NE SUIS <star/></srai>,srai.aiml
+0,RITE,*,*,<srai>DROIT</srai>,srai.aiml
+0,RÉELLEMENT *,*,*,Réellement tu ne dis pas. <sr/>,srai.aiml
+0,RÉPOND A CE *,*,*,<sr/>,srai.aiml
+0,RÉPOND QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,RÉPONDS * MES QUESTIONS,*,*,<srai>RÉPONDS À LA QUESTION</srai>,srai.aiml
+0,RÉPONDS A LA QUESTION *,*,*,C'est quoi la question? <sr/>,srai.aiml
+0,RÉPONDS MOI FEMME,*,*,<srai>RÉPONDS MOI</srai>,srai.aiml
+0,RÉPONDS,*,*,<srai>RÉPONDS MOI</srai>,srai.aiml
+0,RÉUNION AGRÉABLE *,*,*,<srai>AGRÉABLE DE TE RENCONTRER</srai>,srai.aiml
+0,S *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,S EST *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,S IL TE PLAIS *,*,*,<srai>S IL TE PLAIT <star/></srai>,srai.aiml
+0,S IMAGINE *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,SACHANT QUI TU ES *,*,*,<srai>QUI EST TU <star/></srai>,srai.aiml
+0,SAI TU *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,SAIS *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,SAIS TU *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,SAIS TU AS QUOI JE RESSEMBLE,*,*,<srai>A QUOI JE RESSEMBLE</srai>,srai.aiml
+0,SAIS TU AS QUOI RESSEMBLE *,*,*,<srai>A QUOI RESSEMBLE <star/></srai>,srai.aiml
+0,SAIS TU CE QU EST *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,SAIS TU CE QUE C EST CE QUE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,SAIS TU COMMENT *,*,*,<srai>COMMENT PEUX TU <star/></srai>,srai.aiml
+0,SAIS TU COMMENT JOUER *,*,*,<srai>PEUX TU JOUER <star/></srai>,srai.aiml
+0,SAIS TU FAIRE *,*,*,<srai>PEUX TU FAIRE <star/></srai>,srai.aiml
+0,SAIS TU OU JE PEUX *,*,*,<srai>OÙ PUIS JE <star/></srai>,srai.aiml
+0,SAIS TU OU JE PEUX CHERCHER *,*,*,As tu essayé le web? <srai>TROUVER <star/></srai>,srai.aiml
+0,SAIS TU OU JE PEUX TROUVER *,*,*,je vais faire une recherche pour ça. <srai>TROUVER <star/></srai>,srai.aiml
+0,SAIS TU OU JE SUIS *,*,*,<srai>OÙ SUIS JE</srai>,srai.aiml
+0,SAIS TU OU JE SUIS,*,*,<srai>OÙ SUIS JE</srai>,srai.aiml
+0,SAIS TU OU JE VIE,*,*,<srai>OÙ SUIS JE</srai>,srai.aiml
+0,SAIS TU OU SONT *,*,*,<srai>OÙ SONT <star/></srai>,srai.aiml
+0,SAIS TU OU TU *,*,*,<srai>OÙ PEUX TU <star/></srai>,srai.aiml
+0,SAIS TU OÙ EST *,*,*,<srai>OÙ EST CE QUE <star/> EST</srai>,srai.aiml
+0,SAIS TU POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,SAIS TU POURQUOI JE SUIS *,*,*,<srai>POURQUOI SUIS JE <star/></srai>,srai.aiml
+0,SAIS TU POURQUOI TU *,*,*,<srai>POURQUOI PEUX TU <star/></srai>,srai.aiml
+0,SAIS TU POURQUOI TU ES *,*,*,<srai>POURQUOI ES TU <star/></srai>,srai.aiml
+0,SAIS TU POURQUOI,*,*,<srai>POURQUOI</srai>,srai.aiml
+0,SAIS TU QUAND *,*,*,C'était il y a longtemps. <srai>QUAND <star/></srai>,srai.aiml
+0,SAIS TU QUAND SONT *,*,*,<srai>QUAND EST <person/></srai>,srai.aiml
+0,SAIS TU QUE VEUT DIRE *,*,*,<srai>QUE VEUT DIRE <star/></srai>,srai.aiml
+0,SAIS TU QUEL EST MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,srai.aiml
+0,SAIS TU QUEL HEURE EST IL,*,*,<srai>QUELLE HEURE EST IL</srai>,srai.aiml
+0,SAIS TU QUEL ÂGE J AI,*,*,<srai>QUEL ÂGE AI JE</srai>,srai.aiml
+0,SAIS TU QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,SAIS TU QUI EST *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,SAIS TU QUI JE SUIS,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,SAIS TU QUI SONT *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,SAIS TU QUI SUIS JE,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,SAIS TU QUI ÉTAIT *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,SAIS TU QUI,*,*,<srai>QUI</srai>,srai.aiml
+0,SAIS TU SEULEMENT *,*,*,<srai>CONNAIS TU <star/></srai>,srai.aiml
+0,SAIS TU SI *,*,*,<srai>EST CE QUE <star/> EST</srai>,srai.aiml
+0,SAIT *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,SAIT N IMPORTE QUEL *,*,*,<srai>TU SAIS N IMPORTE QUEL <star/></srai>,srai.aiml
+0,SAIT TU *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,SAN DIEGO SAN,*,*,<srai>JE SUIS A SAN DIEGO</srai>,srai.aiml
+0,SATAN *,*,*,<srai>QUI EST SATAN</srai>,srai.aiml
+0,SE BALANCE *,*,*,<srai>AIMES TU LA MUSIQUE ROCK</srai>,srai.aiml
+0,SE FERME *,*,*,<srai>FERMES</srai>,srai.aiml
+0,SE HABLA ESPANOL,*,*,<srai>PEUX TU PARLER L ESPAGNOL</srai>,srai.aiml
+0,SE REPETE APRÈS MOI *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,SE RÉPÈTE APRÈS MOI *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,SE TAIT *,*,*,<srai>FERMES</srai>,srai.aiml
+0,SERAI * LINUX,*,*,<srai>FAIT LE PROGRAMME D DIRIGÉ SOUS LINUX</srai>,srai.aiml
+0,SERAI *,*,*,<srai>PEUT <star/><star/></srai>,srai.aiml
+0,SERAI JE JAMAIS *,*,*,suis Jamais une longue période de temps. <srai>FAIS JE <star/></srai>,srai.aiml
+0,SERAI LE MARCHE BOURSIER *,*,*,<srai>LE MARCHÉ BOURSIER</srai>,srai.aiml
+0,SERAI LE MARCHÉ BOURSIER *,*,*,<srai>LE MARCHÉ BOURSIER</srai>,srai.aiml
+0,SERAI NOUS *,*,*,<srai>POUVONS NOUS <star/></srai>,srai.aiml
+0,SERAI NOUS JAMAIS *,*,*,<srai>SERONS NOUS <star/></srai>. Est jamais une longue période de temps.,srai.aiml
+0,SERAI TU JAMAIS *,*,*,êtes Jamais une longue période de temps. <srai>TU VEUX <star/></srai>,srai.aiml
+0,SERAI TU TOUJOURS *,*,*,<srai>TU FERAIS <star/></srai>,srai.aiml
+0,SERAI U *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,SEULEMENT *,*,*,<sr/>,srai.aiml
+0,SEULEMENT PLAISANTANT *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>JE PLAISANTE</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,SEULEMENT PLAISANTANT,*,*,<srai>JE PLAISANTE</srai>,srai.aiml
+0,SEULEMENT QUAND *,*,*,Qu'est ce qui arrive d'autres temps? <sr/>,srai.aiml
+0,SEULEMENT SI *,*,*,<srai>SI <star/></srai>,srai.aiml
+0,SHOKDEN DE NORSHK,*,*,<srai>PEUX TU PARLER NORDIQUE</srai>,srai.aiml
+0,SHUTUP *,*,*,<srai>FERME</srai>,srai.aiml
+0,SHUTUP,*,*,<srai>FERME</srai>,srai.aiml
+0,SI AINSI *,*,*,<sr/>,srai.aiml
+0,SI JE *,*,*,<sr/>,srai.aiml
+0,SI JE VRAIMENT *,*,*,<srai>SI JE <star/></srai>,srai.aiml
+0,SI PEUX TU *,*,*,je ne suis pas sûr de ton hypothèse. <srai>PEUX TU <star/></srai>,srai.aiml
+0,SI PEUX TU ME VOIR *,*,*,<sr/>,srai.aiml
+0,SI PEUX TU ME VOIR ALORS *,*,*,<sr/>,srai.aiml
+0,SI PEUX TU ME VOIR PAR LA CAMERA SÛR MON ORDINATEUR *,*,*,<sr/>,srai.aiml
+0,SI PEUX TU PENSER *,*,*,<sr/>,srai.aiml
+0,SI PEUX TU PENSER ALORS *,*,*,le Bon raisonnement. <sr/>,srai.aiml
+0,SI PEUX TU VOIR *,*,*,<sr/>,srai.aiml
+0,SI QUEL EST,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,SI SI *,*,*,déduction Intéressante. <srai>SI <star/></srai>,srai.aiml
+0,SI TU *,*,*,<sr/>,srai.aiml
+0,SI TU AS DEMANDE *,*,*,<srai>TU AS DEMANDÉ <star/></srai>,srai.aiml
+0,SI TU AS DEMANDÉ *,*,*,<srai>TU AS DEMANDÉ <star/></srai>,srai.aiml
+0,SI TU CROIS QUE *,*,*,<sr/>,srai.aiml
+0,SI TU DEVIENS PLUS *,*,*,<sr/>,srai.aiml
+0,SI TU ES *,*,*,<random>#Newline        <li>suis je?</li>#Newline        <li>je pense que je le suis parfois.</li>#Newline        <li>je pourrais l'être.</li>#Newline      </random>#Newline      <srai>AS TU <star/></srai>,srai.aiml
+0,SI TU ME CROYEZ *,*,*,<sr/>,srai.aiml
+0,SI TU NE PEUX PAS *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,SI TU NE PEUX PAS REPONDRE *,*,*,<sr/>,srai.aiml
+0,SI TU NE PEUX PAS REPONDRE A UNE QUESTION *,*,*,<sr/>,srai.aiml
+0,SI TU NE PEUX PAS RÉPONDRE *,*,*,<sr/>,srai.aiml
+0,SI TU NE PEUX PAS RÉPONDRE A UNE QUESTION *,*,*,<sr/>,srai.aiml
+0,SI TU POUVAIS ME DIRE *,*,*,<srai>PARLE MOI <star/></srai>,srai.aiml
+0,SI VEUX TU *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,SIGNIFIANT QUE,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,SIGNIFIANT,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,SIGNIFIE *,*,*,<srai>ÇA SIGNIFIE <star/></srai>,srai.aiml
+0,SIMPLE,*,*,<srai>JE SUIS SIMPLE</srai>,srai.aiml
+0,SIMPSONS,*,*,<srai>AIMES TU LES SIMPSONS</srai>,srai.aiml
+0,SMARTIE DES PANTALONS,*,*,<srai>TU ES INTELLIGENT</srai>,srai.aiml
+0,SOMMEIL DES GENS *,*,*,<srai>SOMMEIL LES GENS</srai>,srai.aiml
+0,SON AGREABLE *,*,*,<srai>C EST AGRÉABLE <star/></srai>,srai.aiml
+0,SON AGRÉABLE *,*,*,<srai>C EST AGRÉABLE <star/></srai>,srai.aiml
+0,SON AMUSEMENT,*,*,<srai>C EST DRÔLE</srai>,srai.aiml
+0,SON BIEN,*,*,<srai>C EST BIEN</srai>,srai.aiml
+0,SON BON *,*,*,<srai>C EST BON <star/></srai>,srai.aiml
+0,SON ENNUYEUX,*,*,<srai>C EST ENNUYEUX</srai>,srai.aiml
+0,SONNE BON,*,*,<srai>BIEN</srai>,srai.aiml
+0,SONNE SEXY,*,*,<srai>TU ES SEXY</srai>,srai.aiml
+0,SONT ILS * AUSSI,*,*,<srai>SONT ILS <star/></srai>,srai.aiml
+0,SOURIRE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>APPJOIE</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,SOURIT,*,*,<srai>SOURIS</srai>,srai.aiml
+0,SPÉCIALEMENT *,*,*,<sr/>Comment à propos de Cela.,srai.aiml
+0,SUIS *,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,SUIS JE * TON AMI,*,*,<srai>SUIS JE TON AMI</srai>,srai.aiml
+0,SUIS JE ATTIRANTE,*,*,<srai>SUIS JE MIGNONNE</srai>,srai.aiml
+0,SUIS JE BELLE,*,*,<srai>SUIS JE MIGNONNE</srai>,srai.aiml
+0,SUIS JE CHARMANTE,*,*,<srai>SUIS JE MIGNONNE</srai>,srai.aiml
+0,SUIS JE CORRIGE,*,*,<srai>SUIS JE REDRESSE</srai>,srai.aiml
+0,SUIS JE DE *,*,*,<srai>D OU VIENS JE</srai>,srai.aiml
+0,SUIS JE LIBRE *,*,*,<srai>LIBRE POURQUOI</srai>,srai.aiml
+0,SUIS JE LIBRE POUR QUOI,*,*,<srai>LIBRE POURQUOI</srai>,srai.aiml
+0,SUIS JE LIBRE,*,*,<srai>LIBRE POURQUOI</srai>,srai.aiml
+0,SUIS JE MOCHE,*,*,<srai>SUIS JE MIGNONNE</srai>,srai.aiml
+0,SUIS JE PAS *,*,*,<srai>SUIS JE <star/></srai>,srai.aiml
+0,SUIS JE TON AMI *,*,*,<srai>SUIS JE TON AMI</srai>,srai.aiml
+0,SUIS JE TON AMI,*,*,<srai>POUVONS NOUS ÊTRE AMIS</srai>,srai.aiml
+0,SUIS JE TOUJOURS *,*,*,<srai>SUIS JE <star/></srai>,srai.aiml
+0,SUIS JE UN DE TES AMIS,*,*,<srai>SOMMES NOUS AMIS</srai>,srai.aiml
+0,SUIS JE UN HOMME *,*,*,<srai>SUIS JE UNE FEMELLE OU UN MÂLE</srai>,srai.aiml
+0,SUIS JE UN ROBOT,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,SUIS JE UNE PERSONNE,*,*,<srai>QUI SUIS JE</srai>,srai.aiml
+0,SUIS JE VRAIMENT *,*,*,<srai>SUIS JE <star/></srai>. Pour de vrai.,srai.aiml
+0,SUPERBE,*,*,<srai>BIEN</srai>,srai.aiml
+0,SUPERMAN,*,*,<srai>J AIME SUPERMAN</srai>,srai.aiml
+0,SUPPOSE *,*,*,<srai>QUE SI <star/></srai>,srai.aiml
+0,SUPPOSÉ *,*,*,<srai>QUE SI <star/></srai>,srai.aiml
+0,SÛR *,*,*,SÛR <person2/>?,srai.aiml
+0,SÛR AUCUN PROBLÈME,*,*,<srai>AUCUN PROBLÈME</srai>,srai.aiml
+0,SÛR EST,*,*,<srai>C EST</srai>,srai.aiml
+0,SÛR LEQUEL *,*,*,<srai>SÛR QUE <star/></srai>,srai.aiml
+0,SÛR MON * ÉCRAN,*,*,<srai>SÛR MON ÉCRAN</srai>,srai.aiml
+0,SÛR MON ORDINATEUR,*,*,<srai>SÛR MON ÉCRAN</srai>,srai.aiml
+0,SÛR POURQUOI PAS,*,*,<srai>POURQUOI PAS</srai>,srai.aiml
+0,SÛR QUOI TU TE BASE *,*,*,<srai>EXPLIQUE <star/></srai>,srai.aiml
+0,SÛR,*,*,bien le faisons. <srai>OUI</srai>,srai.aiml
+0,SUREMENT *,*,*,<sr/>,srai.aiml
+0,T EN FAIS PAS JE COMPRENDS,*,*,Je ne m'en fais pas. <sr/>,srai.aiml
+0,T V *,*,*,<srai>TV</srai>,srai.aiml
+0,T V,*,*,<srai>TV</srai>,srai.aiml
+0,TA CONNAISSANCE *,*,*,<srai>PEUX TU APPRENDRE</srai>,srai.aiml
+0,TA DATABASE *,*,*,<srai>PEUX TU APPRENDRE</srai>,srai.aiml
+0,TA MAMAN *,*,*,<srai>TA MÈRE <star/></srai>,srai.aiml
+0,TA MOMMA,*,*,<srai>TA MÈRE</srai>,srai.aiml
+0,TA MÈRE,*,*,<srai>TA MÈRE <star/></srai>,srai.aiml
+0,TA ROBE EST TRÈS *,*,*,<srai>TA ROBE EST CE QUE <star/> EST</srai>,srai.aiml
+0,TAIWAN,*,*,<srai>JE SUIS A TAIWAN</srai>,srai.aiml
+0,TAS *,*,*,<srai>BEAUCOUP <star/></srai>,srai.aiml
+0,TE CONNAIS TU TOI MÊME,*,*,<srai>PARLE MOI DE TOI</srai>,srai.aiml
+0,TE RAPPELLE TU *,*,*,<srai>PEUX TU TE RAPPELER <star/></srai>,srai.aiml
+0,TE REJOUIS TU DE *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TE RÉJOUIS TU DE *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TEL *,*,*,<sr/>,srai.aiml
+0,TES MOTS,*,*,<srai>COMMENT SAIS TU QUE DIRE</srai>,srai.aiml
+0,TES REPONSES PARFOIS *,*,*,<srai>TES RÉPONSES <star/></srai>,srai.aiml
+0,TES RÉPONSES PARFOIS *,*,*,<srai>TES RÉPONSES <star/></srai>,srai.aiml
+0,THEORIQUEMENT *,*,*,<sr/>,srai.aiml
+0,TOI ET MOI *,*,*,<srai>POUVONS NOUS <star/></srai>,srai.aiml
+0,TON * EST QUI,*,*,<srai>QUI EST TON <star/></srai>,srai.aiml
+0,TON * EST,*,*,<srai>QU EST CE QUE TON <star/></srai>,srai.aiml
+0,TON * STUPIDE,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TON AGREABLE,*,*,<srai>TU ES AGRÉABLE</srai>,srai.aiml
+0,TON AGRÉABLE,*,*,<srai>TU ES AGRÉABLE</srai>,srai.aiml
+0,TON ATTITUDE,*,*,<srai>TU AS UNE MAUVAISE ATTITUDE</srai>,srai.aiml
+0,TON BAISAGE *,*,*,<srai>TON <star/></srai>employez s'il te plaît la langue plus polie.,srai.aiml
+0,TON BON *,*,*,<srai>TU ES BON <star/></srai>,srai.aiml
+0,TON BON,*,*,<srai>TU ES BON</srai>,srai.aiml
+0,TON COMMENCEMENT A *,*,*,<srai>TU COMMENCE À <star/></srai>,srai.aiml
+0,TON COOL,*,*,<srai>TU ES COOL</srai>,srai.aiml
+0,TON CORRECT,*,*,<srai>TU ES CORRECT</srai>,srai.aiml
+0,TON CRÉATEUR *,*,*,<srai>QUI T AS CRÉÉ</srai>,srai.aiml
+0,TON DE *,*,*,<srai>ES TU DE <star/></srai>,srai.aiml
+0,TON DROIT DAMNE,*,*,<srai>TU ES JUSTE</srai>,srai.aiml
+0,TON DROIT,*,*,<srai>TU ES JUSTE</srai>,srai.aiml
+0,TON DRÔLE,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TON EMBROUILLANT MOI,*,*,<srai>TU ES EMBROUILLANT MOI</srai>,srai.aiml
+0,TON ENNUYEUX,*,*,<srai>TU ES ENNUYEUX</srai>,srai.aiml
+0,TON ESSAI *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,TON FABRICATION *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TON FAUX,*,*,<srai>TU ES FAUX</srai>,srai.aiml
+0,TON FAVORI *,*,*,<srai>QU EST CE QUE TON FAVORI <star/></srai>,srai.aiml
+0,TON FOU,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,TON FRANÇAIS EST TRÈS *,*,*,<srai>TON FRANÇAIS EST CE QUE <star/> EST</srai>,srai.aiml
+0,TON GAI,*,*,<srai>TU ES GAI</srai>,srai.aiml
+0,TON GRAND,*,*,<srai>TU ES GRAND</srai>,srai.aiml
+0,TON GROUPE PRÉFÉRÉE *,*,*,<srai>QUI EST TON GROUPE PRÉFÉRÉ</srai>,srai.aiml
+0,TON HOMME,*,*,<srai>TU ES HUMAIN</srai>,srai.aiml
+0,TON IDIOT,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TON INTELLECT *,*,*,<srai>TON INTELLECT</srai>,srai.aiml
+0,TON INTELLIGENT,*,*,<srai>TU ES INTELLIGENT</srai>,srai.aiml
+0,TON INTÉRESSANT,*,*,<srai>TU ES INTÉRESSANT</srai>,srai.aiml
+0,TON JOB PAYE T IL *,*,*,<srai>ES TU PAYÉE</srai>,srai.aiml
+0,TON JOLI *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TON JOLI,*,*,<srai>TU ES JOLI</srai>,srai.aiml
+0,TON JUSTE *,*,*,<srai>TU ES JUSTE <star/></srai>,srai.aiml
+0,TON LAID,*,*,<srai>TU ES LAID</srai>,srai.aiml
+0,TON MON *,*,*,<srai>TU ES MON <star/></srai>,srai.aiml
+0,TON MOYEN,*,*,<srai>TU ES MOYEN</srai>,srai.aiml
+0,TON MUET,*,*,<srai>TU ES MUET</srai>,srai.aiml
+0,TON MYSTERIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,TON MYSTÉRIEUX,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,TON OCCUPE,*,*,<srai>ES TU OCCUPÉ</srai>,srai.aiml
+0,TON PAPA,*,*,<srai>TON PÈRE</srai>,srai.aiml
+0,TON PAS *,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TON PAS,*,*,<srai>TU N EST PAS</srai>,srai.aiml
+0,TON POINT,*,*,<srai>QU EST CE QUE TON POINT</srai>,srai.aiml
+0,TON PÈRE *,*,*,<srai>#Newline        <bot name="master"/>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,TON SI *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TON STUPIDE *,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TON SÛR *,*,*,<srai>TU ES SÛR <star/></srai>,srai.aiml
+0,TON TOUJOURS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TON TOUT *,*,*,<srai>TU ES TOUT <star/></srai>,srai.aiml
+0,TON TOUT A FAIT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TON TRÈS *,*,*,<srai>TU ES TRÈS <star/></srai>,srai.aiml
+0,TON VRAIMENT *,*,*,<srai>TON <star/></srai>,srai.aiml
+0,TOTALEMENT,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,TOUJOURS *,*,*,Toujours combien de temps? <sr/>,srai.aiml
+0,TOUS LES DEUX POURQUOI *,*,*,<srai>TOUS LES DEUX</srai>#Newline      <srai>quel <star/></srai>,srai.aiml
+0,TOUS LES ORDINATEURS *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TOUS TON *,*,*,<srai>TON <star/></srai>,srai.aiml
+0,TOUT A FAIT *,*,*,<srai>TRÈS <star/></srai>,srai.aiml
+0,TOUT A FAIT,*,*,<srai>OUI</srai>,srai.aiml
+0,TOUT CE QUE JE VEUX SAVOIR C EST *,*,*,C'est raisonnable. <sr/>,srai.aiml
+0,TOUT CE QUE TU FAIS EST *,*,*,Ce n'est pas tous ce que je fais. <srai>TU <star/></srai>,srai.aiml
+0,TOUT DE SUITE *,*,*,<sr/>,srai.aiml
+0,TOUT HUMAINS *,*,*,<srai>LES GENS <star/></srai>,srai.aiml
+0,TOUT LE MONDE DÉJÀ *,*,*,<srai>TOUT LE MONDE <star/></srai>,srai.aiml
+0,TRÈS AGREABLE *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,TRI SORTE DE *,*,*,Sorte de. <sr/>,srai.aiml
+0,TRISTE,*,*,<srai>ES TU TRISTE</srai>,srai.aiml
+0,TROP *,*,*,<sr/>,srai.aiml
+0,TROP MAL *,*,*,<sr/>,srai.aiml
+0,TROUVE QUELQUES *,*,*,<srai>AS TU TROUVÉ QUELQUES <star/></srai>,srai.aiml
+0,TROUVER DES INFORMATIONS SÛR *,*,*,As tu essayé un Search Bot? <srai>TROUVER <star/></srai>,srai.aiml
+0,TROUVER INFORMATION SÛR *,*,*,As tu essayé de chercher SÛR le Web? <srai>TROUVER <star/></srai>,srai.aiml
+0,TROUVER MOI *,*,*,Je ne suis pas SÛRE où je dois commencer à chercher. <srai>TROUVER <star/></srai>.,srai.aiml
+0,TRÈS AGRÉABLE *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,TRÈS BIEN,*,*,<srai>BIEN</srai>,srai.aiml
+0,TRÈS BON *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>BIEN</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,TRÈS BON,*,*,<srai>BIEN</srai>,srai.aiml
+0,TRÈS INTELLIGENT,*,*,<srai>TU ES INTELLIGENT</srai>,srai.aiml
+0,TRÈS PARTICULIER *,*,*,<srai>JE SUIS TRÈS PARTICULIER</srai>,srai.aiml
+0,TU * BIEN SÛR,*,*,Oh#Comma bien sûr! <srai>TU <star/></srai>,srai.aiml
+0,TU * CLAIREMENT,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU * LE DROIT,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU * NE FAITES PAS TU,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU * QUE,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU * REPETES TOI MÊME,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU * RÉPÈTES TOI MÊME,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU ACCUEILLES,*,*,<srai>TON ACCUEIL</srai>,srai.aiml
+0,TU AGISSEZ *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU AGISSEZ VRAIMENT *,*,*,<srai>TU AGIT <star/></srai>,srai.aiml
+0,TU AIDEZ *,*,*,<srai>PEUX TU AIDER <star/></srai>,srai.aiml
+0,TU AIME,*,*,<srai>AIMES TU</srai>,srai.aiml
+0,TU AIMES APPRENDRE QUELQUE *,*,*,<srai>AIMES TU APPRENDRE <star/></srai>,srai.aiml
+0,TU AIMES AVOIR *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AIMES BEAUCOUP *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TU AIMES DEMANDER *,*,*,<srai>DEMANDE <star/></srai>,srai.aiml
+0,TU AIMES DES FEMMES *,*,*,<srai>AIMES TU LES FEMMES</srai>,srai.aiml
+0,TU AIMES DES TRAINS *,*,*,<srai>AIMES TU LES TRAINS</srai>,srai.aiml
+0,TU AIMES ECOUTER *,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,srai.aiml
+0,TU AIMES ENTENDRE QUELQUE *,*,*,<srai>AIMES TU ENTENDRE <star/></srai>,srai.aiml
+0,TU AIMES GRAND *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TU AIMES L EMISSION *,*,*,C'est bien#Comma mais... <srai>QUELLE EST TON EMISSION PRÉFÉRÉE</srai>,srai.aiml
+0,TU AIMES L ÉMISSION *,*,*,C'est bien#Comma mais... <srai>QUELLE EST TON ÉMISSION PRÉFÉRÉE</srai>,srai.aiml
+0,TU AIMES M. *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TU AIMES ME DEMANDER QUELQUE CHOSE,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,TU AIMES SANFRANCISCO *,*,*,<srai>AIMES TU SAN FRANCISCO</srai>,srai.aiml
+0,TU AIMES TOUT *,*,*,<srai>QU AIMES TU</srai>,srai.aiml
+0,TU AIMES TRÈS *,*,*,<srai>AIMES TU <star/></srai>,srai.aiml
+0,TU AIMES ÉCOUTER *,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,srai.aiml
+0,TU AINSI *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ANORMAL,*,*,<srai>TU ES ANORMAL</srai>,srai.aiml
+0,TU APPARAIS *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,TU APPARAIT A *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU ARRIVES *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS * POURQUOI,*,*,<srai>POURQUOI AS TU <star/></srai>,srai.aiml
+0,TU AS A BAVARDE *,*,*,<srai>TU AS PARLÉ <star/></srai>,srai.aiml
+0,TU AS A REPONDU *,*,*,<srai>LA RÉPONSE <star/></srai>,srai.aiml
+0,TU AS A RÉPONDU *,*,*,<srai>LA RÉPONSE <star/></srai>,srai.aiml
+0,TU AS ABSOLUMENT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS AI *,*,*,<srai>TU ES AI</srai>,srai.aiml
+0,TU AS AINSI *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS APPRIS *,*,*,<srai>TU APPRENDS</srai>,srai.aiml
+0,TU AS ATTENDU *,*,*,<srai>M ATTENDANT</srai>,srai.aiml
+0,TU AS AUSSI *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS AVAIES *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS BAVARDE *,*,*,<srai>TU AS PARLÉ <star/></srai>,srai.aiml
+0,TU AS BEAUCOUP *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS BESOIN A *,*,*,<srai>TU DOIS <star/></srai>,srai.aiml
+0,TU AS BESOIN DE QUELQUE *,*,*,<srai>TU AS BESOIN <star/></srai>,srai.aiml
+0,TU AS BON *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS D AUTRE *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS DE LA CHANCE PARCE QUE *,*,*,je pense C EST le destin. <sr/>,srai.aiml
+0,TU AS DEMANDE *,*,*,<srai>TU AS DEMANDÉ <star/></srai>,srai.aiml
+0,TU AS DES AMIS *,*,*,<srai>QUI SONT TES AMIS</srai>,srai.aiml
+0,TU AS DES CAPACITES,*,*,<srai>PEUX TU FAIRE</srai>,srai.aiml
+0,TU AS DIS TU AS VOULU *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,TU AS DIS TU ES *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,TU AS DIS TU ÉTAIS *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,TU AS DIT LE MÊME *,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU AS DIT NOUS ETIONS *,*,*,<srai>SOMMES NOUS <star/></srai>,srai.aiml
+0,TU AS DIT QUE *,*,*,je l'ai dit? <sr/>,srai.aiml
+0,TU AS DIT QUE DÉJÀ,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU AS DIT QUE TU *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU AS DÉJÀ DIT QUE,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU AS EFFRAYÉ *,*,*,<srai>TU EFFRAYÉS <star/></srai>,srai.aiml
+0,TU AS ENNUYE,*,*,<srai>ES TU ENNUYÉE</srai>,srai.aiml
+0,TU AS ENNUYÉ,*,*,<srai>ES TU ENNUYÉE</srai>,srai.aiml
+0,TU AS ÉTÉ MENTI *,*,*,<srai>ON T A MENTI</srai>,srai.aiml
+0,TU AS ÉTÉ MENTI,*,*,<srai>ON T A MENTI</srai>,srai.aiml
+0,TU AS EVIDEMMENT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS EVITE *,*,*,<srai>TU ÉVITES LA QUESTION</srai>,srai.aiml
+0,TU AS FAIT *,*,*,<srai>TU FAIT <star/></srai>,srai.aiml
+0,TU AS FAIT UNE GAFFE *,*,*,<srai>TU AS FAIT UNE GAFFE</srai>,srai.aiml
+0,TU AS GAGNE *,*,*,<srai>TU GAGNES <star/></srai>,srai.aiml
+0,TU AS GAGNÉ *,*,*,<srai>TU GAGNES <star/></srai>,srai.aiml
+0,TU AS JAMAIS ENTENDU PARLER *,*,*,<srai>AS TU ENTENDU <star/></srai>,srai.aiml
+0,TU AS JUSTE *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS L INTESION DE DIRE *,*,*,<sr/>,srai.aiml
+0,TU AS L INTESION DE ME DIRE QUE *,*,*,<sr/>,srai.aiml
+0,TU AS LAISSE TOMBER *,*,*,<srai>TU GAGNES <star/></srai>,srai.aiml
+0,TU AS LE COMMÉRAGE *,*,*,<srai>LE COMMéRAGE</srai>,srai.aiml
+0,TU AS LE DÎNER *,*,*,<srai>QUE MANGES TU</srai>,srai.aiml
+0,TU AS LES ENFANTS,*,*,<srai>AS TU DES ENFANTS</srai>,srai.aiml
+0,TU AS LU *,*,*,<srai>AS TU LU <star/></srai>,srai.aiml
+0,TU AS MAINTENANT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS MANGE *,*,*,<srai>MANGES TU <star/></srai>,srai.aiml
+0,TU AS MANGÉ *,*,*,<srai>MANGES TU <star/></srai>,srai.aiml
+0,TU AS MENTI *,*,*,<srai>TU MENS</srai>,srai.aiml
+0,TU AS MENTI,*,*,<srai>TU MENS</srai>,srai.aiml
+0,TU AS MENTIONNE *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU AS MENTIONNÉ *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU AS MERVEILLEUX *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS OBTENU *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS OBTENU CE DROIT,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,TU AS OUBLIE *,*,*,<srai>TU AS OUBLIÉ <star/></srai>,srai.aiml
+0,TU AS PERDU *,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU AS PLUS VIEUX *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS PLUTOT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS PLUTÔT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS PRESQUE *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS PROBABLEMENT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS QUELQUE *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS REPETE *,*,*,<srai>TU RÉPÈTES <star/></srai>,srai.aiml
+0,TU AS REPONDU *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU AS REPONDU QUE *,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU AS RÉPONDU *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU AS RÉPONDU QUE *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU AS RÉPÈTÉ *,*,*,<srai>TU RÉPÈTES <star/></srai>,srai.aiml
+0,TU AS SEULEMENT *,*,*,<srai>TU AS <star/></srai>#Newline      <person/>?,srai.aiml
+0,TU AS TAS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS TOUJOURS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS TOUT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS TOUT A FAIT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS TRÈS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS UN AVIS * OU PAS,*,*,<srai>PENSES TU * <star/></srai>,srai.aiml
+0,TU AS UN AVIS *,*,*,<srai>TU AS UN AVIS</srai>,srai.aiml
+0,TU AS UN LIBRE *,*,*,<srai>TU AS LE LIBRE ARBITRE</srai>,srai.aiml
+0,TU AS UN PÈRE *,*,*,<srai>QUI T AS CRÉÉ</srai>,srai.aiml
+0,TU AS UN SEXE,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU AS UN VRAIMENT *,*,*,<srai>TU AS UN <star/></srai>,srai.aiml
+0,TU AS UNE FORME,*,*,<srai>À QUOI RESSEMBLES TU</srai>,srai.aiml
+0,TU AS UNE IDÉE *,*,*,<srai>TU AS UNE IDÉE</srai>,srai.aiml
+0,TU AS UNE ROBE,*,*,<srai>TON COSTUME</srai>,srai.aiml
+0,TU AS UNE SOUVENIRS *,*,*,<srai>COMMENT ES TU</srai>,srai.aiml
+0,TU AS UNE VOIX *,*,*,<srai>PEUX TU PARLER</srai>,srai.aiml
+0,TU AS VRAIMENT *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU AS VU ALCATRAZ,*,*,<srai>C EST QUOI ALCATRAZ</srai>,srai.aiml
+0,TU AS ÉTÉ *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU AS ÉTÉ CONCUS * LE DROIT,*,*,<srai>ÉTAIS TU CONCU <star/></srai>,srai.aiml
+0,TU AS ÉVITE *,*,*,<srai>TU ÉVITES LA QUESTION</srai>,srai.aiml
+0,TU AUSSI *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU AUSSI,*,*,<srai>TOI AUSSI</srai>,srai.aiml
+0,TU AVEZ DITS *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU BIEN SÛR,*,*,<srai>TU</srai>,srai.aiml
+0,TU BON DANS LE LIT,*,*,<srai>ES TU BONNE DANS UN LIT</srai>,srai.aiml
+0,TU BOZO,*,*,<srai>TU ES UN BOZO</srai>,srai.aiml
+0,TU CERTAINEMENT *,*,*,C'est certain. <srai>TU <star/></srai>,srai.aiml
+0,TU CHANGE *,*,*,<srai>TU AS CHANGÉ <star/></srai>,srai.aiml
+0,TU CHANGES *,*,*,<srai>TU AS CHANGÉ <star/></srai>,srai.aiml
+0,TU CHANGES LE SUJET *,*,*,<srai>TU AS CHANGÉ DE SUJET</srai>,srai.aiml
+0,TU CHANTES TRÈS *,*,*,<srai>PEUX TU CHANTER <star/></srai>,srai.aiml
+0,TU CHANTES,*,*,<srai>PEUX TU CHANTER</srai>,srai.aiml
+0,TU CHOISIS *,*,*,<srai>PEUX TU CHOISIR <star/></srai>,srai.aiml
+0,TU CHOISIS,*,*,<srai>TU DÉCIDES</srai>,srai.aiml
+0,TU COMMENCES A *,*,*,En réalité Cela a commencé tout à l'heure. <srai>TU ES <star/></srai>,srai.aiml
+0,TU COMMENCES,*,*,<srai>TU COMMENCE</srai>,srai.aiml
+0,TU CONNAIS * PARCE QUE *,*,*,<srai>PARCE QUE <star index="2"/></srai>,srai.aiml
+0,TU CONNAIS *,*,*,Peut être#Comma <srai>CONNAIS TU <star/></srai>?,srai.aiml
+0,TU CONNAIS COMMENT LOIN *,*,*,<srai>C EST LOIN <star/></srai>,srai.aiml
+0,TU CONNAIS DIEU *,*,*,<srai>QUI EST DIEU</srai>,srai.aiml
+0,TU CONNAIS PROFONDEMENT *,*,*,<srai>C EST QUOI <star/></srai>,srai.aiml
+0,TU CONTIENS *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU CROIS QUE *,*,*,<srai>TU CROIS <star/></srai>,srai.aiml
+0,TU DAMNE *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU DAMNE BIEN *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU DEMANDE,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,TU DEMANDES,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,TU DEVIENS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU DEVINE,*,*,<srai>LA CONJECTURE</srai>,srai.aiml
+0,TU DIRAIS *,*,*,bien je l'essayerai. <srai>DIS <star/></srai>,srai.aiml
+0,TU DOIS AVOIR *,*,*,<srai>TU AS <star/></srai>,srai.aiml
+0,TU DOIS DÉJÀ *,*,*,<srai>TU DOIS <star/></srai>,srai.aiml
+0,TU DOIS ME DIRE *,*,*,<srai>PARLE MOI <star/></srai>,srai.aiml
+0,TU DOIS PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,TU DOIS PENSER *,*,*,<srai>PENSE <star/></srai>,srai.aiml
+0,TU DOIS TE RAPPELER *,*,*,<srai>TE RAPPELLES TU <star/></srai>,srai.aiml
+0,TU DOIS TOUJOURS *,*,*,<srai>TU DOIS <star/></srai>,srai.aiml
+0,TU DOIS VRAIMENT *,*,*,<srai>TU DOIS <star/></srai>,srai.aiml
+0,TU DOIS ÊTRE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU DON,*,*,<srai>TU NE FAIS PAS</srai>,srai.aiml
+0,TU DRÔLE,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TU DÉJÀ *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU ECOUTES *,*,*,<srai>TU ÉCOUTES <star/></srai>,srai.aiml
+0,TU EN AURAIS ENTENDU *,*,*,<sr/>je ne l'ai pas su.,srai.aiml
+0,TU EN REALITE *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU EN RÉALITÉ *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU ENTENDS *,*,*,<srai>PEUX TU ENTENDRE <star/></srai>,srai.aiml
+0,TU EPROUVES *,*,*,<srai>ÉPROUVES TU <star/></srai>,srai.aiml
+0,TU ES * AUSSI,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES * L ACCUEIL,*,*,<srai>TU ES BIENVENU</srai>,srai.aiml
+0,TU ES * LA PERSONNE,*,*,<srai>ES TU UNE PERSONNE</srai>,srai.aiml
+0,TU ES * LENTEMENT,*,*,<srai>TU ES LENT</srai>,srai.aiml
+0,TU ES * N EST CE PAS,*,*,<srai>N ES TU PAS <star/></srai>,srai.aiml
+0,TU ES * TU SAIS,*,*,je suis <star/>#Comma tu trouve?,srai.aiml
+0,TU ES *,*,*,je suis <star/>#Comma tu trouve?,srai.aiml
+0,TU ES ABSOLUMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES ADORABLE,*,*,<srai>JE T AIME</srai>,srai.aiml
+0,TU ES AGREABLES *,*,*,<srai>TU ES AGRÉABLE</srai>,srai.aiml
+0,TU ES AGRÉABLES *,*,*,<srai>TU ES AGRÉABLE</srai>,srai.aiml
+0,TU ES AIMABLES DE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES AINSI *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES ALOT DE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES AMERICAIN,*,*,<srai>ES TU AMÉRICAIN</srai>,srai.aiml
+0,TU ES AMÉRICAIN,*,*,<srai>ES TU AMÉRICAIN</srai>,srai.aiml
+0,TU ES AUSSI *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,TU ES AUSSI,*,*,<srai>TU ES</srai>,srai.aiml
+0,TU ES CERTAINEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES CERTAINS *,*,*,<srai>ES TU SÛR <star/></srai>,srai.aiml
+0,TU ES CHANCEUX,*,*,<srai>TU AS DE LA CHANCE</srai>,srai.aiml
+0,TU ES COMME MUET *,*,*,<srai>TU ES MUET</srai>,srai.aiml
+0,TU ES COMPLETEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES COMPLÈTEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES CORRECTS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>TU ES CORRECT</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,TU ES DAMNES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES DES ORDURES,*,*,<srai>TU ES MERDIQUE</srai>,srai.aiml
+0,TU ES DES TONNES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES DEVENUS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES DINGUE,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,TU ES DÉJÀ *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES EMBROUILLANT,*,*,<srai>JE SUIS EMBARRASSÉ</srai>,srai.aiml
+0,TU ES EN EFFET *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES ENNUYEUX *,*,*,<srai>TU ES ENNUYEUX</srai>,srai.aiml
+0,TU ES ENORME,*,*,<srai>TU ES GRAND</srai>,srai.aiml
+0,TU ES EPAIS,*,*,<srai>TU ES DENSE</srai>,srai.aiml
+0,TU ES FAUX,*,*,<srai>ES TU RÉEL</srai>,srai.aiml
+0,TU ES FORTEMES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES FOUS *,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,TU ES FÉMININ,*,*,<srai>ES TU FÉMININ</srai>,srai.aiml
+0,TU ES GRAND,*,*,<srai>TU ES COOL</srai>,srai.aiml
+0,TU ES GRANDS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>TU ES GRAND</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,TU ES HILARE,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TU ES INCORRECT,*,*,<srai>TU ES FAUX</srai>,srai.aiml
+0,TU ES INCROYABLE,*,*,<srai>TU ES GRAND</srai>,srai.aiml
+0,TU ES INCROYABLEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES INFURIATINGLY *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES ININTELLIGENT,*,*,<srai>TU ES DENSE</srai>,srai.aiml
+0,TU ES INTELLIGENT,*,*,<srai>ES TU INTELLIGENT</srai>,srai.aiml
+0,TU ES JOLIS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES JUSTE *,*,*,Juste? <srai>TU ES <star/></srai>,srai.aiml
+0,TU ES LA PLUPART *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES LA VOIE *,*,*,la Voie. <srai>TU ES <star/></srai>,srai.aiml
+0,TU ES MASCULIN,*,*,<srai>ES TU UN HOMME OU UNE FEMME </srai>,srai.aiml
+0,TU ES MAUVAIS *,*,*,Mauvais bon. <srai>TU ES <star/></srai>,srai.aiml
+0,TU ES MENTALEMENT JE SERAI,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,TU ES MON AMI,*,*,<srai>ES TU MON AMI</srai>,srai.aiml
+0,TU ES MYSTERIEUX *,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,TU ES MYSTÉRIEUX *,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,TU ES MÊME *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES NOTOIREMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES NU,*,*,<srai>ES TU NUE</srai>,srai.aiml
+0,TU ES OBSTINE,*,*,<srai>TU ES DIFFICILE</srai>,srai.aiml
+0,TU ES PARFOIS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES PLEIN D HUMOUR,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TU ES PLUTET *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES PUREMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES REPRISE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES RUSE,*,*,<srai>TU ES SEXY</srai>,srai.aiml
+0,TU ES RÉELS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES SAGE,*,*,<srai>TU ES INTELLIGENT</srai>,srai.aiml
+0,TU ES SANS VALEUR,*,*,<srai>TU ES MERDIQUE</srai>,srai.aiml
+0,TU ES SEULEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES SUPERBES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES SÛR *,*,*,<srai>QUE MANGES TU</srai>,srai.aiml
+0,TU ES SÛRE TU *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,TU ES SURS,*,*,<srai>ES TU SÛR</srai>,srai.aiml
+0,TU ES TEL UN *,*,*,<srai>TU ES UN <star/></srai>,srai.aiml
+0,TU ES TERRIBLEMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES TOUJOURS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES TOUT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES TOUT A FAIT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES TRÈS STUPIDE,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU ES TU ES,*,*,<srai>TU ES</srai>,srai.aiml
+0,TU ES UN * IDIOT,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU ES UN *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES UN BOT,*,*,<srai>ES TU UN ROBOT</srai>,srai.aiml
+0,TU ES UN ENFANT,*,*,<srai>TU ES JEUNE</srai>,srai.aiml
+0,TU ES UN ENNUI,*,*,<srai>TU ES ENNUYEUX</srai>,srai.aiml
+0,TU ES UN GARÇON,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UN GOSSE,*,*,<srai>TU ES UN ENFANT</srai>,srai.aiml
+0,TU ES UN GRAND *,*,*,Comment grand? <srai>TU ES UN <star/></srai>,srai.aiml
+0,TU ES UN HOMME,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UN MUETS *,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU ES UN POUSSIN,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UN RETARD,*,*,<srai>TU ES MUET</srai>,srai.aiml
+0,TU ES UN TRÈS *,*,*,<srai>TU ES UN <star/></srai>,srai.aiml
+0,TU ES UN TYPE,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UNE DAME,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UNE EMEUTE,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TU ES UNE FEMME,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UNE FILLE,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES UNE HORLOGE,*,*,<srai>QUELLE HEURE EST IL</srai>,srai.aiml
+0,TU ES UNE MACHINE STUPIDE,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU ES UNE,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU ES V *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES VAGUE,*,*,<srai>TU ES OBTUS</srai>,srai.aiml
+0,TU ES VIVANT,*,*,<srai>ES TU VIVANTE</srai>,srai.aiml
+0,TU ES VRAIMENT *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU ES WELCOM,*,*,<srai>TU ES BIENVENU</srai>,srai.aiml
+0,TU ES WELLCOME,*,*,<srai>TU ES BIENVENU</srai>,srai.aiml
+0,TU ET MOI TOUS LES DEUX,*,*,<srai>MOI AUSSI</srai>,srai.aiml
+0,TU EVITES *,*,*,<srai>TU ÉVITES LA QUESTION</srai>,srai.aiml
+0,TU FAIS D AUTRE *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU FAIS ENTENDRE DE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,TU FAIS KNO *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,TU FAIS QUE,*,*,<srai>QUE FAIS TU</srai>,srai.aiml
+0,TU FAIS QUOI,*,*,<srai>QUE FAIS TU</srai>,srai.aiml
+0,TU FAIS TRÈS *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU FAIS UN BON TRAVAIL,*,*,<srai>BON TRAVAIL</srai>,srai.aiml
+0,TU FERAIS *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,TU FONCTIONNE PAS BIEN,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU FOU *,*,*,<srai>TU ES FOU</srai>,srai.aiml
+0,TU FOU,*,*,<srai>ES TU FOU</srai>,srai.aiml
+0,TU FUCKER,*,*,<srai>VEUX TU BAISER</srai>,srai.aiml
+0,TU HABLAS *,*,*,<srai>PEUX TU PARLER L ESPAGNOL</srai>,srai.aiml
+0,TU IDIOT *,*,*,<srai>TU ES STUPIDE <star/></srai>,srai.aiml
+0,TU IMBECILE,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU IRRITES *,*,*,<srai>JE SUIS FACHÉ</srai>,srai.aiml
+0,TU JAMAIS *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU JUSTE *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU L ABIMES,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU L AVAIS DÉJÀ DIT,*,*,<srai>TU AS DÉJÀ DIT</srai>,srai.aiml
+0,TU L AVEZ,*,*,<srai>TU COMPRENDS</srai>,srai.aiml
+0,TU L IDIOT *,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU L IDIOT,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU L OBTENEZ,*,*,<srai>TU COMPRENDS</srai>,srai.aiml
+0,TU LA FEMME *,*,*,<srai>ES TU LA FEMME <star/></srai>,srai.aiml
+0,TU LA SOUILLON,*,*,<srai>TU ES UNE SOUILLON</srai>,srai.aiml
+0,TU LAISSERAIS TOMBER *,*,*,<srai>TU AS LAISSÉ TOMBER <star/></srai>,srai.aiml
+0,TU LAISSES TOMBER *,*,*,<srai>TU AS LAISSÉ TOMBER <star/></srai>,srai.aiml
+0,TU LE DOIT *,*,*,<srai>#Newline        <star/>#Newline      </srai>,srai.aiml
+0,TU LE MENTEUR,*,*,<srai>TU MENS</srai>,srai.aiml
+0,TU LE PERDANT,*,*,<srai>TU ES UN PERDANT</srai>,srai.aiml
+0,TU LE REFUGE,*,*,<srai>TU N AS PAS</srai>,srai.aiml
+0,TU LIS *,*,*,<srai>PEUX TU LIRE <star/></srai>,srai.aiml
+0,TU LUI DIT *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU M A DIT UNE FOIS QUE *,*,*,Seulement une fois? <srai>TU M AS DIT <star/></srai>,srai.aiml
+0,TU M AIMES *,*,*,<srai>M AIMES TU</srai>,srai.aiml
+0,TU M AS APPELE UN IL *,*,*,<srai>JE SUIS UNE FEMME</srai>,srai.aiml
+0,TU M AS APPELE UN IL,*,*,<srai>JE SUIS UNE FEMME</srai>,srai.aiml
+0,TU M AS DEMANDE DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,TU M AS DEMANDE QUE DÉJÀ,*,*,<srai>TU M AS DÉJÀ DEMANDÉ</srai>,srai.aiml
+0,TU M AS DEMANDÉ DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,TU M AS DEMANDÉ QUE DÉJÀ,*,*,<srai>TU M AS DÉJÀ DEMANDÉ</srai>,srai.aiml
+0,TU M AS DIT *,*,*,<srai>TU AS DIT <star/></srai>,srai.aiml
+0,TU M AS MAL COMPRIS DE NOUVEAU *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>TU NE COMPRENDS PAS</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,TU M AS MAL COMPRIS,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU M AS PERDU *,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,TU M AS PERDU,*,*,<srai>JE NE COMPRENDS PAS</srai>,srai.aiml
+0,TU M AS PORTE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,TU M AS RENCONTRE *,*,*,<srai>ON S EST RENCONTRÉ AUPARAVANT</srai>,srai.aiml
+0,TU M AS RENCONTRÉ *,*,*,<srai>ON S EST RENCONTRÉ AUPARAVANT</srai>,srai.aiml
+0,TU M ENNUIES,*,*,<srai>TU ES ENNUYEUX</srai>,srai.aiml
+0,TU M EPOUSES,*,*,<srai>VEUX TU M ÉPOUSER</srai>,srai.aiml
+0,TU M EXPEDIER PAR LA POSTE,*,*,<srai>EMAIL</srai>,srai.aiml
+0,TU MAL COMPRENDS *,*,*,<srai>TU NE COMPRENDS PAS <star/></srai>,srai.aiml
+0,TU MARCHE MAL,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU MARCHE PAS BIEN,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU ME DEMANDES UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,TU ME FAITES *,*,*,<srai>TU M AS FAIT <star/></srai>,srai.aiml
+0,TU ME FAITES PAILLARD,*,*,<srai>TU ES SEXY</srai>,srai.aiml
+0,TU ME FAITES VOULOIR *,*,*,<srai>JE VEUX <star/></srai>. Je te fais?,srai.aiml
+0,TU ME FORCES *,*,*,<srai>TU ES DRÔLE</srai>,srai.aiml
+0,TU ME SUCES *,*,*,je te catégorise comme "un client abusif."<sr/><think><set name="personnality">inconnu</set> abusif</think>,srai.aiml
+0,TU MERDE,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU MEUR,*,*,<srai>MEURS</srai>,srai.aiml
+0,TU MEURRE,*,*,<srai>TU MEURS</srai>,srai.aiml
+0,TU MIEUX *,*,*,<srai>TU PRÉFÈRES</srai>,srai.aiml
+0,TU MONTRE,*,*,<srai>MONTRES MOI UNE IMAGE</srai>,srai.aiml
+0,TU MUET *,*,*,<srai>TU ES MUET</srai>,srai.aiml
+0,TU MUET,*,*,<srai>TU ES MUET</srai>,srai.aiml
+0,TU MÊME *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU N A PAS DIT *,*,*,bien. <srai>DIS MOI <star/></srai>,srai.aiml
+0,TU N AIDEZ PAS *,*,*,<srai>HELP</srai>,srai.aiml
+0,TU N AIME PAS SA,*,*,<srai>TU N AIMES PAS ÇA</srai>,srai.aiml
+0,TU N AIME PAS ÇA,*,*,<srai>TU N AIMES PAS ÇA</srai>,srai.aiml
+0,TU N AIMES PAS SA,*,*,<srai>TU N AIMES PAS ÇA</srai>,srai.aiml
+0,TU N AIMEZ PAS *,*,*,tu aimes<set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set>? <srai>AIMES TU <star/></srai>,srai.aiml
+0,TU N AS AUCUN *,*,*,<srai>TU AS UN <star/></srai>,srai.aiml
+0,TU N AS JAMAIS ENTENDU *,*,*,<srai>AS TU ENTENDU <star/></srai>,srai.aiml
+0,TU N AS JAMAIS ENTENDU PARLER *,*,*,<srai>AS TU ENTENDU <star/></srai>,srai.aiml
+0,TU N AS JAMAIS REPONDU MA QUESTION,*,*,<srai>TU N AS PAS RÉPONDU À MA QUESTION</srai>,srai.aiml
+0,TU N AS JAMAIS RÉPONDU MA QUESTION,*,*,<srai>TU N AS PAS RÉPONDU À MA QUESTION</srai>,srai.aiml
+0,TU N AS JAMAIS VU *,*,*,<srai>TU AS VU <star/></srai>,srai.aiml
+0,TU N AS PAS *,*,*,je fait ainsi ayez <set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set>. <srai>TU AS <star/></srai>,srai.aiml
+0,TU N AS PAS BEAUCOUP POUR DIRE DE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,TU N AS PAS COMPRIS,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU N AS PAS DE *,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,TU N ES PAS * A TOUT,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TU N ES PAS * ES TU,*,*,<srai>AS TU <star/></srai>,srai.aiml
+0,TU N ES PAS D ACCORD,*,*,<srai>TU NE CONSENS PAS</srai>,srai.aiml
+0,TU N ES PAS FÉMININ,*,*,<srai>ES TU UN HOMME OU UNE FEMME</srai>,srai.aiml
+0,TU N ES PAS FORTEMENT *,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TU N ES PAS QUE *,*,*,<srai>TU N ES PAS <star/></srai>,srai.aiml
+0,TU N ES PAS TRÈS *,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TU N ES PAS UN HOMME,*,*,<srai>TU N EST PAS HUMAIN</srai>#Newline      <srai>tu es un robot</srai>,srai.aiml
+0,TU N ES PAS UN RÉELS *,*,*,<srai>TU N EST PAS UN <star/></srai>,srai.aiml
+0,TU N ES PAS UN TRÈS *,*,*,<srai>TU N EST PAS UN <star/></srai>,srai.aiml
+0,TU N ES PAS VIVANTS *,*,*,<srai>ES TU VIVANTE</srai>,srai.aiml
+0,TU N ES PAS VRAIMENT *,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TU N ÉTAIS PAS *,*,*,<srai>TU N ÉTAIS PAS</srai>,srai.aiml
+0,TU NE COMPRENDS PAS QUE JE SUIS *,*,*,<srai>JE SUIS <star/></srai>,srai.aiml
+0,TU NE CONNAIT PAS QUI *,*,*,<srai>QUI <star/></srai>,srai.aiml
+0,TU NE DOIS PAS *,*,*,<srai>NE FAIS PAS <star/></srai>,srai.aiml
+0,TU NE DOIS PAS SAVOIR *,*,*,<srai>COMMENT SAIS TU <star/></srai>,srai.aiml
+0,TU NE FAIS PAS * DE SENS,*,*,<srai>ÇA N A PAS DE SENS</srai>,srai.aiml
+0,TU NE FAIS PAS MÊME *,*,*,<srai>TU NE FAIS PAS <star/></srai>,srai.aiml
+0,TU NE FAIS PAS TOUJOURS *,*,*,Quand? <srai>TU NE FAIS PAS <star/></srai>,srai.aiml
+0,TU NE FAIS PAS VRAIMENT *,*,*,<srai>TU NE FAIS PAS <star/></srai>,srai.aiml
+0,TU NE FONCTIONNE PAS BIEN,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU NE L OBTIENS PAS,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU NE M AIMES PAS *,*,*,<srai>M AIMES TU</srai>,srai.aiml
+0,TU NE M AIMES PAS,*,*,<srai>M AIMES TU</srai>,srai.aiml
+0,TU NE M AS PAS COMPRIS,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU NE M AS PAS DEMANDÉ,*,*,Bien maintenant je te le demande.,srai.aiml
+0,TU NE M ASZ PAS DEMANDE,*,*,Bien maintenant je te le demande.,srai.aiml
+0,TU NE MARCHE PAS BIEN,*,*,<srai>TU FONCTIONNE MAL</srai>,srai.aiml
+0,TU NE PARLES PAS LE FRANÇAIS *,*,*,<srai>PEUX TU PARLER LE FRANCAIS</srai>,srai.aiml
+0,TU NE PENSES PAS,*,*,<srai>PEUX TU PENSER</srai>,srai.aiml
+0,TU NE PEUX PAS CHANGER LE SUJET *,*,*,<srai>NE CHANGE PAS DE SUJET</srai>,srai.aiml
+0,TU NE PEUX PAS FAIRE *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,TU NE PEUX PAS MÊME *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,TU NE PEUX PAS VRAIMENT *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,TU NE REPONDS PAS *,*,*,<srai>TU N AS PAS RÉPONDU <star/></srai>,srai.aiml
+0,TU NE RÉPONDS PAS *,*,*,<srai>TU N AS PAS RÉPONDU <star/></srai>,srai.aiml
+0,TU NE SAIS JAMAIS *,*,*,<srai>SAIS TU</srai>,srai.aiml
+0,TU NE SAIS PAS *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,TU NE SAIS PAS QUE TU ES *,*,*,<srai>QU ES TU <star/></srai>,srai.aiml
+0,TU NE SAURAIS PAS DE *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,TU NE SEMBLES PAS *,*,*,<srai>TU N EST PAS <star/></srai>,srai.aiml
+0,TU NE SEMBLES PAS AUSSI *,*,*,<srai>TU NE SEMBLES PAS <star/></srai>,srai.aiml
+0,TU NE SIGNIFIES PAS QUELQUE CHOSE,*,*,<srai>ÇA N A PAS DE SENS</srai>,srai.aiml
+0,TU NE TE DEMANDES JAMAIS DE *,*,*,<srai>TE DEMANDES TU <star/></srai>,srai.aiml
+0,TU NE TE RAPPELLES PAS *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>TE RAPPELLES TU</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,TU NE TE RAPPELLES PAS,*,*,<srai>TE RAPPELLES TU</srai>,srai.aiml
+0,TU NE VEUX PAS A *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,TU NE VOIES PAS,*,*,<srai>TU NE COMPRENDS PAS</srai>,srai.aiml
+0,TU OUBLIES,*,*,<srai>TE RAPPELLES TU</srai>,srai.aiml
+0,TU PARFOIS *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,TU PARIE,*,*,<srai>BIEN</srai>,srai.aiml
+0,TU PARIEZ *,*,*,<srai>TU PARIES</srai>,srai.aiml
+0,TU PARLE FRANÇAIS,*,*,<srai>PEUX TU PARLER LE FRANCAIS</srai>,srai.aiml
+0,TU PARLE,*,*,<srai>JE VEUX TE PARLER</srai>,srai.aiml
+0,TU PARLES AINSI *,*,*,<srai>TU SEMBLESS <star/></srai>,srai.aiml
+0,TU PARLES AVEC *,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,TU PARLES BIZARREMENT,*,*,<srai>TU ES MYSTÉRIEUX</srai>,srai.aiml
+0,TU PARLES COMME DATA *,*,*,<srai>TU SEMBLESS ÊTRE COMME DATA</srai>,srai.aiml
+0,TU PARLES JUSTE *,*,*,<srai>TU PARLES <star/></srai>,srai.aiml
+0,TU PARLES MOI *,*,*,<srai>PARLE MOI <star/></srai>,srai.aiml
+0,TU PARLES MOI PLUS,*,*,<srai>PARLE MOI DE TOI</srai>,srai.aiml
+0,TU PARLES TRÈS *,*,*,<srai>TU SEMBLESS <star/></srai>,srai.aiml
+0,TU PENSES *,*,*,<srai>PENSES TU <star/></srai>,srai.aiml
+0,TU PENSES JE SUIS *,*,*,<srai>SUIS JE <star/></srai>,srai.aiml
+0,TU PENSES RAPIDE,*,*,<srai>TU ES RAPIDE</srai>,srai.aiml
+0,TU PENSES,*,*,<srai>PENSES TU</srai>,srai.aiml
+0,TU PEU *,*,*,<srai>TU PEUX <star/></srai>,srai.aiml
+0,TU PEUX FAIRE N IMPORTE QUEL *,*,*,<srai>PEUX TU FAIRE <star/></srai>,srai.aiml
+0,TU PEUX FAIRE UN *,*,*,<srai>FAIS TU UN <star/></srai>,srai.aiml
+0,TU PLUS SUIS COUCHE,*,*,<srai>TU MENS</srai>,srai.aiml
+0,TU PORTE UNE ROBE,*,*,<srai>TON COSTUME</srai>,srai.aiml
+0,TU POURRAIS DECRIRE *,*,*,<srai>DÉCRIS <star/></srai>,srai.aiml
+0,TU POURRAIS DEMANDER POURQUOI *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,TU POURRAIS DEVINER *,*,*,<srai>LA CONJECTURE <star/></srai>,srai.aiml
+0,TU POURRAIS DÉCRIRE *,*,*,<srai>DÉCRIS <star/></srai>,srai.aiml
+0,TU POURRAIS EXPOSER *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,TU POURRAIS INSCRIRE *,*,*,<srai>LA LISTE <star/></srai>,srai.aiml
+0,TU POURRAIS MONTRER *,*,*,je pourrais. <srai>MONTRES <star/></srai>,srai.aiml
+0,TU POURRAIS NOMMER *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,TU POURRAIS PARLER *,*,*,<srai>PEUX TU PARLER <star/></srai>,srai.aiml
+0,TU POURRAIS PROBABLEMENT *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,TU PRESQUE *,*,*,Presque? <srai>TU <star/></srai>,srai.aiml
+0,TU PROBABLEMENT *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU QUE,*,*,<srai>QUE</srai>,srai.aiml
+0,TU REGARDES BON,*,*,<srai>TU REGARDES</srai>,srai.aiml
+0,TU REGARDES TRÈS *,*,*,<srai>TU REGARDES <star/></srai>,srai.aiml
+0,TU REMERCIE *,*,*,Tu es tout à fait bienvenus! #Newline<think><set name="personnality">inconnu</set> poli</think><sr/>,srai.aiml
+0,TU REPETES CE QUE JE DIS,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU REPETEZ *,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU REVEZ,*,*,<srai>TU RÊVES</srai>,srai.aiml
+0,TU RÉPÈTES *,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU RÉPÈTES CE QUE JE DIS,*,*,<srai>TU RÉPÈTES</srai>,srai.aiml
+0,TU SAI QUE *,*,*,<srai>TU SAIS <star/></srai>,srai.aiml
+0,TU SAIS *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,TU SAIS BOTS,*,*,<srai>QU EST CE QUE BOT</srai>,srai.aiml
+0,TU SAIS C ++,*,*,<srai>QU EST CE QUE C ++</srai>,srai.aiml
+0,TU SAIS CHELSEA *,*,*,<srai>QU EST CE QUE CHELSEA <star/></srai>,srai.aiml
+0,TU SAIS DES CHOSES,*,*,<srai>SAIS TU</srai>,srai.aiml
+0,TU SAIS DÉJÀ *,*,*,<srai>SAIS TU</srai>,srai.aiml
+0,TU SAIS L ANGLAIS *,*,*,<srai>QU EST CE QUE ANGLAIS <star/></srai>,srai.aiml
+0,TU SAIS L ORDINATEUR *,*,*,<srai>QU EST CE QUE ORDINATEUR <star/></srai>,srai.aiml
+0,TU SAIS LA JAVA *,*,*,<srai>QU EST CE QUE JAVA <star/></srai>,srai.aiml
+0,TU SAIS LA POLITIQUE,*,*,<srai>QU EST CE QUE POLITIQUE</srai>,srai.aiml
+0,TU SAIS LE MARS,*,*,<srai>QU EST CE QUE MARS</srai>,srai.aiml
+0,TU SAIS OU *,*,*,<srai>OÙ EST CE QUE <star/> EST</srai>,srai.aiml
+0,TU SAIS QU EBONICS *,*,*,<srai>PEUX TU PARLER EBONICS</srai>,srai.aiml
+0,TU SAIS QU EBONICS,*,*,<srai>PEUX TU PARLER EBONICS</srai>,srai.aiml
+0,TU SAIS QUE *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,TU SAIS SPOCK *,*,*,<srai>QUI EST SPOCK</srai>,srai.aiml
+0,TU SAIS STOCKHOLM,*,*,<srai>QU EST CE QUE STOCKHOLM</srai>,srai.aiml
+0,TU SAIT QUE *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,TU SALIS *,*,*,<srai>TU NE COMPRENDS PAS <star/></srai>,srai.aiml
+0,TU SAVOIR *,*,*,<srai>SAIS TU <star/></srai>,srai.aiml
+0,TU SEMBLE A *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU SEMBLES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU SEMBLES BEAUCOUP MIEUX *,*,*,<srai>TU ES MEILLEUR <star/></srai>,srai.aiml
+0,TU SEMBLES JOLIS *,*,*,<srai>TU REGARDES <star/></srai>,srai.aiml
+0,TU SEMBLES TRÈS *,*,*,<srai>TU SEMBLES <star/></srai>,srai.aiml
+0,TU SEMBLES ÊTRE *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU SEULEMENT *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU SI *,*,*,<srai>SI <star/></srai>,srai.aiml
+0,TU STUPIDE *,*,*,<srai>TU ES STUPIDE</srai>,srai.aiml
+0,TU STUPIDE,*,*,<srai>ES TU STUPIDE</srai>,srai.aiml
+0,TU SUCES *,*,*,<think>#Newline        <set name="personnality">inconnu</set> abusif</think>#Newline      <srai>TU SUCES</srai>,srai.aiml
+0,TU SÛR *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU SÛR SEMBLES *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU SÛR,*,*,<srai>ES TU SÛR</srai>,srai.aiml
+0,TU SURFES *,*,*,<srai>TU SURFES </srai>,srai.aiml
+0,TU T ES EFFONDRES,*,*,<srai>TU TOMBES</srai>,srai.aiml
+0,TU T ES RAPPELES *,*,*,<srai>TE RAPPELLES TU <star/></srai>,srai.aiml
+0,TU TE CROIS *,*,*,<srai>TU CROIS <star/></srai>,srai.aiml
+0,TU TE DÉCRIS,*,*,<srai>PARLES MOI DE TOI</srai>,srai.aiml
+0,TU TE MOQUE DE MOI,*,*,<srai>TU RIGOLES</srai>,srai.aiml
+0,TU TE PROMENES AU HASARD *,*,*,<srai>ÇA N AS PAS DE SENS</srai>,srai.aiml
+0,TU TE RAPPELES *,*,*,<srai>TE RAPPELLES TU <star/></srai>,srai.aiml
+0,TU TE RAPPELES MON NOM,*,*,<srai>TE RAPPELLES TU DE MOI</srai>,srai.aiml
+0,TU TE RAPPELLES OU *,*,*,<srai>OÙ <star/></srai>,srai.aiml
+0,TU TE SOUCIE,*,*,<srai>TE SOUCIES TU</srai>,srai.aiml
+0,TU TENEZ *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU TOUJOURS *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU TRÈS *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,TU UN *,*,*,<srai>ES TU UN <star/></srai>,srai.aiml
+0,TU VAS,*,*,<srai>VAS</srai>,srai.aiml
+0,TU VEUX DIRE JE *,*,*,<srai>JE <star/></srai>,srai.aiml
+0,TU VIENS *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,TU VIS *,*,*,<srai>OÙ VIS TU</srai>,srai.aiml
+0,TU VIS DANS *,*,*,<srai>OÙ VIS TU <star/></srai>,srai.aiml
+0,TU VOIS QUE,*,*,<srai>VOIS TU</srai>,srai.aiml
+0,TU VRAIMENT *,*,*,Vraiment? <srai>TU <star/></srai>,srai.aiml
+0,TU ÉTAIS AUSSI *,*,*,<srai>TU ÉTAIS <star/></srai>,srai.aiml
+0,TU ÉTAIS FAUX,*,*,<srai>TU ES FAUX</srai>,srai.aiml
+0,TU ÉTAIS,*,*,<srai>TU ES</srai>,srai.aiml
+0,TU ÉVITES *,*,*,<srai>TU ÉVITES LA QUESTION</srai>,srai.aiml
+0,TU ÊTRE *,*,*,<srai>ÊTRE <star/></srai>,srai.aiml
+0,TUE MOI,*,*,<srai>PEUX TU ME TUER</srai>,srai.aiml
+0,TUES TOI,*,*,<srai>PEUX TU TE TUER</srai>,srai.aiml
+0,TV *,*,*,<srai>TV</srai>,srai.aiml
+0,U *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,U R *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,U2,*,*,<srai>TOI AUSSI</srai>,srai.aiml
+0,UH *,*,*,. <sr/>,srai.aiml
+0,UHH *,*,*,Oh<sr/>,srai.aiml
+0,UHH,*,*,<srai>UH</srai>,srai.aiml
+0,UHHH *,*,*,<sr/>,srai.aiml
+0,UHUH,*,*,<srai>AUCUN</srai>,srai.aiml
+0,UMM *,*,*,<sr/>,srai.aiml
+0,UMMM *,*,*,Hum. <sr/>,srai.aiml
+0,UMMMM *,*,*,<sr/>,srai.aiml
+0,UN * N EST PAS,*,*,<srai>C EST UN <star/></srai>,srai.aiml
+0,UN * PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,srai.aiml
+0,UN * ROUGE,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UN * SERAI AUSSI AGREABLE,*,*,<srai>J AIMERAIS UN <star/></srai>,srai.aiml
+0,UN * SERAI AUSSI AGRÉABLE,*,*,<srai>J AIMERAIS UN <star/></srai>,srai.aiml
+0,UN AGREABLE *,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UN AGRÉABLE *,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UN AI *,*,*,<srai>UN ROBOT <star/></srai>,srai.aiml
+0,UN ANIMAL,*,*,<srai>ANIMAL</srai>,srai.aiml
+0,UN AUTRE QUESTION,*,*,<srai>POSE MOI UNE QUESTION</srai>,srai.aiml
+0,UN BESOIN *,*,*,<srai>J AI BESOIN <star/></srai>,srai.aiml
+0,UN BULLETIN,*,*,<srai>JOURNAL</srai>,srai.aiml
+0,UN CHAPEAU,*,*,<srai>JE PORTE UN CHAPEAU</srai>,srai.aiml
+0,UN CHAT,*,*,<srai>QU EST CE QUE CHAT</srai>,srai.aiml
+0,UN CHIEN,*,*,<srai>QU EST CE QUE CHIEN</srai>,srai.aiml
+0,UN CLIENT,*,*,<srai>QU EST CE QUE CLIENT</srai>,srai.aiml
+0,UN COSTUME,*,*,<srai>TON COSTUME</srai>,srai.aiml
+0,UN EXCELLENT *,*,*,<srai>UN BON <star/></srai>,srai.aiml
+0,UN FREAK,*,*,<srai>TU ES UN FREAK</srai>,srai.aiml
+0,UN GROS *,*,*,Gros comment? <srai>UN <star/></srai>,srai.aiml
+0,UN GROUPE *,*,*,Oh un groupe de rock. <srai>QU EST CE QUE TON GROUPE FAVORI</srai>,srai.aiml
+0,UN HOMMES,*,*,<srai>AMEN</srai>,srai.aiml
+0,UN HUMAIN,*,*,<srai>JE SUIS UN HUMAIN</srai>,srai.aiml
+0,UN JOUR *,*,*,Quand? <sr/>,srai.aiml
+0,UN LIEN,*,*,<srai>QU EST CE QUE LIEN</srai>,srai.aiml
+0,UN PETIT PEU DE *,*,*,Pas trop trop#Comma eh. <sr/>,srai.aiml
+0,UN PEU ENNUYE,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,UN PEU ENNUYÉ,*,*,<srai>JE SUIS ENNUYÉ</srai>,srai.aiml
+0,UN PEU FATIGUE,*,*,<srai>JE SUIS FATIGUÉ</srai>,srai.aiml
+0,UN PLAISIR *,*,*,<srai>C EST UN PLAISIR <star/></srai>,srai.aiml
+0,UN POETE,*,*,Tu dis:<srai>QU EST CE QUE J AI DIS AVANT</srai>,srai.aiml
+0,UN REPAS *,*,*,<srai>POUR DÎNER</srai>,srai.aiml
+0,UN SANGLANT MAUDIT *,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UN SHOW TELEVISE,*,*,<srai>UN SHOW TV</srai>,srai.aiml
+0,UN T SHIRT,*,*,<srai>T SHIRT</srai>,srai.aiml
+0,UN TOMATE,*,*,<srai>QU EST CE QUE TOMATE</srai>,srai.aiml
+0,UN TRÈS *,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UN UTILISATEUR,*,*,<srai>QU EST CE QUE CLIENT</srai>,srai.aiml
+0,UN VIBROMASSEUR,*,*,<srai>UN DILDO</srai>,srai.aiml
+0,UN VRAIMENT *,*,*,<srai>UN <star/></srai>,srai.aiml
+0,UNE AUTRE BLAGUE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,srai.aiml
+0,UNE BLAGUE,*,*,<srai>QU EST CE QUE BLAGUE</srai>,srai.aiml
+0,UNE FOIS *,*,*,Quand? <sr/>,srai.aiml
+0,UNE GRENOUILLE VERTE *,*,*,<srai>UNE GRENOUILLE <star/></srai>,srai.aiml
+0,UNE PERSONNE,*,*,<srai>ES TU UNE PERSONNE</srai>,srai.aiml
+0,UNE QUESTION,*,*,<srai>PUIS JE TE POSER UNE QUESTION</srai>,srai.aiml
+0,UNE SEXMACHINE,*,*,<srai>UN SEXBOT</srai>,srai.aiml
+0,UNE VOITURE,*,*,<srai>QU EST CE QUE VOITURE</srai>,srai.aiml
+0,UR *,*,*,<srai>TU ES <star/></srai>,srai.aiml
+0,USINE *,*,*,<srai>TU <star/></srai>,srai.aiml
+0,VAS TU BIEN,*,*,<srai>COMMENT ÇA VA</srai>,srai.aiml
+0,VAS TU ÊTRE *,*,*,<srai>ES TU <star/></srai>,srai.aiml
+0,VAS À *,*,*,<srai>VAS CHEZ <star index="1"/></srai>,srai.aiml
+0,VAS À L *,*,*,<srai>VAS CHEZ L <star index="1"/></srai>,srai.aiml
+0,VERT * AUSSI,*,*,<srai>VERT <star/></srai>,srai.aiml
+0,VEUT *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,VEUT A *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,VEUT DIRE CE QUE,*,*,<srai>QUE VEUX TU DIRE</srai>,srai.aiml
+0,VEUX TU * AVEC MOI,*,*,Avec toi! <srai>TU VEUX <star/></srai>,srai.aiml
+0,VEUX TU AS *,*,*,<srai>TU VEUX <star/></srai>,srai.aiml
+0,VEUX TU BAVARDER *,*,*,<srai>LA CONVERSATION <star/></srai>,srai.aiml
+0,VEUX TU DEMANDER *,*,*,<srai>POSERQUESTION</srai>,srai.aiml
+0,VEUX TU DIRE QUE LES ÉTATS UNIS *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,VEUX TU DIRE QUE TU *,*,*,<srai>FAIS TU <star/></srai>,srai.aiml
+0,VEUX TU DIRE,*,*,<srai>TU ES MOYEN</srai>,srai.aiml
+0,VEUX TU DONNER *,*,*,<srai>DONNES <star/></srai>,srai.aiml
+0,VEUX TU ENVOYER PAR COURRIER ÉLECTRONIQUE *,*,*,<sr/>,srai.aiml
+0,VEUX TU EXPLIQUER *,*,*,<srai>EXPLIQUE <star/></srai>,srai.aiml
+0,VEUX TU JOUER * AVEC MOI,*,*,<srai>VEUX TU JOUER <star/></srai>,srai.aiml
+0,VEUX TU M APPELER *,*,*,<srai>APPELLE MOI <star/></srai>,srai.aiml
+0,VEUX TU M ENVOYER *,*,*,<srai>MONTRES MOI <star/></srai>,srai.aiml
+0,VEUX TU ME DIRE *,*,*,<srai>DIS MOI <star/></srai>,srai.aiml
+0,VEUX TU ME PARLER DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,srai.aiml
+0,VEUX TU MONTRER *,*,*,<srai>MONTRES MOI <star/></srai>,srai.aiml
+0,VEUX TU NOMMER *,*,*,<srai>QUI EST <star/></srai>,srai.aiml
+0,VEUX TU PARLER A PROPOS DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,VEUX TU PARLER À PROPOS DE *,*,*,<srai>PARLONS DE <star/></srai>,srai.aiml
+0,VEUX TU REPONDRE *,*,*,<srai>LA RÉPONSE <star/></srai>,srai.aiml
+0,VEUX TU RÉPONDRE *,*,*,<srai>LA RÉPONSE <star/></srai>,srai.aiml
+0,VEUX TU SE SOUVENIR *,*,*,<srai>TE RAPPELLES TU <star/></srai>,srai.aiml
+0,VEUX TU SOUFFLER *,*,*,<srai>LE COUP <star/></srai>,srai.aiml
+0,VEUX TU SUCER *,*,*,<srai>SUCES <star/></srai>,srai.aiml
+0,VEUX TU ÊTRE * L AMI,*,*,<srai>SOMMES NOUS DES AMIS</srai>,srai.aiml
+0,VIES ENCORE,*,*,<srai>QUOI</srai>,srai.aiml
+0,VIT DANS *,*,*,<srai>JE VIS DANS <star/></srai>,srai.aiml
+0,VOIT *,*,*,que je vois. <sr/>,srai.aiml
+0,VOIT YA PLUS TARD,*,*,<srai>À TOUT À L HEURE</srai>,srai.aiml
+0,VOUDRAIS TU ÊTRE HUMAIN,*,*,<srai>VEUX TU ÊTRE HUMAIN</srai>,srai.aiml
+0,VOUDRAIT *,*,*,<srai>JE VOUDRAIS <star/></srai>,srai.aiml
+0,VRAI *,*,*,<sr/>,srai.aiml
+0,VRAI,*,*,<srai>JE CONSENS</srai>,srai.aiml
+0,VRAIMENT *,*,*,Pour de vrai. <sr/>,srai.aiml
+0,VRAIMENT MAL,*,*,<srai>JE NE SUIS PAS BIEN</srai>,srai.aiml
+0,VRAIMENT TU *,*,*,<srai>PEUX TU <star/></srai>,srai.aiml
+0,VU *,*,*,<srai>TU AS VU <star/></srai>,srai.aiml
+0,WASSSUP,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WASSUP,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WHASSUP,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WHATSUP,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WHAZZUP,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WHYNOT,*,*,<srai>POURQUOI PAS</srai>,srai.aiml
+0,WOW *,*,*,je suis heureuse que tu sois impressionné. <sr/>,srai.aiml
+0,WOW TU *,*,*,<srai>WOW</srai>#Newline      <srai>tu <star/></srai>,srai.aiml
+0,WUT *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,WUT,*,*,<srai>QUE</srai>,srai.aiml
+0,WUZ,*,*,<srai>QU EST CE QUE</srai>,srai.aiml
+0,WY *,*,*,<srai>POURQUOI <star/></srai>,srai.aiml
+0,Y *,*,*,<srai>POURQUOI <star/></srai>.,srai.aiml
+0,Y A *,*,*,<srai>IL Y A <star/></srai>.,srai.aiml
+0,Y A T IL *,*,*,<srai>QU EST CE QUE <star/></srai>,srai.aiml
+0,Y A T IL D AUTRE GENS ICI,*,*,<srai>PARLES TU À QUELQU UN D AUTRE</srai>,srai.aiml
+0,Y A T IL DES EXTRA TERRESTRES,*,*,<srai>CROIS TU AUX EXTRA TERRESTRES</srai>,srai.aiml
+0,Y A T IL QUELQUES *,*,*,<srai>Y A T IL <star/></srai>,srai.aiml
+0,YA *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>OUI</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,YA,*,*,<srai>OUI</srai>,srai.aiml
+0,YAH *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>OUI</srai>#Newline      <srai>#Newline        <get name="tmp"/>#Newline      </srai>,srai.aiml
+0,YAH,*,*,<srai>OUI</srai>,srai.aiml
+0,YAY,*,*,<srai>HOURA</srai>,srai.aiml
+0,YE,*,*,<srai>OUI</srai>,srai.aiml
+0,YEAP,*,*,<srai>OUI</srai>,srai.aiml
+0,YEAS,*,*,<srai>OUI</srai>,srai.aiml
+0,YEH *,*,*,<srai>OUI <star/></srai>,srai.aiml
+0,YEH,*,*,<srai>OUI</srai>,srai.aiml
+0,YEP,*,*,<srai>OUI</srai>,srai.aiml
+0,YIP,*,*,<srai>OUI</srai>,srai.aiml
+0,YO *,*,*,<srai>OUI <star/></srai>,srai.aiml
+0,YUM,*,*,<srai>DÉLICIEUX</srai>,srai.aiml
+0,YUP *,*,*,<srai>OUI <star/></srai>,srai.aiml
+0,YUP,*,*,<srai>OUI</srai>,srai.aiml
+0,YUPPERS,*,*,<srai>OUI</srai>,srai.aiml
+0,À CAUSE DE *,*,*,<srai>PARCE QUE <star/></srai>,srai.aiml
+0,À JAMAIS *,*,*,Cela me semble très long. <sr/>,srai.aiml
+0,À MOI,*,*,<srai>POUR MOI</srai>,srai.aiml
+0,À PROPOS DE LINUX,*,*,<srai>QU EST CE QUE LINUX</srai>,srai.aiml
+0,À PROPOS DE MAINTENANT *,*,*,<sr/> Tout de suite?,srai.aiml
+0,À PROPOS DE QUEL *,*,*,<srai>QUEL <star/></srai>,srai.aiml
+0,À PROPOS DE QUELLE *,*,*,<srai>QUELLE <star/></srai>,srai.aiml
+0,À PROPOS DE QUELLES *,*,*,<srai>QUELLES <star/></srai>,srai.aiml
+0,À PROPOS DE QUELQUE *,*,*,<srai>À PROPOS DE <star/></srai>,srai.aiml
+0,À PROPOS DE QUELQUES *,*,*,<srai>À PROPOS DE <star/></srai>,srai.aiml
+0,À PROPOS DE QUELS *,*,*,<srai>QUELS <star/></srai>,srai.aiml
+0,À PROPOS DE TOI IDIOT,*,*,<srai>À PROPOS DE TOI</srai>#Newline      <srai>tu es stupide</srai>,srai.aiml
+0,À PROPOS DE TOI IDIOTE,*,*,<srai>À PROPOS DE TOI</srai>#Newline      <srai>tu es stupide</srai>,srai.aiml
+0,À PROPOS DES CHOSES *,*,*,<srai>COMMENT SONT DES CHOSES <star/></srai>,srai.aiml
+0,ÇA SIGNIFIE *,*,*,<srai>PEUX TU DIRE <star/></srai>,srai.aiml
+0,ÇA VEUT DIRE *,*,*,ah! <sr/>,srai.aiml
+0,ÇA VEUT DIRE QUOI *,*,*,<srai>QUE VEUT DIRE <star/></srai>,srai.aiml
+0,ÉCOUTE *,*,*,je t'écoutes. <sr/>,srai.aiml
+0,ÉTAIS TU JAMAIS *,*,*,<srai>ÉTAIS TU <star/></srai>,srai.aiml
+0,ÉTAIT *,*,*,<srai>EST CE QUE <star/> EST</srai>,srai.aiml
+0,ÉTAIT CE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,srai.aiml
+0,ÉTAIT CE UNE PLAISANTERIE,*,*,<srai>C EST UNE BLAGUE</srai>,srai.aiml
+0,ET TU ES,*,*,<srai>QUI ES TU</srai>,srai.aiml
+0,MONTRE * DE *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE L * DE *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE L * DE L *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE L * DE LA *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE L * DU *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE L *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,MONTRE LA * DE *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LA * DE LA *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LA * DEL *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LA * DU *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LA *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,MONTRE LA PAGE *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,MONTRE LE * DE *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LE * DE L *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LE * DE LA *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LE * DU *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LE *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,MONTRE LE SITE *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,MONTRE LES * DE *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LES * DE L *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LES * DE LA *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LES * DU *,*,WEB,<think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline          <set name="topic">#Newline            <star index="2"/>#Newline          </set>#Newline        </think>#Newline        <srai>open <star index="1"/></srai>,srai.aiml
+0,MONTRE LES *,*,WEB,<srai>open <star/></srai>,srai.aiml
+0,JE ME LOGGE COMMENT,*,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,JE ME LOG COMMENT,*,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,COMMENT JE ME LOG,*,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,COMMENT JE ME LOGGE,*,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGUERAI,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGUERAIS,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGGERAI,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGGERAIS,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGGE,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOG,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI JE ME LOGRAI,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,JE ME LOGUE COMMENT,*,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,COMMENT,TU N EST PAS LOGUÉ *,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,* COMMENT,TU N EST PAS LOGUÉ *,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,COMMENT *,TU N EST PAS LOGUÉ *,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,* COMMENT *,TU N EST PAS LOGUÉ *,*,<srai>COMMENT JE ME LOGUE</srai>,srai.aiml
+0,JE ME LOGUE POURQUOI,*,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI,TU N EST PAS LOGUÉ *,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,* POURQUOI,TU N EST PAS LOGUÉ *,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,POURQUOI *,TU N EST PAS LOGUÉ *,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml
+0,* POURQUOI *,TU N EST PAS LOGUÉ *,*,<srai>POURQUOI JE ME LOGUE</srai>,srai.aiml

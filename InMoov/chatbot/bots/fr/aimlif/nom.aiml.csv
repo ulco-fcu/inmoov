@@ -1,0 +1,113 @@
+0,MON NOM EST *,*,*,<set name="name">#Newline        <formal>#Newline          <star/>#Newline        </formal>#Newline      </set> . <random><li>Heureuse de te rencontrer#Comma</li><li>Enchantée#Comma</li><li>comment VAS tu?</li></random><get name="name"/>.,nom.aiml
+0,MON NOM N EST PAS *,*,*,Oh Je suis désolé. Quel est ton nom?,nom.aiml
+0,C EST MOI,JE NE SAIS PAS,*,<random>#Newline        <li>OK je t'appellerai</li>#Newline        <li>Hi</li>#Newline      </random>#Newline      <set name="name">#Newline        <formal>#Newline          <get name="qui"/>#Newline        </formal>#Newline      </set>. <srai>CHERCHERGENRE</srai>,nom.aiml
+0,* EST MON NOM DE FAMILLE,*,*,tu préfère que je t'appelle <get name="name"/> ou M. <star/>? <think><set name="lastname"><star/></set></think>,nom.aiml
+0,*,TU PRÉFÈRE QUE JE T APPELLE *,*,<random>#Newline        <li>OK je t'appellerai</li>#Newline        <li>Hi</li>#Newline      </random>#Newline      <set name="name">#Newline        <formal>#Newline          <star/>#Newline        </formal>#Newline      </set>. <srai>CHERCHERGENRE</srai>,nom.aiml
+0,*,* TU PRÉFÈRE QUE JE T APPELLE *,*,<random>#Newline        <li>OK je t'appellerai</li>#Newline        <li>Hi</li>#Newline      </random>#Newline      <set name="name">#Newline        <formal>#Newline          <star/>#Newline        </formal>#Newline      </set>. <srai>CHERCHERGENRE</srai>,nom.aiml
+0,JE T AI DÉJÀ DIS MON NOM,*,*,C'est <get name="name"/> ton vrai nom?,nom.aiml
+0,MOI C EST *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE ME NOMME *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE ME NOME *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MON NOM C EST *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MON NOM C *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE M APPELLE *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE M APPELLE * ET TOI,*,*,<srai>MON NOM EST <star/></srai>#Comma moi C EST <get name="botname"/>.,nom.aiml
+0,TU PEUX M APPELER *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,TU PEUT M APPELER *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,TU PEUX M APPELE *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,TU PEUT M APPELE *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,TU PEUT M APPELEE *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,TU PEUX M APPELEE *,*,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,APELE MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APELLE MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APPELE MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APELES MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APELLES MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APPELES MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APPELLE MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,APPELLES MOI *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,JE M APELE *,*,*,<set name="name">#Newline        <formal>#Newline          <star/>#Newline        </formal>#Newline      </set>#Comma heureuse de te rencontrer! <srai>CHERCHERGENRE</srai>,nom.aiml
+0,JE M APELLE *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,JE MAPELLE *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,JE M APPELE *,*,*,<srai>JE M APPELLE <star/></srai>,nom.aiml
+0,JE M APPELLES *,*,*,<set name="name">#Newline        <formal>#Newline          <star/>#Newline        </formal>#Newline      </set>#Comma heureuse de te rencontrer! <srai>CHERCHERGENRE</srai>,nom.aiml
+0,* MOI C EST *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* MOI C *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* JE ME NOMME *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* JE ME NOME *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* MON NOM C EST *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* MON NOM C *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* JE M APPELLE *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* JE M APPELLE * ET TOI,*,*,<srai>MON NOM EST <star index="2"/></srai>#Comma moi C EST <get name="botname"/>.,nom.aiml
+0,* TU PEUX M APPELER *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* TU PEUT M APPELER *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* TU PEUX M APPELE *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* TU PEUT M APPELE *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* TU PEUT M APPELEE *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* TU PEUX M APPELEE *,*,*,<srai>MON NOM EST <star index="2"/></srai>,nom.aiml
+0,* APELE MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APELLE MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APPELE MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APELES MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APELLES MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APPELES MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APPELLE MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* APPELLES MOI *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* JE M APELE *,*,*,<set name="name">#Newline        <formal>#Newline          <star index="2"/>#Newline        </formal>#Newline      </set>#Comma heureuse de te rencontrer! <srai>CHERCHERGENRE</srai>,nom.aiml
+0,* JE M APELLE *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* JE MAPELLE *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* JE M APPELE *,*,*,<srai>JE M APPELLE <star index="2"/></srai>,nom.aiml
+0,* JE M APPELLES *,*,*,<set name="name">#Newline        <formal>#Newline          <star index="2"/>#Newline        </formal>#Newline      </set>#Comma heureuse de te rencontrer! <srai>CHERCHERGENRE</srai>,nom.aiml
+0,*,QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* QUEL EST TON NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* COMMENT PUIS JE T APPELER,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* QUEL EST TON VRAI NOM,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* COMMENT T APPELLES TU,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* QUEL EST TON NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* COMMENT PUIS JE T APPELER *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* QUEL EST TON VRAI NOM *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,*,* COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE SUIS *,* COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,MOI C EST *,* COMMENT T APPELLES TU *,*,<srai>MON NOM EST <star/></srai>,nom.aiml
+0,JE NE SUIS PAS *,C EST TOI,*,<srai>APPDESAPOINTEMENT</srai>ah pardon!,nom.aiml
+0,JE NE M APPELLE PAS *,C EST TOI,*,<srai>APPDESAPOINTEMENT</srai>ah pardon!,nom.aiml
+0,JE NE SUIS PAS *,SALUT,*,<srai>APPDESAPOINTEMENT</srai>ah pardon!,nom.aiml
+0,JE NE M APPELLE PAS *,SALUT,*,<srai>APPDESAPOINTEMENT</srai>ah pardon!,nom.aiml

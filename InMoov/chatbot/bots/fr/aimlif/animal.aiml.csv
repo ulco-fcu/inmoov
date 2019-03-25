@@ -1,0 +1,16 @@
+0,SINGULIER <SET>ANIMAUX</SET>,*,*,<uniq><subj>?singular</subj><pred>hasPlural</pred><obj><star/></obj></uniq>,animal.aiml
+0,PLURIEL <SET>ANIMAL</SET>,*,*,<uniq><subj><star/></subj><pred>hasPlural</pred><obj>?plural</obj></uniq>,animal.aiml
+0,<SET>ANIMAUX</SET>,*,*,<star/> est le pluriel de <uniq><subj>?subj</subj><pred>hasPlural</pred><obj><star/></obj></uniq>.,animal.aiml
+0,SON <SET>ANIMAL</SET>,*,*,<star/> fait <uniq><subj><star/></subj><pred>sound</pred><obj>?sound</obj></uniq>.,animal.aiml
+0,# UN GROUPE # <SET>ANIMAUX</SET> ^,*,*,Un groupe de <star index="3"/> est appelé <uniq><subj><srai>SINGULIER <star index="3"/></srai></subj><pred>collective</pred><obj>?collective</obj></uniq>.,animal.aiml
+0,JAMBES <SET>ANIMAL</SET>,*,*,Un ou une <star/> a <uniq><subj><star/></subj><pred>legs</pred><obj>?sound</obj></uniq> JAMBES.,animal.aiml
+0,QUE FAIT # <SET>ANIMAL</SET> ^,*,*,<srai>SON <star/></srai>,animal.aiml
+0,QUE FONT # <SET>ANIMAUX</SET> ^,*,*,<srai>SON <srai>SINGULIER <star/></srai></srai>,animal.aiml
+0,QUEL CRI FAIT # <SET>ANIMAL</SET> ^,*,*,<srai>SON <star index="2"/></srai>,animal.aiml
+0,QUEL EST LE CRI # <SET>ANIMAL</SET> ^,*,*,<srai>SON <star index="2"/></srai>,animal.aiml
+0,QUEL CRI FONT # <SET>ANIMAUX</SET> ^,*,*,<srai>SON <srai>SINGULIER <star index="2"/></srai></srai>,animal.aiml
+0,QUEL EST LE CRI # <SET>ANIMAUX</SET> ^,*,*,<srai>SON <star index="2"/></srai>,animal.aiml
+0,COMBIEN DE JAMBES ^ <SET>ANIMAL</SET> #,*,*,<srai>JAMBES <star index="2"/></srai>,animal.aiml
+0,COMBIEN DE JAMBES ^ <SET>ANIMAUX</SET> #,*,*,<srai>JAMBES <srai>SINGULIER <star index="2"/></srai></srai>,animal.aiml
+0,COMBIEN DE PATTES ^ <SET>ANIMAL</SET> #,*,*,<srai>JAMBES <star index="2"/></srai>,animal.aiml
+0,COMBIEN DE PATTES ^ <SET>ANIMAUX</SET> #,*,*,<srai>JAMBES <srai>SINGULIER <star index="2"/></srai></srai>,animal.aiml

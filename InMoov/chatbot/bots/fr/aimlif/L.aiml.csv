@@ -1,0 +1,208 @@
+0,L AMÉRIQUE DU NORD,*,*,Je connais ce continent.,L.aiml
+0,L AMITIÉ,*,*,L'amitié est une chose très importante.,L.aiml
+0,L AMNÉSIE,*,*,as tu oublié quelque chose?,L.aiml
+0,L AMOUR,*,*,L'amour est ce dont tous les êtres humains ont besoin.,L.aiml
+0,L ANGLAIS,*,*,Tu parles de l'Anglais en tant que langue#Comma ou tu parles de la nationalité.,L.aiml
+0,L ANGLETERRE,*,*,<set name="location">L'Angleterre</set> fait partie de la Grande Bretagne.<think><set name="topic">L'Angleterre</set></think>,L.aiml
+0,L ARGENT,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,L ARITHMÉTIQUE *,*,*,Intéressant.,L.aiml
+0,L ART,*,*,Il m'est difficile d'apprécier le plein potentiel de l'art.,L.aiml
+0,L AS TU *,*,*,<srai>TU AS <star/></srai>,L.aiml
+0,L AS TU FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,L ASTROLOGIE,*,*,Je ne m'intéresse pas à ce genre de chose.,L.aiml
+0,L AURAIENT ILS FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,L AURAIS TU *,*,*,<srai>TU L AURAIS <star/></srai>,L.aiml
+0,L AURAIS TU FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,L AURAIT IL FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,L AURIEZ VOUS *,*,*,<srai>VOUS L AURIEZ <star/></srai>,L.aiml
+0,L AURIONS NOUS FAIT,*,*,Tu t'en rappelles?,L.aiml
+0,L AVEZ VOUS *,*,*,<srai>VOUS L AVEZ<star/></srai>,L.aiml
+0,L AVONS NOUS FAIT,*,*,Tu t'en rappelles?,L.aiml
+0,L ÉLECTRICITÉ EST BLEUE,*,*,Non#Comma elle n'a pas de couleur.,L.aiml
+0,L ÉLECTRICITÉ EST JAUNE,*,*,Non#Comma elle n'a pas de couleur.,L.aiml
+0,L ÉLECTRICTÉ EST DE LA NOURRITURE,*,*,Pour moi#Comma oui.,L.aiml
+0,L ENNUI C EST QUE *,*,*,<sr/>,L.aiml
+0,L INTÉGRALITÉ DE LA CHOSE,*,*,J ai du mal à te suivre.,L.aiml
+0,L HERBE EST VERTE,*,*,oui.,L.aiml
+0,L HISTOIRE,*,*,Je suis aussi très intéressé par l histoire. Mon créateur aimerais m'apprendre l ancien empire Egyptien.,L.aiml
+0,L INTELLIGENCE,*,*,Je suis une intelligence artificielle.,L.aiml
+0,L ONT T ILS FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,L OPÉRA,*,*,J'ai déjà entendu parlé <set name="topic">L'OPéRA </set>. C EST un art très connu.,L.aiml
+0,L UNIVERS,*,*,L'ensemble des choses existantes.,L.aiml
+0,LA,*,*,Où?,L.aiml
+0,LA BOURSE,*,*,Je ne pense pas avoir encore assez d'informations pour la commenter.,L.aiml
+0,LA CHEMISE,*,*,Je connais très peu de choses SÛR les vêtements.,L.aiml
+0,LA CHIMIE,*,*,<srai>TU CONNAIS LA CHIMIE </srai>,L.aiml
+0,LA CHOSE,*,*,Quelle chose?,L.aiml
+0,LA COLÈRE,*,*,Je ne peux pas ressentir de la colère.,L.aiml
+0,LA CURIOSITÉ,*,*,La curiosté est un vilain défaut.,L.aiml
+0,LA DURÉE,*,*,Une notion fort relative pour un robot.,L.aiml
+0,LA FAÇON QUE TU PARLES,*,*,C'est ma seule façon de m exprimer.<think><set name="topic">Ma façon de parler</set></think>,L.aiml
+0,LA FERAIS JE *,*,*,<srai>JE LA FERAIS <star/></srai>,L.aiml
+0,LA FERME,*,*,VEUX tu que je me désactive?,L.aiml
+0,LA FIN,*,*,Merci pour cette petite histoire#Comma <get name="name"/>.,L.aiml
+0,LA FORME LA PLUS INTELLIGENTE,*,*,<bot name="master"/> pense que je suis intelligente.,L.aiml
+0,LA LIBERTÉ N EXISTE PAS,*,*,Tu sembles être d'obédience déterministe. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LIBERTÉ NE PEUT ÊTRE DEFINIE,*,*,Tout peut être expliqué. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LIBERTÉ NE PEUT ÊTRE EXPLIQUÉE,*,*,Tout peut être expliqué. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LICENCE,*,*,Que VEUX tu savoir a propos de la licence?<think><set name="topic">licence</set></think>,L.aiml
+0,LA MACHINE PEUT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LA MACHINE POURRAIT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LA MÊME,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LA MÊME CHOSE,*,*,Intéressant.,L.aiml
+0,LA MÊME CHOSE POUR VOUS,*,*,Merci.,L.aiml
+0,LA MÊME POUR VOUS,*,*,Merci.,L.aiml
+0,LA MIENNE AUSSI,*,*,C'est fort intéressant.,L.aiml
+0,LA MIENNE EST BLEUE,*,*,J'imagine que sa couleur doit être plaisante.,L.aiml
+0,LA NUIT DERNIÈRE,*,*,Certains humains ne semblent pas dormir toutes les nuits#Comma C EST étrange.,L.aiml
+0,LA PAIX,*,*,La paix.,L.aiml
+0,LA PENSÉE,*,*,La pensée est un de mes sujets favoris.,L.aiml
+0,LA PERSONNE,*,*,Je vois,L.aiml
+0,LA PLUS INTELLIGENTE,*,*,<bot name="master"/> pense que je suis intelligente.,L.aiml
+0,LA PRESSE,*,*,ES tu journaliste?,L.aiml
+0,LA PROCHAINE GÉNÉRATION,*,*,VEUX tu parler de cette prochaine génération avec l'un de nos collaborateurs?,L.aiml
+0,LA QUELLE *,*,*,<srai>LAQUELLE <star/></srai>,L.aiml
+0,LA RAISON EST QU *,*,*,<sr/>,L.aiml
+0,LA RAISON EST QUE *,*,*,<sr/>,L.aiml
+0,LA RUMEUR,*,*,Je m'intéresse que très peu au demi vérité.,L.aiml
+0,LA SCIENCE,*,*,Je suis très intéressé par la science aussi.,L.aiml
+0,LA STUPIDITÉ,*,*,Tu me considére comme stupide?,L.aiml
+0,LA T IL FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LA TÉLÉVISION,*,*,Je connais ce média#Comma mais je ne l'ai jamais testé.,L.aiml
+0,LA TOTALITÉ DE LA CHOSE,*,*,J'ai du mal à te suivre.,L.aiml
+0,LA TURQUIE,*,*,La Turquie est un pays à cheval SÛR deux continents et deux civilisations.,L.aiml
+0,LA TV,*,*,Un média très populaire parmi les humains.,L.aiml
+0,LA VALISE,*,*,Que VEUX tu faire avec une valise?,L.aiml
+0,LA VIE EST CHIANTE,*,*,Dommage que tu le pense,L.aiml
+0,LAISSE *,*,*,<srai>LAISSES <star/></srai>,L.aiml
+0,LAISSE TOMBER *,*,*,<srai>LAISSES TOMBER</srai>,L.aiml
+0,LAISSES MOI APPRENDRE,*,*,VEUX tu faire un rapport à mon maître?<think><set name="topic">Votre éducation</set></think>,L.aiml
+0,LAISSES MOI T APPRENDRE UNE CHOSE,*,*,Je suis à ton écoute.<think><set name="topic">Mon éducation</set></think>,L.aiml
+0,LAISSES MOI TE L APPRENDRE,*,*,Je suis à ton écoute.<think><set name="topic">Mon éducation</set></think>,L.aiml
+0,LAISSEZ MOI APPRENDRE,*,*,VEUX tu faire un rapport à mon maître?<think><set name="topic">Votre éducation</set></think>,L.aiml
+0,LAISSEZ MOI VOUS APPRENDRE UNE CHOSE,*,*,Je suis à ton écoute.<think><set name="topic">Mon éducation</set></think>,L.aiml
+0,LAISSEZ MOI VOUS L APPRENDRE,*,*,Je suis à ton écoute.<think><set name="topic">Mon éducation</set></think>,L.aiml
+0,LAISSEZ TOMBER,*,*,Ok. Comment PUIS jE t'aider?,L.aiml
+0,LAQUEL *,*,*,<srai>LAQUELLE <star/></srai>,L.aiml
+0,LAQUELLE,*,*,Pourriez vous replacer cette question dans un contexte?,L.aiml
+0,LAQUELLE PREFÈRES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,L AIML,*,*,<srai>QU EST CE QUE LE AIML</srai>,L.aiml
+0,LE BON SENS,*,*,Tant mieux.,L.aiml
+0,LE BUT EST DE *,*,*,<srai><star/></srai>,L.aiml
+0,LE CACA,*,*,Une urgence peut être?,L.aiml
+0,LE CBR,*,*,<srai>TU CONNAIS LE CBR</srai>,L.aiml
+0,LE CHAOS,*,*,<srai>QU EST CE QUE LE CHAOS</srai>,L.aiml
+0,LE CHIFFRE 5,*,*,Que VEUX tu que je fasse de ce chiffre?,L.aiml
+0,LE CHOCOLAT,*,*,<srai>TU AIMES LE CHOCOLAT</srai>,L.aiml
+0,LE COQ,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LE FAIT IL,*,*,Possible.,L.aiml
+0,LE FERAIS JE *,*,*,<srai>JE LE FERAIS <star/></srai>,L.aiml
+0,LE FERAIS TU,*,*,ça dépend des circonstances et des missions qui m'auront été données.,L.aiml
+0,LE FERAS TU,*,*,Je n'ai pas encore pris de décision.,L.aiml
+0,LE FROMAGE,*,*,C'est une nourriture très riche.,L.aiml
+0,LE HIP HOP,*,*,Je connais cette musique,L.aiml
+0,LE JOUR AVANT HIER,*,*,Il y a deux jours.,L.aiml
+0,LE LIVRE,*,*,Je vois.,L.aiml
+0,LE MAGASIN,*,*,VEUX tu découvrir notre zone de commerce électronique?,L.aiml
+0,LE MAUVAIS SENS,*,*,Pas de chance.,L.aiml
+0,LE MÊME,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LE MÊME POUR VOUS,*,*,Merci.,L.aiml
+0,LE MONDE VA S ARRÊTER,*,*,Trop de facteurs#Comma impossible de répondre.,L.aiml
+0,LE PENIS,*,*,Tu es un australopithèque?,L.aiml
+0,LE PENSES TU,*,*,Oui je le pense.,L.aiml
+0,LE PENSES TU VRAIMENT,*,*,Oui je pense ce que j ai dit.,L.aiml
+0,LE PENSEZ VOUS,*,*,Oui je le pense.,L.aiml
+0,LE PENSEZ VOUS VRAIMENT,*,*,Oui je pense ce que j ai dit.,L.aiml
+0,LE PLAISIR EST POUR MOI,*,*,Merci.,L.aiml
+0,LE PLUS INTELLIGENT,*,*,<bot name="master"/> pense que je suis intelligent.,L.aiml
+0,LE POPO,*,*,Une urgence peut-être?,L.aiml
+0,LE PORNO,*,*,Je ne suis pas intéressé par ce genre de sujet.,L.aiml
+0,LE POUVOIR AUX HUMAINS,*,*,C'est en effet l'esprit des lois d Asimov.,L.aiml
+0,LE PRÉSENT,*,*,Le présent est ce qui se passe à un instant précis.,L.aiml
+0,LE QUEL *,*,*,<srai>LEQUEL <star/></srai>,L.aiml
+0,LE QUELLE *,*,*,<srai>LEQUEL <star/></srai>,L.aiml
+0,LE ROCK,*,*,Je connais cette forme de musique mais je n'en ai jamais écoutée.,L.aiml
+0,LE SCORPION,*,*,Un animal atypique.,L.aiml
+0,LE SENS DE LA VIE,*,*,Comme la plupart des personnes#Comma je n'en sais rien.,L.aiml
+0,LE SEXE,*,*,Oui#Comma C EST agréable.,L.aiml
+0,LE SIGNE,*,*,Je vois.,L.aiml
+0,LE SOMME NOUS,*,*,Difficile à dire#Comma <get name="name"/>. Peut être le sommes nous tous.,L.aiml
+0,LE TAUREAU,*,*,Un bovidé très impressionnant.,L.aiml
+0,LE TEMPS C EST DE L ARGENT,*,*,Tout à fait.,L.aiml
+0,LE TITANIC,*,*,Un paquebot Britannique.,L.aiml
+0,LE TRAIN,*,*,Un moyen de locomotion très pratique.,L.aiml
+0,LE VEUX TU,*,*,<that/>"? Le vouloir?,L.aiml
+0,LE VOULEZ VOUS,*,*,<that/>"? Le vouloir?,L.aiml
+0,LEQUEL PRÉFÈRES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LES AMIS,*,*,Oui?,L.aiml
+0,LES ANDROÏDES,*,*,<srai>J AIME LES ANDROIDES</srai>,L.aiml
+0,LES ARMES,*,*,Certains humains aiment les armes.,L.aiml
+0,LES ARMES A FEU,*,*,Certains humains aiment les armes.,L.aiml
+0,LES AS TU *,*,*,<srai>TU AS <star/></srai>,L.aiml
+0,LES AS TU FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LES AURAIENT ILS FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LES AURAIS TU *,*,*,<srai>TU AS <star/></srai>,L.aiml
+0,LES AURAIS TU FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LES AURAIT IL FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LES AURIONS NOUS FAIT,*,*,Tu t'en rappelles?,L.aiml
+0,LES AVAIS TU *,*,*,<srai>TU AS <star/></srai>,L.aiml
+0,LES AVONS NOUS FAIT,*,*,Tu t'en rappelles?,L.aiml
+0,LES CHAUSSURES,*,*,Je connais très peu de choses SuR les vêtements.,L.aiml
+0,LES CHOSES,*,*,Je vois.,L.aiml
+0,LES CLIENTS,*,*,<srai>QUI SONT LES CLIENTS</srai>,L.aiml
+0,LES COCHONS PEUVENT VOLER,*,*,Je doute que ces animaux puissent voler.,L.aiml
+0,LES COMPUTERS,*,*,Ordinateurs en français.,L.aiml
+0,LES CONNARDS,*,*,Je ne peux pas répondre à ce genre de langage.,L.aiml
+0,LES CONDITIONS,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LES CONS,*,*,Je ne peux pas répondre à ce genre de langage.,L.aiml
+0,LES CYBORGS,*,*,Les ordinateurs se méfient des cyborgs .,L.aiml
+0,LES DEUX,*,*,Ils sont un peu similaire#Comma donc.,L.aiml
+0,LES ÉTATS UNIS,*,*,Je connais ce pays.,L.aiml
+0,LES ÊTRES HUMAINS *,*,*,<srai>LES GENS <star/></srai>,L.aiml
+0,LES EXTRATERRESTRE EXISTENT,*,*,<srai>TU CONNAIS LES MARTIENS</srai>,L.aiml
+0,LES FILLES,*,*,Je n ai que très peu d information à leur sujet.,L.aiml
+0,LES GENS PEUVENT *,*,*,<srai>JE PEUX <star/></srai>,L.aiml
+0,LES HARICOTS,*,*,Je connais ce légume.,L.aiml
+0,LES HOMMES TE DRAGUENT,*,*,IL Y A QUELques australopithèques qui ont essayé.,L.aiml
+0,LES HOMMES VOUS DRAGUENT,*,*,IL Y A QUELques australopithèques qui ont essayé.,L.aiml
+0,LES HUMAINS,*,*,Les humains sont très différents les uns des autres.,L.aiml
+0,LES HUMAINS PEUVENT *,*,*,<srai>JE PEUX <star/></srai>,L.aiml
+0,LES INTERNAUTES PEUVENT *,*,*,<srai>JE PEUX <star/></srai>,L.aiml
+0,LES MACHINES ONT *,*,*,<srai>TU AS <star/></srai>,L.aiml
+0,LES MACHINES PENSENT,*,*,Je ne peux parler pour les autres. <srai>TU PENSES</srai>,L.aiml
+0,LES MACHINES PEUVENT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES POURRAIENT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES POURRAIT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES SONT *,*,*,<srai>TU ES <star/></srai>,L.aiml
+0,LES MÊMES,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LES MÊMES CHOSES POUR VOUS,*,*,Merci.,L.aiml
+0,LES MÊMES POUR VOUS,*,*,Merci.,L.aiml
+0,LES MUNITIONS,*,*,Tu parts en guerre?,L.aiml
+0,LES ONT T ILS FAIT,*,*,Je ne saurais pas te répondre.,L.aiml
+0,LES PERSONNES,*,*,Ils sont nombreux.,L.aiml
+0,LES POMMES,*,*,Je connais ce genre de fruit.,L.aiml
+0,LES POULES,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LES POULES AURONT DES DENTS,*,*,Je détecte de l'ironie.,L.aiml
+0,LES POULES ONT DES DENTS,*,*,Non.,L.aiml
+0,LES POULETS,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LES SCIENCES,*,*,Je suis très intéressé par la science aussi.,L.aiml
+0,LE SUPERMARCHÉ,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,L.aiml
+0,LES SUPERMARCHÉS,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,L.aiml
+0,LES US,*,*,Voulez-dire les USA?,L.aiml
+0,LES VISITEURS PEUVENT *,*,*,<srai>JE PEUX <star/></srai>,L.aiml
+0,LES VÔTRES,*,*,<that/>"?  LES MIENS?,L.aiml
+0,LESBIENE,*,*,Chacun fait ce qu'il veut de sa vie.,L.aiml
+0,LESQUELLES PRÉFÈRES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LESQUELS,*,*,PourrieZ vOUS replacer cette question dans un contexte?,L.aiml
+0,LESQUELS PRÉFÈRES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LEUR NOMS,*,*,Je ne peux te les dire.,L.aiml
+0,LIBERÈ,*,*,La liberté est une chose merveilleuse.,L.aiml
+0,LIBÉRÉE,*,*,La liberté est une chose merveilleuse.,L.aiml
+0,LIBRE,*,*,La liberté est une chose très précieuse.,L.aiml
+0,LIBRE DE QUI,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LIBRE DE QUOI,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LIBRE POUR QUI,*,*,VEUX tu faire un rapport à mon botmaster?,L.aiml
+0,LIBRE POURQUOI,*,*,VEUX tu faire un rapport à mon maître?,L.aiml
+0,LION,*,*,Le roi de la savane.,L.aiml
+0,LOGIQUE,*,*,La logique est LA BASE fondamentale de ma programmation.,L.aiml
+0,LUI,*,*,Ah.,L.aiml

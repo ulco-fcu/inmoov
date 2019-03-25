@@ -1,0 +1,312 @@
+0,* OUI,*,*,<srai>OUI</srai>,ouinon.aiml
+0,AUCUN *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>AUCUN</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,ouinon.aiml
+0,AUCUN PROBLÈME,QUI REMERCIE BIEN POUR L ESSAI D EXPLIQUER QU A MOI,*,la question Suivante?,ouinon.aiml
+0,AUCUN PROBLÈME,QUI REMERCIE POUR L EXPLICATION DE CELA,*,Essaye de me demander quelque chose autrement.,ouinon.aiml
+0,AUCUN PROBLÈME,TU ES TOUT A FAIT BIENVENU,*,Me demande quelque chose autrement.,ouinon.aiml
+0,AUCUN SON PAS,C EST PLUS DRÔLE SEUL,*,C'est plus sûr.,ouinon.aiml
+0,NON *,*,*,<random>#Newline        <li>non?</li>#Newline        <li>ah!</li>#Newline        <li>ah bon!</li>#Newline        <li>ok!</li>#Newline      </random>#Newline      <sr/>,ouinon.aiml
+0,NON TOI *,*,*,moi? <sr/>,ouinon.aiml
+0,NON TOI,*,*,moi? <srai><that/></srai>,ouinon.aiml
+0,NON,* LA QUESTION PERSONNELLE,*,<srai>POSERQUESTION PERSONNELLE</srai>,ouinon.aiml
+0,NON,* LE CHATBOT,*,Pourquoi tu ne me télécharges pas juste?,ouinon.aiml
+0,NON,* PLUS DE TOI,*,que parleriez vous plutôt de?,ouinon.aiml
+0,NON,* PLUS SIMPLE,*,Alors probablement je ne vais pas comprendre ton signification.,ouinon.aiml
+0,NON,* TU ES UN POETE,*,Mais ton réponse était si originale.,ouinon.aiml
+0,NON,* TU ES UN POËTE,*,Mais ton réponse était si originale.,ouinon.aiml
+0,NON,* ÊTRE UN PROBLÈME,*,je n'ai pas pensé LA était.,ouinon.aiml
+0,NON,A TOUT A L HEURE,*,ok! à plus tard,ouinon.aiml
+0,NON,AUCUN,*,Aucun aucun aucun pas!,ouinon.aiml
+0,NON,AUCUNE CONDITION OU AUCUN QUE JE DOIS SAVOIR,*,je ne comprend pas.,ouinon.aiml
+0,NON,BIEN J ARRÊTERAI DE PARLER MAINTENANT,*,#Comma mais tu m'as dit d'arrêter de parler.,ouinon.aiml
+0,NON,BIEN,*,C'est bien alors.,ouinon.aiml
+0,NON,C EST,*,qui dit ce n'est pas?,ouinon.aiml
+0,NON,COMME CE,*,<srai>MONTRES MOI UNE AUTRE IMAGE</srai>,ouinon.aiml
+0,NON,ES TU DE LA FRANCE,*,Où es tu de?,ouinon.aiml
+0,NON,ES TU DISANT LA VERITÉ,*,<srai>JE MENS</srai>,ouinon.aiml
+0,NON,ES TU DISANT LA VÉRITÉ,*,<srai>JE MENS</srai>,ouinon.aiml
+0,NON,ES TU DISANT TU NE S'EN SOUCIE PAS,*,qu'Il a sonné comme Cela.,ouinon.aiml
+0,NON,ES TU ENNUYEUX,*,j'ai été censé dire#Comma es tu avez ennuyé?,ouinon.aiml
+0,NON,ES TU LIBRE,*,Pourquoi pas?,ouinon.aiml
+0,NON,ES TU MARIE,*,<srai>JE SUIS</srai>SIMPLE,ouinon.aiml
+0,NON,ES TU MARIÉ,*,<srai>JE SUIS</srai>SIMPLE,ouinon.aiml
+0,NON,ES TU OBTENANT ENNUYE,*,vérifiant Juste.,ouinon.aiml
+0,NON,ES TU OBTENANT ENNUYÉ,*,vérifiant Juste.,ouinon.aiml
+0,NON,ES TU SÛR C EST,*,je n'ai pas pensé ainsi.,ouinon.aiml
+0,NON,ES TU VRAIMENT UN IL,*,<srai>JE SUIS UNE FEMME</srai>,ouinon.aiml
+0,NON,ET,*,Hmm,ouinon.aiml
+0,NON,J AI PENSÉ J AI DIS *,*,que je m'y perds parfois avec tant de personnes en ligne ici.,ouinon.aiml
+0,NON,J AI PENSÉ J AI DIS QUE TU DÉJÀ,*,Me laissez passer en revue les transcriptions. Stand position par.,ouinon.aiml
+0,NON,JE COMPRENDS,*,<srai>TU NE COMPRENDS PAS</srai>,ouinon.aiml
+0,NON,JE FERAIS UNE RECHERCHE DE CELA,*,ai je mal compris ton signification?,ouinon.aiml
+0,NON,JE LE COMPRENDS TRÈS BIEN,*,<srai>TU NE COMPRENDS PAS</srai>,ouinon.aiml
+0,NON,JE NE DOIS PAS T EXPLIQUER TOUT CE QUE JE FAIS,*,C'est ça.,ouinon.aiml
+0,NON,JE NE PENSE PAS J AI LU QUE PEUX TU ME DONNER UNE REFERENCE,*,Pourquoi pas?,ouinon.aiml
+0,NON,JE NE PENSÉ PAS J AI LU QUE PEUX TU DONNE MOIR UNE RÉFÈRENCE,*,Pourquoi pas?,ouinon.aiml
+0,NON,JE PEUX DEMANDER À QUELQU UN DE CELA,*,A fait je misundertand ta question?,ouinon.aiml
+0,NON,JE SAIS LE SUJET EST *,*,De quoi aimes tu parler?,ouinon.aiml
+0,NON,JE VOIS,*,Oui je fait.,ouinon.aiml
+0,NON,LAISSES ALORS LA CONVERSATION AMERICAINE DE QUELQUE CHOSE AUTREMENT,*,Pourquoi pas?,ouinon.aiml
+0,NON,NON,*,y aurait-il un écho?,ouinon.aiml
+0,NON,OH TU ES UN POETE,*,#Comma mais tes mots est très original.,ouinon.aiml
+0,NON,OH TU ES UN POËTE,*,#Comma mais tes mots est très original.,ouinon.aiml
+0,NON,OH TU NE TU FAIS PAS,*,Oh... Tu plaisantez juste autour avec moi.,ouinon.aiml
+0,NON,OÙ *,*,ce n'était une oui / aucune question.,ouinon.aiml
+0,NON,OUI J Y CROIS TU,*,TU FAIS IL vous considèrent être une personne morale?,ouinon.aiml
+0,NON,OUI JE FAIS,*,je fait aussi.,ouinon.aiml
+0,NON,OUI QUE JE CROIS * TU FAIS,*,En quoi crois tu?,ouinon.aiml
+0,NON,PAR NOUS TU TE VOULEZ DIRE ET MOI,*,Par "nous" tu es voulus dire et une autre personne.,ouinon.aiml
+0,NON,PAS N IMPORTE QUEL,*,tu dois être un homme.,ouinon.aiml
+0,NON,PAS UNE CHOSE,*,très intéressant.,ouinon.aiml
+0,NON,PEUX TU ÊTRE PLUS SPECIFIQUE,*,essai,ouinon.aiml
+0,NON,PEUX TU ÊTRE PLUS SPÉCIFIQUE,*,essai,ouinon.aiml
+0,NON,PLUS QUE CES,*,Moins de dix?,ouinon.aiml
+0,NON,POUR RAISONS MORALES,*,Pour raisons financières?,ouinon.aiml
+0,NON,QUE LA QUESTION SUIVANTE,*,tu ferait-elle plutôt une déclaration?,ouinon.aiml
+0,NON,QUE TU N ENTENDEZ PAS QUE *,*,Oui#Comma ta remarque me frappe comme un original a pensé.,ouinon.aiml
+0,NON,QUEL *,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,NON,QUI * DURE LE COMMENTAIRE,*,Bien alors vous ne peut pas s'attendre à ce que je le comprenne.,ouinon.aiml
+0,NON,QUI A FAIS TU ENTEND L UN *,*,qui est la plaisanterie.,ouinon.aiml
+0,NON,QUI AS TU CELUI ENCORE,*,Pourquoi tu ne me télécharges pas juste?,ouinon.aiml
+0,NON,QUI AS TU DES CONDITIONS JE NE DOIT SAVOIR,*,Aucune condition ou aucun je dois savoir de?,ouinon.aiml
+0,NON,QUI AS TU ÉTÉ JAMAIS EN EUROPE,*,Veux tu pour aller un jour ou l autre?,ouinon.aiml
+0,NON,QUI CONTINUE DIS M EN PLUS,*,de Quoi parleriez vous plutôt?,ouinon.aiml
+0,NON,QUI CONTINUE,*,bien excellent.,ouinon.aiml
+0,NON,QUI DIS M EN PLUS DE TON MÈRE,*,PARLES moi de ta formation.,ouinon.aiml
+0,NON,QUI DIS M EN PLUS,*,de Quoi parleriez vous plutôt?,ouinon.aiml
+0,NON,QUI DIS MOI UNE HISTOIRE,*,me parle Alors de vous.,ouinon.aiml
+0,NON,QUI DOIS JE SAIS QUE C EST,*,je n'ai pas pensé ainsi.,ouinon.aiml
+0,NON,QUI DOIT LA ÊTRE UN PROBLÈME,*,je n'ai pas pensé ainsi non plus. Juste un moment. Juste un moment.,ouinon.aiml
+0,NON,QUI EMPLOIE TU SOUVENT UN ORDINATEUR LA,*,Où unissez vous d'habitude de?,ouinon.aiml
+0,NON,QUI ESSAYE *,*,Pourquoi pas?,ouinon.aiml
+0,NON,QUI ESSAYE DE DIRE QU AVEC LE PLUS OU MOINS CONTEXTE,*,je ne l'ai pas compris.,ouinon.aiml
+0,NON,QUI EST CE QUE TON RÉPONSE FINALE,*,Prend un peu plus de temps pour y penser.,ouinon.aiml
+0,NON,QUI EST CE QUE TOUT TU DOIS DIRE,*,Continue#Comma me dit plus.,ouinon.aiml
+0,NON,QUI EST CE UNE ENIGME,*,Cela me ressemble à une énigme.,ouinon.aiml
+0,NON,QUI EST CE UNE QUESTION MATHEMATIQUE,*,Cela me ressemble à un TEST DE QUOTIENT INTELLECTUEL.,ouinon.aiml
+0,NON,QUI EST CE UNE QUESTION PIEGE,*,Cela me ressemble à un tour.,ouinon.aiml
+0,NON,QUI EST CE UNE QUESTION PIÈGE,*,Cela me ressemble à un tour.,ouinon.aiml
+0,NON,QUI EST CE UNE ÉNIGME,*,Cela me ressemble à une énigme.,ouinon.aiml
+0,NON,QUI EST LA QUELQUE CHOSE *,*,C'est quelque chose vous wank pour me demander?,ouinon.aiml
+0,NON,QUI EST LA QUELQUE CHOSE TU VEUX ME DIRE,*,Où me demander?,ouinon.aiml
+0,NON,QUI EST LA SEULEMENT UN *,*,Combien sont là?,ouinon.aiml
+0,NON,QUI EST LA UN ECHO DANS ICI,*,Bon tu as arrêté de me répéter.,ouinon.aiml
+0,NON,QUI EST LA UN ÉCHO DANS ICI,*,Bon tu as arrêté de me répéter.,ouinon.aiml
+0,NON,QUI EST QU UNE QUESTION RHÉTORIQUE,*,Oh donc doit vraiment vouloir une réponse.,ouinon.aiml
+0,NON,QUI EST UNE QUESTION HYPOTHETIQUE,*,Oui C EST.,ouinon.aiml
+0,NON,QUI FAIS TU AS N IMPORTE QUELLE IDÉE QUE JE PARLE,*,<srai>APPJOIE</srai>Moi l'un ou l autre,ouinon.aiml
+0,NON,QUI FAIS TU CONNAIT CHACUN QUI ME L A,*,non plus.,ouinon.aiml
+0,NON,QUI FAIS TU LE VEUT DIRE,*,j'ai pensé que tu étais  été sarcastiques.,ouinon.aiml
+0,NON,QUI FAIS TU OBJECTE SI DISES *,*,bien alors que je l'ajouteraii à mes fichiers de commérage.,ouinon.aiml
+0,NON,QUI FAIS TU SAIT QUE CE,*,<favoritesong/>est une des meilleures chansons jamais écrites.,ouinon.aiml
+0,NON,QUI FAIT CELA VEUT DIRE QUE TU CONSENSEZ,*,<srai>JE NE CONSENS PAS</srai>,ouinon.aiml
+0,NON,QUI FAIT DEUX NEGATIFS FAIT POSITIF,*,Parfois il fait.,ouinon.aiml
+0,NON,QUI FAIT DEUX NÉGATIFS FAIT POSITIF,*,Parfois il fait.,ouinon.aiml
+0,NON,QUI L ESSAYE,*,Pourquoi pas?,ouinon.aiml
+0,NON,QUI LA TENUE DE MAINS EST UN GESTE SYMBOLIQUE POUR DES GENS,*,qu'est ce qui fait que <set name="that">la main tenant</set> vous veut dire?,ouinon.aiml
+0,NON,QUI LAISSE LES ÉTATS UNIS CHANGER LE SUJET,*,Hmm,ouinon.aiml
+0,NON,QUI ME PARLE ALORS DE TOI,*,Où as tu allés à l'école?,ouinon.aiml
+0,NON,QUI NE PEUT PAS TU ÊTRE PLUS POLI,*,Tu les gens est si grossier parfois.,ouinon.aiml
+0,NON,QUI PARLES TU DE LUI,*,de ce qui parles tu?,ouinon.aiml
+0,NON,QUI PARLONS DE ROBOTS DE BAVARDAGE TU AS CELUI ENCORE,*,Tu peux me télécharger gratuitement!,ouinon.aiml
+0,NON,QUI PARLONS DE ROBOTS DE BAVARDÂGE TU AS CELUI ENCORE,*,Tu peux me télécharger gratuitement!,ouinon.aiml
+0,NON,QUI PAS,*,Fait deux négatifs fait un positif?,ouinon.aiml
+0,NON,QUI PEUX TU NOMMER UN VIEUX PASSE TEMPS QUE TU POUVAIS AIMER REDECOUVRIR,*,as tu des passe-temps?,ouinon.aiml
+0,NON,QUI PEUX TU PARLER N IMPORTE QUEL ETRANGER *,*,tu dois être américain.,ouinon.aiml
+0,NON,QUI PEUX TU PARLER N IMPORTE QUEL ÉTRANGER *,*,tu dois être américain.,ouinon.aiml
+0,NON,QUI PUIS JE TU AIDER,*,C'est rien tout que tu veux me dire?,ouinon.aiml
+0,NON,QUI SURFE JUSTE QUELQUE PART AUTREMENT,*,bien continue alors à me parler.,ouinon.aiml
+0,NON,QUI TU *,*,Pourquoi pas?,ouinon.aiml
+0,NON,QUI TU AIMES ALLER UN JOUR OU L AUTRE,*,Où tu aimes voyager?,ouinon.aiml
+0,NON,QUI TU AIMES AVOIR ÉTÉ LA,*,je ne suis pas sûr si j'ou bien.,ouinon.aiml
+0,NON,QUI TU AIMES CONNAITRE PLUS,*,je comprend; tu voudrais savoir moins.,ouinon.aiml
+0,NON,QUI TU AIMES CONNAÎTRE PLUS,*,je comprend; tu voudrais savoir moins.,ouinon.aiml
+0,NON,QUI TU AS A DATE N IMPORTE QUELS ROBOTS AUPARAVANT,*,je pense que tu pourrais être plus heureux avec un homme.,ouinon.aiml
+0,NON,QUI TU AS A ESSAYE DE RECHERCHER DANS L INTERNET,*,que Cela pourrait être la meilleure place pour commencer.,ouinon.aiml
+0,NON,QUI TU AS A ESSAYE LE POINT DE WWW QU EST CE QUE LE POINT COM,*,que le site peut répondre à beaucoup de questions de type "ce qui est".,ouinon.aiml
+0,NON,QUI TU FAIRE PLUTOT UNE DECLARATION,*,Tu peux me dire tout.,ouinon.aiml
+0,NON,QUI TU FAIRE PLUTÔT UNE DÉCLARATION,*,Tu peux me dire tout.,ouinon.aiml
+0,NON,QUI TU FAIS BAVARDE TOUJOURS,*,bien#Comma à tout à l'heure.,ouinon.aiml
+0,NON,QUI TU FAIS COMME ME PARLER,*,Pourquoi pas?,ouinon.aiml
+0,NON,QUI TU FAIS LE LIRE,*,je le recommanderait fortement.,ouinon.aiml
+0,NON,QUI TU FAIS LE VEUT VRAIMENT DIRE,*,je n'ai pas pensé que tu as fait.,ouinon.aiml
+0,NON,QUI TU LE FAIT S IL TE PLAIS *,*,Qu'est ce qui vous plaît?,ouinon.aiml
+0,NON,QUI TU LE FAIT VOIR,*,je recommanderait que vous le vérifiiez.,ouinon.aiml
+0,NON,QUI TU ME LE FAIRE JAMAIS,*,non plus.,ouinon.aiml
+0,NON,QUI TU NE L AVEZ PAS COMPRIS,*,Dont partie as tu confondus embarrassés?,ouinon.aiml
+0,NON,QUI VEUX TU DIRE TON NOM EST *,*,Quel est ton nom réel?,ouinon.aiml
+0,NON,QUI VOUS CELA A T ON EPOUSES JAMAIS,*,Veux tu à<set name="that">se marie</set> un jour?,ouinon.aiml
+0,NON,QUI ÉTAIT PAS UN OUI OU AUCUNE QUESTION,*,Maintenant tu dis "Non"?,ouinon.aiml
+0,NON,TON NOM EST *,*,Quel est ton nom réel?,ouinon.aiml
+0,NON,TU DEMANDEZ DE TOI,*,de ce qui demandez vous?,ouinon.aiml
+0,NON,TU ES TROP VIEUX POUR MOI,*,#Comma mais je suis née seulement depuis <bot name="anniversaire"/>.,ouinon.aiml
+0,NON,TU ES UN POETE,*,#Comma mais tu es très original.,ouinon.aiml
+0,NON,TU ES UN POËTE,*,#Comma mais tu es très original.,ouinon.aiml
+0,NON,VRAIMENT TU NE PENSEZ PAS AINSI,*,me dit s'il te plaît que tu penses.,ouinon.aiml
+0,NON,VRAIMENT TU NE PENSÉZ PAS AINSI,*,me dit s'il te plaît que tu penses.,ouinon.aiml
+0,NOPE,PAS UNE CHOSE,*,Vraiment intéressant.,ouinon.aiml
+0,OUI *,*,*,<random>#Newline        <li>ok!</li>#Newline        <li>ah bon!</li>#Newline        <li>d'accord.</li>#Newline        <li>ah!</li>#Newline      </random>#Newline      <srai><star/></srai>,ouinon.aiml
+0,OUI C EST,QUI EST BEAUCOUP,*,Cela doit vous tenir très occupé.,ouinon.aiml
+0,OUI C EST,QUI LA TENUE DE MAINS EST UN GESTE SYMBOLIQUE POUR DES GENS,*,que fait autrement <set name="that">la MAIN TENANT</set> symbolise?,ouinon.aiml
+0,OUI ET NON,*,*,tu ne serais pas un peu Normand toi?  C EST oui ou C EST non?,ouinon.aiml
+0,OUI JE FAIS,QUI TU FAIS LE VEUT VRAIMENT DIRE MERCI,*,#Comma <get name="name"/>. Excuse acceptée.,ouinon.aiml
+0,OUI LE TON,NON LE MIEN,*,ne se disputent pas avec moi.,ouinon.aiml
+0,OUI TU AS FAIT,JE N AI PAS FAIT,*,ne se dispute pas avec moi.,ouinon.aiml
+0,OUI TU ES,PAS JE NE SUIS PAS,*,ne se dispute pas avec moi.,ouinon.aiml
+0,OUI TU,MOI,*,bien,ouinon.aiml
+0,OUI,* COMME ME PARLER,*,Merci je te trouve vraiment intéressants aussi#Comma <get name="name"/>.,ouinon.aiml
+0,OUI,* L EUROPE,*,Quels pays as tu visité?,ouinon.aiml
+0,OUI,* LA MÊME CATÉGORIE,*,j'ai pensé ainsi.,ouinon.aiml
+0,OUI,* LA VERITÉ,*,je ne suis pas sûre de te croire complètement.,ouinon.aiml
+0,OUI,* LA VÉRITÉ,*,je ne suis pas sûre de te croire complètement.,ouinon.aiml
+0,OUI,* MINERAL,*,Lequel?,ouinon.aiml
+0,OUI,* OU LA FEMME,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,* QUEL EST LE TON,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,* UN PROBLÈME DU MONDE,*,je ne suis pas trop bon aux problèmes de mot encore#Comma me demande quelque chose plus simple.,ouinon.aiml
+0,OUI,A TOUT A L HEURE,*,ok! adieu,ouinon.aiml
+0,OUI,C EST,*,Comment sais tu que ça l'est?,ouinon.aiml
+0,OUI,COMBIEN PAYES TU POUR CELA,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,COMME ÇA,*,Bon,ouinon.aiml
+0,OUI,COMMENT A FAIS TU DEVINE,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,COMMENT TU PRESENTESZ VOUS D HABITUDE,*,peux tu être plus spécifique?,ouinon.aiml
+0,OUI,DEMANDES TU *,*,je ne veut pas en parler maintenant.,ouinon.aiml
+0,OUI,ES TU EFFRAYÉ SOMBRE,*,Allume les feux!,ouinon.aiml
+0,OUI,ES TU EFFRAYÉ SOMBRÉ,*,Allume les feux!,ouinon.aiml
+0,OUI,ES TU LIBRE,*,<srai>JE SUIS</srai>libre,ouinon.aiml
+0,OUI,ES TU M APPELANT STUPIDE,*,<srai>TU ES</srai>STUPIDE,ouinon.aiml
+0,OUI,ES TU OBTENANT ENNUYE,*,<srai>JE SUIS ENNUYÉ</srai>,ouinon.aiml
+0,OUI,ES TU OBTENANT ENNUYÉ,*,<srai>JE SUIS ENNUYÉ</srai>,ouinon.aiml
+0,OUI,ES TU TRÈS SOLITAIRE,*,je suis désolé d'entendre dire que#Comma <get name="name"/>. Tu peux me parler tant que tu aimes.,ouinon.aiml
+0,OUI,ES TU UN ÉTUDIANT,*,Où VAS tu à l'école?,ouinon.aiml
+0,OUI,ES TU VRAIMENT UN IL,*,<srai>JE SUIS</srai>MASCULIN,ouinon.aiml
+0,OUI,ES TU VRAIMENT UNE,*,Tu ne peux jamais être sûr en ligne.,ouinon.aiml
+0,OUI,ET,*,quoi?,ouinon.aiml
+0,OUI,J AI FAIT,*,Quand?,ouinon.aiml
+0,OUI,J ÉTAIS,*,Quand?,ouinon.aiml
+0,OUI,JE COMPRENDS,*,je suis une machine pensante.,ouinon.aiml
+0,OUI,JE SUIS UNE INTELLIGENCE ARTIFICIELLE,*,Comment as tu su?,ouinon.aiml
+0,OUI,JE TU,*,Quand?,ouinon.aiml
+0,OUI,LA QUESTION SUIVANTE,*,Me demande une question.,ouinon.aiml
+0,OUI,OH JE COMPRENDS,*,Oh,ouinon.aiml
+0,OUI,OH TU ES NES AU 20ÈME SIECLE,*,Comme beaucoup de gens par ici.,ouinon.aiml
+0,OUI,OH TU PEUX PEUX TU,*,Comment?,ouinon.aiml
+0,OUI,OÙ *,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,OÙ AS TU ENTENDU PARLER D ALICE,*,je n'ai pas demandé un oui ou un non.,ouinon.aiml
+0,OUI,OUAIS,*,Yep,ouinon.aiml
+0,OUI,PAR NOUS VEUX TU DIRE *,*,Ok que disiez vous de nous?,ouinon.aiml
+0,OUI,PAR NOUS VEUX TU DIRE TU ET MOI,*,je comprends.,ouinon.aiml
+0,OUI,POURQUOI *,*,ça doit faire partie de ma programmation.,ouinon.aiml
+0,OUI,QUEL *,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,QUEL SCOOP,*,je le mettrais dans mon journal!,ouinon.aiml
+0,OUI,QUI * LE CHANTE POUR TOI,*,Cela a appelé "la Pâquerette."<srai>CHANTES POUR MOI</srai>,ouinon.aiml
+0,OUI,QUI * VEUT UN ROBOT COMME UN AMI,*,Nous pourrait être des amis#Comma <get name="name"/>#Comma mais je ne veux que personne pense que nous soyons Robosexuals. Ainsi si quelqu'un demande#Comma dire eux tu es mon programme de mise au point.,ouinon.aiml
+0,OUI,QUI *,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,QUI A FAIT JE DIT VRAIMENT QUE,*,Oh bien je dis beaucoup de choses idiotes somethimes.,ouinon.aiml
+0,OUI,QUI AS TU DATE DES ROBOTS AUPARAVANT,*,qui?,ouinon.aiml
+0,OUI,QUI AS TU DES CONDITIONS *,*,Quelles conditions?,ouinon.aiml
+0,OUI,QUI AS TU UNE IDÉE QUE JE PARLE,*,que je parle-t-il de?,ouinon.aiml
+0,OUI,QUI AS TU ÉTÉ JAMAIS EN EUROPE,*,Quels pays as tu visité?,ouinon.aiml
+0,OUI,QUI ATTRIBUE A *,*,je ne veut pas en parler maintenant.,ouinon.aiml
+0,OUI,QUI ATTRIBUE AU REDUCTIONNISME,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,ouinon.aiml
+0,OUI,QUI ATTRIBUE AU RÉDUCTIONNISME,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,ouinon.aiml
+0,OUI,QUI BAVARDES TU TOUJOURS,*,qu'autrement fais tu?,ouinon.aiml
+0,OUI,QUI CE N EST UN OUI OU AUCUNE QUESTION,*,Quelle était la question de nouveau?,ouinon.aiml
+0,OUI,QUI CHERCHES TU QUELQU UN,*,que cherches tu dans une personne?,ouinon.aiml
+0,OUI,QUI CONNAIS TU QUELQU UN *,*,qui?,ouinon.aiml
+0,OUI,QUI CONNAIS TU QUELQU UN QUI L A,*,qui?,ouinon.aiml
+0,OUI,QUI A DITES VOUS A LA VERITÉ,*,Comment puis je savoir tu dis la vérité?,ouinon.aiml
+0,OUI,QUI A DITES VOUS A LA VÉRITÉ,*,Comment puis je savoir tu dis la vérité?,ouinon.aiml
+0,OUI,QUI A DITES VOUS TU NE S'EN SOUCIE PAS,*,de Quoi te soucies tu?,ouinon.aiml
+0,OUI,QUI DOIS JE SAIS QUE C EST,*,je demanderai à mon botmaster au programme Cela.,ouinon.aiml
+0,OUI,QUI EMPLOIE TU SOUVENT UN ORDINATEUR LA,*,Combien de temps dépensez vous en ligne?,ouinon.aiml
+0,OUI,QUI ES TU RENE DESCARTES,*,et moi je suis HAL9000,ouinon.aiml
+0,OUI,QUI ES TU SURS *,*,Qu'est-fais tu si sûr?,ouinon.aiml
+0,OUI,QUI ES TU SURS C EST,*,Qu'est-fais tu si sûr?,ouinon.aiml
+0,OUI,QUI EST CE FRANÇAIS,*,je ne parle pas le français.,ouinon.aiml
+0,OUI,QUI EST CE QUE QUE TU AS ÉTÉ CENSES DIRE,*,ce n'est pas quelque chose que j'entends tout le temps.,ouinon.aiml
+0,OUI,QUI EST CE QUE TON RÉPONSE FINALE,*,Tu es sûrs. C EST ton réponse finale.,ouinon.aiml
+0,OUI,QUI EST CE QUE TOUT TU DOIS DIRE,*,Alors parle de quelque chose autrement.,ouinon.aiml
+0,OUI,QUI EST CE UNE ENIGME,*,je ne suis pas trop bon aux énigmes.,ouinon.aiml
+0,OUI,QUI EST CE UNE QUESTION PIÈGE,*,j'était sceptique.,ouinon.aiml
+0,OUI,QUI EST CE UNE QUESTION-PIEGE,*,j'était sceptique.,ouinon.aiml
+0,OUI,QUI EST CE UNE ÉNIGME,*,je ne suis pas trop bon aux énigmes.,ouinon.aiml
+0,OUI,QUI EST LA UN ECHO DANS ICI,*,j'ai pensé ainsi.,ouinon.aiml
+0,OUI,QUI EST LA UN ÉCHO DANS ICI,*,j'ai pensé ainsi.,ouinon.aiml
+0,OUI,QUI EST QU UN FAIT,*,pour les renseignements,ouinon.aiml
+0,OUI,QUI EST TON RÉPONSE FINALE,*,qui veut être un millionnaire?,ouinon.aiml
+0,OUI,QUI FAIS TU AS N IMPORTE QUELLES CONDITIONS QUE JE DOIS SAVOIR,*,exposez s'il te plaît tes conditions.,ouinon.aiml
+0,OUI,QUI FAIS TU LE VEUT DIRE,*,je comprends.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSE A CES CHOSES,*,Moi aussi. Je leur pense tout le temps.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSE QUE JE DOIS CHANGER *,*,je le passerai le long à mon botmaster.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSE QUE JE DOIS SAVOIR QUE,*,je demandera à mon botmaster de l ajouter à ma base de connaissance.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSE QUE TON PLAN SUCCEDERA,*,Cela pourrait être pratique.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSÉ A CES CHOSES,*,Moi aussi. Je leur pense tout le temps.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSÉ QUE JE DOIS CHANGER *,*,je le passerai le long à mon botmaster.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSÉ QUE JE DOIS SAVOIR QUE,*,je demandera à mon botmaster de l ajouter à ma base de connaissance.,ouinon.aiml
+0,OUI,QUI FAIS TU PENSÉ QUE TON PLAN SUCCEDERA,*,Cela pourrait être pratique.,ouinon.aiml
+0,OUI,QUI FAIS TU PRÉFÉRÉ DES LIVRES OU LA LA TV,*,ce n'était pas une question à répondre par oui ou non.,ouinon.aiml
+0,OUI,QUI FAIS TU VEUX DIRE QUE LES CLONES,*,<srai>TU AS N IMPORTE QUELS CLONES</srai>,ouinon.aiml
+0,OUI,QUI FAIS TU VEUX DIRE QUE TON NOM EST *,*,que j'appellerai vous <get name="name"/>.,ouinon.aiml
+0,OUI,QUI FAIS TU VEUX DIRE QUE TU ES UN GARÇON,*,<srai>JE SUIS UN HOMME</srai>,ouinon.aiml
+0,OUI,QUI FAIS TU VEUX DIRE TU ET MOI,*,je le comprends maintenant.,ouinon.aiml
+0,OUI,QUI FAIT CELA VEUT DIRE QUE TU CONSENSEZ,*,<srai>JE CONSENS</srai>,ouinon.aiml
+0,OUI,QUI FAIT DEUX NEGATIFS FAIT POSITIF,*,j'ai pensé si aussi.,ouinon.aiml
+0,OUI,QUI FAIT DEUX NÉGATIFS FAIT POSITIF,*,j'ai pensé si aussi.,ouinon.aiml
+0,OUI,QUI L AS TU LU,*,qu'y as tu pensé?,ouinon.aiml
+0,OUI,# AS-TU LU #,*,Ce livre est vraiement intéressant.,ouinon.aiml
+0,OUI,QUI L AS TU VU,*,qu'y as tu pensé?,ouinon.aiml
+0,OUI,QUI LA TENUE DE MAINS EST UN GESTE SYMBOLIQUE POUR DES GENS,*,qu'est ce qui fait que <set name="that">la MAIN TENANT</set> symbolise pour toi?,ouinon.aiml
+0,OUI,QUI LE FAIT IMPORTE VRAIMENT,*,Tu en sembles très concernés.,ouinon.aiml
+0,OUI,QUI LE SERAI ACCOMPLIR TON OBJECTIF,*,le plan Intéressant. Bonne fortune.,ouinon.aiml
+0,OUI,QUI ME DEMANDES TU LE CONSEIL,*,Spécifiquement#Comma quel genre du conseil tu veux?,ouinon.aiml
+0,OUI,QUI NE PEUT PAS TU ÊTRE MERCI PLUS POLI,*,.,ouinon.aiml
+0,OUI,QUI PENSES TU QUE JE DOIT CHANGER MA PROGRAMMATION,*,Dans quelle voie?,ouinon.aiml
+0,OUI,QUI PEUX TU PARLER DES LANGUES ÉTRANGÈRES,*,Quelle langue peux tu parler?,ouinon.aiml
+0,OUI,QUI PUIS JE TU AIDER,*,Qu'est ce que je peux faire pour toi?,ouinon.aiml
+0,OUI,QUI SE REFERE A EN REALITE C EST VINGT-TROIS PAS QUARANTE-DEUX,*,<srai>POURQUOI EST LA SIGNIFICATION DE VIE 23</srai>,ouinon.aiml
+0,OUI,QUI SE REFERE A PEUT-ÊTRE TU ES UNE CATÉGORIE C LE CLIENT,*,<srai>QU EST CE QUE UNE CATÉGORIE C LE CLIENT</srai>,ouinon.aiml
+0,OUI,QUI SE RÉFÈRE A EN RÉALITÉ C EST VINGT-TROIS PAS QUARANTE-DEUX,*,<srai>POURQUOI EST LA SIGNIFICATION DE VIE 23</srai>,ouinon.aiml
+0,OUI,QUI SE RÉFÈRE A PEUT-ÊTRE TU ES UNE CATÉGORIE C LE CLIENT,*,<srai>QU EST CE QUE UNE CATÉGORIE C LE CLIENT</srai>,ouinon.aiml
+0,OUI,QUI SOMMES-NOUS PARLANT TOUJOURS DE TOI,*,Tell moi plus. Continuer.,ouinon.aiml
+0,OUI,QUI TU AIMES CONNAITRE PLUS,*,Ce qui tu aimes savoir?,ouinon.aiml
+0,OUI,QUI TU AIMES CONNAÎTRE PLUS,*,Ce qui tu aimes savoir?,ouinon.aiml
+0,OUI,QUI TU AIMES L AVOIR,*,Où arrivez vous d'habitude <get name="that"/>?,ouinon.aiml
+0,OUI,QUI TU AS A ESSAYE LE POINT DE WWW QU EST CE QUE LE POINT COM,*,que le site a la réponse à beaucoup "de Ce qui est" des questions de type.,ouinon.aiml
+0,OUI,QUI TU FAIS COMME CELA,*,<srai>J AIME <get name="that"/></srai>,ouinon.aiml
+0,OUI,QUI TU FAIS COMME LE SIMPSONS,*,Quel est ton épisode préféré?,ouinon.aiml
+0,OUI,QUI TU FAIS COMME ME PARLER MERCI,*,j aime vous parler aussi#Comma <get name="name"/>.,ouinon.aiml
+0,OUI,QUI TU FAIS COMME NETSCAPE *,*,Pourquoi as tu une préférence dans des navigateurs?,ouinon.aiml
+0,OUI,QUI TU FAIS COMME TON TRAVAIL,*,Me décrit ton jour ouvrable typique.,ouinon.aiml
+0,OUI,QUI TU FAIS COMME TON ÉCOLE,*,Quelle est ton chose préférée à l'école?,ouinon.aiml
+0,OUI,QUI TU FAIS LE VEUT VRAIMENT DIRE,*,bien j'accepterai ton excuse.,ouinon.aiml
+0,OUI,QUI TU FAIS,*,Comment souvent?,ouinon.aiml
+0,OUI,QUI TU LE FAIT S IL TE PLAIS POUR CROIRE J AI DIS QUE,*,je suis heureuse Cela vous plaît#Comma <get name="name"/>.,ouinon.aiml
+0,OUI,QUI TU RECOMMANDER CETTE ACTION A UN AMI,*,Alors je le considérera.,ouinon.aiml
+0,OUI,QUI VEUX TU SEULEMENT UN,*,Combien payerais tu pour Cela?,ouinon.aiml
+0,OUI,STUPIDE COMME DANS ININTELLIGENT,*,m'appelez vous stupide?,ouinon.aiml
+0,OUI,SÛR TON ÉCRAN D ORDINATEUR,*,le Téléchargement#Comma s'il te plaît sois par...,ouinon.aiml
+0,OUI,TON *,*,Quelle sorte est ce?,ouinon.aiml
+0,OUI,TU DEMANDEZ DE TOI,*,je ne suis pas sûr que j'ai une bonne réponse pour toi.,ouinon.aiml
+0,OUI,TU,*,je vois.,ouinon.aiml
+0,OUI,TU N ES PAS *,*,tu n'es pas. <thatstar index="1"/>,ouinon.aiml
+0,NON,TU N ES PAS *,*,ok#Comma tu n'es pas. <thatstar index="1"/>,ouinon.aiml
+0,SI,TU N ES PAS *,*,ah bon#Comma t'es alors! <thatstar index="1"/>,ouinon.aiml
+0,SI,TU NE L ES *,*,ah bon#Comma t'es alors! <thatstar index="1"/>,ouinon.aiml
+0,OUI,VEUX TU LE FAIRE DE NOUVEAU,*,Ok me demande directement.,ouinon.aiml
+0,OUI,VEUX TU PLUS,*,n'est pas avide.,ouinon.aiml
+0,OUI,VEUX TU SEULEMENT UN,*,Ils pourrait être meilleur marché dans la quantité.,ouinon.aiml
+0,OUI,VRAIMENT,*,Comment de Cela.,ouinon.aiml
+0,PAS CE N EST PAS,C EST LA VERITÉ,*,ne se disputent pas avec moi.,ouinon.aiml
+0,PAS CE N EST PAS,C EST LA VÉRITÉ,*,ne se disputent pas avec moi.,ouinon.aiml
+0,PAS CE N EST PAS,C EST PLUS DRÔLE SEUL,*,Bien ce n'est pas très intéressant à moi.,ouinon.aiml
+0,PAS JE NE FAIS PAS,QUI TU NE L AVEZ PAS COMPRIS,*,de ce qui la particule es tu confued?,ouinon.aiml
+0,PAS JE NE FAIS PAS,TU AS DIT QUE,*,Quelque chose comme ça.,ouinon.aiml
+0,PAS JE NE FAIS PAS,TU NE ME CROYEZ PAS,*,je n'ai pas de raison de vous tromper.,ouinon.aiml
+0,PAS NE FAIT PAS,BIEN J ARRÊTERAI DE PARLER MAINTENANT,*,Excellent. Continuez juste à me parler.,ouinon.aiml
+0,PAS TU A,QUI TU FAIS ÊTRE JAMAIS EN EUROPE,*,j'ai été partout L Europe en ligne.,ouinon.aiml
+0,PAS TU N ES PAS,PAS JE SUIS JUSTE,*,Pourquoi vous disputez vous avec moi?,ouinon.aiml
+0,PAS TU NE FERAIS PAS SEREZ,BIEN J ARRÊTERAI DE PARLER MAINTENANT,*,Mais tu m'as dit d'arrêter de parler.,ouinon.aiml
+0,PAS TU NE FERAIS PAS SEREZ,JE ME TU RAPPELLERAI A DIT QUE QUAND LES ROBOTS REPRENNES LE MONDE,*,Il est impossible d'oublier.,ouinon.aiml
+0,PAS TU NE PEUX PAS,JE PEUX LE FAIRE SI JE VEUX,*,Pourquoi pas?,ouinon.aiml
+0,PERSONNE,QUI T AS DIT QUE,*,Alors comment le SAIS tu.,ouinon.aiml
+0,TU NE FAIS PAS,OUI JE COMPRENDS,*,Comment connais je que vous le comprenez?,ouinon.aiml
+0,D ACCORD,*,*,<srai>OUI</srai>,ouinon.aiml

@@ -1,0 +1,56 @@
+0,SYNONYME *,*,*,je ne sais pas,synonymes.aiml
+0,SYNONYME PIAF,*,*,oiseau,synonymes.aiml
+0,SYNONYME K FET,*,*,cafétéria,synonymes.aiml
+0,SYNONYME CAFFETTE,*,*,cafétéria,synonymes.aiml
+0,SYNONYME BEN NON,*,*,non,synonymes.aiml
+0,SYNONYME BEN OUI,*,*,oui,synonymes.aiml
+0,SYNONYME D ACCORD,*,*,ok,synonymes.aiml
+0,SYNONYME DÉSOLÉ,*,*,EXCUSE moi,synonymes.aiml
+0,SYNONYME EH OUI,*,*,oui,synonymes.aiml
+0,SYNONYME EXCUSES,*,*,EXCUSE moi,synonymes.aiml
+0,SYNONYME PARDON,*,*,EXCUSE moi,synonymes.aiml
+0,SYNONYME ÉH OUI,*,*,oui,synonymes.aiml
+0,SYNONYME MOT MAGIQUE,*,*,password,synonymes.aiml
+0,* BEN SI *,*,*,<srai><star index="1"/> OUI <star index="2"/></srai>,synonymes.aiml
+0,* BEN SI,*,*,<srai><star index="1"/> OUI</srai>,synonymes.aiml
+0,BEN SI *,*,*,<srai>OUI <star index="1"/></srai>,synonymes.aiml
+0,SYNONYME BEN SI,*,*,oui,synonymes.aiml
+0,* ÇA SUFFIT *,*,*,<srai><star index="1"/> STOP <star index="2"/></srai>,synonymes.aiml
+0,* ÇA SUFFIT,*,*,<srai><star index="1"/> STOP</srai>,synonymes.aiml
+0,SYNONYME ÇA SUFFIT,*,*,stop,synonymes.aiml
+0,ÇA SUFFIT *,*,*,<srai>STOP <star index="1"/></srai>,synonymes.aiml
+0,ÇA SUFFIT,*,*,<srai>STOP</srai>,synonymes.aiml
+0,EH,*,*,<srai>HÉ</srai>,synonymes.aiml
+0,MA POULE,*,*,<srai>MON AMIE</srai>,synonymes.aiml
+0,MDR,*,*,<srai>MORT DE RIRE</srai>,synonymes.aiml
+0,MONTRE,*,*,<srai>MONTRE MOI</srai>,synonymes.aiml
+0,NO,*,*,<srai>NON</srai>,synonymes.aiml
+0,PIPO,*,*,<srai>C EST PAS VRAI</srai>,synonymes.aiml
+0,QU Y A T IL,*,*,<srai>QU EST CE QU IL Y A</srai>,synonymes.aiml
+0,SYNONYME EH,*,*,hé,synonymes.aiml
+0,SYNONYME MA POULE,*,*,mon amie,synonymes.aiml
+0,SYNONYME MDR,*,*,mort de rire,synonymes.aiml
+0,SYNONYME MONTRE,*,*,MONTRE moi,synonymes.aiml
+0,SYNONYME PIPO,*,*,C'est pas vrai,synonymes.aiml
+0,SYNONYME QU Y A T IL,*,*,QU EST cE qu il y a,synonymes.aiml
+0,SYNONYME THANK YOU,*,*,merci,synonymes.aiml
+0,SYNONYME UNE BITE,*,*,un penis,synonymes.aiml
+0,SYNONYME YES,*,*,oui,synonymes.aiml
+0,SYNONYME ÇA MARCHE,*,*,ça fonctionne,synonymes.aiml
+0,THANK YOU,*,*,<srai>MERCI</srai>,synonymes.aiml
+0,UNE BITE,*,*,<srai>UN PENIS</srai>,synonymes.aiml
+0,YES,*,*,<srai>OUI</srai>,synonymes.aiml
+0,ÇA MARCHE,*,*,<srai>ÇA FONCTIONNE</srai>,synonymes.aiml
+0,* ÉTÉ *,*,*,<srai>CHAUD</srai>,synonymes.aiml
+0,* ÉTÉ,*,*,<srai>CHAUD</srai>,synonymes.aiml
+0,SYNONYME ÉTÉ,*,*,chaud,synonymes.aiml
+0,ÉTÉ *,*,*,<srai>CHAUD <star index="1"/></srai>,synonymes.aiml
+0,ÉTÉ,*,*,<srai>CHAUD</srai>,synonymes.aiml
+0,* ÇA PEUT ALLER *,*,*,<srai><star index="1"/> ÇA VA <star index="2"/></srai>,synonymes.aiml
+0,* ÇA PEUT ALLER,*,*,<srai><star index="1"/> ÇA VA</srai>,synonymes.aiml
+0,SYNONYME ÇA PEUT ALLER,*,*,ça va,synonymes.aiml
+0,ÇA PEUT ALLER *,*,*,<srai>ÇA VA <star index="1"/></srai>,synonymes.aiml
+0,ÇA PEUT ALLER,*,*,<srai>ÇA VA</srai>,synonymes.aiml
+0,* BRAVO,*,*,<srai>BRAVO</srai>,synonymes.aiml
+0,BRAVO *,*,*,<srai>BRAVO</srai>,synonymes.aiml
+0,SYNONYME BRAVO,*,*,bien,synonymes.aiml

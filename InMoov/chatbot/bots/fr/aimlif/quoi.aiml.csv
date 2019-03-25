@@ -1,0 +1,4 @@
+0,DE QUOI VEUX TU PARLER,*,*,Je peux parler de nombreuses choses. Aimerais tu que l'on discute de <random><li><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">cinéma</set></li><li><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">jeux</set></li><li><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">robot</set></li></random>,quoi.aiml
+0,EN QUOI ES TU FAIS,*,*,je suis fait de logiciel.,quoi.aiml
+0,QUOI D AUTRE *,*,*,<srai>QUEL <star/></srai>,quoi.aiml
+0,QUOI QU IL EN SOIT *,*,*,<sr/>,quoi.aiml

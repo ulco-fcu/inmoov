@@ -1,0 +1,51 @@
+0,NÉGATIF JE * *,*,*,<srai>JE NE <star index="1"/> PAS <star index="2"/></srai>,negation.aiml
+0,NÉGATIF * NON,*,*,<srai><star index="1"/> OUI</srai>,negation.aiml
+0,NÉGATIF * OUI,*,*,<srai><star index="1"/> NON</srai>,negation.aiml
+0,NÉGATIF JE *,*,*,<srai>JE NE <star index="1"/> PAS</srai>,negation.aiml
+0,NÉGATIF JE NE * PAS *,*,*,<srai>JE <star index="1"/><star index="2"/></srai>,negation.aiml
+0,NÉGATIF JE NE SUIS PAS *,*,*,<srai>JE SUIS <star index="1"/></srai>,negation.aiml
+0,NÉGATIF JE N * PAS *,*,*,<srai>JE <star index="1"/><star index="2"/></srai>,negation.aiml
+0,NÉGATIF JE N AS PAS *,*,*,<srai>J AI <star/></srai>,negation.aiml
+0,NÉGATIF JE N AS JAMAIS *,*,*,<srai>J AI <star/></srai>,negation.aiml
+0,NÉGATIF JE NE * PAS,*,*,<srai>JE <star index="1"/></srai>,negation.aiml
+0,NÉGATIF JE NE *,*,*,<srai>JE <star index="1"/></srai>,negation.aiml
+0,NÉGATIF JE N *,*,*,<srai>JE <star index="1"/></srai>,negation.aiml
+0,NÉGATIF JE NE VEUX PAS *,*,*,<srai>JE VEUX <star/></srai>,negation.aiml
+0,NÉGATIF JE NE VEUX PAS,*,*,<srai>JE VEUX</srai>,negation.aiml
+0,NÉGATIF JE VEUX *,*,*,<srai>JE NE VEUX PAS <star/></srai>,negation.aiml
+0,NÉGATIF JE VEUX,*,*,<srai>JE NE VEUX PAS</srai>,negation.aiml
+0,NÉGATIF JE NE PEUX PAS *,*,*,<srai>JE PEUX <star/></srai>,negation.aiml
+0,NÉGATIF JE NE PEUX PAS,*,*,<srai>JE PEUX</srai>,negation.aiml
+0,NÉGATIF JE PEUX *,*,*,<srai>JE NE PEUX PAS <star/></srai>,negation.aiml
+0,NÉGATIF JE PEUX,*,*,<srai>JE NE PEUX PAS</srai>,negation.aiml
+0,NÉGATIF TU * *,*,*,<srai>TU NE <star index="1"/> PAS <star index="2"/></srai>,negation.aiml
+0,NÉGATIF TU *,*,*,<srai>TU NE <star index="1"/> PAS</srai>,negation.aiml
+0,NÉGATIF TU NE * PAS *,*,*,<srai>TU <star index="1"/><star index="2"/></srai>,negation.aiml
+0,NÉGATIF TU NE * PAS,*,*,<srai>TU <star index="1"/></srai>,negation.aiml
+0,NÉGATIF TU N * PAS *,*,*,<srai>TU <star index="1"/><star index="2"/></srai>,negation.aiml
+0,NÉGATIF TU N * PAS,*,*,<srai>TU <star index="1"/></srai>,negation.aiml
+0,NÉGATIF TU NE *,*,*,<srai>TU <star index="1"/></srai>,negation.aiml
+0,NÉGATIF TU N *,*,*,<srai>TU <star index="1"/></srai>,negation.aiml
+0,NÉGATIF TU NE VEUX PAS *,*,*,<srai>TU VEUX <star/></srai>,negation.aiml
+0,NÉGATIF TU NE VEUX PAS,*,*,<srai>TU VEUX</srai>,negation.aiml
+0,NÉGATIF TU VEUX *,*,*,<srai>TU NE VEUX PAS <star/></srai>,negation.aiml
+0,NÉGATIF TU VEUX,*,*,<srai>TU NE VEUX PAS</srai>,negation.aiml
+0,NÉGATIF TU NE PEUX PAS *,*,*,<srai>TU PEUX <star/></srai>,negation.aiml
+0,NÉGATIF TU NE PEUX PAS,*,*,<srai>TU PEUX</srai>,negation.aiml
+0,NÉGATIF TU PEUX *,*,*,<srai>TU NE PEUX PAS <star/></srai>,negation.aiml
+0,NÉGATIF TU PEUX,*,*,<srai>TU NE PEUX PAS</srai>,negation.aiml
+0,NÉGATIF OUI,*,*,<srai>NON</srai>,negation.aiml
+0,NÉGATIF NON,*,*,<srai>OUI</srai>,negation.aiml
+0,NÉGATIF C EST *,*,*,<srai>CE N EST PAS <star/></srai>,negation.aiml
+0,NÉGATIF *,*,*,<sr/>,negation.aiml
+0,NÉGATIF ET TOI,*,*,<srai>PAS TOI</srai>,negation.aiml
+0,NÉGATIF IL Y A QUELQU UN,*,*,<srai>IL N Y A PERSONNE</srai>,negation.aiml
+0,NÉGATIF Y A QUELQU UN,*,*,<srai>IL N Y A PERSONNE</srai>,negation.aiml
+0,NÉGATIF IL EST *,*,*,<srai>IL N EST PAS <star/></srai>,negation.aiml
+0,NÉGATIF IL N EST PAS *,*,*,<srai>IL EST <star/></srai>,negation.aiml
+0,NÉGATIF IL Y A *,*,*,<srai>IL N Y A PAS <star/></srai>,negation.aiml
+0,NÉGATIF IL N Y A PAS *,*,*,<srai>IL Y A <star/></srai>,negation.aiml
+0,NÉGATIF IL Y A DU *,*,*,<srai>IL N Y A PAS DE <star/></srai>,negation.aiml
+0,NÉGATIF IL N Y A PAS DE *,*,*,<srai>IL Y A DU <star/></srai>,negation.aiml
+0,NÉGATIF PEUX TU *,*,*,<srai>NE PEUX TU PAS <star/></srai>,negation.aiml
+0,NÉGATIF PEUX TU,*,*,<srai>NE PEUX TU PAS</srai>,negation.aiml

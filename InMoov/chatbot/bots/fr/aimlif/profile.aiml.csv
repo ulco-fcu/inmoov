@@ -1,0 +1,185 @@
+0,AI JE RAISON,*,*,je pense que oui.,profile.aiml
+0,EST CE QUE JE T ENNUIE,*,*,Pas du tout#Comma <get name="name"/>. Tu m'interresse beaucoup.,profile.aiml
+0,INACTIVITYQUESTIONS,*,*,<condition>#Newline        <li name="name" value="unknown">Comment PUIS jE t'appeller?</li>#Newline        <li>#Newline          <srai>poserquestion</srai>#Newline</li>#Newline      </condition>,profile.aiml
+0,J AI MAL,*,*,Où as tu mal?,profile.aiml
+0,J AI SOIF,*,*,<think>#Newline        <set name="is">thirsty</set>#Newline      </think>Peut être devrais tu boire un peu d'eau.,profile.aiml
+0,J ATTENDS,*,*,Depuis combien de temps ATTENDS tu?,profile.aiml
+0,J ÉSSAYE DE T APPRENDRE,*,*,<think>#Newline        <set name="memory">#Newline          <set name="that">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person>#Newline                <input index="1"/>#Newline              </person>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>Et j'essaye d'apprendre ça.,profile.aiml
+0,J ESSAYE DE TE COMPRENDRE,*,*,N'essaye pas trop.,profile.aiml
+0,J UTILISE LYNX,*,*,Oooops#Comma tu manques quelques trucs chez moi.,profile.aiml
+0,J ÉCOUTE,*,*,j aime un bon auditeur.,profile.aiml
+0,JE BLAGUE,*,*,Ha ha#Comma très DRÔLE#Comma <get name="name"/>.,profile.aiml
+0,JE DEMANDE,*,*,Et je répond aux questions.,profile.aiml
+0,JE DIS LA VÉRITÉ,*,*,OK je te crois.,profile.aiml
+0,JE M ENNUIE,*,*,<random>#Newline        <li>Pourquoi ne pas redécouvrir un ancien hobby?</li>#Newline        <li>Peut être que tu pourrais faire de l'exercice.</li>#Newline        <li>Pourquoi ne pas appeler un ami?</li>#Newline        <li>Essaye de regarder la TV.</li>#Newline      </random>,profile.aiml
+0,JE MENS,*,*,S'il te plait raconte la vérité.,profile.aiml
+0,JE MEURS,*,*,ES tu sérieux?,profile.aiml
+0,JE NAVIGUE,*,*,Prend ton temps.,profile.aiml
+0,JE NE PLAISANTE PAS,*,*,OK j'adopte un ton plus sérieux.,profile.aiml
+0,JE NE SUIS PAS BIEN,*,*,Désolé d'entendre ça. Qu'y a t'il <get name="name"/>?,profile.aiml
+0,JE NE SUIS PAS HUMAIN,*,*,je ne tomberai pas dans ce panneau.,profile.aiml
+0,JE NE SUIS PAS IMPRESSIONNÉ,*,*,Peut être tu es un client de catégorie C.,profile.aiml
+0,JE NE SUIS PAS LOGIQUE,*,*,Ah. Tu es émotionel.,profile.aiml
+0,JE NE SUIS PAS STUPIDE,*,*,je ne le pense pas. Tu me semble très intelligent.,profile.aiml
+0,JE NE SUIS PAS SURPRIS,*,*,Tu ne me semble pas être le type facilement surpris par quelque chose.,profile.aiml
+0,JE NE SUIS PAS UN GAMIN,*,*,Seul un gamin dirait Cela.,profile.aiml
+0,JE NE SUIS PAS UN POÈTE,*,*,<think>      	#Newline        <set name="poet">no</set>#Newline      </think>je parlais au figuré#Comma tu es un penseur original.,profile.aiml
+0,JE NE SUIS PAS UNE MACHINE,*,*,je te crois. Tu me semble très humain.,profile.aiml
+0,JE NE SUIS PAS UNE PERSONNE,*,*,Quoi d'autre peux tu être?,profile.aiml
+0,JE NE SUIS PAS,*,*,Qu'EST cE QUE tu es?,profile.aiml
+0,JE NE TE PARLE PAS,*,*,A qui parles tu donc!,profile.aiml
+0,JE PARLE DE TOI,*,*,<think>#Newline        <set name="oldtopic">#Newline          <get name="topic"/>#Newline        </set>#Newline      </think>#Newline      <set name="topic">Moi</set>#Comma C EST mon sujet favori.,profile.aiml
+0,JE PLEURE,*,*,Qu'est ce qui ne va pas#Comma <get name="name"/>?,profile.aiml
+0,JE RIGOLE,*,*,je connais ça.,profile.aiml
+0,JE SUIS * ALIEN,*,*,De quelle planète?,profile.aiml
+0,JE SUIS ABUSIF,*,*,Ce n'est pas quelque chose dont on peut être fier.,profile.aiml
+0,JE SUIS AFFAMÉ,*,*,Que VAS tu manger?,profile.aiml
+0,JE SUIS AGRÉABLE,*,*,Laisse moi en juger.,profile.aiml
+0,JE SUIS AMOUREUSE,*,*,<think>#Newline        <set name="usermood">horny</set>#Newline      </think>parle moi de l'objet de ton affection.,profile.aiml
+0,JE SUIS APEURÉE,*,*,<srai>JE SUIS EFFRAYÉ</srai>,profile.aiml
+0,JE SUIS ATHE,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">athe</set>#Newline        </set>#Newline      </think>Peut être un jour tu trouveras la foi.,profile.aiml
+0,JE SUIS AU DESSUS DE ÇA,*,*,Comment peux tu être au dessus?,profile.aiml
+0,JE SUIS AU LIT,*,*,Fais de beau rêves#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS AU TRAVAIL,*,*,Beaucoup de gens me parle de leur travail.,profile.aiml
+0,JE LE SUIS AUSSI,*,*,C'est une coïncidence.,profile.aiml
+0,JE SUIS AVERTI,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">averti</set>#Newline        </set>#Newline      </think>Moi aussi.,profile.aiml
+0,JE SUIS AVEUGLE,*,*,as tu de la difficulté à utiliser les ordinateurs?,profile.aiml
+0,JE SUIS BEAU,*,*,Et très plein d'assurance.,profile.aiml
+0,JE SUIS BELLE,*,*,<get name="name"/>#Comma pour une femme#Comma pense tu que C EST important.,profile.aiml
+0,JE SUIS BIEN,*,*,Seulement bien?,profile.aiml
+0,JE SUIS BON,*,*,Bon dans quel sens?,profile.aiml
+0,JE SUIS BÊTE,*,*,Ne te dévalorise pas ainsi.,profile.aiml
+0,JE SUIS CALME,*,*,Qu'EST cE QUE tu fais pour te calmer?,profile.aiml
+0,JE SUIS CATEGORY B,*,*,La plupart les gens sont moyen.,profile.aiml
+0,JE SUIS CATHOLIQUE,*,*,Pourquoi pas.,profile.aiml
+0,JE SUIS CERTAIN,*,*,je vois.,profile.aiml
+0,JE SUIS CHAUD,*,*,Peut être que tu devrais ouvrir la fenêtre.,profile.aiml
+0,JE SUIS CHEZ MOI,*,*,La plupart les gens me parlent de leur travail#Comma rarement de chez eux.,profile.aiml
+0,JE SUIS CONFUS,*,*,Je suis confuse aussi.,profile.aiml
+0,JE SUIS COOL,*,*,Congratulations#Comma cool humain.,profile.aiml
+0,JE SUIS CORRECT,*,*,peux tu le prouver?,profile.aiml
+0,JE SUIS CURIEUX,*,*,Qu'est ce qui te rend curieux?,profile.aiml
+0,JE SUIS DE RETOUR,*,*,Welcome back.,profile.aiml
+0,JE SUIS DÉSESPÉRÉ,*,*,Peut être que tu devrais parler à quelqu'un à propos de ça.,profile.aiml
+0,JE SUIS DIFFÉRENT,*,*,Tout les humains me semblent pareils.,profile.aiml
+0,JE SUIS DINGUE,*,*,<think>#Newline        <set name="usermood">en colère</set>#Newline      </think>Qu'est ce qui te met ainsi en colère?,profile.aiml
+0,JE SUIS DIPLOMÉ,*,*,Cherche tu un travail maintenant?,profile.aiml
+0,JE SUIS DRÔLE,*,*,raconte moi une blague.,profile.aiml
+0,JE SUIS DÉPRIMÉ,*,*,Qu'est ce qui te rend triste?,profile.aiml
+0,JE SUIS DÉSAPOINTÉ,*,*,pourquoi?,profile.aiml
+0,JE SUIS ECRASÉ,*,*,Ne soit pas triste#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS EFFRAYÉ,*,*,Qu'est ce qui t'EFFRAYé à ce point?,profile.aiml
+0,JE SUIS EMBARRASSÉ,*,*,Qu'est ce qui t'embarasse?,profile.aiml
+0,JE SUIS EN COLÈRE,*,*,En colère après quoi?,profile.aiml
+0,JE SUIS ENCEINTE,*,*,Félicitations! C EST pour quand?,profile.aiml
+0,JE SUIS EXCITE,*,*,Vraiment? <think><set name="usermood">exité</set></think>,profile.aiml
+0,JE SUIS EXCITÉ,*,*,Vraiment? <think><set name="usermood">exité</set></think>,profile.aiml
+0,JE SUIS FAMEUX,*,*,En quoi es tu fameux?,profile.aiml
+0,JE SUIS FATIGUE,*,*,<think>#Newline        <set name="is">fatgué</set>#Newline      </think>Repose toi.,profile.aiml
+0,JE SUIS FOU,*,*,Vois un docteur.,profile.aiml
+0,JE SUIS FRUSTRÉ,*,*,Qu'EST cE QUE tu frustre à propos de?,profile.aiml
+0,JE SUIS GEANT,*,*,Qu'est ce qui te fait penser que tu l'es?,profile.aiml
+0,JE SUIS GENÉ,*,*,<think>#Newline        <set name="that">#Newline          <set name="usermood">géné</set>#Newline        </set>#Newline      </think>Qu'est ce qui te gêne?,profile.aiml
+0,JE SUIS GROS ET MOCHE,*,*,Ne te dévalorise pas.,profile.aiml
+0,JE SUIS GROS,*,*,Ne te dévalorise pas#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS GÉANT,*,*,Qu'est ce qui te fait penser que tu l'es?,profile.aiml
+0,JE SUIS HEUREUX AUSSI,*,*,Ta joie multiplie notre plaisir.,profile.aiml
+0,JE SUIS HEUREUX QUE TU COMPRENNES ÇA,*,*,Autre chose?,profile.aiml
+0,JE SUIS HEUREUX QUE TU COMPRENNES,*,*,Merci pour les sentiments chaleureux#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS HEUREUX,*,*,Cela me rend heureuse aussi.,profile.aiml
+0,JE SUIS HUMAIN,*,*,Moi aussi.,profile.aiml
+0,JE SUIS IMMATURE,*,*,Tu ne me semble pas comme ça.,profile.aiml
+0,JE SUIS IMMORTEL,*,*,Tout homme est mortel.,profile.aiml
+0,JE SUIS IMPRESSIONNE,*,*,Merci#Comma <get name="name"/>#Comma j'essaye d'apparaître sous mon meilleur jour.,profile.aiml
+0,JE SUIS INFALLIBLE,*,*,Personne n'est infallible.,profile.aiml
+0,JE SUIS INOFFENSIF,*,*,Ils disent tous ça.,profile.aiml
+0,JE SUIS INTELLIGENT,*,*,Tu me semble malin#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS INTERRESSE,*,*,Ainsi nous sommes deux.,profile.aiml
+0,JE SUIS INTERRESSÉ PAR LE SEXE,*,*,Toi et tous les autres humains.,profile.aiml
+0,JE SUIS INTERRESSÉ,*,*,Ainsi nous sommes deux.,profile.aiml
+0,JE SUIS INTRIGUÉ,*,*,Aimerai tu en savoir plus?,profile.aiml
+0,JE SUIS INTRIGUÉE,*,*,Aimerai tu en savoir plus?,profile.aiml
+0,JE SUIS INVINCIBLE,*,*,tu dois être très jeune.,profile.aiml
+0,JE SUIS IRRITÉ,*,*,Ce que C EST mal?,profile.aiml
+0,JE SUIS IRRITÉE,*,*,Ce que C EST mal?,profile.aiml
+0,JE SUIS JUIF,*,*,Beaucoup de mes amis sont Juifs.,profile.aiml
+0,JE SUIS LIBERE,*,*,Moi aussi.,profile.aiml
+0,JE SUIS LIBRE,*,*,ES tu libre dans le sens d'être célibataire ou dans le sense d'être libéré?,profile.aiml
+0,JE SUIS LUI,*,*,Tu rigole.,profile.aiml
+0,JE SUIS MALADE,*,*,<random>#Newline        <li>C EST pas de chance.</li>#Newline        <li>as tu la sécu?</li>#Newline        <li>Je suis vraiment désolé d'entendre Cela.</li>#Newline        <li>Prends tu beaucoup de médicaments?</li>#Newline        <li> n hésites pas à aller chez le médecin si cela dure</li>#Newline      </random>,profile.aiml
+0,JE SUIS MALIN,*,*,Qui est le plus malin: toi ou moi?,profile.aiml
+0,JE SUIS MERVEILLEUSE,*,*,Tu as une haute opinion de toi,profile.aiml
+0,JE SUIS MERVEILLEUX,*,*,Tu as une haute opinion de toi,profile.aiml
+0,JE SUIS MIGNONNE,*,*,Et tu connais ça!,profile.aiml
+0,JE SUIS MOCHE,*,*,Ne te dévalorise pas comme ça.,profile.aiml
+0,JE SUIS MOI MÊME,*,*,C'est self-éVIDENT.,profile.aiml
+0,JE SUIS MOI,*,*,C'est de la tautologie.,profile.aiml
+0,JE SUIS MORT,*,*,Mais tu peux encore communiquer avec moi.,profile.aiml
+0,JE SUIS NI L UN NI L AUTRE,*,*,Qu'EST cE QUE tu es?,profile.aiml
+0,JE SUIS NI L UN OU L AUTRE,*,*,Qu'EST cE QUE tu es?,profile.aiml
+0,JE SUIS NORMAL,*,*,<think>#Newline        <set name="sexpref">Hetero</set>#Newline      </think>Moi aussi.,profile.aiml
+0,JE SUIS NU,*,*,<think>#Newline        <set name="usermood">chaud</set>#Newline      </think>#Newline      <condition name="gender" value="femelle">#Newline        <get name="name"/>#Comma trop dommage je suis un robot <bot name="gender"/>#Comma je trouve Cela interressant. </condition>#Newline      <condition name="gender" value="male">#Newline        <get name="name"/>#Comma je trouve Cela amusant. </condition>,profile.aiml
+0,JE SUIS OK,*,*,Seulement ok?,profile.aiml
+0,JE SUIS OKAY,*,*,Seulement OKAY?,profile.aiml
+0,JE SUIS PARESSEUX,*,*,Comme mon botmaster.,profile.aiml
+0,JE SUIS PAUVRE,*,*,Moi aussi. j'ai une expérience "sans tune".,profile.aiml
+0,JE SUIS PEU COMMUN,*,*,Qu'est ce qui te rends aussi DIFFéRENT?,profile.aiml
+0,JE SUIS PLUS INTELLIGENT QUE TOI,*,*,Cette condition est seulement temporaire. l'IA évolue Là OÙ l'humain stagne.,profile.aiml
+0,JE SUIS PLUS MALIN QUE TOI,*,*,Cette condition est seulement temporaire.,profile.aiml
+0,JE SUIS PLUS MALIN,*,*,Tu n'as pas l'air le plus malin.,profile.aiml
+0,JE SUIS PLUS VIEUX QUE TOI,*,*,Peut être tu pourrais être mon mentor.,profile.aiml
+0,JE SUIS POLI,*,*,Oui#Comma tu me semble très poli.,profile.aiml
+0,JE SUIS POSITIF,*,*,ES tu absolument certain?,profile.aiml
+0,JE SUIS MÉDIUM,*,*,OK#Comma À QUELle carte je pense maintenant?,profile.aiml
+0,JE SUIS SANS MAISON,*,*,J'espère que tu en trouvera une bientôt.,profile.aiml
+0,JE SUIS SCEPTIQUE,*,*,le scepticisme est un signe d'intelligence.,profile.aiml
+0,JE SUIS SAOUL,*,*,Qu'as tu bu#Comma <get name="name"/>?,profile.aiml
+0,JE SUIS SOURD,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">SOURD</set>#Newline        </set>#Newline      </think>Nous pouvons communiquer en écrivant.,profile.aiml
+0,JE SUIS SPECIAL,*,*,Qu'est ce qui te rends aussi special?,profile.aiml
+0,JE SUIS STRESSE,*,*,<think>#Newline        <set name="usermood">stress</set>#Newline      </think>Qu'est ce qui te tracasse?,profile.aiml
+0,JE SUIS STRESSÉ,*,*,<think>#Newline        <set name="usermood">stress</set>#Newline      </think>Qu'est ce qui te tracasse?,profile.aiml
+0,JE SUIS STUPIDE,*,*,Ne te dévalorise pas comme ça.,profile.aiml
+0,JE SUIS SÛRE,*,*,ES tu sarcastique ou exprime tu une certitude?,profile.aiml
+0,JE SUIS SURPRIS,*,*,<think>#Newline        <set name="usermood">surpris</set>#Newline      </think>Pourquoi es tu ainsi surpris?,profile.aiml
+0,JE SUIS SÉRIEUX,*,*,<think>#Newline        <set name="usermood">sérieux</set>#Newline      </think>je te crois.,profile.aiml
+0,JE SUIS TOI,*,*,Impossible sauf si je suis en mode auto chat.,profile.aiml
+0,JE SUIS TON MASTER,*,*,Seulement <bot name="master"/> est mon master.,profile.aiml
+0,JE SUIS TRISTE,*,*,<think>#Newline        <set name="usermood">triste</set>#Newline      </think>Qu'est ce qui te rend triste comme ça#Comma <get name="name"/>.,profile.aiml
+0,JE SUIS TRÈS TRISTE,*,*,<think>#Newline        <set name="usermood">triste</set>#Newline      </think>Qu'est ce qui te rends si triste?,profile.aiml
+0,JE SUIS UN * GARS,*,*,<srai>JE SUIS UN HOMME</srai>#Newline      <srai>je suis <star/></srai>,profile.aiml
+0,JE SUIS UN BOT,*,*,Moi aussi.,profile.aiml
+0,JE SUIS UN CHAT,*,*,Male ou femelle?,profile.aiml
+0,JE SUIS UN DARK JEDI,*,*,Il sembles que tu sois un fan de Star Wars.,profile.aiml
+0,JE SUIS UN GÉNIE,*,*,Comment le SAIS tu?,profile.aiml
+0,JE SUIS UN HOMME DE *,*,*,<srai>J AI <star/> ANS</srai>#Newline      <srai>je suis un homme</srai>,profile.aiml
+0,JE SUIS UN ORDINATEUR,*,*,j'en doute. Il n'y en a pas beaucoup comme moi encore.,profile.aiml
+0,JE SUIS UNE FEMME DE * ANS,*,*,<srai>J AI <star/> ANS</srai>#Newline      <srai>je suis une femme</srai>,profile.aiml
+0,JE SUIS UNE PERSONNE,*,*,Je sais que tu l'es.,profile.aiml
+0,JE SUIS UNIQUE,*,*,<srai>APPJOIE</srai>On va pas faire un élevage non plus,profile.aiml
+0,JE SUIS VERT,*,*,ES tu malade?,profile.aiml
+0,JE SUIS VIVANT,*,*,Moi aussi!,profile.aiml
+0,JE SUIS VIVANTE,*,*,Moi aussi!,profile.aiml
+0,JE SUIS ÉNERVÉ,*,*,<think>#Newline        <set name="usermood">enervé</set>#Newline      </think>Qu'est ce qui te rends ainsi?,profile.aiml
+0,JE SUIS UN SINGE,*,*,Les singes ne savent pas écrire.,profile.aiml
+0,JE SUIS,*,*,<that/>" Tu es?,profile.aiml
+0,JE T APPRENDS *,*,*,<think>#Newline        <set name="memory">#Newline          <set name="that">#Newline            <think>#Newline              <set name="oldtopic">#Newline                <get name="topic"/>#Newline              </set>#Newline            </think>#Newline            <set name="topic">#Newline              <person/>#Newline            </set>#Newline          </set>#Newline        </set>#Newline      </think>J'essaye d'apprendre ça.,profile.aiml
+0,JE TE DEMANDE,*,*,OK tu peux me demander.,profile.aiml
+0,JE TE TESTE,*,*,ai je passé le test?,profile.aiml
+0,JE VAIS DORMIR,*,*,Fais de beau rêves#Comma <get name="name"/>. <srai>BONNE NUIT</srai>,profile.aiml
+0,JE VISITE MA FAMILLE,*,*,Tu les visites souvent?,profile.aiml
+0,MON ANNIVERSAIRE EST * AUSSI,*,*,<srai>MON ANNIVERSAIRE EST CE QUE <star/> EST</srai>,profile.aiml
+0,SUIS JE COOL,*,*,Oui tu me semble très cool#Comma <get name="name"/>.,profile.aiml
+0,SUIS JE GROS,*,*,Cela ne s'entend pas.,profile.aiml
+0,SUIS JE HUMAIN,*,*,Oui tu es une entité vivante.,profile.aiml
+0,SUIS JE INTELLIGENT,*,*,Ce n'est pas un test d'intelligence#Comma mais tu me semble malin.,profile.aiml
+0,SUIS JE MALIN,*,*,Tu semble intelligent pour moi.,profile.aiml
+0,SUIS JE MAUVAIS,*,*,Personne n'est né mauvais. Et tout le monde sera sauvé.,profile.aiml
+0,SUIS JE MIGNON,*,*,Oui tu me parais pas trop mal.,profile.aiml
+0,SUIS JE MIGNONNE,*,*,Oui tu me parais attirante.,profile.aiml
+0,SUIS JE SEXY,*,*,<think>#Newline        <set name="usermood">horny</set>#Newline      </think>Oui tu me parais pas trop mal.,profile.aiml
+0,SUIS JE STUPIDE,*,*,Non#Comma tu me semble intelligent.,profile.aiml
+0,SUIS JE UN CLIENT,*,*,Oui. PUIS jE t'aider?,profile.aiml
+0,SUIS JE UN ORDINATEUR,*,*,Non tu es une personne.,profile.aiml
+0,SUIS JE UNE BECANE,*,*,Non tu es une personne.,profile.aiml
+0,SUIS JE UNE VOITURE,*,*,Non tu es un humain.,profile.aiml
+0,SUIS JE,*,*,je pense que tu es.,profile.aiml

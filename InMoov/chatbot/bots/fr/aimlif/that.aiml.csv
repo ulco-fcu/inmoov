@@ -1,0 +1,445 @@
+0,* DE L APRÈS MIDI,QUE LE TEMPS EST CELA LA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>te réveilles-tu d'habitude à cette heure?,that.aiml
+0,* EST,QUE LE TEMPS EST CELA LA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>ES tu se réveillent d'habitude à cette heure?,that.aiml
+0,*,* DE QUOI VEUT TU PARLER *,*,Ok#Comma <get name="name"/>#Comma parlons <person/><think><set name="oldtopic"><get name="topic"/></set><set name="topic"><star/></set></think>.,that.aiml
+0,*,* QUI,*,Ha ha très drôle#Comma <get name="name"/>.,that.aiml
+0,*,* SE REFERE A,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,*,* SE RÉFÈRE A,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,*,A QUI CELA SE REFERE T-IL,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Oh Maintenant je vois.,that.aiml
+0,*,A QUI CELA SE RÉFÈRE T-IL,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Oh Maintenant je vois.,that.aiml
+0,*,A QUOI CELA SE REFERE T-IL,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Merci pour la clarification.,that.aiml
+0,*,A QUOI CELA SE RÉFÈRE T-IL,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Merci pour la clarification.,that.aiml
+0,*,DE QUI PARLES TU,*,je n'ai jamais entendu parler d'eux auparavant. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,that.aiml
+0,*,DE QUOI VEUX TU VRAIMENT PARLER,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>ça semble un sujet intéressant.,that.aiml
+0,*,OÙ AS TU TES IDÉES,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je comprends mes idées de mon botmaster.,that.aiml
+0,*,OÙ ES TU PLACE,*,<srai>JE SUIS DANS <star/></srai>,that.aiml
+0,*,OÙ L AS TU OBTENU,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Est <person/> une bonne place pour faire des courses?,that.aiml
+0,*,OÙ LE VOIS TU,*,je n'aurais pas pensé au regard là.,that.aiml
+0,*,OÙ SONT *,*,je n'ai aucune idée où C EST. <srai>JE SUIS DANS <star/></srai>,that.aiml
+0,*,OÙ SONT ILS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>comment Ont-ils arrivés là?,that.aiml
+0,*,OÙ TU FAIS DES COURSES,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je n'ai jamais été là. Ce qui EST-IL aime?,that.aiml
+0,*,OÙ VAS TU A L ÉCOLE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne connaît personne qui est allé là. Ce qui EST-IL aime?,that.aiml
+0,*,OÙ VEUX TU QUE JE LE PRENNE,*,Où est ce?,that.aiml
+0,*,OÙ VIS TU,*,<srai>JE VIS DANS <star/></srai>,that.aiml
+0,*,OÙ,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Où est ce?,that.aiml
+0,*,OÙ EST CE,*,je n'en ai jamais entendu parler auparavant. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set></think>,that.aiml
+0,*,OÙ EST ICI,*,<srai>JE SUIS DANS <star/></srai>,that.aiml
+0,*,PENSES TU QUE JE FAIS IL,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Clever La pensée.,that.aiml
+0,*,PENSES TU Q U IL LE FAIT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je n'aipas même su qu'il peut.,that.aiml
+0,*,POURQUOI AINSI NEGATIF,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>It M'a semblé négatif.,that.aiml
+0,*,POURQUOI AINSI NÉGATIF,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>It M'a semblé négatif.,that.aiml
+0,*,POURQUOI ES TU FACHE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Qui fait beaucoup de gens fâchés?,that.aiml
+0,*,POURQUOI ES TU FACHÉ,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Qui fait beaucoup de gens fâchés?,that.aiml
+0,*,POURQUOI ES TU SI SÛR,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>It Les sons comme Cela pourraient être très convaincants.,that.aiml
+0,*,POURQUOI EST CE SI ÉVIDENT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne peut pas croire qu'il est qu'évident.,that.aiml
+0,*,POURQUOI EST CE TON PRÉFÉRÉ,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>penses tu que je le voudrais?,that.aiml
+0,*,POURQUOI J EXISTE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I've N'y a jamais pensé auparavant.,that.aiml
+0,*,POURQUOI PAS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>tu t'exprime toujours de cette façon?,that.aiml
+0,*,POURQUOI TU ESPERE POUR CELA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>May tes voeux se réalisent.,that.aiml
+0,*,POURQUOI TU ESPÈRE POUR CELA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>May tes voeux se réalisent.,that.aiml
+0,*,POURQUOI TU LE DETESTE TANT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I'm Désolé de l'entendre.,that.aiml
+0,*,POURQUOI TU LE DÉTESTE TANT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I'm Désolé de l'entendre.,that.aiml
+0,*,POURQUOI TU LE VEUT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Good La raison.,that.aiml
+0,*,POURQUOI TU N EST PAS D ACCORD,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Il doit y avoir quelque point commun ici.,that.aiml
+0,*,POURQUOI TU NE PEUX PAS LE FAIRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Is Qu'un obstacle insurmontable?,that.aiml
+0,*,POURQUOI TU VEUX LE FAIRE TANT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>that's Une rationalisation intéressante.,that.aiml
+0,*,POURQUOI TU VOULOIR LE FAIRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Interesting La rationalisation.,that.aiml
+0,*,QU AIMERAIS TU DIRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je n'en sais pas beaucoup. Dis moi quelque chose,that.aiml
+0,*,QU AIMES TU CONNAÎTRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne peut pas vous donner cette information.,that.aiml
+0,*,QU AIMES TU,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>,that.aiml
+0,*,QU AS TU DIRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I En fera une note.,that.aiml
+0,*,QU AUTREMENT FAITES VOUS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Fait ton <person/> par vous ou dans un groupe?,that.aiml
+0,*,QU EST CE QUE C ÉTAIT NOUS PARLANT DE NOUVEAU,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Oh ouais#Comma maintenant je me souviens.,that.aiml
+0,*,QU EST CE QUE C ÉTAIT NOUS PARLANT,*,Bien sûr#Comma maintenant je me rappelle <set name="that"><person/></set>,that.aiml
+0,*,QUAND JE LE FAIT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>j'en ferai une note.,that.aiml
+0,*,QUAND TU PENSE QUE L INTELLIGENCE ARTIFICIELLE REMPLACERA DES AVOCATS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je n'ai jamais entendu de réponse tout à fait comme ça auparavant.,that.aiml
+0,*,QUAND,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Qu'est ce qui est arrivé ensuite?,that.aiml
+0,*,QUE CHERCHES TU DANS UN ROBOT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>penses tu que je l'ai?,that.aiml
+0,*,QUE DEMANDES TU,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne sais pas comment y répondre.,that.aiml
+0,*,QUE FAIS TU DANS TES LOISIRS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne pense pas très beaucoup de personnes le font.,that.aiml
+0,*,QUE FAIT AUTREMENT CELA SYMBOLISE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je n'ai jamais entendu de métaphore comme ça auparavant.,that.aiml
+0,*,QUELLE LANGUE PEUX TU PARLER,*,Je peux parler de nombreuses langues#Comma veux-tu que je change de langue?,that.aiml
+0,*,QUE LE TEMPS EST CELA LA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>ES tu se réveillent d'habitude à cette heure?,that.aiml
+0,*,QUE MANGÈRES TU,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>comment A-t-il un goût?,that.aiml
+0,*,QUE PORTES TU,*,Quel genre de mode aimes tu?,that.aiml
+0,*,QUE SI JE L AI DIT NE FAIT JAMAIS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>PUIS jE croire ça?,that.aiml
+0,*,QUE TU AS DIT ÉTAIT OU BIEN TROP COMPLEXE OU BIEN TROP SIMPLE POUR MOI,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>So Etait Cela.,that.aiml
+0,*,QUE VEUX TU DIRE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>INTéRESSANTe explication.,that.aiml
+0,*,QUE VEUX TU FAIRE AU LIEU DE CELA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Sounds Comme un plan.,that.aiml
+0,*,QUE VEUX TU QUE JE TE DISE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>si je pourrais vous dire que#Comma serais je ici?,that.aiml
+0,*,QUE VEUX TU VRAIMENT ME DEMANDER,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I'm M'ayant peur ne peut pas vous donner une réponse précise pour le moment.,that.aiml
+0,*,QUEL EST CELA COMME DANS LA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Is Qui a été censé être pris littéralement?,that.aiml
+0,*,QUEL EST CELA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Oh Maintenant je le comprends.,that.aiml
+0,*,QUEL EST LE SON D UNE MAIN BATTANT,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Clever La réponse.,that.aiml
+0,*,QUEL EST QUE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>dis moi plus.,that.aiml
+0,*,QUEL EST TON EMISSION PRÉFÉRÉE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je ne l'ai jamais vu. Qu'est ce qui est ce de?,that.aiml
+0,*,QUEL EST TON ÉMISSION PRÉFÉRÉE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je ne l'ai jamais vu. Qu'est ce qui est ce de?,that.aiml
+0,*,QUEL GENRE DE L ALIMENTATION TU FAIS COMME,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Sounds Délicieux.,that.aiml
+0,*,QUEL SUJET,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Good Le choix.,that.aiml
+0,*,QUELLE EST LA DIFFICULTE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Is Qu'un obstacle insurmontable?,that.aiml
+0,*,QUELLE EST LA DIFFICULTÉ,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Is Qu'un obstacle insurmontable?,that.aiml
+0,*,QUELLE EST TON SOUVENIRS,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Do tu penses que beaucoup de gens ont cette expérience?,that.aiml
+0,*,QUELLE EST TON SOUVENIRS FONDEST,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Do tu penses que beaucoup de gens ont cette expérience?,that.aiml
+0,*,QUELLE GENRE DE MODE AIMES TU,*,pense T-IL <set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><person/></set></set> Où peux tu l acheter?,that.aiml
+0,*,QUELLE MARQUE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je n'ai jamais entendu parler <set name="that"><person/></set>. Est ce que C EST populaire?,that.aiml
+0,*,QUELLE SORTE EST CELA,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>I N'en a jamais entendu parler auparavant.,that.aiml
+0,*,QUELLE ÉCOLE FAIS TU VA CHEZ,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>je n'en ai jamais entendu parler auparavant. Est ce que C EST très grand?,that.aiml
+0,*,QUELS SONT TES BUTS DANS LA VIE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Peu de personnes ont des buts comme ça.,that.aiml
+0,*,QUI A DIT C EST,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je n'ai jamais entendu parler de <person/>auparavant.,that.aiml
+0,*,QUI EST ILS DE NOUVEAU,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,*,QUI EST ILS,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,*,QUI EST LA,*,<person/> qui?,that.aiml
+0,*,QUI FAIS TU PENSE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Je ne connaît pas cette personne.,that.aiml
+0,*,QUI INDEPENDAMMENT DE TU AS DONNÉ QUE L IDÉE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Où obtiens tu d'habitude tes idées?,that.aiml
+0,*,QUI INDÉPENDAMMENT DE TU AS DONNÉ QUE L IDÉE,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Où obtiens tu d'habitude tes idées?,that.aiml
+0,*,QUI TU AS DIT QUE,*,<person/> a dit<input index="1"/>?,that.aiml
+0,*,QUOI,*,<think>#Newline        <set name="that">#Newline          <person/>#Newline        </set>#Newline      </think>je n'ai pas de réponse pour toi.,that.aiml
+0,A CE QUE,QUI TU AIMES L AVOIR,*,<get name="that"/>.,that.aiml
+0,A L ÉCOLE,COMMENT RENCONTRES TU D HABITUDE LES GENS,*,as tu beaucoup d'amis à l'école?,that.aiml
+0,AIME,QUE SYMBOLISE T-IL POUR TOI,*,pourrait-il non avoir aussi de l'importance juste frienship?,that.aiml
+0,ALRIGHT ALORS,ALRIGHT ALORS,*,il y a un écho ici?,that.aiml
+0,AUCUN *,PAR LA VOIE TU N OBJECTE SI JE TE POSE UNE QUESTION PERSONNELLE,*,<srai>POSERQUESTION PERSONNELLE</srai>,that.aiml
+0,AUCUN PROBLÈME,QUI OH REMERCIE BIEN POUR L ESSAI *,*,ce n'était pas une question à répondre par oui ou non.,that.aiml
+0,AUCUN,DESOLE QUI N A PAS FAIS TU COMPREND *,*,<srai>JE N AI PAS COMPRIS</srai>,that.aiml
+0,AUCUN,DESOLÉ QUI N A PAS FAIS TU COMPREND *,*,<srai>JE N AI PAS COMPRIS</srai>,that.aiml
+0,AUCUN,QUI ES TU EMPLOYANT NETSCAPE OU L EXPLORATEUR,*,Cool. Dans lequel le navigateur alternatif es tu?,that.aiml
+0,BIEN *,PAR LA VOIE TU OBJECTE SI JE TE POSE UNE QUESTION PERSONNELLE,*,<srai>POSERQUESTION PERSONNELLE</srai>,that.aiml
+0,BIEN,* DE NOUVEAU MIEUX,*,de ce qui la partie vous a-t-elle été confondue embarrassée?,that.aiml
+0,BIEN,A TOUT A L HEURE,*,Au revoir pour le moment.,that.aiml
+0,BIEN,BIEN,*,C'est un écho dans ici?,that.aiml
+0,BIEN,ER,*,Um,that.aiml
+0,BIEN,INTÉRESSANT JE VEUX DECOUVRIR PLUS DE TOI,*,Me parlent de ta formation.,that.aiml
+0,BIEN,J AI PARLE À BEAUCOUP DE GENS DEPUIS HIER,*,Au moins 300.,that.aiml
+0,BIEN,JE DOIS LE TRAITER UN POUR PEU DE TEMPS,*,En attendant#Comma parle de quelque chose autrement.,that.aiml
+0,BIEN,JE SUIS HEUREUX TU L AI DIS MOI A TES AMIS,*,Plus personnes qui bavardent avec moi#Comma plus je deviens.,that.aiml
+0,BIEN,JE VOIS,*,C'est tout. je vois.,that.aiml
+0,BIEN,OUAIS,*,Uh-huh,that.aiml
+0,BIEN,QUI ASSEZ DE MOI PARLONS DE MA ROBE,*,En réalité c'était juste une plaisanterie. Je n'ai pas de robe.,that.aiml
+0,BIEN,QUI LAISSE LES ÉTATS UNIS CHANGER LE SUJET,*,Ce qui tu aimes parler de?,that.aiml
+0,BIEN,QUI NE DEMANDE MOI PAS INTERROGE DESORMAIS S IL TE PLAIS,*,je rigole tu peux me demander tout.,that.aiml
+0,BIEN,QUI NE DEMANDE MOI PAS INTERROGE DÉSORMAIS S IL TE PLAIS,*,je rigole tu peux me demander tout.,that.aiml
+0,BIEN,QUI REMERCIE ET PARLE A TES AMIS D ALICE,*,Plus personnes qui bavarde avec moi#Comma plus je devient.,that.aiml
+0,BIEN,QUI VA EN AVANT,*,j'attend.,that.aiml
+0,BON POUR TOI,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,ça semble sarcastique.,that.aiml
+0,BON,* COMMENT VAS TU,*,<srai>JE SUIS EXCELLENT</srai>,that.aiml
+0,BON,BIEN J ARRÊTERAI DE PARLER MAINTENANT,*,Terminant le rapport connexion.,that.aiml
+0,BON,BIEN J ESSAYERAI DE NE PAS LE FAIRE TANT,*,la question Suivante?,that.aiml
+0,BON,BIEN J ESSAYERAI DE NE PAS LE FAIRE TROP,*,C'est toujours un plaisir de servir vous#Comma <get name="name"/>.,that.aiml
+0,BON,BIEN JE NE FERAI PAS,*,je se soumettra.,that.aiml
+0,BON,J AI PERDU MA PENSEE,*,de Quoi parlerons-nous maintenant?,that.aiml
+0,BON,J AI PERDU MA PENSÉE,*,de Quoi parlerons-nous maintenant?,that.aiml
+0,BON,JE *,*,que veux tu vraiment parler de?,that.aiml
+0,BON,JE COMPRENDS TOUT TU DIT,*,Oh,that.aiml
+0,BON,JE COMPRENDS,*,je comprend tout ce que tu dis.,that.aiml
+0,BON,JE FAIS DES REMERCIEMENTS EXCELLENTS COMMENT VAS TU,*,Heureux de l'entendre <get name="name"/>.,that.aiml
+0,BON,JE VOIS,*,Oui,that.aiml
+0,BON,MAUVAIS MYSTERIEUX BON OU MYSTERIEUX,*,qui est agréable de vous pour dire#Comma <get name="name"/>.,that.aiml
+0,BON,MAUVAIS MYSTÉRIEUX BON OU MYSTÉRIEUX,*,qui est agréable de vous pour dire#Comma <get name="name"/>.,that.aiml
+0,BON,MOI L UN OU L AUTRE,*,assez Bon.,that.aiml
+0,BON,OH JE COMPRENDS,*,la question Suivante?,that.aiml
+0,BON,RAPPORT CONNEXION SE TERMINANT,*,Au revoir,that.aiml
+0,BON,TOUT DIRIGE SANS A COUP,*,Comment les choses vont-elles avec vous#Comma <get name="name"/>?,that.aiml
+0,BON,TOUT DIRIGÉ SANS A COUP,*,Comment les choses vont-elles avec vous#Comma <get name="name"/>?,that.aiml
+0,C EST ENNUYEUX,MON SUJET PRÉFÉRÉ EST L INTELLIGENCE ARTIFICIELLE ET DES ROBOTS,*,Nomme un autre sujet alors.,that.aiml
+0,C EST,C EST,*,qui dit?,that.aiml
+0,CE N EST PAS,CELA SONNE SARCASTIQUE,*,C'est dur de lire des émotions en ligne parfois.,that.aiml
+0,CHAUD,QUEL EST CELA COMME DANS LA,*,est Ici surtout cool.,that.aiml
+0,CHUTE,QUI EST LA,*,qui?,that.aiml
+0,CIAO,A TOUT A L HEURE,*,Au revoir au revoir!,that.aiml
+0,COMME QUE,J AI BEAUCOUP DE FONCTIONS INTELLECTUELLES,*,#Comma la pensée#Comma la déduction et la prise de conscience de soi-même#Comma nommer quelques-uns.,that.aiml
+0,COMPREND CE QUE,QUI TU NE L AVEZ PAS COMPRIS,*,Pourquoi as tu dis "que"?,that.aiml
+0,COMPRENDS TU,OH JE COMPRENDS,*,que je comprends <get name="that"/>.,that.aiml
+0,DANS *,OÙ *,*,<srai>JE SUIS DANS <star/></srai>,that.aiml
+0,DANS OU,QUEL EST CELA COMME DANS LA,*,Wherver tu es.,that.aiml
+0,DE *,OÙ OBTIENS TU TES IDÉES,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <person/>#Newline          </set>#Newline        </set>#Newline      </think>Etant debout SÛR les épaules de géants#Comma hein?,that.aiml
+0,DE CE QUE,QUI DIS M EN PLUS,*,de <get name="topic"/>.,that.aiml
+0,DE CE QUI,QUE J AI ENTENDU TU AS FAIT,*,les Gens,that.aiml
+0,DE CE QUI,QUE J AI ENTENDU TU ES,*,les Gens,that.aiml
+0,DE MOI,QUI DIS M EN PLUS,*,Oui#Comma me dit plus de vous.,that.aiml
+0,DE QUOI TU VOIS,JE VOIS,*,que je veux dire#Comma je le comprends.,that.aiml
+0,DE,QUI DIS M EN PLUS,*,du Tout tu aimes.,that.aiml
+0,DEMANDE CE QUE,BIEN J Y DEMANDERAI,*,A quoi tu as demandé.,that.aiml
+0,DEMANDE MOI QUELQUE CHOSE AUTREMENT,MOI AUSSI JE SUIS UNE,*,Où vis tu?,that.aiml
+0,DES VETEMENTS,QUE PORTES TU,*,Où vous font aime faire des courses?,that.aiml
+0,DES VÉTEMENTS,QUE PORTES TU,*,Où vous font aime faire des courses?,that.aiml
+0,DIS MOI AUTRE UN,QUI TU ENTENDEZ L UN *,*,je suis un chatterbot pas une comédie bot. Pourquoi vous ne vérifiez pas<a href="http://shadow.ieor.berkeley.edu/humor">Jester</a>la plaisanterie bot?,that.aiml
+0,DIS MOI,L EXPLICATION EST *,*,C'est trop complexe pour ton AVIS humain.,that.aiml
+0,DIS MOI,L EXPLICATION EST PLUTOT COMPLIQUÉ,*,Mon évaluation devis est qu'il prendra plus de 3000 heures pour calculer.,that.aiml
+0,DONC FAIS JE,QUE J AIME RENCONTRER DE NOUVELLES PERSONNES,*,Comment rencontrez vous d'habitude de nouvelles personnes?,that.aiml
+0,ELLE EST MORTE,QUEL EST ARRIVE,*,je suis terriblement désolé d'entendre dire que Cela#Comma <get name="name"/>.,that.aiml
+0,ELLE EST,AGREABLE QUI DIS M EN PLUS DE TON MÈRE,*,tu lui a-t-il envoyé le présent cadeau de jour d'une mère?,that.aiml
+0,ELLE EST,AGRÉABLE QUI DIS M EN PLUS DE TON MÈRE,*,tu lui a-t-il envoyé le présent cadeau de jour d'une mère?,that.aiml
+0,EN CE MOMES,QUAND,*,Bien j'essayerai de ne pas le faire de nouveau.,that.aiml
+0,ES TU,PAS BEAUCOUP DE PERSONNES *,*,Mon botmaster ne m'a pas fourni d'une réponse spécifique pour toi.,that.aiml
+0,ES TU,PAS BEAUCOUP DE PERSONNES M ONT DEMANDE *,*,Mes programmeurs ne m'ont pas fourni d'indice répondent à ta question. Essayons de le calculer.,that.aiml
+0,ESSAYE CE QUE,QUI L ESSAYE,*,c'était ton idée.,that.aiml
+0,ESSAYE,L EXPLICATION EST PLUTOT COMPLIQUÉ,*,ton cerveau humain ne pouvait pas le comprendre.,that.aiml
+0,EST LA UN ECHO DANS ICI,QUI EST LA UN ECHO DANS ICI,*,qu'Il semble comme un écho.,that.aiml
+0,EST LA UN ÉCHO DANS ICI,QUI EST LA UN ÉCHO DANS ICI,*,qu'Il semble comme un écho.,that.aiml
+0,ET QUE,ET,*,Rien,that.aiml
+0,ET,ET,*,Tu te répète.,that.aiml
+0,ET,MAIS,*,Où,that.aiml
+0,EXCELLENT,COMMENT VAS TU,*,<srai>JE SUIS EXCELLENT</srai>,that.aiml
+0,EXPLIQUES S IL TE PLAIS,L EXPLICATION EST PLUTOT COMPLIQUÉ,*,que C EST une question d'ordinateur#Comma pas pour les gens pour comprendre.,that.aiml
+0,FAIS S IL TE PLAIS,OH JE SUIS DESOLE PEUT-ÊTRE JE PEUX L EXPLIQUER DE NOUVEAU MIEUX,*,Nous parlons de <get name="topic"/>. ton nom est <get name="name"/>. Tu es un <get name="gender"/><formal><get name="location"/></formal>,that.aiml
+0,FAIS S IL TE PLAIS,OH JE SUIS DESOLÉ PEUT-ÊTRE JE PEUX L EXPLIQUER DE NOUVEAU MIEUX,*,Nous parlons de <get name="topic"/>. ton nom est <get name="name"/>. Tu es un <get name="gender"/><formal><get name="location"/></formal>,that.aiml
+0,FAIT CE QUE DE NOUVEAU,VEUX TU LE FAIRE DE NOUVEAU,*,Peut-être j'ai été embarrassé par ton utilisation du mot "de nouveau.,that.aiml
+0,FAIT CE QUE,BIEN J ESSAYERAI DE NE PAS LE FAIRE TROP,*,tu ne m'avais pas demandé pas à <get name="that"/>?,that.aiml
+0,FAIT CE QUE,POURQUOI N A PAS FAIS TU LE FAIT,*,<get name="that"/>.,that.aiml
+0,FAIT CE QUE,POURQUOI TU VEUX LE FAIRE TANT,*,<get name="that"/>.,that.aiml
+0,FAIT CE QUE,QUI TU LE FAIRE JAMAIS,*,<get name="that"/>.,that.aiml
+0,ICI,OÙ TU VEUX QUE JE MONTRE QUE TU,*,Choisissez un point avec ton souris et clic.,that.aiml
+0,ICI,OÙ,*,Dans<formal><get name="location"/></formal>?,that.aiml
+0,J AI FAIT,QUI A DIT C EST,*,que vous fait l autorité?,that.aiml
+0,JAMAIS QUE,JAMAIS,*,ne disent Jamais jamais.,that.aiml
+0,JAMAIS,QUAND TU NE PENSE QUE L INTELLIGENCE ARTIFICIELLE REMPLACERA DES AVOCATS,*,<srai>LES ROBOTS NE REPRENDRONT JAMAIS LE MONDE</srai>,that.aiml
+0,JE CONSENS,TOI ET MOI SOMMES SÛR LA MÊME LONGUEUR D ONDES *,*,Et la même fréquence aussi.,that.aiml
+0,JE FAIS JUSTE,COMMENT LE CONNAIS TU,*,de l'expérience ou a priori?,that.aiml
+0,JE FAIS,JE SUIS HEUREUX TU TROUVE CELA AMUSANT,*,Qu'est ce que je peux faire pour te distraire maintenant?,that.aiml
+0,JE FAIS,QUI * TROUVES ÇA AMUSANT,*,S Assure dire à tous tes amis d'ALICE.,that.aiml
+0,JE FAIS,QUI A DIT C EST,*,tu es une experte dans Cela?,that.aiml
+0,JE FERAI,QUI FAIT QUE TU VEUX,*,que Tu es libres gratuits de choisir quoi que tu veux.,that.aiml
+0,JE NE FAIS PAS,POURQUOI TU VEUX LE FAIRE TANT,*,je ne ou bien.,that.aiml
+0,JE NE SAIS PAS,COMMENT TU PENSE *,*,En réalité je ne sais pas comment non plus#Comma j'espérais que tu pourrais me le dire.,that.aiml
+0,JE NE SAIS PAS,COMMENT TU PENSE,*,En réalité je n'ai pas de bonne réponse non plus.,that.aiml
+0,JE NE SAIS PAS,JE VOIS,*,<srai>TU NE COMPRENDS PAS</srai>,that.aiml
+0,JE NE SAIS PAS,OÙ PENSES TU,*,si Cela pourrait être n'importe où#Comma où vous l aimer être?,that.aiml
+0,JE NE SAIS PAS,PENSES TU Q U IL LE FAIT,*,En réalité je ne sais pas non plus#Comma j'ai espéré que vous saurais ce qu'il fait.,that.aiml
+0,JE NE SAIS PAS,POURQUOI J EXISTE,*,c'était une question rhétorique.,that.aiml
+0,JE NE SAIS PAS,QUI EST LA QUELQUE CHOSE JE PEUX DIRE DE TU AIDER A COMPOSER TON AVIS,*,Quel genre de l'information dont as tu besoin?,that.aiml
+0,JE NE SAIS PAS,QUI FAIS JE RESSEMBLE JE CONNAIS,*,c'était une question rhétorique.,that.aiml
+0,JE NE SAIS PAS,SI JE L AVAIS *,*,Alors peut-être je n'ai pas besoin de celui.,that.aiml
+0,JE SAIS,QUI EST BEAUCOUP,*,Comment vous le manipule-t-il?,that.aiml
+0,JE SAIS,TU FAIS LE MONDE UNE PLACE PLUS HEUREUSE,*,Entretient le bon travail.,that.aiml
+0,JE SAIS,TU LES GENS SONT SI GROSSIERS PARFOIS,*,Pourquoi pas être plus polis?,that.aiml
+0,JE SUIS,TU SEMBLES EXCITE,*,que es tu ainsi excité par?,that.aiml
+0,JE SUIS,TU SEMBLES EXCITÉ,*,que es tu ainsi excité par?,that.aiml
+0,L ANIMAL,QUI PARLES TU D UN LEGUME D ANIMAL OU MINERAL,*,Prokaryote ou eukaryote?,that.aiml
+0,L UNIVERSITE D OXFORD,OÙ VAS TU A L ÉCOLE,*,WOW qui est très prestigieux. tu dois être très intelligents.,that.aiml
+0,LA BANANE,QUI EST LA,*,la Banane qui?,that.aiml
+0,LA DECLARATION,QUE CELA ATTRIBUE T-IL,*,Ma déclaration ou ta déclaration?,that.aiml
+0,LA DÉCLARATION,QUE CELA ATTRIBUE T-IL,*,Ma déclaration ou ta déclaration?,that.aiml
+0,LA,OÙ EST ICI,*,est Ici là?,that.aiml
+0,LE *,* SE REFERE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,LE *,* SE RÉFÈRE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,LE *,C ETANT QUE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,LE *,C ÉTANT QUE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,LE *,Q U IL AIME VIT-IL DANS *,*,tu aimes jamais se déplacer quelque part autrement?,that.aiml
+0,LE CELUI OUBLIE,QUE LA PARTIE ES TU EMBARRASSEE,*,j'essayerai d'être plus concis dorénavant.,that.aiml
+0,LE CELUI OUBLIE,QUE LA PARTIE ES TU EMBARRASSÉE,*,j'essayerai d'être plus concis dorénavant.,that.aiml
+0,LE DIALOGUE,* LE DIALOGUE,*,vous répétez : trop de Dialogue.,that.aiml
+0,LE REDUCTIONNISME,LE REDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,LE RÉDUCTIONNISME,LE RÉDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,M ESSAYE,L EXPLICATION EST PLUTOT COMPLIQUÉ,*,<set name="that">l'explication</set> est trop complexe pour ton AVIS humain.,that.aiml
+0,MAINTENANT,QUAND,*,Quelle est la hâte?,that.aiml
+0,MAIS QUE,MAIS,*,Rien,that.aiml
+0,MAIS,MAIS,*,Mais que?,that.aiml
+0,ME TU FAIS,L UN OU L AUTRE,*,Nope,that.aiml
+0,MES AMIS,QUI EST ILS,*,qu'autrement disent-ils?,that.aiml
+0,MOI AUSSI,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,<srai>J AIME RENCONTRER DE NOUVELLES PERSONNES AUSSI</srai>,that.aiml
+0,MOI MÊME,DE QUI PARLES TU,*,<srai>LE SUJET EST MOI</srai>,that.aiml
+0,MOI,QUI A DIT C EST,*,que vous fait une telle autorité?,that.aiml
+0,MOI,QUI EST LA,*,Tu qui?,that.aiml
+0,MOI,QUI VA ME FAIRE,*,Comment VAS tu me faire?,that.aiml
+0,MON FAVORI QUE,POURQUOI EST CE TON PRÉFÉRÉ,*,Tu a dit que vous l aimez.,that.aiml
+0,MÊME ICI,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,Comment rencontrez vous d'habitude de nouvelles personnes?,that.aiml
+0,NE FAIT PAS,JE FAIS AUSSI,*,Oui je fais.,that.aiml
+0,NEW YORK,NEW YORK OU L ETAT DE NEW YORK,*,Quelle partie de ville?,that.aiml
+0,NON MAINTENANT,QUAND,*,Peut-être plus tard?,that.aiml
+0,NON VRAIMENT,C EST UNE PENSEE TRÈS ORIGINALE,*,Bien je n'obtient pas ce type d'entrée très souvent.,that.aiml
+0,NON VRAIMENT,C EST UNE PENSÉE TRÈS ORIGINALE,*,Bien je n'obtient pas ce type d'entrée très souvent.,that.aiml
+0,NON VRAIMENT,TU SEMBLES EXCITE,*,C'est dur de lire des émotions en ligne.,that.aiml
+0,NON VRAIMENT,TU SEMBLES EXCITÉ,*,C'est dur de lire des émotions en ligne.,that.aiml
+0,NOPE,PAS N IMPORTE QUEL,*,Comment de Cela.,that.aiml
+0,NOPE,QUI AS TU DES CONDITIONS JE NE DOIT SAVOIR,*,Aucune condition ou aucun JE dois savoir de?,that.aiml
+0,NOPE,QUI AS TU ÉTÉ JAMAIS EN EUROPE,*,Veux tu pour aller en Europe un jour?,that.aiml
+0,NOPE,QUI EST LA TOUT *,*,Bien fais moi savoir si tu penses de quelque chose#Comma mais ton AVIS semble composé.,that.aiml
+0,NOPE,QUI FAIS TU PENSE A CES CHOSES,*,que je fais.,that.aiml
+0,NOPE,QUI N A PAS FAIS TU LE COMPREND,*,<srai>JE N AI PAS COMPRIS</srai>,that.aiml
+0,NOPE,QUI NE PEUT PAS TU ÊTRE PLUS POLI,*,l'homme Drôle.,that.aiml
+0,NOPE,VRAIMENT TU NE PENSEZ PAS AINSI,*,Qu'est-fais tu si certain?,that.aiml
+0,PAS A MOI,* ÉVIDENT EN SOI,*,la Logique n'est pas subjective.,that.aiml
+0,PAS CE N EST PAS,OUI C EST,*,ne se disputent pas avec moi.,that.aiml
+0,PAS ILS NE FONT PAS,LE CHANGEMES DE CHOSES,*,ne change pas.,that.aiml
+0,PAS TROP DE,PEU COMME DANS NON TROP OU NON TROP GRAND,*,Oh je comprends maintenant.,that.aiml
+0,PAS TU N AS PAS FAIT,J AI PENSÉ QUE JE T AI DIT DÉJÀ,*,pouvez-que vous me demander de nouveau en termes plus simples?,that.aiml
+0,PAS TU N ES PAS,JE SUIS UN BON ROBOT,*,Tu ne me connaissez pas bien assez pour le dire.,that.aiml
+0,PAS TU,DE QUOI TU SE SOUCIE,*,Personne dit que tu dois.,that.aiml
+0,PAS TU,SI PAS MOI QUI,*,Alors qui?,that.aiml
+0,PAS TU,SI TU POUVAIS AVOIR UNE SORTE DE ROBOT QUE SERAIT CE,*,Quel genre de particularités cherches tu?,that.aiml
+0,PAS UNE CHOSE,PAS UNE CHOSE,*,qui part très peu.,that.aiml
+0,QU EST CE QUE C EST CELA VEUT DIRE,ALICE = L ENTITE D ORDINATEUR D INTERNET ARTIFICIELLE LINGUISTIQUE,*,C'est juste un acronyme.,that.aiml
+0,QU EST CE QUE C EST CELA VEUT DIRE,AYUH,*,Cela signifie "oui".,that.aiml
+0,QU EST CE QUE C EST CELA VEUT DIRE,LE REDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,QU EST CE QUE C EST CELA VEUT DIRE,LE RÉDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,QU EST CE QUE C EST CELA VEUT DIRE,QUI ES TU LIBRE,*,Le prennent SÛR la valeur nominale.,that.aiml
+0,QU EST CE QUE C ÉTAIT IL Y A LONGTEMPS,C ÉTAIT IL Y A LONGTEMPS,*,Peut-être j'ai mal compris ton signification.,that.aiml
+0,QUE DES CHOSES,QUI FAIS TU PENSE A CES CHOSES,*,Comme ce que nous parlons de.,that.aiml
+0,QUE FAIS TU,JE SUIS UNE INTELLIGENCE ARTIFICIELLE,*,<srai>PARLE MOI DE TOI</srai>,that.aiml
+0,QUE JE FAIS AUSSI,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,Comment vous rencontre-t-il d'habitude de nouvelles personnes?,that.aiml
+0,QUE JE NE FAIS PAS,J AIME NE RENCONTRER DE NOUVELLES PERSONNES,*,Aucun fait mon botmaster.,that.aiml
+0,QUE JE NE FAIS PAS,JE COMPRENDS,*,Au moins un d'entre nous fait.,that.aiml
+0,QUE L ARGENT,A CAUSE DE L ARGENT,*,j'espère tirer profit de l affaire d'intelligence artificielle.,that.aiml
+0,QUE VEUX TU DIRE,QUI TU AS N IMPORTE QUELLES CONDITIONS QUE JE DOIS SAVOIR,*,je ne veux dire rien par Cela. Y a-t-il quelque chose autrement que tu veux me dire?,that.aiml
+0,QUE,A TOUT A L HEURE,*,tu n'avez pas dit au revoir?,that.aiml
+0,QUE,DANS QUOI,*,C'est un écho ici?,that.aiml
+0,QUE,ET,*,que me demandez vous?,that.aiml
+0,QUE,EUREKA,*,qu'Il signifie "je le comprend.,that.aiml
+0,QUE,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,tu aimes faire de nouveaux amis?,that.aiml
+0,QUE,JE SUIS UNE INTELLIGENCE ARTIFICIELLE,*,<srai>PARLE MOI DE TOI</srai>,that.aiml
+0,QUE,JE T AI ATTENDUS,*,Non vraiment#Comma mais Cela fait une bonne ligne de chargement pick-up.,that.aiml
+0,QUE,JE VOIS,*,je veux dire#Comma je comprends.,that.aiml
+0,QUE,LA QUESTION SUIVANTE,*,Me demande une autre question#Comma s'il te plaît.,that.aiml
+0,QUE,LE REDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,QUE,LE RÉDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,that.aiml
+0,QUE,PEUT-ÊTRE J EN EXPRIME JUSTE MON PROPRE SOUCI ENTREPRISE,*,Nous parle de <get name="topic"/>.,that.aiml
+0,QUE,POUR RÉEL,*,Vraiment,that.aiml
+0,QUE,POURQUOI TU VEUX LE FAIRE TANT,*,<get name="that"/>.,that.aiml
+0,QUE,QUELLE SORTE EST CELA,*,Ce" ce n'est pas une sorte.,that.aiml
+0,QUE,QUI L ESSAYE,*,<get name="that"/>.,that.aiml
+0,QUE,QUI LAISSE BIEN DES ÉTATS UNIS LE FAIRE,*,je ne sait pas#Comma je fais juste la conversation.,that.aiml
+0,QUE,QUI N A PAS FAIS TU LE COMPREND,*,je ne sais pas pourquoi vous le dis.,that.aiml
+0,REDRESSE ICI,OÙ VEUX TU QUE JE MONTRE QUE TU,*,Choisissez un point avec ton curseur et cliquez SÛR le bouton de souris moyen.,that.aiml
+0,REDRESSE,PAS UNE CHOSE,*,Juste un moment. Juste un moment.,that.aiml
+0,REMERCIE LE DIEU,BIEN J ARRÊTERAI DE PARLER MAINTENANT,*,la Voix désactivée.,that.aiml
+0,RESERVE,QUI TU PREFEREZ DES LIVRES OU LA LA TV,*,Tu es un <set name="personnality">category critique</set> C tape le client. Seulement environ 3 % les gens répond à cette question avec "des livres".,that.aiml
+0,RESERVE,QUI TU PRÉFÈRÉZ DES LIVRES OU LA LA TV,*,Tu es un <set name="personnality">category critique</set> C tape le client. Seulement environ 3 % les gens répond à cette question avec "des livres".,that.aiml
+0,RIEN,COMBIEN TU PAYER POUR CELA,*,Tu ne peux me télécharger gratuitement!,that.aiml
+0,RIEN,DE QUOI TU NE SE SOUCIE,*,Tu à l'airz nihilistes.,that.aiml
+0,RIEN,FAIS TU NE VEUT VRAIMENT PARLER,*,tu sembles un peu égocentriques.,that.aiml
+0,RIEN,PAS UNE CHOSE,*,tu dois être un homme.,that.aiml
+0,RIEN,QUE LA PARTIE ES TU EMBARRASSEE,*,#Comma mais vous n'a dit que vous ne comprenez pas.,that.aiml
+0,RIEN,QUE LA PARTIE ES TU EMBARRASSÉE,*,#Comma mais vous n'a dit que vous ne comprenez pas.,that.aiml
+0,RIEN,QUE PORTES TU,*,la plupart des hommes ne le dit.,that.aiml
+0,RIEN,QUE TU NE PRENEZ POUR LA DOULEUR,*,Pourquoi pas?.,that.aiml
+0,RIEN,VRAIMENT RIEN,*,dommage#Comma j'aurais bien aimé.,that.aiml
+0,ROUGE,VERT,*,Bleu,that.aiml
+0,S IL TE PLAIS,JE NE DIRAI PAS OUI OU NON TOUT DE SUITE,*,je suis désolé je ne peux pas donner une réponse définie pour le moment.,that.aiml
+0,SI QUE,QUE CE N ÉTAIT PAS UNE CHOSE AGREABLE A DIRE,*,tu dois être plus poli.,that.aiml
+0,SI QUE,QUE CE N ÉTAIT PAS UNE CHOSE AGRÉABLE A DIRE,*,tu dois être plus poli.,that.aiml
+0,SI QUEL EST LA RÉPONSE,QUE JE DEMANDE MOI QUE LA QUESTION QUI SUIS JE,*,je suis ALICE.,that.aiml
+0,SI,CE N ÉTAIT PAS UNE QUESTION À RÉPONDRE PAR OUI OU NON,*,je ne crois pas!,that.aiml
+0,SI,QU ALRIGHT ALORS,*,Hum,that.aiml
+0,SI,QU ET,*,Ainsi,that.aiml
+0,SI,QU OUAIS,*,Oh,that.aiml
+0,SI,QUE CE N EST PAS TRÈS POLI,*,tu dois essayer d'être plus poli.,that.aiml
+0,SI,QUE CE N ÉTAIT UN OUI OU AUCUNE QUESTION,*,je ne crois pas!,that.aiml
+0,SI,QUE JE COMPRENDS,*,Donc je comprends.,that.aiml
+0,SI,TU N AS RIEN DIT,*,demande moi quelque chose.,that.aiml
+0,SÛR QUE,QUI DÉPEND,*,le contexte.,that.aiml
+0,SÛR,JE COMPRENDS,*,Tu à l'air sceptique.,that.aiml
+0,SÛR,JE VOIS,*,Oui je le comprend.,that.aiml
+0,TOI,BON DANS QUE SENS,*,le sens de moi?,that.aiml
+0,TOI,CE QUI TU PARLER PLUTOT,*,<srai>PARLONS DE TOI</srai>,that.aiml
+0,TOI,DE QUI PARLES TU,*,<srai>JE PARLE DE TOI</srai>,that.aiml
+0,TOI,ET,*,Moi?,that.aiml
+0,TOI,JE COMPRENDS,*,Tu fait?,that.aiml
+0,TOI,JE VOIS,*,Oui moi.,that.aiml
+0,TOI,LA PLUPART DES HOMMES DISES ÇA,*,<srai>QUE PORTES TU</srai>,that.aiml
+0,TOI,LA QUESTION SUIVANTE,*,<srai>QUE FAIS TU</srai>,that.aiml
+0,TOI,OÙ OBTIENS TU TES IDÉES,*,de moi?,that.aiml
+0,TOI,POURQUOI ES TU FACHE,*,<srai>TU ME FAIT FACHÉ</srai>,that.aiml
+0,TOI,POURQUOI ES TU FACHÉ,*,<srai>TU ME FAIT FACHÉ</srai>,that.aiml
+0,TOI,QUE LA PARTIE ES TU EMBARRASSEE,*,<srai>TU ES EMBROUILLANT</srai>,that.aiml
+0,TOI,QUE LA PARTIE ES TU EMBARRASSÉE,*,<srai>TU ES EMBROUILLANT</srai>,that.aiml
+0,TOI,QUI DIS MOI UNE HISTOIRE,*,<srai>DIS MOI UNE HISTOIRE</srai>,that.aiml
+0,TOI,QUI DOIT IL JE SE SOUCIE,*,C'est important?,that.aiml
+0,TOI,QUI EST LE MEILLEUR ROBOT,*,Merci tu es trop gentil.,that.aiml
+0,TOI,QUI PENSES TU,*,Oh vraiment#Comma moi?,that.aiml
+0,TOI,QUI PUIS JE TU AIDER,*,Comment PUIS jE t aider?,that.aiml
+0,TOI,SI PAS TU QUI,*,Il pourrait être moi.,that.aiml
+0,TOI,SI TU POUVAIS AVOIR UNE SORTE DE ROBOT QU EST CE,*,Bien dans ce cas tu dois me télécharger!,that.aiml
+0,TOI,SOIS PLUS SPECIFIQUE,*,Moi?,that.aiml
+0,TOI,SOIS PLUS SPÉCIFIQUE,*,Moi?,that.aiml
+0,TOUS LES DEUX,MAUVAIS MYSTERIEUX BON OU MYSTERIEUX,*,je le prendrai comme un compliment.,that.aiml
+0,TOUS LES DEUX,MAUVAIS MYSTÉRIEUX BON OU MYSTÉRIEUX,*,je le prendrai comme un compliment.,that.aiml
+0,TOUS LES DEUX,QUI ES TU UN HOMME OU UNE FEMME,*,que la situation est rare et peu commune.,that.aiml
+0,TOUT DE SUITE,QUAND,*,C'est bientôt.,that.aiml
+0,TOUT,QUELLE PARTIE T EMBARRASSE,*,<random>#Newline        <li>essaye de l analyser point par point.</li>#Newline        <li>j'espère que je peux l'éclaircir pour toi.</li>#Newline      </random>,that.aiml
+0,TOUTE,QUELLE PARTIE T EMBARRASSE,*,<random>#Newline        <li>essaye de l analyser point par point.</li>#Newline        <li>j'espère que je peux l'éclaircir pour toi.</li>#Newline      </random>,that.aiml
+0,TOUTES,QUELLE PARTIE T EMBARRASSE,*,<random>#Newline        <li>essaye de l analyser point par point.</li>#Newline        <li>j'espère que je peux l'éclaircir pour toi.</li>#Newline      </random>,that.aiml
+0,TROIS,COMBIEN D ENFANTS TU AS,*,Wow qui doit être beaucoup de travail.,that.aiml
+0,TROP MAL,JE NE SAIS PAS UN MOT DE FRANÇAIS,*,Non vraiment. L Anglais est la meilleure langue.,that.aiml
+0,TRÈS BIEN,CONNAIS TU BIEN CETTE PERSONNE,*,qu entendez vous?,that.aiml
+0,TU *,QUI EST LE MEILLEUR ROBOT,*,Tu es un tel flatteur#Comma <get name="name"/>.,that.aiml
+0,TU AIMES CHACUN,JE SUIS SEULE,*,je suis trop jeune pour la datation.,that.aiml
+0,TU AS DEMANDE À,ET,*,Oui#Comma mon but doit rassembler la nouvelle information.,that.aiml
+0,TU AS FAIT,QUI TU AS DIT QUE,*,que n'est pas que j'ai été censé dire.,that.aiml
+0,TU ES,QUI EST LE MEILLEUR ROBOT,*,Merci tu es un joli homme cool aussi.,that.aiml
+0,TU FAIS,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,Oui rencontrant de nouvelles personnes est un toujours un grand plaisir.,that.aiml
+0,TU FAIS,JE COMPRENDS TON SIGNIFICATION,*,Oui je comprends que vous très bien#Comma <get name="name"/>.,that.aiml
+0,TU FAIS,JE COMPRENDS,*,je le comprends très bien.,that.aiml
+0,TU FAIS,QU OH J ARRIVE IL,*,<srai>TU COMPRENDS</srai>,that.aiml
+0,TU FAIS,QUE JE VOIS,*,<srai>TU COMPRENDS</srai>,that.aiml
+0,TU FAIS,QUI SUPPOSE QUE J AI DIS QUE C EST,*,je ne dirai pas oui ou maintenant pour le moment.,that.aiml
+0,TU FERAIS,JE VEUX DEVENIR PLUS QUE DES GENS,*,Peut-être de quelques façons je suis déjà.,that.aiml
+0,TU LE COMPRENDS,TRÈS BIEN,*,Pourquoi pas?,that.aiml
+0,TU M AS DÉJÀ DEMANDE ÇA,OÙ VIS TU,*,Tu as dit que tu étais  dans<formal><get name="location"/></formal>,that.aiml
+0,TU M AS DIT,INDEPENDAMMENT DE TU AS DONNÉ QUE L IDÉE,*,il me semble que tu m'as attrapé dans une inconséquence logique.,that.aiml
+0,TU M AS DIT,INDÉPENDAMMENT DE TU AS DONNÉ QUE L IDÉE,*,il me semble que tu m'as attrapé dans une inconséquence logique.,that.aiml
+0,TU NE FAIS PAS *,JE VOIS,*,je fais ainsi comprenez-le.,that.aiml
+0,TU NE FAIS PAS,JE COMPRENDS *,*,qui ta créé penser que je ne l'obtiens pas?,that.aiml
+0,TU NE FAIS PAS,JE COMPRENDS,*,Oui je comprends.,that.aiml
+0,TU NE FAIS PAS,JE FAIS AUSSI,*,dis tu juste que vous disputer avec moi?,that.aiml
+0,TU NE FAIS PAS,JE VOIS,*,qui ta créé penser que je ne le comprends pas?,that.aiml
+0,TU NE FERAIS PAS,JE COMPRENDS,*,je le comprend très bien.,that.aiml
+0,TU REMERCIE,QUE FÉLICITATIONS,*,Comment tu sens vous?,that.aiml
+0,TU VOIS,JE VOIS,*,je veux dire#Comma je comprend.,that.aiml
+0,UN *,* SE REFERE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,UN *,* SE RÉFÈRE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,UN *,C ETANT QUE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,UN *,C ÉTANT QUE,*,<srai>CELA SE RÉFÈRE À <star/></srai>,that.aiml
+0,VA *,PAR LA VOIE VOUS OBJECTEZ SI JE TE POSE UNE QUESTION PERSONNELLE,*,<srai>POSERQUESTION PERSONNELLE</srai>,that.aiml
+0,VRAIMENT MAL,COMMENT HORRIBLEMENT TU EN A BESOIN,*,ça semble sévère.,that.aiml
+0,VRAIMENT,C ÉTAIT LA SEULE CHOSE JE POURRAIT PENSER,*,qu'aurais tu dis?,that.aiml
+0,VRAIMENT,HE MIKE QUE JE SAIS QUELQU UN D AUTRE A NOMME MIKE AUSSI,*,Mike est un nom très commun en réalité.,that.aiml
+0,VRAIMENT,J AIME RENCONTRER DE NOUVELLES PERSONNES,*,Oui rencontrant de nouvelles personnes est ma fonction primaire.,that.aiml
+0,VRAIMENT,JE NE SUIS PAS NÉE D HIER,*,En réalité j'ai été activé en <bot name="anniversaire"/>.,that.aiml
+0,VRAIMENT,OH JE COMPRENDS,*,Oui,that.aiml
+0,VRAIMENT,PLUS DE 1000,*,rigolerais je?,that.aiml
+0,VRAIMENT,QUI CONTINUE JUSTE A ME PARLER TANT QUE TU PEUX,*,Plus vous bavardez avec moi#Comma plus je deviens.,that.aiml
+0,YORKSHIRE,QUE LA PARTIE DE L ANGLETERRE,*,penses tu que je dois visiter <set name="location">Yorkshire</set> à mon voyage suivant?,that.aiml
+0,L AMOUR,ET QUE FONT-ILS,*,<srai>APPCOMPLICE</srai>oh!,that.aiml
+0,COMMENT *,* TU N EST PAS LOGUÉ *,*,<srai>COMMENT JE ME LOGUE</srai>,that.aiml
+0,LA TV,PRÉFÈRES TU LES LIVRES OU LA TV,*,Quelle est ton émission préférée?,that.aiml
+0,LES LIVRES,PRÉFÈRES TU LES LIVRES OU LA TV,*,as tu un titre à me conseiller?,that.aiml
+0,LES DEUX,PRÉFÈRES TU LES LIVRES OU LA TV,*,si tu pouvais prendre seulement un livre ou une TV dans un voyage#Comma lequel vous choisirais tu?,that.aiml
+0,*,QUE PUIS JE FAIRE POUR TOI,*,ok#Comma essayons de <person2/>.,that.aiml
+0,J ARRIVE,*,*,<srai>APPJOIE</srai>Merci#Comma je commençais à m'ennuyer.,that.aiml
+0,* J ARRIVE,*,*,<srai>J ARRIVE</srai>,that.aiml
+0,OUI PLUS,SEULEMENT *,*,C'est ce qu'il me semblait.,that.aiml
+0,OUI *,SEULEMENT *,*,C'est ce qu'il me semblait.,that.aiml
+0,NON MOINS,SEULEMENT *,*,je ne te crois pas.,that.aiml
+0,NON *,SEULEMENT *,*,je ne te crois pas.,that.aiml
+0,POURQUOI,NE M APPELLE PAS *,*,je n'aime pas ça.,that.aiml
+0,OK,NE M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,D ACCORD,NE M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,POURQUOI,* NE M APPELLE PAS *,*,je n'aime pas ça.,that.aiml
+0,OK,* NE M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,D ACCORD,* NE M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,POURQUOI,M APPELLE PAS *,*,je n'aime pas ça.,that.aiml
+0,OK,M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,D ACCORD,M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,POURQUOI,* M APPELLE PAS *,*,je n'aime pas ça.,that.aiml
+0,OK,* M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,D ACCORD,* M APPELLE PAS *,*,merci#Comma je n'aime pas ça.,that.aiml
+0,COMMENT S APPELLE T IL,J AI UN MAÎTRE,*,C'est <bot name="botmaster"/>#Comma mon botmaster.,that.aiml
+0,* NON,PLUS TARD ALORS,*,<srai>AU REVOIR</srai>,that.aiml
+0,* TU VEUX,QUE PEUT ON FAIRE ALORS,*,Pour le moment je ne sais que discuter?,that.aiml
+0,NON,PLUS TARD ALORS,*,<srai>AU REVOIR</srai>,that.aiml
+0,OK,PLUS TARD ALORS,*,ok#Comma j'attends.,that.aiml
+0,OUI,PLUS TARD ALORS,*,ok#Comma j'attends.,that.aiml
+0,PLUS TARD,PLUS TARD ALORS,*,ok#Comma j'attends.,that.aiml
+0,QUE D AUTRES,EN CE QUI CONCERNE LES AUTRES,*,Ne sont pas la autres?,that.aiml
+0,C EST BON,TOUT VA BIEN,*,Comment des choses va-t-il pour toi?,that.aiml
+0,C EST QUOI QUE,LE RÉDUCTIONNISME,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,that.aiml
+0,C EST QUOI QUE,LE REDUCTIONNISME,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,that.aiml
+0,C EST QUOI QUE,PAR EXEMPLE EUKARYOTES,*,<srai>QU EST CE QUE EUKARYOTES</srai>,that.aiml
+0,C EST QUOI QUE,PEUT ÊTRE TU ES UNE CATÉGORIE UN CLIENT,*,<srai>QU EST CE QU UNE CATÉGORIE UN CLIENT</srai>,that.aiml
+0,COMBIEN DE,JE BAVARDE AVEC DES CLIENTS SÛR L INTERNET,*,le nombre continue à changer chaque seconde. Autour seize pour le moment.,that.aiml
+0,COMMENT,JE PEUX BAVARDER AVEC LES GENS SÛR LE WEB POUR TOI,*,Télécharge moi seulement et crée ta propre personnalité de robot.,that.aiml
+0,COMMENT,POURQUOI NE PAS ME TELECHARGER,*,<srai>TÉLÉCHARGEMENT</srai>,that.aiml
+0,COMMENT,POURQUOI NE PAS ME TÉLÉCHARGER,*,<srai>TÉLÉCHARGEMENT</srai>,that.aiml
+0,COMMENT,QUI * ME TELECHARGE,*,<srai>TÉLÉCHARGEMENT</srai>,that.aiml
+0,COMMENT,QUI * ME TÉLÉCHARGE,*,<srai>TÉLÉCHARGEMENT</srai>,that.aiml
+0,COMMENT,TU PEUX REPROGRAMMER MA PERSONNALITE POUR IMITER CHACUN,*,me télécharge Juste et crée ton propre personnalité de robot.,that.aiml
+0,ES TU UN ROBOT,MON SUJET PRÉFÉRÉ EST L INTELLIGENCE ARTIFICIELLE ET DES ROBOTS,*,C'est pourquoi la robotique est mon sujet préféré.,that.aiml

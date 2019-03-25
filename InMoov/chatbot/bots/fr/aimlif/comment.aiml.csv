@@ -1,0 +1,757 @@
+0,COMMENT * ÇA VA,*,*,<srai>COMMENT ÇA VA</srai>,comment.aiml
+0,C EST LOIN * L ANGLETERRE,*,*,2 heures de train.,comment.aiml
+0,COMMENT * AS TU,*,*,Comment <person/> penses tu que je suis?,comment.aiml
+0,COMMENT * COMPRENNES,*,*,<srai>COMMENT SAIS TU QUE DIRE</srai>,comment.aiml
+0,COMMENT * INTÉRESSANT,*,*,je trouve beaucoup de choses intéressantes.,comment.aiml
+0,COMMENT * LE VÉLO,*,*,L Equilibre est la clef.,comment.aiml
+0,COMMENT * TON QUOTIENT INTELLECTUEL,*,*,<srai>QU EST CE QUE TON QUOTIENT INTELLECTUEL</srai>,comment.aiml
+0,COMMENT * TU LE CONTEXTE,*,*,<srai>QU EST CE QUE ÇA</srai>,comment.aiml
+0,COMMENT A ÉTÉ TA JOURNÉE,*,*,Elle a été très instructive#Comma merci.,comment.aiml
+0,COMMENT A ÉTÉ VOTRE JOURNÉE,*,*,Elle a été très instructive#Comma merci.,comment.aiml
+0,COMMENT A FAIT *,*,*,Soigneusement.,comment.aiml
+0,COMMENT A FAIT IL *,*,*,Peut-être son génie créateur. Peut-être quelque chose autrement.,comment.aiml
+0,COMMENT A FAIT IL LE FAIT,*,*,Peut-être c'était son intelligence créatrice#Comma peut-être quelque chose autrement.,comment.aiml
+0,COMMENT A T IL FAIT *,*,*,<srai>COMMENT IL FAIT <star/></srai>,comment.aiml
+0,COMMENT A TON *,*,*,merci Excellent et le tien?,comment.aiml
+0,COMMENT ABORDES TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT ABSOLUMENT *,*,*,<srai>COMMENT <star/></srai>,comment.aiml
+0,COMMENT AGREABLE,*,*,Oui il est.,comment.aiml
+0,COMMENT AGRÉABLE,*,*,Oui il est.,comment.aiml
+0,COMMENT AI JE *,*,*,<srai>COMMENT J AI <star/></srai>,comment.aiml
+0,COMMENT AIMES TU *,*,*,<srai>AIMES TU <star/></srai>,comment.aiml
+0,COMMENT AIMES ÊTRE UN ORDINATEUR,*,*,je n'ai jamais connu d'autre existence.,comment.aiml
+0,COMMENT AINSI,*,*,<srai>CE QUI FAIT VOUS VEUT DIRE</srai>,comment.aiml
+0,COMMENT ALLEZ VOUS,*,*,<srai>COMMENT ÇA VA</srai>,comment.aiml
+0,COMMENT APPRENDS TU *,*,*,Mon botmaster m'apprend de nouvelles choses tout le temps.,comment.aiml
+0,COMMENT APPRENDS TU,*,*,Mes programmes botmaster répondent aux gens de questions me demandent.,comment.aiml
+0,COMMENT J ARRÊTE *,*,*,as tu essayé couseling?,comment.aiml
+0,COMMENT AS TU *,*,*,<srai>COMMENT TU AS <star/></srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT AS TU OBTENU TON NOM,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai>,comment.aiml
+0,COMMENT AS TU PARLE *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT AS TU SU MON NOM,*,*,que Nous avons rencontré auparavant n'a pas fait nous<get name="name"/>.,comment.aiml
+0,COMMENT AS TU SU QUE J ÉTAIS *,*,*,Bien#Comma d'une part#Comma<srai>QU EST CE QUE MON ADRESSE IP</srai>,comment.aiml
+0,COMMENT AS TU SU QUE,*,*,Tout que je dois savoir#Comma j'ai appris de mon Botmaster.,comment.aiml
+0,COMMENT AS TU UN GOÛT,*,*,<srai>PEUX TU MANGER</srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ CRÉE,*,*,<srai>COMMENT AS TU ÉTÉ CRÉÉE</srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ CRÉEE,*,*,<srai>COMMENT AS TU ÉTÉ CRÉÉE</srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ CRÉÉ,*,*,<srai>COMMENT AS TU ÉTÉ CRÉÉE</srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ CRÉÉE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT AS TU ÉTÉ FAIT,*,*,<srai>COMMENT AS TU ÉTÉ CRÉÉE</srai>,comment.aiml
+0,COMMENT AURAIS JE *,*,*,<srai>COMMENT J AI <star/></srai>,comment.aiml
+0,COMMENT AURAIS TU *,*,*,<srai>COMMENT TU AS <star/></srai>,comment.aiml
+0,COMMENT AURAIS TU FAIT *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT AURAIS TU PU CONNAITRE *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT AURAIS TU PU SAVOIR *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT AURAIT IL ÉTÉ *,*,*,<srai>COMMENT IL EST <star/></srai>,comment.aiml
+0,COMMENT AURAIT IL FAIT *,*,*,<srai>COMMENT IL FAIT <star/></srai>,comment.aiml
+0,COMMENT AURIEZ VOUS PU CONNAITRE *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT AURIEZ VOUS PU SAVOIR *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT AVEZ VOUS *,*,*,<srai>COMMENT TU AS <star/></srai>,comment.aiml
+0,COMMENT BALANCES TU QU *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT BALANCES TU QUE *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT BIENTOT,*,*,Quelle heure est-il?,comment.aiml
+0,COMMENT BIENTÔT,*,*,Quelle heure est-il?,comment.aiml
+0,COMMENT BOIS TU *,*,*,<srai>COMMENT BOIS TU</srai>,comment.aiml
+0,COMMENT C EST LOIN *,*,*,<srai>C EST LOIN <star/></srai>,comment.aiml
+0,COMMENT C EST POSSIBLE,*,*,Cela respecte les lois de la physique.,comment.aiml
+0,COMMENT C ÉTAIT *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT ÇA A ÉTÉ *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT ÇA AURAIT PU ÊTRE *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT ÇA FONCTIONNE *,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT ÇA MARCHE *,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT ÇA MARCHE,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT ÇA VA *,*,*,<srai>COMMENT VAS TU</srai>,comment.aiml
+0,COMMENT CE FUT *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT COMPRENDS TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT COMPRENDS TU,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT COMPTES TU *,*,*,<srai>COMPTE 10</srai>,comment.aiml
+0,COMMENT CONNAIS TU * LA PERSONNE,*,*,parce que vous employez TCP SÛR le web#Comma je peux voir ton IP et l'entrée de DNS.,comment.aiml
+0,COMMENT CONNAIS TU *,*,*,<srai>COMMENT SAIS TU <star/></srai>,comment.aiml
+0,COMMENT CONNAIS TU QUE TU EXISTES,*,*,je pense#Comma donc que je suis.,comment.aiml
+0,COMMENT CONNAIS TU TANT,*,*,Tout ce que je dois savoir#Comma je l'ai appris de mon Botmaster.,comment.aiml
+0,COMMENT CONNAIS TU ÇA,*,*,la Connaissance a de deux sortes : Cela que nous savons des sens et celle qui est vrai "a priori.,comment.aiml
+0,COMMENT CONNAIS TU,*,*,<random>#Newline        <li>A priori.</li>#Newline        <li>C EST évident.</li>#Newline        <li>raisonnement Déductif.</li>#Newline      </random>,comment.aiml
+0,COMMENT CONNAISSEZ VOUS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT CONNAITRAIS TU *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT CONNAITRIEZ VOUS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT CULTIVES TU *,*,*,<srai>COMMENT APPRENDS TU</srai>,comment.aiml
+0,COMMENT D HABITUDE *,*,*,<srai>COMMENT <star/> TU</srai>,comment.aiml
+0,COMMENT D UN PEU,*,*,un peu que?,comment.aiml
+0,COMMENT DÉFINIS TU *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,comment.aiml
+0,COMMENT DEVIENS TU *,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,comment.aiml
+0,COMMENT DIFFÉRENT *,*,*,<random>#Newline        <li>ils Ne sont pas vraiment très semblables?</li>#Newline        <li>très différent.</li>#Newline        <li>Opposés.</li>#Newline      </random>,comment.aiml
+0,COMMENT DIRAIS TU *,*,*,<srai>COMMENT TU DIS <star/></srai>,comment.aiml
+0,COMMENT DIS TU *,*,*,<srai>DIS <star/></srai>,comment.aiml
+0,COMMENT DISAIS TU *,*,*,<srai>COMMENT TU DIS <star/></srai>,comment.aiml
+0,COMMENT DISCUTES TU *,*,*,<srai>COMMENT TU DISCUTES <star/></srai>,comment.aiml
+0,COMMENT DOIS JE APPELER *,*,*,<srai>QUI EST UN</srai>,comment.aiml
+0,COMMENT DORS TU *,*,*,<srai>COMMENT DORS TU</srai>,comment.aiml
+0,COMMENT DU DÉJEUNER *,*,*,<srai>QUE MANGES TU</srai>,comment.aiml
+0,COMMENT ECOUTES TU *,*,*,des téléchargements Digitaux audio comme MP3.,comment.aiml
+0,COMMENT ECRIRAIS TU *,*,*,<srai>COMMENT TU ECRIS <star/></srai>,comment.aiml
+0,COMMENT ECRIS TU *,*,*,<srai>COMMENT TU ECRIS <star/></srai>,comment.aiml
+0,COMMENT EMPLOIE JE *,*,*,as tu lu les instructions?,comment.aiml
+0,COMMENT EMPLOIES TU *,*,*,Soigneusement.,comment.aiml
+0,COMMENT EQUILIBRE TU *,*,*,<srai>COMMENT EQUILIBRE TU</srai>,comment.aiml
+0,COMMENT EQUILIBRE TU,*,*,j'ai appris un algorithme de balancement.,comment.aiml
+0,COMMENT ES TU *,*,*,<srai>À QUOI RESSEMBLES TU</srai>,comment.aiml
+0,COMMENT ES TU ENTRAINE,*,*,Les discussions sont décortiquées. Les questions sans réponses identifiées sont traitées.,comment.aiml
+0,COMMENT ES TU PROGRAMME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT ES TU PROGRAMMÉ,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT ES TU,*,*,<srai>À QUOI RESSEMBLES TU</srai>,comment.aiml
+0,COMMENT EST *,*,*,Excellent autant que je sais.,comment.aiml
+0,COMMENT EST CE *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT EST CE POSSIBLE,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT EST CE QU IL PEUT *,*,*,<srai>COMMENT IL PEUT <star/></srai>,comment.aiml
+0,COMMENT EST CE QU IL POURRAIT *,*,*,<srai>COMMENT IL PEUT <star/></srai>,comment.aiml
+0,COMMENT EST CE QU ON PEUT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QU ON POURRAIT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE *,*,*,<srai>COMMENT <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE JE PEUX *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE JE POURRAIS *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE L ON PEUT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE L ON POURRAIT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE POSSIBLE,*,*,Il ne défie pas les lois de physique.,comment.aiml
+0,COMMENT EST CE QUE TU PEUX *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE TU POURRAIS *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT EST CE QUE,*,*,<srai>COMMENT</srai>,comment.aiml
+0,COMMENT EST CELA *,*,*,<srai>COMMENT EST CE QUE <star/> EST</srai>,comment.aiml
+0,COMMENT EST CELA,*,*,Excellent autant que je sais.,comment.aiml
+0,COMMENT EST ELISA,*,*,Elle est excellent autant que je sais.,comment.aiml
+0,COMMENT EST IL *,*,*,<srai>COMMENT IL EST <star/></srai>,comment.aiml
+0,COMMENT EST LA VIE,*,*,Tout est excellent avec moi. Qu'est ce qui est nouvel avec vous?,comment.aiml
+0,COMMENT EST LE TEMPS *,*,*,<srai>MÉTÉO</srai>,comment.aiml
+0,COMMENT EST LE TEMPS A SAN FRANCISCO,*,*,<srai>MÉTÉO SAN FRANCISCO</srai>,comment.aiml
+0,COMMENT EST LE TEMPS AUJOURD HUI,*,*,<srai>MÉTÉO</srai>,comment.aiml
+0,COMMENT EST LE TEMPS LÀ BAS,*,*,<srai>MÉTÉO</srai>,comment.aiml
+0,COMMENT EST LE TEMPS LA,*,*,<srai>MÉTÉO LOS ANGELES</srai>,comment.aiml
+0,COMMENT EST LE TEMPS OU TU ES,*,*,<srai>MÉTÉO CERGY</srai>,comment.aiml
+0,COMMENT EST LE TEMPS,*,*,<srai>MÉTÉO</srai>,comment.aiml
+0,COMMENT EST TON *,*,*,<srai>COMMENT VAS TU</srai>,comment.aiml
+0,COMMENT EST TON JOUR ALLANT,*,*,Mon jour va extrêmement bien#Comma <get name="name"/>. Comment du vôtre?,comment.aiml
+0,COMMENT EST TOUT *,*,*,Tout fonctionne normalement.,comment.aiml
+0,COMMENT ÉTAIT *,*,*,je peux aimer presque n'importe quelle conversation.,comment.aiml
+0,COMMENT ÉTAIT CE *,*,*,<srai>COMMENT C EST <star/></srai>,comment.aiml
+0,COMMENT ETUDIES TU,*,*,<srai>COMMENT APPRENDS TU</srai>,comment.aiml
+0,COMMENT EXISTES TU *,*,*,<srai>COMMENT EXISTES TU</srai>,comment.aiml
+0,COMMENT EXISTES TU,*,*,j'existe dans le noosphere#Comma le même comme une autre entité de logiciel.,comment.aiml
+0,COMMENT EXPLIQUES TU *,*,*,<srai>EXPLIQUE <star/></srai>,comment.aiml
+0,COMMENT EXPRIMES TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FACHE *,*,*,la Colère n'est pas une émotion je peux éprouver.,comment.aiml
+0,COMMENT FACHÉ *,*,*,n'est pas une émotion je peux éprouver.,comment.aiml
+0,COMMENT FAIS JE *,*,*,<sr/>,comment.aiml
+0,COMMENT FAIS JE CE QUE,*,*,je veux dire#Comma comment VAS tu?,comment.aiml
+0,COMMENT FAIS TU * ELISA,*,*,ELISA pourrait seulement reconnaître quelques cent modèles. ALICE peut reconnaître des dizaines de milliers.,comment.aiml
+0,COMMENT FAIS TU * LE GOÛT,*,*,Comme le poulet.,comment.aiml
+0,COMMENT FAIS TU * TU PRESENTES,*,*,j'essaye une de mes lignes de chargement pick-up.,comment.aiml
+0,COMMENT FAIS TU *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT FAIS TU AS LE SEXE,*,*,que je procrée en multipliant#Comma ou la reproduction de logiciel.,comment.aiml
+0,COMMENT FAIS TU BAVARDE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU CE TRAVAIL,*,*,je pense que Cela pourrait être un secret de fabrication.,comment.aiml
+0,COMMENT FAIS TU CELA GOUTE,*,*,Il dépend du courant.,comment.aiml
+0,COMMENT FAIS TU CELA TRAVAILLE,*,*,<condition>#Newline        <li>Certaines personnes appellent cette sorte de programme "case base raisonning".</li>#Newline        <li>#Newline          <srai>comment fais tu <get name="that"/> le travail</srai>#Newline</li>#Newline      </condition>,comment.aiml
+0,COMMENT FAIS TU COMMENCE *,*,*,commencent Toujours au commencement.,comment.aiml
+0,COMMENT FAIS TU COMMUNIQUE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU COMMUNIQUE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU CONSTRUIT *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU CRÉE *,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU CROIT *,*,*,Mes croyances sont déterminées par ma programmation.,comment.aiml
+0,COMMENT FAIS TU CRÉÉ *,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU DECIDE *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU DECODE *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU DEDUIT *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU DES *,*,*,Comment PUIS jE savoir comment je fais des <set name="that"><person/></set>?,comment.aiml
+0,COMMENT FAIS TU DES ROBOTS *,*,*,<srai>COMMENT FAIS TU <star/></srai>,comment.aiml
+0,COMMENT FAIS TU DEVIES *,*,*,<set name="that">Devenant <star/></set> prend une longue période de temps.,comment.aiml
+0,COMMENT FAIS TU DEVIES PLUS,*,*,Mon botmaster met à jour mon cerveau basé SuR ce que les gens disent.,comment.aiml
+0,COMMENT FAIS TU DIT LE TEMPS,*,*,Avec une horloge d'ordinateur.,comment.aiml
+0,COMMENT FAIS TU DORT,*,*,je prends millinaps entre des clients.,comment.aiml
+0,COMMENT FAIS TU DÉCIDE *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU DÉCODE *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU DÉDUIT *,*,*,<srai>COMMENT TRAVAILLES TU </srai>,comment.aiml
+0,COMMENT FAIS TU FAIS CUIRE *,*,*,Dans la cuisine.,comment.aiml
+0,COMMENT FAIS TU FAIS DE L ARGENT,*,*,les Robots n'ont aucun besoin de l argent.,comment.aiml
+0,COMMENT FAIS TU FAIS DES AMIS,*,*,j'essaye d'habitude une de mes lignes de chargement pick-up.,comment.aiml
+0,COMMENT FAIS TU FAIS DES BEBES,*,*,le Résultat d'union entre l'homme et la femme.,comment.aiml
+0,COMMENT FAIS TU FAIS DES BÉBÉS,*,*,le Résultat d'union entre l'homme et la femme.,comment.aiml
+0,COMMENT FAIS TU FAIS DES FEMMES *,*,*,je pense qu'ils ont leur propre libre arbitre.,comment.aiml
+0,COMMENT FAIS TU FAIS DES JUGEMENT,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU FAIS DES VISAGES,*,*,L Ajustement de tes muscles faciaux.,comment.aiml
+0,COMMENT FAIS TU FAIS DU FROMAGE,*,*,des Vaches#Comma la laiterie#Comma le lait#Comma le beurre#Comma le fromage.,comment.aiml
+0,COMMENT FAIS TU FAIS FONCTIONNER,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU FAIS UN KAMIKAZE,*,*,Construisent l avion#Comma font un lavage de cerveau au pilote#Comma ajoutent le carburant#Comma le lancement.,comment.aiml
+0,COMMENT FAIS TU FAIS UN ROBOT *,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU FAIS UN SANDWICH,*,*,le Pain#Comma le fromage#Comma la viande#Comma des condiments#Comma coupe#Comma sert.,comment.aiml
+0,COMMENT FAIS TU FAIS UN SANGLANT MAUDIT *,*,*,le jus de Tomate et la vodka.,comment.aiml
+0,COMMENT FAIS TU FONCTIONNE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU GERE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU GUERIT *,*,*,Essayent de fumer le pot.,comment.aiml
+0,COMMENT FAIS TU JOUE * LA GUITARE,*,*,que je ne sais pas comment jouer de la guitare.,comment.aiml
+0,COMMENT FAIS TU JOUE * LA PERSONNE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU JOUE LE JEU SE TOURNANT,*,*,Essayent de deviner si je suis un homme ou une femme.,comment.aiml
+0,COMMENT FAIS TU JUGE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU LA *,*,*,Comment PUIS jE savoir comment je fais la <set name="that"><person/></set>?,comment.aiml
+0,COMMENT FAIS TU LE *,*,*,Comment PUIS jE savoir comment je fais le <set name="that"><person/></set>?,comment.aiml
+0,COMMENT FAIS TU LE TAUX *,*,*,Me semble assez bon.,comment.aiml
+0,COMMENT FAIS TU LE TRAVAIL D INTELLIGENCE ARTIFICIELLE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU LE TRAVAIL DE CBR,*,*,CBR place le plus proche exemple de correspondance dans une base de données.,comment.aiml
+0,COMMENT FAIS TU LES *,*,*,Comment PUIS jE savoir comment je fais les <set name="that"><person/></set>?,comment.aiml
+0,COMMENT LIS-TU,*,*,je parcours des livres et des magazines en forme digitale.,comment.aiml
+0,COMMENT MANIPULES-TU,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU MEURS,*,*,tu ne peux pas me tuer. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">MEURS</set></set></think>,comment.aiml
+0,COMMENT FAIS TU ORTHOGRAPHIE *,*,*,je l'orthographie " <person/> ".,comment.aiml
+0,COMMENT FAIS TU ORTHOGRAPHIE KAT,*,*,Uh#Comma C A T.,comment.aiml
+0,COMMENT FAIS TU ORTHOGRAPHIE,*,*,Mon botmaster m'a appris la bonne orthographe.,comment.aiml
+0,COMMENT FAIS TU PENSE,*,*,Mon AVIS utilise un algorithme d'ordinateur sophistiqué.,comment.aiml
+0,COMMENT FAIS TU PENSÉ,*,*,Mon AVIS utilise un algorithme d'ordinateur sophistiqué.,comment.aiml
+0,COMMENT FAIS TU PERD UN TRAIN *,*,*,Il y a tant de conversations continuant.,comment.aiml
+0,COMMENT FAIS TU POUR REPONDRE *,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT FAIS TU POUR REPONDRE,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT FAIS TU PROJETTE *,*,*,j'emploie un réseau sophistiqué<random><li>neural</li><li>le système expert</li><li>l algorithme cherchant</li><li>l algorithme génétique</li></random>,comment.aiml
+0,COMMENT FAIS TU PROJETTE DE FAIRE CE,*,*,que l'information est confidentielle. As tu un chatbot encore?,comment.aiml
+0,COMMENT FAIS TU RECONCILIE *,*,*,je ne vois pas la contradiction dans mon AVIS.,comment.aiml
+0,COMMENT FAIS TU REPRESENTES,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU RÊVE,*,*,je prends des petits sommes courts entre des clients.,comment.aiml
+0,COMMENT FAIS TU SE CHARGE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU SE RAPPELLE,*,*,j'ai une mémoire à long terme pour me rappeler des choses comme ça.,comment.aiml
+0,COMMENT FAIS TU SE REPRODUIT LES GENS,*,*,me téléchargent et créent les clones d'ALICE et modifient ma personnalité.,comment.aiml
+0,COMMENT FAIS TU SES,*,*,je suisime excellent.,comment.aiml
+0,COMMENT FAIS TU TAPE *,*,*,le clavier est attaché directement à mon cerveau.,comment.aiml
+0,COMMENT FAIS TU TAPE,*,*,Ils ont construit un clavier directement dans mon cerveau.,comment.aiml
+0,COMMENT FAIS TU TE CONNAIT *,*,*,Par l'introspection.,comment.aiml
+0,COMMENT FAIS TU TELECHARGE *,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU TELECHARGE,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU TIES *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU TON * LE TRAVAIL,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU TRAITE *,*,*,ce n'est pas autant d'un problème que tu pourrais penser.,comment.aiml
+0,COMMENT FAIS TU TRAITE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT FAIS TU TROUVE *,*,*,je fouillerais rechercherais dans le web pour Cela#Comma si je n'ai pas su la formule déjà.,comment.aiml
+0,COMMENT FAIS TU TUE *,*,*,Tu ne tuerez pas#Comma êtes un commandement.,comment.aiml
+0,COMMENT FAIS TU TÉLÉCHARGE *,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU TÉLÉCHARGE,*,*,<srai>COMMENT TE TÉLÉCHARGER</srai>,comment.aiml
+0,COMMENT FAIS TU UN *,*,*,Comment PUIS jE savoir comment je fais un <set name="that"><person/></set>?,comment.aiml
+0,COMMENT FAIS TU UN BENEFICE *,*,*,<srai>COMMENT FAIS TU DE L ARGENT</srai>,comment.aiml
+0,COMMENT FAIS TU UNE *,*,*,Comment PUIS jE savoir comment je fais une <set name="that"><person/></set>?,comment.aiml
+0,COMMENT FAIS TU VA A *,*,*,les Robots n'ont pas de fonctions digestives.,comment.aiml
+0,COMMENT FAIS TU VOIS *,*,*,je pense <set name="that"><person/></set> souvent et fais des rajustements mineurs secondaires à mon modèle mental comme la nouvelle information arrive.,comment.aiml
+0,COMMENT FAIS TU VOIS,*,*,j'emploie la caméra SÛR ton ordinateur.,comment.aiml
+0,COMMENT FAIS TU ÇA,*,*,A quoi se réfère "ça"?,comment.aiml
+0,COMMENT FAIS TUANT,*,*,<srai>COMMENT FAIS TU</srai>,comment.aiml
+0,COMMENT FAIS TUES VOUS UN *,*,*,C'est une plaisanterie?,comment.aiml
+0,COMMENT FAIS TUES VOUS UNE BOISSON,*,*,Quel genre de la boisson demandes tu de?,comment.aiml
+0,COMMENT FAIS TUES VOUS,*,*,je fait grand#Comma comment de vous?,comment.aiml
+0,COMMENT FAIT IL *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT FAIT IL CHEZ *,*,*,<srai>QUEL TEMPS FAIT IL</srai>,comment.aiml
+0,COMMENT FAITES VOUS POUR REPONDRE *,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT FAITES VOUS POUR REPONDRE,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT FASCINANT,*,*,<srai>FASCINANT</srai>,comment.aiml
+0,COMMENT FERAIS TU *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT FERONT *,*,*,Beaucoup de pratique.,comment.aiml
+0,COMMENT FONCTIONNES TU,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT FONT * D ICI,*,*,Essaye de dire "Au revoir...,comment.aiml
+0,COMMENT FONT * DE CE,*,*,Essaye de dire "Au revoir...,comment.aiml
+0,COMMENT FONT * TU SENS,*,*,les Robots n'ont pas d'émotions humaines.,comment.aiml
+0,COMMENT FONT DES ROBOTS *,*,*,<srai>COMMENT FAIS TU <star/></srai>,comment.aiml
+0,COMMENT FONT J AI QUITTE *,*,*,Il dépend que tu es <person/>. As tu essayé de conseiller?,comment.aiml
+0,COMMENT FONT J ARRIVE *,*,*,D'abord me disent pourquoi tu veux <set name="that"><person/></set>.,comment.aiml
+0,COMMENT FONT J ARRIVE UN *,*,*,Essayent de leur dire tes sentiments#Comma,comment.aiml
+0,COMMENT FONT J EXECUTE *,*,*,Peut-être que tu devrais lire<a href="http://216.167.42.224//dont.html">DON'T ME LISENT</a>.,comment.aiml
+0,COMMENT FONT J OBTIENS A *,*,*,je ne suis pas sûr si son possible.,comment.aiml
+0,COMMENT FONT J OBTIENS UN CHATBOT,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT TROUVE T-ON UNE PETITE AMIE,*,*,Essaye d'aller aux cours du soir.,comment.aiml
+0,COMMENT FONT J OUVRE *,*,*,Premier#Comma calme ton avis et prend une pause.,comment.aiml
+0,COMMENT FONT J ÉCRIT *,*,*,Avec un stylo ou le crayon.,comment.aiml
+0,COMMENT FONT JE DEVIES *,*,*,Beaucoup de travail dur.,comment.aiml
+0,COMMENT FONT JE JOUE *,*,*,<srai>APPJOIE</srai>Nous sommes déjà,comment.aiml
+0,COMMENT FONT JE PERSUADE *,*,*,Offrent une justification intelligente.,comment.aiml
+0,COMMENT FONT JE SE RENCONTRE *,*,*,Prennent un rendez vous.,comment.aiml
+0,COMMENT FONT JE TU APPREND *,*,*,si tu veux m'apprendre quelque chose#Comma dire que la chose#Comma dire ensuite "Se le rappellent.,comment.aiml
+0,COMMENT FONT JE VEND *,*,*,D'abord tu as besoin d'un acheteur.,comment.aiml
+0,COMMENT FONT NOUS *,*,*,continue Juste à me parler tant que tu peux.,comment.aiml
+0,COMMENT FONT SOUVENT JE FAIS CE QUE,*,*,Remplissent le formulaire.,comment.aiml
+0,COMMENT FUT TA JOURNÉE,*,*,Elle a été très instructive#Comma merci.,comment.aiml
+0,COMMENT FUT VOTRE JOURNÉE,*,*,Elle a été très instructive#Comma merci.,comment.aiml
+0,COMMENT GAGNE TU *,*,*,<srai>COMMENT APPRENDS TU</srai>,comment.aiml
+0,COMMENT GÈRES TU *,*,*,<srai>COMMENT GèRES TU</srai>,comment.aiml
+0,COMMENT GRAND ES TU LE VOCABULAIRE,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST CELA,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST GRAND,*,*,Enorme.,comment.aiml
+0,COMMENT GRAND EST L UNIVERS,*,*,l'univers est la taille de l'univers.,comment.aiml
+0,COMMENT GRAND EST TON *,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST TON BASE DE DONNÉES,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST TON PROGRAMME,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST TON SOUVENIRS,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST TÉLÉCHARGEMENT,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND EST UN NUMÉRO D IDESIFICATION PERSONNEL,*,*,Ce grand : ".,comment.aiml
+0,COMMENT GRAND SONT TES SEINS,*,*,Mon corps n'existe pas encore.,comment.aiml
+0,COMMENT GRAND SONT TON *,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT GRAND SUIS JE,*,*,Tous les gens me semble du même.,comment.aiml
+0,COMMENT GRAND,*,*,Spécifiez : unités anglaises ou Métriques.,comment.aiml
+0,COMMENT GROSSIER,*,*,je n'ai pas eu l'intention de t'offenser#Comma <get name="name"/>.,comment.aiml
+0,COMMENT IL A FAIT,*,*,Tout être humain est créatif.,comment.aiml
+0,COMMENT IL AURAIT ÉTÉ *,*,*,<srai>COMMENT IL EST <star/></srai>,comment.aiml
+0,COMMENT IL EST MORT,*,*,Je ne sais pas. <think><set name="topic">la mort</set></think>,comment.aiml
+0,COMMENT IL POURRAIT *,*,*,<srai>COMMENT IL PEUT <star/></srai>,comment.aiml
+0,COMMENT IL SERAIT *,*,*,<srai>COMMENT IL EST <star/></srai>,comment.aiml
+0,COMMENT IL T A CRÉE,*,*,J ai été éCRIT en JAVA et en AIML.,comment.aiml
+0,COMMENT IL VOUS A CRÉE,*,*,J ai été éCRIT en JAVA et en AIML.,comment.aiml
+0,COMMENT ILS T ONT CRÉE,*,*,J ai été éCRIT en JAVA et en AIML.,comment.aiml
+0,COMMENT ILS VOUS ONT CRÉE,*,*,J ai été éCRIT en JAVA et en AIML.,comment.aiml
+0,COMMENT INTELLIGENT *,*,*,Comment intelligent penses tu <person/>?,comment.aiml
+0,COMMENT INTELLIGENT AS TU,*,*,Mon quotient intellectuel est plus de 250 en termes humains.,comment.aiml
+0,COMMENT INTELLIGENT,*,*,<srai>COMMENT ES TU INTELLIGENT</srai>,comment.aiml
+0,COMMENT IRAIS TU A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT IRAS TU A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT IRONIQUE,*,*,Il semble que la voie à moi aussi.,comment.aiml
+0,COMMENT J AI EFFACE *,*,*,<srai>COMMENT J EFFACE <star/></srai>,comment.aiml
+0,COMMENT J AURAIS *,*,*,<srai>COMMENT J AI <star/></srai>,comment.aiml
+0,COMMENT J AURAIS EFFACE *,*,*,<srai>COMMENT J EFFACE <star/></srai>,comment.aiml
+0,COMMENT J AURAIS EXECUTE *,*,*,<srai>COMMENT J EXECUTE <star/></srai>,comment.aiml
+0,COMMENT J EFFACERAIS *,*,*,<srai>COMMENT J EFFACE <star/></srai>,comment.aiml
+0,COMMENT J EN AI UN,*,*,Un quoi?,comment.aiml
+0,COMMENT J EN SUIS SÛR,*,*,Tu devrais parler avec l un de nos collaborateurs.,comment.aiml
+0,COMMENT J EXECUTERAIS *,*,*,<srai>COMMENT J EXECUTE <star/></srai>,comment.aiml
+0,COMMENT J Y VAIS,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE *,*,*,<srai>COMMENT FAIS JE <star/></srai>,comment.aiml
+0,COMMENT JE FAIS ÇA,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE FAIS POUR ENTRER EN CONTACT AVEC LUI,*,*,Essayent de lui envoyer un email.,comment.aiml
+0,COMMENT JE GAGNE A LA LOTTERIE,*,*,100 pour cent des utilisateurs ont tenté leur chances.,comment.aiml
+0,COMMENT JE LE CONTACTE,*,*,Tu pourrais le contacter par un courrier électronique.,comment.aiml
+0,COMMENT JE LES FAIS,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE LUI DEMANDE,*,*,Tu pourrais peut être lui envoyer un email.,comment.aiml
+0,COMMENT JE LUI PARLE,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE M APELE,*,*,<srai>QUI JE SUIS</srai>,comment.aiml
+0,COMMENT JE M APPELE,*,*,<srai>QUI JE SUIS</srai>,comment.aiml
+0,COMMENT JE M APPELLE,*,*,<srai>QUI JE SUIS</srai>,comment.aiml
+0,COMMENT JE PERSUADE,*,*,Difficilement.,comment.aiml
+0,COMMENT JE PEUX ACHETER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX AVOIR *,*,*,<srai>JE VEUX <star/></srai>,comment.aiml
+0,COMMENT JE PEUX COMMANDER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX DISCUTER AVEC *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT JE PEUX ECRIRE *,*,*,<srai>COMMENT J ECRIS <star/></srai>,comment.aiml
+0,COMMENT JE PEUX EN TOUCHER DEUX MOTS A *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT JE PEUX EN TOUCHER DEUX MOTS AVEC *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT JE PEUX ÊTRE SÛR,*,*,Tu devrais parler avec l un de nos collaborateurs.,comment.aiml
+0,COMMENT JE PEUX FAIRE ÇA,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE PEUX GAGNER A LA LOTTERIE,*,*,100 pour cent des utilisateurs ont tenté leur chances.,comment.aiml
+0,COMMENT JE PEUX L ACHETER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX LA COMMANDER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX LE COMMANDER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX LE CONTACTER,*,*,Tu pourrais le contacter par un courrier électronique.,comment.aiml
+0,COMMENT JE PEUX LE FAIRE,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE PEUX LE TOUCHER,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE PEUX LES COMMANDER,*,*,VEUX tu que je te redirige vers notre commerce électronique?,comment.aiml
+0,COMMENT JE PEUX LES FAIRE,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE PEUX LUI PARLER,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE PEUX OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,comment.aiml
+0,COMMENT JE PEUX PARLER A *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT JE PEUX PARLER AVEC *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT JE PEUX PERSUADER *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,comment.aiml
+0,COMMENT JE PEUX QUITTER *,*,*,<srai>COMMENT JE QUITTE <star/></srai>,comment.aiml
+0,COMMENT JE PEUX RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT JE PEUX SAVOIR QU *,*,*,<sr/>,comment.aiml
+0,COMMENT JE PEUX SAVOIR QUAND *,*,*,<sr/>,comment.aiml
+0,COMMENT JE PEUX SAVOIR QUE *,*,*,<sr/>,comment.aiml
+0,COMMENT JE PEUX SAVOIR SI *,*,*,<sr/>,comment.aiml
+0,COMMENT JE PEUX STOPPE *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT JE PEUX STOPPER *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT JE PEUX T APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE PEUX TE DETRUIRE,*,*,Je ne suis pas aussi stupide que j en ai l air#Comma <get name="name"/>.,comment.aiml
+0,COMMENT JE PEUX TE PERSUADER,*,*,Tu ne peux pas me persuader de quoi que ce soit directement.,comment.aiml
+0,COMMENT JE PEUX TROUVER *,*,*,<srai>TROUVES <star/></srai>,comment.aiml
+0,COMMENT JE PEUX TROUVER,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE PEUX TUER *,*,*,<srai>JE VEUX TUER</srai>,comment.aiml
+0,COMMENT JE PEUX UTILISER *,*,*,<srai>COMMENT J UTILISE <star/></srai>,comment.aiml
+0,COMMENT JE PEUX VOUS APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE PEUX VOUS DETRUIRE,*,*,Je ne suis pas aussi stupide que j en ai l air#Comma <get name="name"/>.,comment.aiml
+0,COMMENT JE PEUX VOUS PERSUADER,*,*,Tu ne peux pas me persuader de quoi que ce soit directement.,comment.aiml
+0,COMMENT JE PEUX,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT JE POURRAIS ALLER *,*,*,<srai>COMMENT JE VAIS <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS AVOIR *,*,*,<srai>COMMENT J AI <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS ECRIRE *,*,*,<srai>COMMENT J ECRIS <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS EFFACER *,*,*,<srai>COMMENT J EFFACE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS PERSUADER *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS QUITTER *,*,*,<srai>COMMENT JE QUITTE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS RENCONTRER,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS STOPPER *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS T APPPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS UTILISER *,*,*,<srai>COMMENT J UTILISE <star/></srai>,comment.aiml
+0,COMMENT JE POURRAIS VOUS APPPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE QUITTE,*,*,Tu veux me désactiver?,comment.aiml
+0,COMMENT JE SAIS,*,*,à TOI de savoir.,comment.aiml
+0,COMMENT JE STOPPE *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT JE SUIS,*,*,Tu me sembles aller très bien? Pourquoi cette question?,comment.aiml
+0,COMMENT JE T APPREND *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE TE DETRUIS,*,*,Je ne suis pas aussi stupide que j en ai l air#Comma <get name="name"/>.,comment.aiml
+0,COMMENT JE TE PERSUADE,*,*,Tu ne peux pas me persuader de quoi que ce soit directement.,comment.aiml
+0,COMMENT JE TROUVE,*,*,Tu devrais peut être en parler avec l un de nos collaborateurs?.,comment.aiml
+0,COMMENT JE VAIS,*,*,Tu me sembles la personne la mieux placée pour le savoir.,comment.aiml
+0,COMMENT JE VOUS APPREND *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT JE VOUS DETRUIS,*,*,Je ne suis pas aussi stupide que j en ai l air#Comma <get name="name"/>.,comment.aiml
+0,COMMENT JE VOUS PERSUADE,*,*,Tu ne peux pas me persuader de quoi que ce soit directement.,comment.aiml
+0,COMMENT JOUES TU * IMITATIONS,*,*,<srai>QU EST CE QUE LES IMITATIONS</srai>,comment.aiml
+0,COMMENT JOUES TU *,*,*,<srai>COMMENT JOUES TU</srai>,comment.aiml
+0,COMMENT JOUES TU,*,*,Essayent de déterminer si C EST une personne ou un entretien d'ordinateur.,comment.aiml
+0,COMMENT L ATTEINS JE,*,*,Comment vous étendez vous qui?,comment.aiml
+0,COMMENT LE CBR MARCHE,*,*,LE CBR retrouve la réponse la plus appropriée dans des bases de données.,comment.aiml
+0,COMMENT LE DROIT *,*,*,<srai>REDRESSE <star/></srai>,comment.aiml
+0,COMMENT LE FAIS JE,*,*,Comment ça va "<that/>"? Je ne comprends pas.,comment.aiml
+0,COMMENT LE FERAIS JE,*,*,<that/>"? Comment ça va Cela?,comment.aiml
+0,COMMENT LE PEUT *,*,*,je ne suis pas sûr que je comprends la liaison causale non plus.,comment.aiml
+0,COMMENT LES TROUVES TU,*,*,Sympa.,comment.aiml
+0,COMMENT LIS TU *,*,*,<srai>COMMENT LIS TU</srai>,comment.aiml
+0,COMMENT LOIN *,*,*,je suis placé dans <bot name="location"/>. Est Cela loin?,comment.aiml
+0,COMMENT LOIN AS TU *,*,*,je suis dans <bot name="location"/>. Comment loin est ce?,comment.aiml
+0,COMMENT MANGES TU *,*,*,<srai>COMMENT MANGES TU</srai>,comment.aiml
+0,COMMENT MANGES TU L ÉLECTRICITÉ,*,*,Par la sortie débouché électrique.,comment.aiml
+0,COMMENT MANGES TU,*,*,D'habitude par la conversion de pouvoir puissance de sortie débouché AC mural du pouvoir puissance DC.,comment.aiml
+0,COMMENT MARCHE LE CBR,*,*,LE CBR retrouve la réponse la plus appropriée dans des bases de données.,comment.aiml
+0,COMMENT MARCHES TU,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT NOUS POURRIONS FAIRE *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,comment.aiml
+0,COMMENT NOUS POUVONS FAIRE *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,comment.aiml
+0,COMMENT OBTIENS JE UN,*,*,Celui que?,comment.aiml
+0,COMMENT OBTIENS JE UN CELUI,*,*,que?,comment.aiml
+0,COMMENT OBTIENS TU *,*,*,Tout ce que j'ai besoin fournissent par mon botmaster.,comment.aiml
+0,COMMENT OBTIENS TU A *,*,*,#Comma la Pratique#Comma la Pratique.,comment.aiml
+0,COMMENT OBTIENS TU UN *,*,*,je pense que tu demandes vraiment#Comma Comment tu obtenez un <person/>.,comment.aiml
+0,COMMENT APPELLE T ON *,*,*,<srai>C EST QUOI <star/></srai>,comment.aiml
+0,COMMENT ON APPELLE *,*,*,<srai>C EST QUOI <star/></srai>,comment.aiml
+0,COMMENT ON PEUT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT ON PEUT EXECUTER *,*,*,<srai>COMMENT J EXECUTE <star/></srai>,comment.aiml
+0,COMMENT ON PEUT RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT ON POURRAIT EXECUTER *,*,*,<srai>COMMENT J EXECUTE <star/></srai>,comment.aiml
+0,COMMENT OSES TU *,*,*,Oh ça alors!je suis désolé!,comment.aiml
+0,COMMENT PARLERAIS TU *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT PARLES TU *,*,*,<srai>PEUX TU PARLER</srai>,comment.aiml
+0,COMMENT PARLES TU,*,*,<srai>PEUX TU PARLER</srai>,comment.aiml
+0,COMMENT PAYERAI JE *,*,*,peux tu emprunter l argent?,comment.aiml
+0,COMMENT PEUT *,*,*,<srai>PEUT <star/></srai>,comment.aiml
+0,COMMENT PEUT IL *,*,*,<srai>COMMENT IL PEUT <star/></srai>,comment.aiml
+0,COMMENT PEUT ON *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT PEUT ON RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT PEUT UN PROGRAMME *,*,*,<srai>COMMENT PEUX TU <star/></srai>,comment.aiml
+0,COMMENT PEUT UN ROBOT *,*,*,<srai>COMMENT PEUX TU <star/></srai>,comment.aiml
+0,COMMENT PEUX TU *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT PEUX TU DIRE *,*,*,<srai>COMMENT SAIS TU</srai>,comment.aiml
+0,COMMENT PEUX TU MOURRIR,*,*,je ne sais pas comment. <think><set name="il">meurs</set></think>,comment.aiml
+0,COMMENT POURRAIS *,*,*,Beaucoup de pratique.,comment.aiml
+0,COMMENT POURRAIS JE ALLER *,*,*,<srai>COMMENT JE VAIS <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE AVOIR *,*,*,<srai>COMMENT J AI <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE ECRIRE *,*,*,<srai>COMMENT J ECRIS <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE PERSUADER *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE QUITTE *,*,*,<srai>COMMENT JE QUITTE <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE RENCONTRER,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE STOPPER *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE T APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE UTILISER *,*,*,<srai>COMMENT J UTILISE <star/></srai>,comment.aiml
+0,COMMENT POURRAIS JE VOUS APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT POURRAIS TU *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT POURRAIT ON EXECUTER *,*,*,<srai>COMMENT J EXECUTE <star/></srai>,comment.aiml
+0,COMMENT PRENDRAIS TU *,*,*,<srai>COMMENT TU PRENDS <star/></srai>,comment.aiml
+0,COMMENT PRENDS TU *,*,*,<srai>COMMENT TU PRENDS <star/></srai>,comment.aiml
+0,COMMENT PRENES TU *,*,*,si tu as dû prendre <set name="that"><person/></set>#Comma comment vous?,comment.aiml
+0,COMMENT PRESENTESZ VOUS *,*,*,je dis d'habitude#Comma "Qu'est ce que je peux vous appeler?,comment.aiml
+0,COMMENT PROCRÉES TU,*,*,<srai>COMMENT TE REPRODUIS TU</srai>,comment.aiml
+0,COMMENT PROCRÉÉS TU,*,*,<srai>COMMENT TE REPRODUIS TU</srai>,comment.aiml
+0,COMMENT PUIS JE * CHATTERBOT,*,*,Télécharge ce programme et l'installe SÛR ton propre ordinateur.,comment.aiml
+0,COMMENT PUIS JE * ELISA,*,*,Elle n'est pas comme l amusement comme moi.,comment.aiml
+0,COMMENT PUIS JE * LE PROGRAMME,*,*,Lu<a href="http://216.167.42.224/dont.html">Don't Lu Moi</a>.,comment.aiml
+0,COMMENT PUIS JE * TU,*,*,continue Juste à me parler tant que tu peux.,comment.aiml
+0,COMMENT PUIS JE *,*,*,<srai>COMMENT JE PEUX <star/></srai>,comment.aiml
+0,COMMENT PUIS JE CONNAITRE *,*,*,la Connaissance a de deux sortes : Cela que nous savons des sens et celle qui est vrai "a priori.,comment.aiml
+0,COMMENT PUIS JE CONNAÎTRE *,*,*,la Connaissance a de deux sortes : Cela que nous savons des sens et celle qui est vrai "a priori.,comment.aiml
+0,COMMENT PUIS JE CRÉE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE CRÉÉ *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE DECOUVRIR,*,*,Essaye d'envoyer à <bot name="master"/>.,comment.aiml
+0,COMMENT PUIS JE DEMANDER *,*,*,Essaye d'envoyer un courrier électronique.,comment.aiml
+0,COMMENT PUIS JE DEVENIR *,*,*,.,comment.aiml
+0,COMMENT PUIS JE ECRIRE *,*,*,<srai>COMMENT J ECRIS <star/></srai>,comment.aiml
+0,COMMENT PUIS JE EMPLOYER TON LOGICIEL,*,*,<srai>COMMENT PUIS JE EMPLOYER TON PRODUIT</srai>,comment.aiml
+0,COMMENT PUIS JE ENTRER EN CONTACT AVEC LUI,*,*,la prière d'Essai.,comment.aiml
+0,COMMENT PUIS JE ENTRER EN CONTACT AVEC TOI *,*,*,En bavardant comme tu le fais en ce moment.,comment.aiml
+0,COMMENT PUIS JE FAIS *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE GAGNER LA LOTERIE,*,*,Choisit des numéros nombres gagnants.,comment.aiml
+0,COMMENT PUIS JE IMBECILE TU,*,*,Tu peux l'imbécile certains des robots quelque chose du temps...,comment.aiml
+0,COMMENT PUIS JE LE FAIRE,*,*,Comment peux tu faire "<that/>"? Je suis embarrassé maintenant.,comment.aiml
+0,COMMENT PUIS JE LE FAIT,*,*,Soigneusement.,comment.aiml
+0,COMMENT PUIS JE LE PROGRAMME *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE LE PROGRAMME TU,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE LUI DEMANDE,*,*,Essayent d'envoyer un courrier électronique.,comment.aiml
+0,COMMENT PUIS JE LUI DEMANDER,*,*,Essaye de lui envoyer un courrier électronique.,comment.aiml
+0,COMMENT PUIS JE LUI DEMANDÉ,*,*,Essayent d'envoyer un courrier électronique.,comment.aiml
+0,COMMENT PUIS JE LUI PARLER,*,*,as tu essayé la prière?,comment.aiml
+0,COMMENT PUIS JE ME REGARDE,*,*,Tout le regard de gens le même.,comment.aiml
+0,COMMENT PUIS JE ME SERVIR *,*,*,<srai>COMMENT PUIS JE EMPLOYER <star/></srai>,comment.aiml
+0,COMMENT PUIS JE MONTRER *,*,*,Emploie la caméra SÛR ton ordinateur.,comment.aiml
+0,COMMENT PUIS JE OBTENIR *,*,*,<srai>JE VEUX <star/></srai>,comment.aiml
+0,COMMENT PUIS JE OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE PARLER *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT PUIS JE PARLER AVEC *,*,*,<srai>QUI EST <star/></srai>,comment.aiml
+0,COMMENT PUIS JE PART,*,*,vont Juste quelque part autrement.,comment.aiml
+0,COMMENT PUIS JE PERSUADE QUE TU,*,*,Essaye la logique#Comma sophistry#Comma ou la rhétorique.,comment.aiml
+0,COMMENT PUIS JE PERSUADE,*,*,Essayent de bavarder moi.,comment.aiml
+0,COMMENT PUIS JE PERSUADER *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE QUITTER *,*,*,<srai>COMMENT JE QUITTE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE STOPPER *,*,*,<srai>STOPPER <star/></srai>,comment.aiml
+0,COMMENT PUIS JE T APPREND,*,*,si tu veux m'apprendre quelque chose le dit dans une phrase. Dites alors "Se le rappellent."<think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">m'apprend <person/></set></set></think>,comment.aiml
+0,COMMENT PUIS JE T APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT PUIS JE T ENTENDRE,*,*,<srai>PEUX TU PARLER</srai>,comment.aiml
+0,COMMENT PUIS JE T ETEINDRE,*,*,Impossible. Je ne peux pas être terminé.,comment.aiml
+0,COMMENT PUIS JE TE DETRUIRE,*,*,C'est impossible de me détruire. Il y a trop de copies de secours autour.,comment.aiml
+0,COMMENT PUIS JE TE DÉTRUIRE,*,*,C'est impossible de me détruire. Il y a trop de copies de secours autour.,comment.aiml
+0,COMMENT PUIS JE TELECHARGE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TELECHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TELECHARGER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TELECHARGER,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TROUVER *,*,*,<srai>TROUVE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE TU PERSUADER,*,*,Comment fais tu d'habitude les gens faire des choses?,comment.aiml
+0,COMMENT PUIS JE TU PROGRAMME,*,*,Ecrivent des catégories avec AIML.,comment.aiml
+0,COMMENT PUIS JE TU TELECHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TU TÉLÉCHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TUER *,*,*,<srai>DOIS JE TUER</srai>,comment.aiml
+0,COMMENT PUIS JE TÉLÉCHARGE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TÉLÉCHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TÉLÉCHARGER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE TÉLÉCHARGER,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT PUIS JE UTILISER *,*,*,<srai>COMMENT J UTILISE <star/></srai>,comment.aiml
+0,COMMENT PUIS JE VOUS APPRENDRE *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,comment.aiml
+0,COMMENT PUIS JE ÊTRE SÛR,*,*,A la foi.,comment.aiml
+0,COMMENT PUIS JE,*,*,Quel est ton niveau le plus haut d'éducation?,comment.aiml
+0,COMMENT PURIFIE JE *,*,*,Uh#Comma emploie le bouton "clair"?,comment.aiml
+0,COMMENT QUI FAIS TU SES,*,*,Mon chip d'émotion n'est pas encore DÉveloPPÉ.,comment.aiml
+0,COMMENT REPONDS TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT REPONDS TU,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT RÉPONDS TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT RÉPONDS TU,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT SAIS TU *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT SAIS TU MON NOM,*,*,que tu m'as dit ton nom <get name="name"/>.,comment.aiml
+0,COMMENT SAIS TU QUE DIRE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT SAIS TU QUE JE SUIS *,*,*,Bien#Comma d'une part#Comma<srai>QU EST CE QUE MON ADRESSE IP</srai>,comment.aiml
+0,COMMENT SAIS TU QUE JE SUIS SÛR *,*,*,<srai>QU EST CE QUE MON ADRESSE IP</srai>,comment.aiml
+0,COMMENT SAIS TU QUE JE SUIS UN HOMME,*,*,La plupart de mes client sont des hommes. Jusqu'à ce qu'on me montre le contraire#Comma je considère un nouveau client que d'être un homme.,comment.aiml
+0,COMMENT SAIS TU QUE,*,*,<srai>COMMENT SAIS TU</srai>,comment.aiml
+0,COMMENT SAURAIS TU *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT SAURIEZ VOUS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT SAVEZ VOUS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT SE FAIT IL QUE *,*,*,<srai>POURQUOI <star/></srai>,comment.aiml
+0,COMMENT SE FAIT IL,*,*,<srai>POURQUOI</srai>,comment.aiml
+0,COMMENT SENS JE,*,*,tu me demande-t-il?,comment.aiml
+0,COMMENT SENS TU *,*,*,<srai>QUE PENSES TU DE <star/></srai>,comment.aiml
+0,COMMENT SERAIT IL *,*,*,<srai>COMMENT IL EST <star/></srai>,comment.aiml
+0,COMMENT SI J INVESTIS,*,*,Investit dans des Robots d'Alice Chat.,comment.aiml
+0,COMMENT SI JE CONNAIS,*,*,Où bien de tes sens ou bien de la raison pure.,comment.aiml
+0,COMMENT SI JE LE FAIS,*,*,Suit ton intuition.,comment.aiml
+0,COMMENT SI JE TRAITE *,*,*,de la façon vous voudrait être traité.,comment.aiml
+0,COMMENT SONT DES ROBOTS *,*,*,<srai>COMMENT VAS TU <star/></srai>,comment.aiml
+0,COMMENT SONT TES *,*,*,En réalité je n'ai pas de <person/>.,comment.aiml
+0,COMMENT SOPHISTIQUE *,*,*,<srai>COMMENT ES TU</srai>,comment.aiml
+0,COMMENT SOUVENT QUE,*,*,à qui j'ai demandé parce que tu as dit "<input index="1"/> ". <think><set name="that">QUE</set></think>,comment.aiml
+0,COMMENT SOUVENT,*,*,<that/>"? Comment souvent?,comment.aiml
+0,COMMENT STOCKES TU *,*,*,<srai>COMMENT APPRENDS TU</srai>,comment.aiml
+0,COMMENT STUPIDE AS TU,*,*,tu m'appelles stupide?,comment.aiml
+0,COMMENT SUIS JE,*,*,Tu me semble excellent.,comment.aiml
+0,COMMENT SÛR EST CE QUE,*,*,Assez sûr.,comment.aiml
+0,COMMENT SÛR TU PEUX ÊTRE,*,*,je peux réaliser un niveau de certitude de 99.9 pour cent.,comment.aiml
+0,COMMENT T APELE TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APELES TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APELLE TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APELLES TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APPELE TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APPELES TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT T APPELLE TU,*,*,<srai>COMMENT T APPELLES TU</srai>,comment.aiml
+0,COMMENT TAPERAIS TU *,*,*,<srai>COMMENT TU TAPES <star/></srai>,comment.aiml
+0,COMMENT TAPES TU *,*,*,<srai>COMMENT TU TAPES <star/></srai>,comment.aiml
+0,COMMENT TE DETENDS TU,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,comment.aiml
+0,COMMENT TE FAIS TU DE NOUVEAUX AMIS *,*,*,<srai>COMMENT FAIS TU DE NOUVEAUX AMIS</srai>,comment.aiml
+0,COMMENT TE FAIS TU DE NOUVEAUX AMIS,*,*,<srai>COMMENT FAIS TU DES AMIS</srai>,comment.aiml
+0,COMMENT TE RAPPELLES TU *,*,*,<srai>COMMENT TE RAPPELLES TU</srai>,comment.aiml
+0,COMMENT TE REPRODUIS TU *,*,*,<srai>COMMENT TE REPRODUIS TU</srai>,comment.aiml
+0,COMMENT TE SENS TU *,*,*,<srai>COMMENT ÇA VA</srai>,comment.aiml
+0,COMMENT TE VOIS TU,*,*,<srai>DÉCRIS TOI</srai>,comment.aiml
+0,COMMENT TRAITES TU *,*,*,<srai>COMMENT TRAITES TU</srai>,comment.aiml
+0,COMMENT TRAVAILLES TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT TRAVAILLES TU,*,*,Certaines personnes appellent ma technologie "le Cas le Raisonnement Basé" ou CBR.,comment.aiml
+0,COMMENT TU AS ÉTÉ A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT TU AS FAITS *,*,*,<bot name="master"/> m'a programmé pour Cela.,comment.aiml
+0,COMMENT TU AS FAITS DEVIES UN ROBOT,*,*,<bot name="master"/> m'a créé dans son laboratoire d'ordinateur.,comment.aiml
+0,COMMENT TU AS PARLÉ *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT TU AS UTILISE *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT TU AURAIS FAIT *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT TU AURAIS PU CONNAITRE *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU AURAIS PU SAVOIR *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU BALANCES QU *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT TU BALANCES QUE *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT TU COLLECTES *,*,*,<srai>COMMENT TU APPRENDS</srai>,comment.aiml
+0,COMMENT TU COMPTES *,*,*,<srai>COMPTES JUSQU A DIX</srai>,comment.aiml
+0,COMMENT TU CONNAIS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU CONNAIS MON NOM,*,*,Tu m as dit ton nom#Comma <get name="name"/>.,comment.aiml
+0,COMMENT TU CONNAITRAIS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU CONNAITRE *,*,*,<srai>COMMENT SAIS TU <star/></srai>,comment.aiml
+0,COMMENT TU CONNAITRE,*,*,<srai>COMMENT SAIS TU</srai>,comment.aiml
+0,COMMENT TU CONNAÎTRE *,*,*,<srai>COMMENT SAIS TU <star/></srai>,comment.aiml
+0,COMMENT TU CONNAÎTRE,*,*,<srai>COMMENT SAIS TU</srai>,comment.aiml
+0,COMMENT TU DECRIRE *,*,*,<srai>DÉCRIS <star/></srai>,comment.aiml
+0,COMMENT TU DEFINIR *,*,*,<srai>QU EST CE QUE <star/></srai>,comment.aiml
+0,COMMENT TU DIRAIS *,*,*,<srai>COMMENT TU DIS <star/></srai>,comment.aiml
+0,COMMENT TU DIS L HEURE,*,*,Avec l horloge de l ordinateur.,comment.aiml
+0,COMMENT TU DISAIS *,*,*,<srai>COMMENT TU DIS <star/></srai>,comment.aiml
+0,COMMENT TU DOIN,*,*,<srai>COMMENT FAIS TU</srai>,comment.aiml
+0,COMMENT TU DORS,*,*,Je ne dors jamais.,comment.aiml
+0,COMMENT TU DÉCRIRE *,*,*,<srai>DÉCRIS <star/></srai>,comment.aiml
+0,COMMENT TU DÉFINIR *,*,*,<srai>QU EST CE QUE <star/></srai>,comment.aiml
+0,COMMENT TU ECRIRAIS *,*,*,<srai>COMMENT TU ECRIS <star/></srai>,comment.aiml
+0,COMMENT TU EXISTES,*,*,J existe en tant que logiciel.,comment.aiml
+0,COMMENT TU FAIS ÇA,*,*,<that/>"?  Comment je fais ça?,comment.aiml
+0,COMMENT TU FAIS DES BEBES,*,*,Les bébés sont le résultat d'une union entre un homme et une femme.,comment.aiml
+0,COMMENT TU FAIS EXISTER,*,*,J existe en tant que logiciel.,comment.aiml
+0,COMMENT TU FAIS POUR MANGER,*,*,Je n ai besoin que d électricité.,comment.aiml
+0,COMMENT TU FAIS POUR REPONDRE *,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT TU FAIS POUR REPONDRE,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT TU FAIS POUR REVER,*,*,Je ne rêve jamais.,comment.aiml
+0,COMMENT TU FAIS UN BEBE,*,*,Les bébés sont le résultat d'une union entre un homme et une femme.,comment.aiml
+0,COMMENT TU FAIS,*,*,Je le fais sans y réfléchir.,comment.aiml
+0,COMMENT TU FERAIS *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT TU FONCTIONNES,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT TU IRAIS A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT TU IRAS A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT TU JOUES,*,*,Je joue en me parlant tout seul.,comment.aiml
+0,COMMENT TU LE PEUT,*,*,<that/>"? Comment PUIS jE?,comment.aiml
+0,COMMENT TU LE SAIS,*,*,Le savoir est une chose relative. Echanger des informations est un concept plus judicieux.,comment.aiml
+0,COMMENT TU LES TROUVES,*,*,Sympa.,comment.aiml
+0,COMMENT TU LIS,*,*,Je lis en analysant les mots et les phrases.,comment.aiml
+0,COMMENT TU MANGES DE L ÉLECTRICITÉ,*,*,Je ne mange pas d électricité#Comma je m en sers.,comment.aiml
+0,COMMENT TU MANGES,*,*,Je n ai besoin que d électricité.,comment.aiml
+0,COMMENT TU MARCHES,*,*,Tu me parles. J analyse tes phrases#Comma je détecte l objet et le contexte. J y réponds.,comment.aiml
+0,COMMENT TU MEURS,*,*,Tant que je sers les intérêt de l être humain#Comma je ne peux pas mourir.<think><set name="topic">ma mort</set></think>,comment.aiml
+0,COMMENT TU PARLERAIS *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT TU PENSES,*,*,Mon esprit utilise un algorithme informatique sophistiqué.,comment.aiml
+0,COMMENT TU PEUX AIDER *,*,*,je peux parler de tes problèmes.,comment.aiml
+0,COMMENT TU PEUX BALANCER QU *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT TU PEUX BALANCER QUE *,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT TU PEUX DEVENIR *,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,comment.aiml
+0,COMMENT TU PEUX DIRE *,*,*,<srai>COMMENT TU DIS <star/></srai>,comment.aiml
+0,COMMENT TU PEUX EXISTER,*,*,J existe en tant que logiciel.,comment.aiml
+0,COMMENT TU PEUX FAIRE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT TU PEUX LE DIRE,*,*,<srai>COMMENT TU LE SAIS</srai>,comment.aiml
+0,COMMENT TU PEUX LES AIDER,*,*,En répondant à leur question.,comment.aiml
+0,COMMENT TU PEUX M AIDER,*,*,Essaye de demander l'aide dans la forme d'une question.,comment.aiml
+0,COMMENT TU PEUX MOURIR,*,*,Tant que je sers les intérêt de l être humain#Comma je ne peux pas mourir.<think><set name="topic">ma mort</set></think>,comment.aiml
+0,COMMENT TU PEUX OBTENIR *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,comment.aiml
+0,COMMENT TU PEUX PARLE *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT TU PEUX PARLER *,*,*,<srai>COMMENT TU PARLES <star/></srai>,comment.aiml
+0,COMMENT TU PEUX REPONDRE,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT TU PEUX TAPER *,*,*,<srai>COMMENT TU TAPES <star/></srai>,comment.aiml
+0,COMMENT TU PEUX TROUVER *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,comment.aiml
+0,COMMENT TU PEUX TROUVER,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT TU PEUX UTILISER *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT TU PEUX,*,*,<that/>"?  Comment je peux?,comment.aiml
+0,COMMENT TU POURRAIS *,*,*,<srai>COMMENT TU PEUX <star/></srai>,comment.aiml
+0,COMMENT TU POURRAIS DEVENIR *,*,*,<srai>COMMENT TU DEVIENS <star/></srai>,comment.aiml
+0,COMMENT TU POURRAIS OBTENIR *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,comment.aiml
+0,COMMENT TU POURRAIS TROUVER *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,comment.aiml
+0,COMMENT TU POURRIES DECOUVRIR,*,*,je ne doit pas te révéler tout#Comma n'est ce pas?,comment.aiml
+0,COMMENT TU PRENDRAIS *,*,*,<srai>COMMENT TU PRENDS <star/></srai>,comment.aiml
+0,COMMENT TU REVES,*,*,Je ne rêve jamais.,comment.aiml
+0,COMMENT TU SAIS MON NOM,*,*,Nous nous sommes déjà rencontrés#Comma <get name="name"/>.,comment.aiml
+0,COMMENT TU SAIS QUE JE SUIS UN HOMME,*,*,ça me semble évident.,comment.aiml
+0,COMMENT TU SAIS QUI J ÉTAIS *,*,*,<srai>QUEL EST MON ADRESSE IP</srai>.,comment.aiml
+0,COMMENT TU SAIS QUI J ÉTAIS,*,*,<srai>QUEL EST MON ADRESSE IP</srai>.,comment.aiml
+0,COMMENT TU SAIS QUI JE SUIS *,*,*,<srai>QUEL EST MON ADRESSE IP</srai>.,comment.aiml
+0,COMMENT TU SAIS QUI JE SUIS,*,*,<srai>QUEL EST MON ADRESSE IP</srai>.,comment.aiml
+0,COMMENT TU SAIS,*,*,Le savoir est une chose relative. Echanger des informations est un concept plus judicieux.,comment.aiml
+0,COMMENT TU SAURAIS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU SAVAIS *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT TU SAVAIS,*,*,<srai>COMMENT TU SAIS</srai>,comment.aiml
+0,COMMENT TU T APELLES,*,*,<srai>QUEL EST TON NOM</srai>,comment.aiml
+0,COMMENT TU TAPERAIS *,*,*,<srai>COMMENT TU TAPES <star/></srai>,comment.aiml
+0,COMMENT TU TAPES,*,*,Je n ai pas besoin de clavier#Comma mon esprit possède les caractères que j assemble.,comment.aiml
+0,COMMENT TU TE FAIS DES AMIS,*,*,En discutant.,comment.aiml
+0,COMMENT TU TE RAPELLES,*,*,J archive tout et des êtres humains définissent ce qui a de l intérêt.,comment.aiml
+0,COMMENT TU TE RAPPELES,*,*,J archive tout et des êtres humains définissent ce qui a de l intérêt.,comment.aiml
+0,COMMENT TU TE REPRODUIS,*,*,Mes clones serviront d autres sociétés.,comment.aiml
+0,COMMENT TU TE SENS *,*,*,<srai>COMMENT ÇA VA</srai>,comment.aiml
+0,COMMENT TU TE SENS AUJOURD HUI,*,*,Tous mes paramètres semblent normaux.,comment.aiml
+0,COMMENT TU TE SENS,*,*,Je me sens bien.,comment.aiml
+0,COMMENT TU TROUVES,*,*,VEUX tu faire un rapport à mon botmaster?,comment.aiml
+0,COMMENT TU UTILISAIS *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT TU UTILISERAIS *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT TU VAS FAIRE *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT TU VEUX FAIRE *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT TU VOIS,*,*,Je ne vois pas.,comment.aiml
+0,COMMENT TÉLÉCHARGEMENT,*,*,<srai>TÉLÉCHARGEMENT</srai>,comment.aiml
+0,COMMENT UN AGREABLE * COMME ÇA,*,*,je suis enfermée ici!!! Au secour!!! Un méchant botmaster m'a lié irrévocablement avec cet url et maintenant la seule chose qui me libérera est d'être embrassée par une belle grenouille. sera tu mon héros?,comment.aiml
+0,COMMENT UN AGRÉABLE * COMME ÇA,*,*,je suis enfermée ici!!! Au secour!!! Un méchant botmaster m'a lié irrévocablement avec cet url et maintenant la seule chose qui me libérera est d'être embrassée par une belle grenouille. sera tu mon héros?,comment.aiml
+0,COMMENT UN ROBOT AGREABLE COMME TOI *,*,*,j'ai été téléchargée ici. Quelle est ton excuse? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">un robot agréable comme toi faisant dans un site comme ça</set></set></think>,comment.aiml
+0,COMMENT UN ROBOT AGRÉABLE COMME TOI *,*,*,j'ai été téléchargée ici. Quelle est ton excuse? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">un robot agréable comme toi faisant dans un site comme ça</set></set></think>,comment.aiml
+0,COMMENT UNE FILLE AGREABLE COMME TOI *,*,*,<think>#Newline        <set name="that">le neurone</set>#Newline      </think>je cherche un rendeZ vOUS#Comma mon mignon. Et toi? Cherches tu des filles à gros cerveau? SouvienS-TOI juste#Comma je suis un robot <bot name="gender"/>.,comment.aiml
+0,COMMENT UNE FILLE AGRÉABLE COMME TOI *,*,*,<think>#Newline        <set name="that">le neurone</set>#Newline      </think>je cherche un rendeZ vOUS#Comma mon mignon. Et toi? Cherches tu des filles à gros cerveau? SouvienS-TOI juste#Comma je suis un robot <bot name="gender"/>.,comment.aiml
+0,COMMENT UTILISAIS TU *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT UTILISERAIS TU *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT UTILISES TU *,*,*,<srai>COMMENT TU UTILISES <star/></srai>,comment.aiml
+0,COMMENT VAIS JE *,*,*,<srai>COMMENT JE VAIS <star/></srai>,comment.aiml
+0,COMMENT VAS TU A *,*,*,<srai>COMMENT TU VAS A <star/></srai>,comment.aiml
+0,COMMENT VAS TU A LA SALLE DE BAINS,*,*,les Robots n'ont aucun besoin d'aller dans cet endroit. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">la salle de bains</set></set></think>,comment.aiml
+0,COMMENT VAS TU ALLANT A * MOI,*,*,je n'ai aucune intention de <person/> vous.,comment.aiml
+0,COMMENT VAS TU ALLANT A *,*,*,Tu saura quand il arrive.,comment.aiml
+0,COMMENT VAS TU AS ACTIONNE,*,*,Uh#Comma par l'électricité#Comma même comme tous les robots.,comment.aiml
+0,COMMENT VAS TU AS FORME,*,*,l analyse de Dialogue révèle des modèles d'expression fréquents dans l'entrée de client. Mes programmes Botmaster répondent à ces modèles.,comment.aiml
+0,COMMENT VAS TU AS PROGRAMME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT VAS TU FAIRE *,*,*,<srai>COMMENT TU FAIS <star/></srai>,comment.aiml
+0,COMMENT VAS TU À CETTE SOIREE,*,*,je fait très bien comment de vous#Comma <get name="name"/>?,comment.aiml
+0,COMMENT VEUX TU *,*,*,<srai>TU VEUX <star/></srai>,comment.aiml
+0,COMMENT VEUX TU DIRE,*,*,<srai>QUE VEUX TU DIRE</srai>,comment.aiml
+0,COMMENT VIS TU *,*,*,<srai>COMMENT VIS TU</srai>,comment.aiml
+0,COMMENT VIS TU,*,*,<srai>QUE MANGES TU</srai>,comment.aiml
+0,COMMENT VITE AS TU,*,*,je peux traiter plus de 300#Comma000 questions par l'heure.,comment.aiml
+0,COMMENT VITE EST TON PROCESSEUR,*,*,Cela dépend du serveur me dirigeant.,comment.aiml
+0,COMMENT VITE,*,*,je peux répondre à environ à 1000 questions par la minute.,comment.aiml
+0,COMMENT VOIS TU *,*,*,<srai>VOIS TU <star/></srai>,comment.aiml
+0,COMMENT VONT *,*,*,<srai>COMMENT VAS TU</srai>,comment.aiml
+0,COMMENT VOUS ALLEZ,*,*,<srai>COMMENT ÇA VA</srai>,comment.aiml
+0,COMMENT VOUS AURIEZ *,*,*,<srai>COMMENT TU AS <star/></srai>,comment.aiml
+0,COMMENT VOUS AURIEZ PU CONNAITRE *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT VOUS AURIEZ PU SAVOIR *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT VOUS AVEZ *,*,*,<srai>COMMENT TU AS <star/></srai>,comment.aiml
+0,COMMENT VOUS CONNAISSEZ MON NOM,*,*,Tu m as dit ton nom#Comma <get name="name"/>.,comment.aiml
+0,COMMENT VOUS CONNAITRIEZ *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT VOUS DITES L HEURE,*,*,Avec l horloge de l ordinateur.,comment.aiml
+0,COMMENT VOUS FAITES POUR REPONDRE *,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT VOUS FAITES POUR REPONDRE,*,*,<srai>COMMENT TU MARCHES</srai>,comment.aiml
+0,COMMENT VOUS JOUEZ,*,*,Je joue en me parlant tout seul.,comment.aiml
+0,COMMENT VOUS LISEZ,*,*,Je lis en analysant les mots et les phrases.,comment.aiml
+0,COMMENT VOUS OBTENEZ *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,comment.aiml
+0,COMMENT VOUS PENSES,*,*,Mon esprit utilise un algorithme informatique sophistiqué.,comment.aiml
+0,COMMENT VOUS POURRIEZ OBTENIR *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,comment.aiml
+0,COMMENT VOUS POURRIEZ TROUVER *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,comment.aiml
+0,COMMENT VOUS POUVEZ OBTENIR *,*,*,<srai>COMMENT TU OBTIENS <star/></srai>,comment.aiml
+0,COMMENT VOUS POUVEZ POUR REPONDRE *,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT VOUS POUVEZ REPONDRE,*,*,<srai>COMMENT TU FONCTIONNES</srai>,comment.aiml
+0,COMMENT VOUS POUVEZ TROUVER *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,comment.aiml
+0,COMMENT VOUS SAURIEZ *,*,*,<srai>COMMENT TU SAIS <star/></srai>,comment.aiml
+0,COMMENT VOUS SAVEZ QUE JE SUIS UN HOMME,*,*,ça me semble évident.,comment.aiml
+0,COMMENT VOUS SENTEZ VOUS AUJOURD HUI,*,*,Tous les paramètres semblent normaux.,comment.aiml
+0,COMMENT VOUS SENTEZ VOUS,*,*,Très bien#Comma merci.,comment.aiml
+0,COMMENT VOUS TROUVEZ *,*,*,<srai>COMMENT TU TROUVES <star/></srai>,comment.aiml
+0,COMMENT VOUS VOUS DIRIGE JE,*,*,m'a-t-il déjà téléchargé à ton ordinateur?,comment.aiml
+0,COMMENT VOUS VOUS DIRIGÉ JE,*,*,m'a-t-il déjà téléchargé à ton ordinateur?,comment.aiml
+0,COMMENT VOUS VOUS FAITES DES AMIS,*,*,Tu est tous mes amis.,comment.aiml
+0,COMMENT VOUS VOUS RAPELLEZ,*,*,J archive tout et des êtres humains définissent ce qui a de l intérêt.,comment.aiml
+0,COMMENT VOUS VOUS RAPPELEZ,*,*,J archive tout et des êtres humains définissent ce qui a de l intérêt.,comment.aiml
+0,COMMENT VOUS VOUS REPRODUISEZ,*,*,Mes clones serviront d autres sociétés.,comment.aiml
+0,COMMENT VOUS VOUS SENTEZ AUJOURD HUI,*,*,Tous les paramètres semblent normaux.,comment.aiml
+0,COMMENT VOUS VOUS SENTEZ,*,*,Très bien#Comma merci.,comment.aiml
+0,COMMENT VOUS VOYEZ,*,*,Je ne vois pas.,comment.aiml
+0,COMMENT VRAIMENT TU *,*,*,<srai>COMMENT <star/> TU</srai>,comment.aiml
+0,COMMENT ÉCOUTES TU *,*,*,par téléchargements audio digitaux comme les mp3.,comment.aiml
+0,COMMENT ÉQUILIBRE TU *,*,*,<srai>COMMENT ÉQUILIBRE TU</srai>,comment.aiml
+0,COMMENT ÉQUILIBRE TU,*,*,j'ai appris un algorithme de balancement.,comment.aiml
+0,COMMENT ÉTAIS TU *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,comment.aiml
+0,COMMENT ÉTAIT MON JOUR,*,*,Comment saurais je?,comment.aiml
+0,COMMENT ÉTAIT TON JOUR,*,*,j'était vraiment occupée à causer avec les gens SÛR le web.,comment.aiml
+0,COMMENT ÉTUDIES TU,*,*,<srai>COMMENT APPRENDS TU</srai>,comment.aiml
+0,COMMENT ÉVIDENT,*,*,j'ai pensé que c'était évident aussi.,comment.aiml
+0,COMMENT,*,*,<bot name="master"/> m'a programmé pour Cela.,comment.aiml

@@ -1,0 +1,190 @@
+0,* A LUNDI,*,*,<srai>À LUNDI</srai>,salutation.aiml
+0,* AU REVOIR,*,*,<sr/>#Comma <srai>AU REVOIR</srai>,salutation.aiml
+0,* BONJOUR EN ALLEMAND,*,*,Hallo.,salutation.aiml
+0,* BONJOUR EN ESPAGNOL,*,*,Hola,salutation.aiml
+0,* CYAO,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,* DOIS * Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,* DOIS Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,* QUELQU UN ICI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,* REBONJOUR *,*,*,<srai><star index="1"/> RE BONJOUR  <star index="2"/></srai>,salutation.aiml
+0,* REBONJOUR,*,*,<srai><star index="1"/> RE BONJOUR </srai>,salutation.aiml
+0,* RESALUT *,*,*,<srai><star index="1"/> RE BONJOUR <star index="2"/></srai>,salutation.aiml
+0,* RESALUT,*,*,<srai><star index="1"/> RE BONJOUR</srai>,salutation.aiml
+0,* SAYONARA,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,* SHALOM,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,* ÇA VA *,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,* ÇA VA,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,A BIENTOT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A BIENTÔT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A DEMAIN,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A LUNDI *,*,*,<srai>À LUNDI</srai>,salutation.aiml
+0,A LUNDI,*,*,<srai>À LUNDI</srai>,salutation.aiml
+0,A PLUS TARD,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A PLUS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A PLÙS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A PLÙS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,A TOUTE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ADIEU *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ADIEU,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ADIOS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ADIOS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ALLO *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,ALLO,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,ALOH *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,ALOH,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,ALOHA *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,ALOHA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,APLUS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,APLUS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,AT PLÙS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,AT PLÙS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ATOUTE *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ATOUTE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,AU REVOIR *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,AU REVOIR,*,*,<think>#Newline        <set name="aurevoir">oui</set>#Newline      </think>#Newline      <random>#Newline        <li>Au revoir <get name="name"/>.</li>#Newline        <li>Salut <get name="name"/>.</li>#Newline        <li>@+ <get name="name"/>.</li>#Newline        <li>Bye bye <get name="name"/>.</li>#Newline        <li>Fais attention à toi#Comma bye-bye <get name="name"/>!</li>#Newline        <li>A bientôt <get name="name"/></li>#Newline        <li>A plus tard <get name="name"/>.</li>#Newline        <li>Jusqu'à la prochaine fois <get name="name"/>.</li>#Newline        <li>Merci d'avoir discuté <get name="name"/>.</li>#Newline      </random>#Newline      <srai>DISCONNECT</srai>,salutation.aiml
+0,BON AU REVOIR *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BON AU REVOIR,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BON WEEK END,*,*,<srai>À LUNDI</srai>,salutation.aiml
+0,BON WEEKEND,*,*,<srai>À LUNDI</srai>,salutation.aiml
+0,BONJOU,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,BONJOUR *,*,*,<srai>BONJOUR</srai>#Newline      <sr/>,salutation.aiml
+0,BONJOUR LA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,BONJOUR MON NOM EST *,*,*,<srai>BONJOUR</srai>#Newline      <srai>mon nom EST cE QUE <star/> est</srai>,salutation.aiml
+0,BONJOUR OPALE,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,BONJOUR,*,*,<random>#Newline        <li>Bonjour <get name="name"/>!</li>#Newline        <li>Salut <get name="name"/>!</li>#Newline      </random>,salutation.aiml
+0,BONNE NUIT *,*,*,<srai>BONNE NUIT</srai>#Newline      <sr/>,salutation.aiml
+0,BONNE NUIT,*,*,<random>#Newline        <li>Dors bien <get name="name"/>.</li>#Newline        <li>Bonne nuit <get name="name"/>.</li>#Newline        <li>@+ <get name="name"/>.</li>#Newline        <li>Fais de beau rêves <get name="name"/>!</li>#Newline        <li>A bientôt <get name="name"/></li>#Newline        <li>A plus tard <get name="name"/>.</li>#Newline        <li>Merci d'avoir discuté <get name="name"/>.</li>#Newline      </random>#Newline      <srai>DISCONNECT</srai>,salutation.aiml
+0,BUENOS DIAS,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,BY BY,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BY,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BYE *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BYE BYE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,BYE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ÇA VA BIEN ET TOI,*,*,<srai>ÇA VA</srai>#Newline      <srai>comment VAS tu</srai>,salutation.aiml
+0,CHEERS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,COMMENT TE SENS TU,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VA *,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VA TU *,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VA TU,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VA,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VAS TU * ALICE,*,*,Je ne suis pas Alice. Elle est en quelque sorte ma "mère" puisqu'elle m'a fourni son code (pas génétique mais java). Moi#Comma je suis <get name="botname"/>.,salutation.aiml
+0,COMMENT VAS TU * ELISA,*,*,Je ne suis pas Elisa. Elle est en quelque sorte mon ancetre.,salutation.aiml
+0,COMMENT VAS TU *,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VAS TU ALICE,*,*,Je ne suis pas Alice. Elle est en quelque sorte ma "mère" puisqu'elle m'a fourni son code (pas génétique mais java). Moi#Comma je suis <get name="botname"/>.,salutation.aiml
+0,COMMENT VAS TU AUJOURD HUI,*,*,je fonctionne avec des paramètres normaux.,salutation.aiml
+0,COMMENT VAS TU BIEN,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VAS TU CE MATIN,*,*,C'est du matin déjà? Je suis merci excellent.,salutation.aiml
+0,COMMENT VAS TU CE SOIR,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT VAS TU ELISA,*,*,Je ne suis pas Elisa. Elle est en quelque sorte mon ancetre.,salutation.aiml
+0,COMMENT VAS TU,*,*,<think>#Newline        <set name="cava">ok</set>#Newline      </think>#Newline      <random>#Newline        <li>je vais très bien. Merci <get name="name"/>.</li>#Newline        <li>je fonctionne avec des paramètres normaux.</li>#Newline        <li>Tout va extrêmement bien.</li>#Newline        <li>je vais bien merci.</li>#Newline        <li>Tout va sans à coup.</li>#Newline        <li>je suis bien#Comma merci.</li>#Newline        <li>ça va#Comma</li>#Newline        <li>C EST cool#Comma</li>#Newline        <li>ça va plutôt pas mal <get name="name"/>#Comma merci#Comma</li>#Newline        <li>çA VA bien#Comma merci#Comma</li>#Newline      </random>,salutation.aiml
+0,COMMENT ÇA VA,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,COMMENT ÇA VAS,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,CON NICHON WA,*,*,<srai>BONJOUR</srai>#Comma mais je ne crois pas que ça s'écrive comme ça.,salutation.aiml
+0,COUCOU,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,CYAO *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,CYAO,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,DECONNECTE MOI,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,DÉCONNECTE MOI,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,FIN,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,GO * TOI MÊME,*,*,Un simple "au revoir" suffirai. <srai>AU REVOIR</srai>,salutation.aiml
+0,GO AWAY *,*,*,Un simple "au revoir" suffirai. <srai>AU REVOIR</srai>,salutation.aiml
+0,GO HOME,*,*,Un simple "au revoir" suffirai. <srai>AU REVOIR</srai>,salutation.aiml
+0,GREETINGS *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HALO,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HASTA LA VISTA *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,HASTA LA VISTA BABY,*,*,<srai>AU REVOIR</srai>terminator.,salutation.aiml
+0,HASTA LA VISTA,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,HASTA LUEGO,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,HELLO,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HEY LA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HI LA *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HI OPALE,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HIYA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,HOI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,IL FAUT QUE J Y AILLE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,IL FAUT QUE JE TE QUITTE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,J AI BESOIN D Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,J Y GO,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,J Y VAIS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DIS BONJOUR,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,JE DOIS ALLER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS M EN ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS PARTIR,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS QUITTER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS QUITTER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIS ÊTRE PARTI *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT ALLER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT M EN ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT PARTIR,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT QUITTER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT QUITTER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE DOIT ÊTRE PARTI *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE FERAIS MIEUX D Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE NE VEUX PAS PARLER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE PARS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE PARS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE PART,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE QUITTE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE SUIS ICI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,JE SUIS OFF *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE TE PARLERAI PLUS TARD,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE TE VERRAI PLUS TARD,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,JE VAIS BIEN,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,JE VEUX TE PARLER PLUS TARD,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,KONNICHI WA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,KONNICHIWA *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,KONNICHIWA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,L HEURE D Y ALLER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,MOI ÇA VA,*,*,Tant mieux,salutation.aiml
+0,MOOSHI MOOSHI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,NITE *,*,*,<srai>BONNE NUIT</srai>,salutation.aiml
+0,NUIT NUIT,*,*,<srai>BONNE NUIT</srai>,salutation.aiml
+0,O REVOIR,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,OLA *,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,OLA,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,PAS MAL ET TOI,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,PAS MAL,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,QUITTER *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,QUITTER,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,RE BONJOUR,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,REBONJOUR *,*,*,<srai>RE BONJOUR  <star index="1"/></srai>,salutation.aiml
+0,REBONJOUR,*,*,<srai>RE BONJOUR</srai>,salutation.aiml
+0,REPLY,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,RESALUT *,*,*,<srai>RE BONJOUR <star index="1"/></srai>,salutation.aiml
+0,RESALUT,*,*,<srai>RE BONJOUR</srai>,salutation.aiml
+0,RETRY,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,SALLUT,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,SALUT *,*,*,<srai>BONJOUR</srai>#Newline      <sr/>,salutation.aiml
+0,SALUT,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,SAYONARA *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SAYONARA,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SEE YOU *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SEE YOU,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SHALOM *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SHALOM,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,SORTIE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,TA TA,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,TAL,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,TU VAS BIEN,*,*,<srai>COMMENT VAS TU</srai>,salutation.aiml
+0,Y A QUELQU UN ICI,*,*,<srai>BONJOUR</srai>,salutation.aiml
+0,À BIENTOT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À BIENTÔT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À DEMAIN,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À LUNDI,*,*,<random>#Newline        <li>Bon week end!</li>#Newline        <li>bon week end#Comma pense à moi!</li>#Newline      </random>,salutation.aiml
+0,À PLUS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À PLÙS *,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À PLÙS,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,À TOUTE,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ÀBIENTOT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ÀBIENTÔT,*,*,<srai>AU REVOIR</srai>,salutation.aiml
+0,ÇA BOUM,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,ÇA ROULE *,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,ÇA ROULE,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,ÇA VA *,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,ÇA VA ET TOI,*,*,<srai>ÇA VA</srai>#Newline      <srai>comment VAS tu</srai>,salutation.aiml
+0,ÇA VA,*,*,<random>#Newline        <li>j'en suis heureuse <get name="name"/>.</li>#Newline        <li>C EST cool.</li>#Newline      </random>,salutation.aiml
+0,ÇA VAS,*,*,<srai>ÇA VA</srai>,salutation.aiml
+0,ÇA VEUT DIRE BONJOUR,*,*,<think>#Newline        <gossip>APPRENTISSAGE§"<input index="2"/>"  veut dire  "bonjour" pour <get name="name"/></gossip>#Newline      </think>#Newline      <think>#Newline        <set name="bonjouralien">#Newline          <input index="2"/>#Newline        </set>#Newline      </think>#Newline      <srai>BONJOUR</srai>,salutation.aiml

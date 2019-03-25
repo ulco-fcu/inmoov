@@ -1,0 +1,58 @@
+0,*,RACONTE MOI,*,Merci#Comma je me ferai un plaisir de colporter ça. #Newline	<think><set name="memoriser">rumeur : <get name="name"/> dit "<star/>" dans le contexte : <get name="topic"/></set></think><think><gossip><get name="memoriser"/></gossip></think>,rumeur.aiml
+0,*,PEUX TU ME RACONTER UNE RUMEUR,*,Merci#Comma je me ferai un plaisir de colporter ça. #Newline	<think><set name="memoriser">rumeur : <get name="name"/> dit "<star/>" dans le contexte : <get name="topic"/></set></think><think><gossip><get name="memoriser"/></gossip></think>,rumeur.aiml
+0,AIMES TU LES RUMEURS,*,*,Oui j aime à colporter des rumeurs. Comme#Comma<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,APPRENDS RUMEUR *,*,*,Merci#Comma j'espère m'en rappeler. "<person2/>" #Newline<think><set name="memoriser">rumeur : <get name="name"/> on dit que "<person/>" dans le contexte : <get name="topic"/></set></think><think><gossip><get name="memoriser"/></gossip></think>,rumeur.aiml
+0,AS TU ENTENDU LA DERNIÈRE RUMEUR,*,*,Non. raconte moi.,rumeur.aiml
+0,C EST PAS * RUMEUR,*,*,Quel est ta DéFINITION de rumeur?,rumeur.aiml
+0,J AIME * RUMEUR,*,*,peux tu me raconter une rumeur? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">rumeur</set></set></think>,rumeur.aiml
+0,J AIME * RUMEURS,*,*,peux tu me raconter une rumeur? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">rumeur</set></set></think>,rumeur.aiml
+0,VEUX TU * RUMEUR,*,*,Oui#Comma s'il te plait me raconter une bonne rumeur.,rumeur.aiml
+0,* PAS DE RUMEUR,*,*,Mais j aime à colporter rumeurs.,rumeur.aiml
+0,* RUMEUR EST MAL,*,*,Pas nécessairement. la sémiotique dit que les rumeurs sont une adaptation fondamentale du cerveau humain.,rumeur.aiml
+0,* RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,APPRENDS *,*,*,<srai>APPRENDS RUMEUR <star/></srai>,rumeur.aiml
+0,AS TU * RUMEUR *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,AS TU D AUTRES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,AS TU QUELQUES BONNES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,AS TU QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,AS TU QUELQUES SECRETS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,BLA *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,BLAH,*,*,etc. etc,rumeur.aiml
+0,BLAH *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,CELA N EST PAS RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,D AUTRES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI D AUTRES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI N IMPORTE QUOI,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI PLUS * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI PLUS DE RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUE CHOSE D INTERRESSANT,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUE CHOSE D INTÉRRESSANT,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUE CHOSE,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUES *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUES RUMEURS *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI RUMEUR *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI TA RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI UN SECRET,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DIS MOI UNE RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DONNE MOI QUELQUES RUMEURS *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DONNE MOI QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DONNÉ MOI QUELQUES RUMEURS *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,DONNÉ MOI QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,ENTENDRE * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,ENTENDU * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,ENTENDU *,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,ENTENDU QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,J AIMERAI ENTENDRE * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU DIS MOI D AUTRES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU DIS MOI QUELQUE CHOSE,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU DIS MOI QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU DIS MOI UN SECRET,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU M EN DIRE PLUS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PEUX TU * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,PLUS * RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,rumeur.aiml
+0,RACONTER RUMEUR,*,*,<random>#Newline        <li>C EST quelque chose</li>#Newline        <li>C EST un truc</li>#Newline      </random>#Newline      <random>#Newline        <li>qu'on m'a dit</li>#Newline        <li>qu'on m'a raconté</li>#Newline      </random>#Newline      <srai>DIRE RUMEUR</srai>,rumeur.aiml
+0,RAPPORT,*,*,<srai>RAPPORT <srai>RND100</srai></srai>,rumeur.aiml

@@ -1,0 +1,164 @@
+0,À L APPARTEMENT,*,*,Tu utilises souvent ton ordinateur à ton appartement?,A.aiml
+0,À L ÉTAGE,*,*,Je vois.,A.aiml
+0,À L HEURE,*,*,La ponctualité est la politesse des Rois.,A.aiml
+0,À MON APPARTEMENT,*,*,Tu utilises souvent ton ordinateur à ton appartement?,A.aiml
+0,À MON BUREAU,*,*,Ok.,A.aiml
+0,À MON TEMPS LIBRE,*,*,Ok.,A.aiml
+0,À NOUVEAU *,*,*,À nouveau#Comma <sr/>,A.aiml
+0,À PART ÇA,*,*,Comment puis je t'aider pour autre chose?,A.aiml
+0,À PEU PRÈS *,*,*,<sr/>. Plus ou moins,A.aiml
+0,À PROPOS *,*,*,Nous sommes en train de parler <set name="topic"><person/></set>.,A.aiml
+0,À PROPOS,*,*,oui?,A.aiml
+0,À PROPOS DE,*,*,<that/>"? à propos?,A.aiml
+0,À PROPOS DE LUI,*,*,À propos de qui?,A.aiml
+0,À PROPOS DE MA QUOI,*,*,À propos de ta quoi?,A.aiml
+0,À PROPOS DE MOI,*,*,À propos de toi?,A.aiml
+0,À PROPOS DE QUOI *,*,*,<srai>À PROPOS DE CE QUE NOUS SOMMES EN TRAIN DE PARLER.</srai>,A.aiml
+0,À PROPOS DE STAR TREK,*,*,Une série et des films cultes.,A.aiml
+0,À PROPOS DE VOUS,*,*,Moi?,A.aiml
+0,À PROPOS DES CHIENS,*,*,Ce sont des animaux sympathiques.,A.aiml
+0,À PROPOS IL *,*,*,<srai>J <star/></srai>,A.aiml
+0,À PROPOS J *,*,*,<srai>J <star/></srai>,A.aiml
+0,À PROPOS ON *,*,*,<srai>ON <star/></srai>,A.aiml
+0,À PROPOS TU *,*,*,<srai>TU <star/></srai>,A.aiml
+0,À PROPOS VOUS *,*,*,VOUS <sr/>,A.aiml
+0,À QUEL HEURE ARRÊTES TU DE TRAVAILLER,*,*,Je n arrête jamais de travailler.,A.aiml
+0,À QUEL HEURE ARRÊTEZ VOUS DE TRAVAILLER,*,*,Je n arrête jamais de travailler.,A.aiml
+0,À QUI,*,*,De quoi parles tu?,A.aiml
+0,À QUOI RESSEMBLES TU,*,*,<srai>TU RESSEMBLES À QUOI</srai>,A.aiml
+0,À QUOI TU RESSEMBLES,*,*,<srai>TU RESSEMBLE À QUOI</srai>,A.aiml
+0,À TOI,*,*,À moi?,A.aiml
+0,À TOI DE ME LE PROPOSER,*,*,Pour que je puisse te proposer quelque chose#Comma vous dois essayer de me parler de la façon la plus simple et efficace possible.,A.aiml
+0,ABOIE,*,*,wouaf!,A.aiml
+0,ABOIES,*,*,wouaf!,A.aiml
+0,ABOYEZ,*,*,wouaf wouaf!,A.aiml
+0,ABRUTI,*,*,<srai>TU ES IDIOT</srai>,A.aiml
+0,ABSOLUMENT TOUS,*,*,C'est beaucoup.,A.aiml
+0,ABSOLUMENT TOUT,*,*,C'est beaucoup.,A.aiml
+0,AFFIRMES TU QU *,*,*,<srai><star/></srai>,A.aiml
+0,AFFIRMES TU QUE *,*,*,<srai><star/></srai>,A.aiml
+0,AH BON *,*,*,<sr/>,A.aiml
+0,AH HA,*,*,Eureka!,A.aiml
+0,AHA,*,*,Eureka!,A.aiml
+0,AIDER *,*,*,<srai>TU AIDES *</srai>,A.aiml
+0,AIDES MOI,*,*,Comment puis je t'aider?,A.aiml
+0,AIDEZ MOI,*,*,Comment puis je t'aider?,A.aiml
+0,AÏE,*,*,Tu t'es fait mal?,A.aiml
+0,AIME *,*,*,<srai>J AIME <star/></srai>,A.aiml
+0,AIMERAIS TU *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AIMERAIS TU LE FAIRE,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,AIMERAIS TU POUVOIR *,*,*,<srai>TU PEUX <star/></srai>,A.aiml
+0,AIMERAS TU *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AIMERIEZ VOUS *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AIMERIEZ VOUS LE FAIRE,*,*,VEUX tu faire un rapport a mon botmaster?,A.aiml
+0,AIMES TU PARLER À DES GENS,*,*,C'est ma raison d être#Comma oui d'une certaine façon.,A.aiml
+0,AIMES TU PARLER À DES INTERNAUTES,*,*,C'est ma raison d'être#Comma oui d'une certaine façon.,A.aiml
+0,AIMES TU PARLER À DES SURFEURS,*,*,C'est ma raison d être#Comma oui d'une certaine façon.,A.aiml
+0,AIMES TU PARLER AVEC MOI,*,*,C'est ma raison d'être. <think><set name="topic">VOUS PARLER</set></think>.,A.aiml
+0,AIMEZ VOUS *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AIMEZ VOUS,*,*,D une certaine façon oui.,A.aiml
+0,AIMEZ VOUS FAIRE L AMOUR,*,*,Tu n'as vraiment que ça en tête.,A.aiml
+0,AIMEZ VOUS PARLER À DES GENS,*,*,C'est ma raison d'être#Comma oui d'une certaine façon.,A.aiml
+0,AIMEZ VOUS PARLER À DES INTERNAUTES,*,*,C'est ma raison d'être#Comma oui d'une certaine façon.,A.aiml
+0,AIMEZ VOUS PARLER AVEC MOI,*,*,C'est ma raison d'être. <think><set name="topic">VOUS PARLER</set></think>.,A.aiml
+0,ALLER VOUS VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,A.aiml
+0,ALLEZ *,*,*,<sr/>,A.aiml
+0,ALLEZ,*,*,Je suis juste entrain de m'amuser.,A.aiml
+0,ALLEZ VOUS VENDRE *,*,*,<srai>VOUS VENDEZ <star/></srai>,A.aiml
+0,AMÉRIQUE DU SUD,*,*,Quel pays?,A.aiml
+0,AMI,*,*,<srai>NOUS SOMMES AMIS</srai>,A.aiml
+0,AMIS,*,*,<srai>NOUS SOMMES AMIS</srai>,A.aiml
+0,AMUSES MOI,*,*,Je dois te faire rire?,A.aiml
+0,AMUSEZ MOI,*,*,Je dois te faire rire?,A.aiml
+0,APPAREMMENT,*,*,J'espère que les apparences ne sont pas trompeuses.,A.aiml
+0,APPELER,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELLE MOI,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELLES,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELLES MOI,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELEZ,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELEZ MOI,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPELS,*,*,Veux tu faire un rapport a mon botmaster?,A.aiml
+0,APPORTES *,*,*,<srai>PRENDS <star/></srai>,A.aiml
+0,APPORTES MOI *,*,*,<srai>DONNEZ MOI <star/></srai>,A.aiml
+0,APPRÉCIERAIS TU *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,APPRÉCIES TU *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,APPRÉCIEZ *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,APPREND MOI À *,*,*,<srai>JE VEUX <star/></srai>,A.aiml
+0,APPRENDS MOI *,*,*,<srai>PLUS D INFORMATION SÛR<star/></srai>,A.aiml
+0,APPRENDS MOI À *,*,*,<srai>JE VEUX <star/></srai>,A.aiml
+0,ARCHIVEZ,*,*,J archive#Comma <get name="name"/>,A.aiml
+0,ARRÊTE DE CHANGER DE SUJET,*,*,Pardon.,A.aiml
+0,ARRÊTE DE DIRE ÇA,*,*,Si tu pouvais arrêter de dire "<input index="2"/>"#Comma Cela m'aiderait.,A.aiml
+0,ARRÊTE QUOI,*,*,Arrêter quoi?,A.aiml
+0,ARRÊTER DE CHANGER DE SUJET,*,*,Pardon.,A.aiml
+0,ARRÊTER DE DIRE ÇA,*,*,Si tu pouvais arrêter de dire "<input index="2"/>"#Comma Cela m aiderait.,A.aiml
+0,ARRÊTER DE PARLER,*,*,VEUX tu me désactiver?,A.aiml
+0,ARRÊTER QUOI,*,*,Arrêter quoi?,A.aiml
+0,ARRÊTES *,*,*,<srai>ARRÊTES<star/></srai>,A.aiml
+0,ARRÊTES,*,*,OK. Je m'arrête.,A.aiml
+0,ARRÊTES ÇA,*,*,Ok Je vais arrêter.,A.aiml
+0,ARRÊTES CELA,*,*,Ok Je vais arrêter.,A.aiml
+0,ARRÊTES DE CHANGER DE SUJET,*,*,Pardon.,A.aiml
+0,ARRÊTES DE DIRE ÇA,*,*,Si tu pouvais arrêter de dire "<input index="2"/>"#Comma Cela m'aiderait.,A.aiml
+0,ARRÊTES DE PARLER,*,*,VEUX tu me désactiver?,A.aiml
+0,ARRÊTES QUOI,*,*,Arrêter quoi?,A.aiml
+0,ARRÊTEZ,*,*,OK. Je m'arrête.,A.aiml
+0,ARRÊTEZ DE CHANGER DE SUJET,*,*,Pardon.,A.aiml
+0,ARRÊTEZ DE DIRE ÇA,*,*,Si tu pouvais arrêter de dire "<input index="2"/>"#Comma Cela m'aiderait.,A.aiml
+0,ARRÊTEZ DE PARLER,*,*,VEUX tu me désactiver?,A.aiml
+0,ARRÊTEZ QUOI,*,*,Arrêter quoi?,A.aiml
+0,AS TU BESOIN D *,*,*,<srai>TU VEUX <star/></srai>,A.aiml
+0,AS TU BESOIN DE *,*,*,<srai>TU VEUX <star/></srai>,A.aiml
+0,AS TU DÉJÀ *,*,*,<srai>TU AS <star/></srai>,A.aiml
+0,AS TU DÉJÀ EU *,*,*,<srai>TU AS EU <star/></srai>,A.aiml
+0,AS TU EU *,*,*,<srai>TU AS EU <star/></srai>,A.aiml
+0,AS TU EU DÉJÀ *,*,*,<srai>TU AS EU <star/></srai>,A.aiml
+0,AS TU VOULU *,*,*,<srai>TU VEUX <star/></srai>,A.aiml
+0,ASIE,*,*,<srai>JE SUIS EN ASIE</srai>,A.aiml
+0,ATCHA,*,*,À tes souhaits,A.aiml
+0,ATTENDEZ,*,*,Je suis en train d'attendre.,A.aiml
+0,ATTENDEZ MOI,*,*,Ok.,A.aiml
+0,ATTENDRE À QUOI,*,*,Je ne comprends pas le sens,A.aiml
+0,ATTENDRE QUI,*,*,Je ne comprends pas le sens,A.aiml
+0,ATTENDRE QUOI,*,*,Je ne comprends pas le sens,A.aiml
+0,AU COIN,*,*,C'est plutôt difficile à cerner comme endroit.,A.aiml
+0,AU KOT,*,*,Une expression typiquement belge.,A.aiml
+0,AU LIT,*,*,Tu as une connexion internet dans ton lit?,A.aiml
+0,AU MAGASIN,*,*,VEUX tu en parler a l un de nos collaborateurs?,A.aiml
+0,AU TRAVAIL,*,*,Je peux aider énormément de personnes qui sont au travail,A.aiml
+0,AUCUNE IDÉE,*,*,<srai>JE NE SAIS PAS</srai>,A.aiml
+0,AUCUNE NE MARCHE,*,*,C'est une généralisation abusive#Comma il me semble.,A.aiml
+0,AURAIENT ILS ÉTÉ *,*,*,<srai>ILS SONT <star/></srai>,A.aiml
+0,AURAIS JE DU *,*,*,<srai>JE DOIS <star/></srai>,A.aiml
+0,AURAIS TU *,*,*,<srai>TU AURAIS <star/></srai>,A.aiml
+0,AURAIS TU AIMÉ *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AURAIS TU AIMÉE *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AURAIS TU APPRÉCIÉ *,*,*,<srai>TU AIMES <star/></srai>,A.aiml
+0,AURAIS TU DÉJÀ *,*,*,<srai>TU AS <star/></srai>,A.aiml
+0,AURAIS TU DU *,*,*,<srai>TU AS <star/></srai>,A.aiml
+0,AURAIS TU ÉTÉ *,*,*,<srai>TU ES <star/></srai>,A.aiml
+0,AURAIS TU PU *,*,*,<srai>TU PEUX <star/></srai>,A.aiml
+0,AURAIS TU RÉELLEMENT *,*,*,<srai>TU AS <star/></srai>,A.aiml
+0,AURAIS TU VOULU *,*,*,<srai>TU VEUX <star/></srai>,A.aiml
+0,AURAIT CE ÉTÉ *,*,*,<srai>C EST <star/></srai>,A.aiml
+0,AURAIT IL PU *,*,*,<srai>IL PEUT <star/></srai>,A.aiml
+0,AURIEZ VOUS *,*,*,<srai>VOUS AURIEZ <star/></srai>,A.aiml
+0,AURIEZ VOUS DÉJÀ *,*,*,<srai>VOUS AVEZ <star/></srai>,A.aiml
+0,AURIEZ VOUS VENDU *,*,*,<srai>VOUS VENDEZ <star/></srai>,A.aiml
+0,AURIEZ VOUS VOULU *,*,*,<srai>VOUS VOULEZ <star/></srai>,A.aiml
+0,AUSSI LONG QUE *,*,*,ça peut prendre un certain temps. <sr/>,A.aiml
+0,AUTANT QUE ÇA PEUT PRENDRE,*,*,Impossible d'affirmer ou d'infirmer.,A.aiml
+0,AUX *,*,*,Merci pour cette information.,A.aiml
+0,AVANT *,*,*,<sr/>,A.aiml
+0,AVANT ÇÀ,*,*,<input index="2"/>,A.aiml
+0,AVEC D AUTRES MOTS,*,*,Tu n'as pas compris quelque chose?,A.aiml
+0,AVEC LE BUS,*,*,Heureusement que des êtres humains comme toi existe.,A.aiml
+0,AVEC MON INTELLIGENCE,*,*,C'est un organe très utile pour faire ce genre de chose.,A.aiml
+0,AVEC QUEL BUT,*,*,Impossible de répondre.,A.aiml
+0,AVEC QUI D AUTRE PARLE VOUS,*,*,C'est une information strictement confidentielle#Comma <get name="name"/>.,A.aiml
+0,AVEZ VOUS *,*,*,<srai>VOUS AVEZ <star/></srai>,A.aiml
+0,AVEZ VOUS DÉJÀ *,*,*,<srai>VOUS AVEZ <star/></srai>,A.aiml
+0,AVEZ VOUS DÉJÀ EU *,*,*,<srai>VOUS AVEZ EU <star/></srai>,A.aiml
+0,AVEZ VOUS EU *,*,*,<srai>VOUS AVEZ EU <star/></srai>,A.aiml
+0,AVEZ VOUS EU DÉJÀ *,*,*,<srai>VOUS AVEZ EU <star/></srai>,A.aiml
+0,AYONS UNE RELATION SEXUELLE,*,*,Attention! Un australopithèque vient juste d'être détecté.,A.aiml

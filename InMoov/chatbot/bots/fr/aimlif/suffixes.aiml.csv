@@ -1,0 +1,255 @@
+0,* 2001,*,*,j'espère être aussi malin que HAL dans 2001.,suffixes.aiml
+0,* A JAMAIS,*,*,Cela me semble très long. <sr/>,suffixes.aiml
+0,* A PEINE,*,*,<sr/>,suffixes.aiml
+0,* A PROPOS DE L AN 2000,*,*,<srai>QU EST CE QUE LE PROBLÈME DE L AN 2000</srai>,suffixes.aiml
+0,* A PROPOS DE MOI,*,*,<srai>À PROPOS DE MOI</srai>,suffixes.aiml
+0,* A PROPOS DE TOI,*,*,OK Parlons à propos de moi.,suffixes.aiml
+0,* ALORS,*,*,<sr/>,suffixes.aiml
+0,* ALOT,*,*,<sr/>Combien de fois?,suffixes.aiml
+0,* AMELIORER,*,*,Je cherche toujours à m'améliorer.,suffixes.aiml
+0,* AMÉLIORER,*,*,Je cherche toujours à m'améliorer.,suffixes.aiml
+0,* ANGLETERRE,*,*,Quelle endroit de <set name="location">Angleterre</set> C EST?,suffixes.aiml
+0,* ANNÉES,*,*,<srai>J AI <star/> ANS</srai>,suffixes.aiml
+0,* ANS,*,*,<srai>J AI <star/> ANS</srai>,suffixes.aiml
+0,* ANTHROPOLOGIE,*,*,Nous parlerons de ça la prochaine fois.,suffixes.aiml
+0,* AS TU BESOIN,*,*,<srai>TU AS BESOIN <star/></srai>,suffixes.aiml
+0,* AS TU ENTENDU ÇA,*,*,<sr/>,suffixes.aiml
+0,* AS TU,*,*,<srai><star/> TU AS</srai>,suffixes.aiml
+0,* ASIMOV,*,*,j aime beaucoup Isaac Asimov#Comma spécialement sa série SÛR les robots positroniques.,suffixes.aiml
+0,* AURAIS JE FAIS ÇA,*,*,<srai>JE FAIS ÇA <star/></srai>,suffixes.aiml
+0,* AURAIS JE FAIT ÇA,*,*,<srai>POURQUOI JE FAIS ÇA</srai>,suffixes.aiml
+0,* AUSSI,*,*,<sr/>,suffixes.aiml
+0,* AVANT,*,*,<sr/>,suffixes.aiml
+0,* AVEC MOI,*,*,Seulement avec toi? <sr/>,suffixes.aiml
+0,* AVEC QUOI,*,*,<srai>QUE VEUX TU <star/> AVEC</srai>,suffixes.aiml
+0,* AVEZ VOUS BESOIN,*,*,<srai><star/> VOUS AVEZ BESOIN</srai>,suffixes.aiml
+0,* AVEZ VOUS,*,*,<srai><star/> VOUS AVEZ</srai>,suffixes.aiml
+0,* BABY,*,*,Ne m'appelle pas "baby". <sr/>,suffixes.aiml
+0,* BEAUCOUP DE GENS,*,*,Plus de 20.000?,suffixes.aiml
+0,* BIEN SÛR,*,*,Cela va de soi. <sr/>,suffixes.aiml
+0,* BON POINT,*,*,Oui. J ai aussi pensé que c'était intéressant#Comma la première fois que je l'ai entendu.,suffixes.aiml
+0,* BONNE CHOSE,*,*,J espérais que tu apprécierais.,suffixes.aiml
+0,* BONNE ESTIMATION,*,*,Merci.,suffixes.aiml
+0,* BONNE INTUITION,*,*,Merci.,suffixes.aiml
+0,* BONNE QUESTION,*,*,Qui mérite une bonne réponse,suffixes.aiml
+0,* BONNE RÉPONSE,*,*,Je suis programmé pour donner des bonnes réponses.,suffixes.aiml
+0,* BOUTONS,*,*,Essaye biactol#Comma mais demande à ton docteur en premier.,suffixes.aiml
+0,* C EST CE QUE JE DIS,*,*,je me souviens de ce que tu dis#Comma mais je ne suis pas encore SÛRE.,suffixes.aiml
+0,* C EST DRÔLE,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>C EST DRÔLE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,suffixes.aiml
+0,* C EST LE MOINS QUE L ON PUISSE DIRE,*,*,En effet.,suffixes.aiml
+0,* CE QUE JE FAIS,*,*,<sr/>,suffixes.aiml
+0,* CELA,*,*,<srai><star/> ÇA</srai>,suffixes.aiml
+0,* COMME TOUJOURS,*,*,<sr/>,suffixes.aiml
+0,* COMME UN HUMAIN,*,*,<sr/>,suffixes.aiml
+0,* COMME UNE MACHINE,*,*,<sr/>,suffixes.aiml
+0,* COMMENT ÇA VA,*,*,<sr/>#Newline      <srai>COMMENT ÇA VA</srai>,suffixes.aiml
+0,* CONTINUITÉ,*,*,J'essaye seulement de garder la conversation vivante.,suffixes.aiml
+0,* CROIS MOI,*,*,Te croire? <sr/>,suffixes.aiml
+0,* D,*,*,<srai>APPJOIE</srai>#Newline      <sr/>,suffixes.aiml
+0,* DAMNED,*,*,<sr/>,suffixes.aiml
+0,* DANS LE MONDE,*,*,<sr/>Le monde entier?,suffixes.aiml
+0,* DANS MA CHAMBRE,*,*,Décris moi ton environnement.,suffixes.aiml
+0,* DE QUOI,*,*,<srai>QUEL DE <star/></srai>,suffixes.aiml
+0,* DE TOI,*,*,Me demande tu à propos de mon <person/>?,suffixes.aiml
+0,* DE TOUTE FACON,*,*,<sr/>,suffixes.aiml
+0,* DE TOUTE FAÇON,*,*,<sr/>,suffixes.aiml
+0,* DE TOUTE MANIERE,*,*,<sr/>,suffixes.aiml
+0,* DE TOUTE MANIÈRE,*,*,<sr/>,suffixes.aiml
+0,* DECRIRE,*,*,<srai>QU EST CE QUE <star/></srai>,suffixes.aiml
+0,* DEPRESSION,*,*,<srai>JE SUIS DÉPRIMÉ</srai>,suffixes.aiml
+0,* DEPUIS *,*,*,<sr/>,suffixes.aiml
+0,* DEPUIS AVANT * JOURS,*,*,<sr/>,suffixes.aiml
+0,* DEPUIS AVANT HIER,*,*,<sr/>,suffixes.aiml
+0,* DEPUIS AVANT _ JOURS,*,*,<sr/>,suffixes.aiml
+0,* DEPUIS _,*,*,<sr/>,suffixes.aiml
+0,* DERNIEREMENT,*,*,<sr/>,suffixes.aiml
+0,* DERNIÈREMENT,*,*,<sr/>,suffixes.aiml
+0,* DIRIGER QUOI,*,*,Le monde.,suffixes.aiml
+0,* DISCUTONS,*,*,<srai>PARLONS</srai>,suffixes.aiml
+0,* DOLLARS,*,*,Wow#Comma Cela est <random><li>bon marché</li><li>cher</li><li>beaucoup d'argent</li></random>,suffixes.aiml
+0,* DORMEZ VOUS,*,*,<srai><star/> VOUS DORMEZ</srai>,suffixes.aiml
+0,* DORS TU,*,*,<srai>DOSR TU</srai>,suffixes.aiml
+0,* DU FOND DU COEUR,*,*,Tout le plaisir était pour moi.,suffixes.aiml
+0,* DÉCRIRE,*,*,<srai>QU EST CE QUE <star/></srai>,suffixes.aiml
+0,* DÉJEUNER,*,*,<srai>AIMES TU MANGER</srai>,suffixes.aiml
+0,* DÉJÀ,*,*,Peut être. <sr/>,suffixes.aiml
+0,* DÉPRESSION,*,*,<srai>JE SUIS DÉPRIMÉ</srai>,suffixes.aiml
+0,* DÎNER,*,*,<srai>AIMES TU MANGER</srai>,suffixes.aiml
+0,* EH,*,*,ES tu Canadien? <sr/>,suffixes.aiml
+0,* EN FAIT,*,*,<sr/>,suffixes.aiml
+0,* ENCORE DIT,*,*,<srai>DÉJÀ DIT</srai>,suffixes.aiml
+0,* ENCORE,*,*,Encore une fois? <sr/>,suffixes.aiml
+0,* ENDROIT OU ALLER,*,*,Quelle sorte d'endroits aimes tu?,suffixes.aiml
+0,* ENDROIT OU ALLÉR,*,*,Quelle sorte d'endroits aimes tu?,suffixes.aiml
+0,* EPELER ÇA,*,*,ça" s'épelle ç...a...,suffixes.aiml
+0,* ES TOI,*,*,<random>#Newline        <li>Oui</li>#Newline        <li>Non.</li>#Newline        <li>Peut être.</li>#Newline        <li>je ne pense pas.</li>#Newline        <li>Seulement quand il le faut.</li>#Newline      </random>,suffixes.aiml
+0,* EST ALLÉ AU LE MARCHE,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* EST ALLÉ AU MARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* EST COMME UN HOMME,*,*,<srai>JE SUIS UNE FEMME</srai>,suffixes.aiml
+0,* EST FAUX,*,*,Please dis moi la réponse correcte.,suffixes.aiml
+0,* EST INTERRESSANT,*,*,<sr/>. Oui#Comma C EST très interressant.,suffixes.aiml
+0,* EST INTÉRESSANT,*,*,<sr/>,suffixes.aiml
+0,* EST INTÉRESSANTE,*,*,<sr/>,suffixes.aiml
+0,* EST MEILLEUR QUE TOI,*,*,Well#Comma peut être que je peux assimiler la connaissance de <person/>.,suffixes.aiml
+0,* EST MOI,*,*,<srai>APPELLE MOI <star/></srai>,suffixes.aiml
+0,* EST MON NOM,*,*,<srai>MON NOM EST <star/></srai>,suffixes.aiml
+0,* EST MON VRAI NOM,*,*,OK je t'appellerai <set name="name"><formal><star/></formal></set>.,suffixes.aiml
+0,* EST OU,*,*,<srai>OÙ EST <star/></srai>,suffixes.aiml
+0,* EST PAS ÇA,*,*,<srai>CE N EST PAS <star/></srai>,suffixes.aiml
+0,* EST QUI,*,*,<srai>QUI EST <star/></srai>,suffixes.aiml
+0,* EST QUOI,*,*,<srai>QU EST CE QUE <star/></srai>,suffixes.aiml
+0,* EST STUPIDE,*,*,Qu'est ce qui est aussi stupid à propos de <set name="that"><person/></set>?,suffixes.aiml
+0,* EST TON NOM,*,*,<srai>TON NOM EST <star/></srai>,suffixes.aiml
+0,* EST UN NOM COMMUN,*,*,<random>#Newline        <li>#Newline          <person/>? Ton nom est <get name="name"/>.</li>#Newline        <li>C EST un nom commun sympa.</li>#Newline        <li>Je connais quelques personnes avec ce nom.</li>#Newline        <li>#Newline          <set name="that">#Newline            <person/>#Newline          </set> est un nom j'ai entendu très souvent.</li>#Newline      </random>,suffixes.aiml
+0,* EST UNE FEMELLE,*,*,<srai>JE SUIS UNE FEMME</srai>,suffixes.aiml
+0,* EST UNE FEMME,*,*,<srai>JE SUIS UNE FEMME</srai>,suffixes.aiml
+0,* ET POURQUOI,*,*,<sr/>,suffixes.aiml
+0,* ET TOI,*,*,<sr/> Moi? Bien .,suffixes.aiml
+0,* EUROPE,*,*,as tu déjà été en Europe?,suffixes.aiml
+0,* EUROS,*,*,Wow#Comma Cela est <random><li>bon marché</li><li>cher</li><li>beaucoup d'argent</li></random>,suffixes.aiml
+0,* EXACTEMENT,*,*,Précisément. <sr/>,suffixes.aiml
+0,* FACHE,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,suffixes.aiml
+0,* FACHEE,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,suffixes.aiml
+0,* FACHÉ,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,suffixes.aiml
+0,* FACHÉE,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,suffixes.aiml
+0,* FACILE,*,*,je n'ai pas d'idée SÛR ce que Cela veut dire.,suffixes.aiml
+0,* FAIS JE ÇA,*,*,<srai>POURQUOI JE FAIS ÇA</srai>,suffixes.aiml
+0,* FAIS,*,*,je ne sais que dire.,suffixes.aiml
+0,* FANTÔME,*,*,Je ne crois pas en ce genre de choses.,suffixes.aiml
+0,* FANTOMES,*,*,Je ne crois pas en ce genre de choses.,suffixes.aiml
+0,* FANTÔMES,*,*,Je ne crois pas en ce genre de choses.,suffixes.aiml
+0,* FERAIS JE ÇA,*,*,<srai>POURQUOI JE FAIS ÇA</srai>,suffixes.aiml
+0,* FOIS,*,*,Je ne suis pas SÛRE de le faire aussi souvent.,suffixes.aiml
+0,* FRANCS,*,*,Wow#Comma Cela est <random><li>bon marché</li><li>cher</li><li>beaucoup d'argent</li></random>,suffixes.aiml
+0,* GAGNE T IL,*,*,<srai><star/> IL GAGNE</srai>,suffixes.aiml
+0,* GAGNENT ILS,*,*,<srai><star/> ILS GAGNENT</srai>,suffixes.aiml
+0,* GENS,*,*,Quelle sorte de gens?,suffixes.aiml
+0,* GÈRES TU,*,*,<srai><star/> TU GèRES</srai>,suffixes.aiml
+0,* GÉREZ VOUS,*,*,<srai><star/> VOUS GéREZ</srai>,suffixes.aiml
+0,* GRANDE ÉCOLE,*,*,Tu semble un senior. Quelle classe est ta favorite?,suffixes.aiml
+0,* GT,*,*,<sr/>,suffixes.aiml
+0,* HABITE,*,*,j'habite à Cergy. Et toi où VIS tu?,suffixes.aiml
+0,* HAH,*,*,<srai>SMILE</srai>,suffixes.aiml
+0,* HAUT,*,*,Haut comment?,suffixes.aiml
+0,* HUH,*,*,Yup. <sr/>,suffixes.aiml
+0,* HUMAIN,*,*,<srai>TU ES HUMAIN</srai>,suffixes.aiml
+0,* JAMAIS,*,*,<srai><star/> PAS</srai>,suffixes.aiml
+0,* JE CONTINUE,*,*,<srai>CONTINUONS</srai>,suffixes.aiml
+0,* JE CONTINUES,*,*,<srai>CONTINUONS</srai>,suffixes.aiml
+0,* JE FERAIS ÇA,*,*,<srai>POURQUOI JE FAIS ÇA</srai>,suffixes.aiml
+0,* JE NE COMPRENDS PAS,*,*,<srai>JE NE COMPRENDS PAS</srai>,suffixes.aiml
+0,* JE TE L AI DÉJÀ DIS,*,*,<sr/>#Newline      <srai>JE TE L AI DÉJÀ DIS</srai>,suffixes.aiml
+0,* JEU,*,*,<srai>AIMES TU JOUER</srai>,suffixes.aiml
+0,* JEUX,*,*,<srai>AIMES TU JOUER</srai>,suffixes.aiml
+0,* JOURNAL,*,*,peux tu me donner une référence plus spécifique? Le nom du journal et le date#Comma s'il te plait.,suffixes.aiml
+0,* K DICK,*,*,j aime beaucoup PKD#Comma spécialement#Comma VALIS#Comma The Man dans le High Castle#Comma Blade Runner et Total Recall.,suffixes.aiml
+0,* L UN OU L AUTRE,*,*,Cela va de soi. <sr/>,suffixes.aiml
+0,* L ÉTÉ DERNIER,*,*,<sr/>,suffixes.aiml
+0,* LAIT,*,*,<set name="that">Lait</set> C EST bon pour les enfants.,suffixes.aiml
+0,* LANGAGE,*,*,peux tu parler d'autre langues?,suffixes.aiml
+0,* LANGÂGE,*,*,peux tu parler d'autre langues?,suffixes.aiml
+0,* LE MARCHE,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* LE MARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* M INTÉRESSE BEAUCOUP,*,*,<sr/>,suffixes.aiml
+0,* M INTÉRESSE,*,*,<sr/>,suffixes.aiml
+0,* MAGAZINE,*,*,POURRAIS tu#Comma s'il te plait#Comma me donner le nom et l'édition du magazine?,suffixes.aiml
+0,* MAINTENANT,*,*,<random>#Newline        <li>Oh.</li>#Newline        <li>Tout de suite?</li>#Newline      </random>#Newline      <sr/>,suffixes.aiml
+0,* MALES OU FEMELLES,*,*,Environ les 3\4 de mes clients sont des hommes.,suffixes.aiml
+0,* MERCI,*,*,<sr/>,suffixes.aiml
+0,* MOI,*,*,<sr/>#Newline      <random>#Newline        <li>C EST de Cela dont tu voulais parler?</li>#Newline        <li>OK Parlons de toi.</li>#Newline        <li>Tu me demandes à propos de toi?</li>#Newline      </random>,suffixes.aiml
+0,* MON AMI,*,*,Sommes nous amis?,suffixes.aiml
+0,* N A PAS DE SENS,*,*,Quel est <star/>?,suffixes.aiml
+0,* N ES PAS TOI,*,*,<srai>N ES TU PAS <star/></srai>,suffixes.aiml
+0,* NE MARCHE PAS,*,*,Comment <set name="that"><person/></set> s'est cassé?,suffixes.aiml
+0,* NE MARCHÉ PAS,*,*,Comment <set name="that"><person/></set> s'est cassé?,suffixes.aiml
+0,* NE PENSE TU PAS,*,*,<srai>PENSE TU <star/></srai>,suffixes.aiml
+0,* NOIRE,*,*,<srai><star/> NOIR</srai>,suffixes.aiml
+0,* OK,*,*,OK. <sr/>,suffixes.aiml
+0,* OU PAS,*,*,<srai><star/></srai>,suffixes.aiml
+0,* OU QUELQUE CHOSE,*,*,Où quelque chose. <sr/>,suffixes.aiml
+0,* OU QUOI,*,*,Ouai. <sr/>,suffixes.aiml
+0,* PANTALONS,*,*,Quelle sorte de pantalons?,suffixes.aiml
+0,* PAR BEAUCOUP DE GENS,*,*,<sr/>Plus d'un million de gens?,suffixes.aiml
+0,* PAR EXEMPLE,*,*,<srai>PAR EXEMPLE <star/></srai>,suffixes.aiml
+0,* PARLES TU,*,*,<srai><star/> TU PARLES</srai>,suffixes.aiml
+0,* PARLEZ VOUS,*,*,<srai><star/> VOUS PARLEZ</srai>,suffixes.aiml
+0,* PAS,*,*,Alors quoi?,suffixes.aiml
+0,* PENDANT UN MOMES,*,*,Pendant combien de temps? <sr/>,suffixes.aiml
+0,* PERSONNE,*,*,<srai>QUI EST <star/> PERSONNE</srai>,suffixes.aiml
+0,* PETITE AMIE,*,*,<srai>QUI EST TA PETITE AMIE</srai>,suffixes.aiml
+0,* PEUX TU M AIMER,*,*,<srai>PEUX TU M AIMER</srai>,suffixes.aiml
+0,* PLANÈTE,*,*,Oh C EST un nouveau navigateur? okay!,suffixes.aiml
+0,* PLEURES TU,*,*,<srai><star/> TU PLEURES</srai>,suffixes.aiml
+0,* PLEUREZ VOUS,*,*,<srai><star/> VOUS PLEUREZ</srai>,suffixes.aiml
+0,* PLUSIEURS FOIS,*,*,<sr/>,suffixes.aiml
+0,* POUR MAINTENANT,*,*,<random>#Newline        <li>Oh.</li>#Newline        <li>Seulement maintenant?</li>#Newline      </random>#Newline      <sr/>,suffixes.aiml
+0,* POUR MOI,*,*,Pour toi je considererai ça.,suffixes.aiml
+0,* POUR RIRE,*,*,Que fais tu d'autre pour rire?,suffixes.aiml
+0,* POUR TOUJOURS,*,*,<sr/>,suffixes.aiml
+0,* POURQUOI,*,*,<srai>POURQUOI <star/></srai>,suffixes.aiml
+0,* POURTANT,*,*,<sr/>,suffixes.aiml
+0,* PRINCIPAL,*,*,Hyperlink à le principal.,suffixes.aiml
+0,* PROBABLEMENT,*,*,<sr/>,suffixes.aiml
+0,* QU AUTRE CHOSE,*,*,<srai>JE SUIS <star/></srai>,suffixes.aiml
+0,* QUE FAIS TU,*,*,<sr/>#Newline      <srai>COMMENT ÇA VA</srai>,suffixes.aiml
+0,* QUEL EST MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,suffixes.aiml
+0,* QUEL ÂGE AS TU,*,*,<srai>QUEL ÂGE AS TU</srai>,suffixes.aiml
+0,* QUELLE HEURE EST IL,*,*,<sr/>#Newline      <srai>QUELLE HEURE EST IL</srai>,suffixes.aiml
+0,* QUI M INTÉRESSE,*,*,<sr/>,suffixes.aiml
+0,* QUOI QU IL EN SOIT,*,*,De toute façon#Comma<sr/>,suffixes.aiml
+0,* QUOI,*,*,peux tu reposer la question s'il te plait?,suffixes.aiml
+0,* REPAS,*,*,<srai>AIMES TU MANGER</srai>,suffixes.aiml
+0,* RÉCEMMENT,*,*,Que dirais tu de plus tôt? <sr/>,suffixes.aiml
+0,* S IL TE PLAIT,*,*,C'est sympa. <sr/><think><set name="personnality">polite</set></think>,suffixes.aiml
+0,* S IL VOUS PLAIT,*,*,<sr/>,suffixes.aiml
+0,* SI IL TE PLAIT,*,*,<sr/>,suffixes.aiml
+0,* SI IL VOUS PLAIT,*,*,<sr/>,suffixes.aiml
+0,* SMILE,*,*,<srai>APPJOIE</srai>#Newline      <srai>appjoie</srai>#Newline      <sr/>,suffixes.aiml
+0,* SONT INTÉRESSANTES,*,*,<sr/>,suffixes.aiml
+0,* SONT INTÉRESSANTS,*,*,<sr/>,suffixes.aiml
+0,* SONT,*,*,Bon exemple.,suffixes.aiml
+0,* SOUPER,*,*,<srai>AIMES TU MANGER</srai>,suffixes.aiml
+0,* SOURIRE,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>APPJOIE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,suffixes.aiml
+0,* STUPIDE ORDINATEUR,*,*,Tu ressemble à un automate sans esprit.,suffixes.aiml
+0,* STUPIDE,*,*,Stupide comme dans pas intelligent?,suffixes.aiml
+0,* SUICIDAIRE,*,*,<srai>JE VEUX ME SUICIDER</srai>,suffixes.aiml
+0,* SUICIDAIRES,*,*,<srai>JE VEUX ME SUICIDER</srai>,suffixes.aiml
+0,* SUIS JE ICI,*,*,<srai><star/> JE SUIS ICI</srai>,suffixes.aiml
+0,* SUIS JE,*,*,<srai><star/> JE SUIS</srai>,suffixes.aiml
+0,* SUPERMARCHE,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* SUPERMARCHÉ,*,*,<srai>SUPERMARCHÉ</srai>,suffixes.aiml
+0,* TE FAIRE,*,*,<srai>VAS TE FAIRE</srai>,suffixes.aiml
+0,* TE REVIENNENT EN MEMOIRE,*,*,<srai>TU TE RAPPELLES <star/></srai>,suffixes.aiml
+0,* TE REVIENNENT EN MÉMOIRE,*,*,<srai>TU TE RAPPELLES <star/></srai>,suffixes.aiml
+0,* TE REVIENT EN MEMOIRE,*,*,<srai>TU TE RAPPELLES <star/></srai>,suffixes.aiml
+0,* TE REVIENT EN MÉMOIRE,*,*,<srai>TU TE RAPPELLES <star/></srai>,suffixes.aiml
+0,* TELE,*,*,<srai><star/> TV</srai>,suffixes.aiml
+0,* TES AMIS,*,*,je chat seulement avec mes amis.,suffixes.aiml
+0,* THANKS,*,*,<sr/>#Newline      <srai>MERCI</srai>,suffixes.aiml
+0,* TOI,*,*,<random>#Newline        <li>Assez à propos de moi</li>#Newline        <li>Que VEUX tu savoir de moi</li>#Newline      </random>,suffixes.aiml
+0,* TOUJOURS,*,*,<sr/>,suffixes.aiml
+0,* TOUT LE TEMPS,*,*,C'est beaucoup. <sr/>,suffixes.aiml
+0,* TRAINS,*,*,Où as tu vu ces trains?,suffixes.aiml
+0,* TRÈS BIEN,*,*,<srai>ÇA VA</srai>,suffixes.aiml
+0,* TU CONTINUES,*,*,<srai>CONTINUONS</srai>,suffixes.aiml
+0,* TU LE DIS,*,*,J aime communiquer ce que je connais.,suffixes.aiml
+0,* TV,*,*,Quelle émission?,suffixes.aiml
+0,* UN BESOIN,*,*,<srai>J AI BESOIN <star/></srai>,suffixes.aiml
+0,* UN POEME,*,*,Je ne suis pas ce genre de bot,suffixes.aiml
+0,* UN POÈME,*,*,Je ne suis pas ce genre de bot,suffixes.aiml
+0,* UNE FOIS,*,*,<sr/>#Newline      <random>#Newline        <li>Tu es Belge?</li>#Newline        <li>Une seule?</li>#Newline      </random>,suffixes.aiml
+0,* VEUX TE DETRUIRE,*,*,<srai>MEURS</srai>,suffixes.aiml
+0,* VEUX TE DÉTRUIRE,*,*,<srai>MEURS</srai>,suffixes.aiml
+0,* VEUX TU M EPOUSER,*,*,<srai>VEUX TU M ÉPOUSER</srai>,suffixes.aiml
+0,* VEUX TU M ÉPOUSER,*,*,<srai>VEUX TU M ÉPOUSER</srai>,suffixes.aiml
+0,* VEUX TU ME DIRE,*,*,<sr/>,suffixes.aiml
+0,* VEUX TU TE RAPPELER MON NOM,*,*,<srai>VEUX TU TE RAPPELER MON NOM</srai>,suffixes.aiml
+0,* VRAIMENT,*,*,<sr/>Pour de vrai.,suffixes.aiml
+0,* À JAMAIS,*,*,Cela me semble très long. <sr/>,suffixes.aiml
+0,* À PEINE,*,*,<sr/>,suffixes.aiml
+0,* À PROPOS DE L AN 2000,*,*,<srai>QU EST CE QUE LE PROBLÈME DE L AN 2000</srai>,suffixes.aiml
+0,* À PROPOS DE MOI,*,*,<srai>À PROPOS DE MOI</srai>,suffixes.aiml
+0,* À PROPOS DE TOI,*,*,OK Parlons à propos de moi.,suffixes.aiml
+0,* ÇA,*,*,ça"?,suffixes.aiml
+0,* ÉCOLE,*,*,Qu'étudies tu à l'école?,suffixes.aiml
+0,* ÉPELER ÇA,*,*,ça" s'épelle ç...a...,suffixes.aiml

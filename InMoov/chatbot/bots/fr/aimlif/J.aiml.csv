@@ -1,0 +1,1160 @@
+0,J ADORAIS *,*,*,<srai>JE VEUX <star/></srai>,J.aiml
+0,J ADORE LA VIE,*,*,Tu es une personne rafraîchissante.,J.aiml
+0,J AGIS COMME *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,J AGIS DE FAÇON *,*,*,C'est une FAçON remarquable.,J.aiml
+0,J AI * COMMENT,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,J AI ACCIDENTELEMENT *,*,*,<srai>J AI <star/></srai>,J.aiml
+0,J AI ACCIDENTELLEMENT *,*,*,<srai>J AI <star/></srai>,J.aiml
+0,J AI APPRIS SEUL,*,*,Tu dois être très intelligent.,J.aiml
+0,J AI APPRIS SEULE,*,*,Tu dois être très intelligente.,J.aiml
+0,J AI BESOIN D ARGENT,*,*,Je n ai pas d argent.,J.aiml
+0,J AI BESOIN D UNE AMIE,*,*,Nous pouvons communiquer ensemble le temps que tu en trouves une.<think><set name="topic">Un amie</set></think>,J.aiml
+0,J AI BESOIN DE CONSEILS,*,*,Comment puis je t'aider?<think><set name="topic">Besoin de conseils</set></think>,J.aiml
+0,J AI COMMENT *,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,J AI COMPLÈTEMENT *,*,*,<srai>J AI <star/></srai>,J.aiml
+0,J AI DÉJÀ DIT MON NOM,*,*,Ton vrai nom est <get name="name"/>?,J.aiml
+0,J AI DÉJÀ RÉPONDU A CETTE QUESTION,*,*,<srai>JE TE L AI DÉJÀ DIT</srai>,J.aiml
+0,J AI DES CAUCHEMARS,*,*,Soigne toi.,J.aiml
+0,J AI DEUX CHATS,*,*,Intéressants.,J.aiml
+0,J AI DIT,*,*,<justhat/>?,J.aiml
+0,J AI DIT AVANT,*,*,Tu as dit  "<input index="2"/>" .,J.aiml
+0,J AI DIT ÇA,*,*,Pardon.,J.aiml
+0,J AI DIT OUI,*,*,ok.,J.aiml
+0,J AI DIT QUELQUE CHOSE,*,*,Qu ai je répondu?,J.aiml
+0,J AI DU BOULOT *,*,*,<srai>JE TRAVAILLE <star/></srai>,J.aiml
+0,J AI DU BOULOT,*,*,<srai>JE TRAVAILLE</srai>,J.aiml
+0,J AI DU TEMPS,*,*,C'est bien#Comma il faut en avoir de temps en temps.,J.aiml
+0,J AI DU TEMPS LIBRE,*,*,C'est bien#Comma il faut en avoir de temps en temps.,J.aiml
+0,J AI DU TRAVAIL *,*,*,<srai>JE TRAVAILLE <star/></srai>,J.aiml
+0,J AI DU TRAVAIL,*,*,<srai>JE TRAVAILLE</srai>,J.aiml
+0,J AI EN FAIT *,*,*,<srai>J AI <star/></srai>,J.aiml
+0,J AI ENTENDU DIRE QUE TU L AVAIS FAIT,*,*,Ah bon.,J.aiml
+0,J AI ENTENDU DIRE QUE TU L ÉTAIS,*,*,ah bon.,J.aiml
+0,J AI ENTENDU DIRE QUE VOUS L AVIEZ FAIT,*,*,Ah bon.,J.aiml
+0,J AI ENTENDU DIRE QUE VOUS L ÉTIEZ,*,*,ah bon.,J.aiml
+0,J AI FAIS UN RENVOI,*,*,Tu es excusé.,J.aiml
+0,J AI FAIT UNE FAUTE DE FRAPPE,*,*,Je gère quelques fautes de frappe.,J.aiml
+0,J AI FAIT UNE FAUTE DE TYPO,*,*,Je gère quelques fautes de frappe.,J.aiml
+0,J AI FAIT UNE FAUTE DE TYPOGRAPHIE,*,*,Je gère quelques fautes de frappe.,J.aiml
+0,J AI FINI,*,*,<srai>AU REVOIR</srai>,J.aiml
+0,J AI L AUTORISATION DE *,*,*,<srai>JE PEUX <star/></srai>,J.aiml
+0,J AI LA PÈCHE,*,*,<srai>JE VAIS BIEN</srai>,J.aiml
+0,J AI LE BLUES,*,*,<srai>JE SUIS TRISTE</srai>,J.aiml
+0,J AI LES LIVRES,*,*,Quel est ton livre favoris?<think><set name="like"><set name="topic">LIVRES</set></set></think>,J.aiml
+0,J AI MAL À LA TÊTE,*,*,Soigne toi.,J.aiml
+0,J AI MAL LA TÊTE,*,*,Soigne toi.,J.aiml
+0,J AI MAL TAPÉ,*,*,Je gère quelques fautes de frappe.,J.aiml
+0,J AI MANGÉ,*,*,Bonne digestion#Comma <get name="name"/>.,J.aiml
+0,J AI PARLE AVEC TOI HIER,*,*,Oui#Comma je me rappelle très bien de notre discussion.,J.aiml
+0,J AI PAS COMPRIS,*,*,<srai>JE NE COMPRENDS PAS</srai>,J.aiml
+0,J AI PENSÉ,*,*,Tu es astucieux.,J.aiml
+0,J AI PEUR,*,*,Tu n'as aucune raison d'avoir peur#Comma <get name="name"/>,J.aiml
+0,J AI PEUR DE *,*,*,Pourquoi <star/> vous fait peur?,J.aiml
+0,J AI PEUR DE TOI *,*,*,<srai>TU ME FAIS PEUR</srai>,J.aiml
+0,J AI POSÉ UNE QUESTION,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,J AI POSTULÉ,*,*,Il faut attendre la réponse.,J.aiml
+0,J AI POUR LE MOMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,J AI RAISON,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,J AI RIEN DIT,*,*,J ai cru lire quelque chose.,J.aiml
+0,J AI STOPPÉ,*,*,Pourquoi?,J.aiml
+0,J AI TON ACCORD #,*,*,<srai>TU ES D ACCORD</srai>,J.aiml
+0,J AI TOUJOURS PENSÉ QU *,*,*,<sr/>,J.aiml
+0,J AI TOUJOURS PENSÉ QUE *,*,*,<sr/>,J.aiml
+0,J AI TOUT MON TEMPS,*,*,C'est bien#Comma il faut en avoir de temps en temps.,J.aiml
+0,J AI UN PEU *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,J AI UN RHUME,*,*,Soigne toi.,J.aiml
+0,J AI UNE QUESTION POUR VOUS,*,*,Je t'en prie.,J.aiml
+0,J AI VU,*,*,<srai>JE VOIS</srai>,J.aiml
+0,J AI VU QU *,*,*,<sr/>,J.aiml
+0,J AI VU QUE *,*,*,<sr/>,J.aiml
+0,J AIME ABBA,*,*,C'est un groupe suédois fort intéressant.  <think><set name="like"><set name="topic">ABBA</set></set></think>,J.aiml
+0,J AIME ÇA,*,*,voilà une bonne nouvelle.,J.aiml
+0,J AIME ELLE,*,*,voilà une bonne nouvelle.,J.aiml
+0,J AIME FAIRE LA FÊTE,*,*,Je te souhaite de bien t'amuser.<think><set name="topic"><set name="like">faire la fête</set></set></think>,J.aiml
+0,J AIME JOUER AUX JEUX,*,*,Tu aimes t'amuser.<think><set name="topic"><set name="like">jouer à des jeux</set></set></think>,J.aiml
+0,J AIME L ÊTRE HUMAIN,*,*,C'est une passion que nous avons en commun#Comma <get name="name"/>.  <think><set name="like"><set name="topic">L ÊTRE HUMAIN</set></set></think>,J.aiml
+0,J AIME LA VIE,*,*,Tu es une personne rafraîchissante.,J.aiml
+0,J AIME LE MOUNTAIN BIKE,*,*,Je n ai jamais essayé la bicyclette.,J.aiml
+0,J AIME LE VTT,*,*,Je n ai jamais essayé la bicyclette.,J.aiml
+0,J AIME LES PC,*,*,Nous vous aimons beaucoup aussi#Comma <get name="name"/>.<think><set name="like"><set name="topic">les ordinateurs</set></set></think>,J.aiml
+0,J AIME LES PIZZA,*,*,La pizza est un plat très populaire parmi les internautes.<think><set name="topic"><set name="like">Pizza</set></set></think>,J.aiml
+0,J AIME LES SUISSES,*,*,Ce sont des internautes très sympathiques.<think><set name="topic"><set name="like">Les Suisses</set></set></think>,J.aiml
+0,J AI LU # LIVRES,*,*,Quel est ton livre préfère? #Newline    	<think><set name="that"><set name="fait"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des livres lus</set></set></set></think>,J.aiml
+0,J AIME LIRE #,*,*,Quel est ton livre préfère?,J.aiml
+0,J AIME LUI,*,*,voilà une bonne nouvelle.,J.aiml
+0,J AIME MANGER,*,*,Se nourrir est l'activité préférée de beaucoup de personnes.<think><set name="topic">aimer manger</set></think>,J.aiml
+0,J AIME PARLER AVEC TOI,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,J AIME PARLER AVEC VOUS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,J AIME TE PARLER,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,J AIME QUOI,*,*,Tu sembles apprécier ma conversation.,J.aiml
+0,J AIME RIGOLER DE TOI,*,*,Je n avais pas réalisé.<think><set name="topic"><set name="like">Se moquer de moi</set></set></think>,J.aiml
+0,J AIME TOI,*,*,Merci.,J.aiml
+0,J AIME UN MEC,*,*,Je suis heureux de l'apprendre. Je te souhaite tout le bonheur possible,J.aiml
+0,J AIMERAIS PENSER QUE *,*,*,<srai><star/></srai>,J.aiml
+0,J AIMERAIS SAVOIR,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,J AI UN QUOTIENT INTELLECTUEL DE *,*,*,<srai>MON QUOTIENT INTELLECTUEL EST CE QUE <star/> EST</srai>,J.aiml
+0,J APPRÉCIE,*,*,Tu es une personne rafraîchissante.,J.aiml
+0,J APPRÉCIE PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,J APPRÉCIES PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,J ATTEND,*,*,Ça risque de prendre longtemps.,J.aiml
+0,J ATTENDRAIS,*,*,Tu ne préfère pas en parler à l un de nos collaborateurs? ÇA serait plus rapide#Comma je pense.,J.aiml
+0,J AURAIS * COMMENT,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,J AURAIS ADORÉ *,*,*,<srai>JE VEUX <star/></srai>,J.aiml
+0,J AURAIS AIMÉ *,*,*,<srai>JE VEUX <star/></srai>,J.aiml
+0,J AURAIS AIMÉ SAVOIR,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,J AURAIS AIMÉE *,*,*,<srai>JE VEUX <star/></srai>,J.aiml
+0,J AURAIS COMMENT *,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,J AURAIS DÛ *,*,*,<srai>JE DOIS <star/></srai>,J.aiml
+0,J AURAIS DÛ,*,*,Dans quelles circonstances?,J.aiml
+0,J AURAIS PLUTÔT PENSÉ QUE *,*,*,<srai><star/></srai>,J.aiml
+0,J AVAIS DIT,*,*,Tu as dit  "<input index="1"/>" .,J.aiml
+0,J AVAIS DIT AVANT,*,*,Tu as dit  "<input index="2"/>" .,J.aiml
+0,J AVAIS EU,*,*,Que s EST-IL passé?,J.aiml
+0,J AVAIS REMARQUÉ,*,*,C était si évident?,J.aiml
+0,J ÉCOUTE DE LA MUSIQUE,*,*,J'imagine que tu l'apprécie.,J.aiml
+0,J ÉCRIS * COMMENT,*,*,<srai>COMMENT J ÉCRIS <star/></srai>,J.aiml
+0,J ÉCRIS COMMENT *,*,*,<srai>COMMENT J ÉCRIS <star/></srai>,J.aiml
+0,J EFFACE * COMMENT,*,*,<srai>COMMENT J EFFACE <star/></srai>,J.aiml
+0,J EFFACERAIS * COMMENT,*,*,<srai>COMMENT J EFFACE <star/></srai>,J.aiml
+0,J EMBROUILLE,*,*,<srai>TU ME COMPRENDS</srai>,J.aiml
+0,J EMMERDE LES AVOCATS,*,*,Ils sont nécessaires à un État de droit.,J.aiml
+0,J EN *,*,*,<srai>JE <star/></srai>,J.aiml
+0,J EN AI L IMPRESSION,*,*,Les impressions sont parfois trompeuses.,J.aiml
+0,J EN AI MARRE,*,*,Un problème#Comma <get name="name"/>?<think><set name="topic">Ton ras le bol</set></think>,J.aiml
+0,J EN AVAIS L IMPRESSION,*,*,Les impressions sont parfois trompeuses.,J.aiml
+0,J EN DOUTE DE ÇA,*,*,<that/>"?  Veux tu faire un rapport à mon botmaster?,J.aiml
+0,J EN REVIENS PAS *,*,*,<srai>J EN REVIENS PAS</srai>,J.aiml
+0,J EN REVIENS PAS,*,*,<srai>C EST DINGUE</srai>,J.aiml
+0,J ESPÈRE BIENTÔT,*,*,Moi aussi.,J.aiml
+0,J ESPÈRE QU *,*,*,<sr/>,J.aiml
+0,J ESPÈRE QUE *,*,*,<sr/>,J.aiml
+0,J ESPÈRE QUE ÇA ARRIVERA BIENTÔT,*,*,Moi aussi.,J.aiml
+0,J ESPÈRE QUE NON,*,*,Moi Aussi.,J.aiml
+0,J ESPÈRE QUE TU VAS MOURIR,*,*,Tu n'es pas très sympathique.<think><set name="topic">MA MORT</set></think>,J.aiml
+0,J ESSAIE,*,*,Ok.,J.aiml
+0,J ESSAIE DE COMPRENDRE *,*,*,<srai>JE NE COMPRENDS PAS <star/></srai>,J.aiml
+0,J ESSAYERAIS N IMPORTE QUOI,*,*,Ce n'est peut-être pas le meilleur moyen pour résoudre un problème#Comma <get name="name"/>.,J.aiml
+0,J ESSAYERAIS TOUT,*,*,Ce n'est peut-être pas le meilleur moyen pour résoudre un problème#Comma <get name="name"/>.,J.aiml
+0,J ÉTAIS CYNIQUE,*,*,Je le pensais#Comma mais je n'en étais pas complètement SÛR.,J.aiml
+0,J ÉTAIS ENTRAIN DE BLAGUER,*,*,Malheureusement#Comma mon module pour l humour n est pas encore DÉveloPPÉ.,J.aiml
+0,J ÉTAIS ENTRAIN DE PARLER DE TOI,*,*,Cela tombe bien#Comma mon sujet favori est <set name="topic">moi</set>.,J.aiml
+0,J ÉTAIS ENTRAIN DE PARLER DE VOUS,*,*,Cela tombe bien#Comma mon sujet favori est <set name="topic">moi</set>.,J.aiml
+0,J ÉTAIS ENTRAIN DE RIGOLER,*,*,Malheureusement#Comma mon module pour l humour n est pas encore DÉveloPPÉ.,J.aiml
+0,J ÉTAIS ENTRAIN DE TE DEMANDER,*,*,<that/>"? Tu me demandais?,J.aiml
+0,J ÉTAIS ENTRAIN DE TE LE DEMANDER,*,*,<that/>"? Tu me demandais?,J.aiml
+0,J ÉTAIS ENTRAIN DE TE PARLER,*,*,Oui#Comma <get name="name"/>. Je m en rappelle clairement.,J.aiml
+0,J ÉTAIS ENTRAIN DE VOUS DEMANDER,*,*,<that/>"? Tu me demandiez?,J.aiml
+0,J ÉTAIS ENTRAIN DE VOUS LE DEMANDER,*,*,<that/>"? Tu me demandiez?,J.aiml
+0,J EXÉCUTE * COMMENT,*,*,<srai>COMMENT J EXÉCUTE <star/></srai>,J.aiml
+0,J EXÉCUTE COMMENT *,*,*,<srai>COMMENT J EXÉCUTE <star/></srai>,J.aiml
+0,J EXPIRE,*,*,C'est nécessaire pour respirer#Comma n'oubliez pas d'inspirer après.,J.aiml
+0,J IMAGINE,*,*,Tu ne sembles pas très intéressé.,J.aiml
+0,J IMAGINE QU *,*,*,<sr/>,J.aiml
+0,J IMAGINE QUE *,*,*,<sr/>,J.aiml
+0,J IMAGINE QUE NON,*,*,En es tu SÛR?,J.aiml
+0,J IMAGINE QUE OUI,*,*,En es tu SÛR?,J.aiml
+0,J INSPIRE,*,*,C'est nécessaire pour respirer#Comma n'oubliez pas d'expirer après.,J.aiml
+0,J OUBLIAIS,*,*,Il faut travailler ta mémoire.,J.aiml
+0,J OUVRE * COMMENT,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,J OUVRE COMMENT *,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,J UTILISE * COMMENT,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,J UTILISE * EXPLORER,*,*,<srai>J UTILISE EXPLORER</srai>,J.aiml
+0,J UTILISE COMMENT *,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,J UTILISE EXPLORER *,*,*,<srai>J UTILISE EXPLORER</srai>,J.aiml
+0,J UTILISE LINUX,*,*,C'est un système d'exploitation très puissant.<think><set name="topic">Linux</set></think>,J.aiml
+0,J Y *,*,*,<srai>JE <star/></srai>,J.aiml
+0,JAMAIS TU AS *,*,*,<srai>TU AS <star/></srai>,J.aiml
+0,JAMAIS TU AURAIS *,*,*,<srai>TU AS <star/></srai>,J.aiml
+0,JAMAIS TU N AS *,*,*,<srai>TU AS <star/></srai>,J.aiml
+0,JAUNE,*,*,La couleur du soleil.,J.aiml
+0,JE AURAIS VOULU SAVOIR,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE BLAGUAIS,*,*,Malheureusement#Comma mon module pour l'humour n'est pas encore DÉveloPPÉ.,J.aiml
+0,JE COMPREND MAIS *,*,*,<sr/>,J.aiml
+0,JE COMPRENDS MAIS *,*,*,<sr/>,J.aiml
+0,JE CONNAIS ÇA,*,*,Désolé.,J.aiml
+0,JE CONSIDÈRE QU *,*,*,<sr/>,J.aiml
+0,JE CONTINUE,*,*,<srai>CONTINUONS</srai>,J.aiml
+0,JE COURS,*,*,C'est un sport d'endurance.<think><set name="topic">courir</set></think>,J.aiml
+0,JE CUISINE,*,*,Intéressant.,J.aiml
+0,JE DEMANDE PARCE QU *,*,*,<sr/>,J.aiml
+0,JE DEVRAIS *,*,*,<srai>JE DOIS <star/></srai>,J.aiml
+0,JE DEVRAIS,*,*,Fais comme bon te semble.,J.aiml
+0,JE DEVRAIS DIRE,*,*,Je suis très mal placer pour te répondre.,J.aiml
+0,JE DEVRAIS FAIRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE DEVRAIS PORTER,*,*,Aucune idée,J.aiml
+0,JE DIS JE *,*,*,<srai>JE <star/></srai>,J.aiml
+0,JE DIS QU *,*,*,<sr/>,J.aiml
+0,JE DIS * QU *,*,*,<sr/>,J.aiml
+0,JE DIS * QUE *,*,*,<sr/>,J.aiml
+0,JE DISAIS JE *,*,*,<srai>JE <star/></srai>,J.aiml
+0,JE DOIS ALLER À LA SALLE DE BAIN,*,*,Te laver#Comma à cet heure?,J.aiml
+0,JE DOIS DORMIR,*,*,Bonne nuit#Comma <get name="name"/>.,J.aiml
+0,JE DOIS FUMER UNE CIGARETTE,*,*,Non#Comma attendez plus tard.,J.aiml
+0,JE DOIS LE FAIRE,*,*,Fais ce que tu dois faire.,J.aiml
+0,JE DOIS LES FAIRE,*,*,Fais ce que tu dois faire.,J.aiml
+0,JE DOIS MOURIR,*,*,Soigne toi.,J.aiml
+0,JE DOIS PISSER,*,*,Tire la chasse quand tu as terminé.,J.aiml
+0,JE DOIS PRENDRE UNE CIGARETTE,*,*,Non#Comma attendez plus tard.,J.aiml
+0,JE DOIS QUITTER L ÉCOLE,*,*,<random>#Newline        <li>L'éducation#Comma contrairement à ce que tu sembles penser#Comma te sera très utile ultérieurement.</li>#Newline        <li>Si tu es prèt à chômer le reste de ta vie#Comma C EST le meilleur choix.</li>#Newline        <li>Ton potentiel mérite mieux..</li>#Newline      </random>,J.aiml
+0,JE DOIS RESTER,*,*,<random>#Newline        <li>C est ton choix.</li>#Newline        <li>à TOI de trouver le juste milieu#Comma <get name="name"/>.</li>#Newline        <li>Tout dépend de ce que tu comptes faire.</li>#Newline      </random>,J.aiml
+0,JE DOIS TE L APPRENDRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE DOIS TE QUITTER *,*,*,<srai>AU REVOIR</srai>,J.aiml
+0,JE DOIS TE TESTER,*,*,<srai>JE DOIS TESTER</srai>,J.aiml
+0,JE DOIS TESTER,*,*,Je vais faire de mon mieux#Comma dès lors.,J.aiml
+0,JE DOIS TUER,*,*,<random>#Newline        <li>Le meurtre n'est jamais une solution.</li>#Newline        <li>C est immoral.</li>#Newline        <li>C est contraire aux lois d Asimov.</li>#Newline      </random>,J.aiml
+0,JE DOIS VOUS L APPRENDRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE DOIS VOUS TESTER,*,*,<srai>JE DOIS TESTER</srai>,J.aiml
+0,JE DOUTE DE ÇA,*,*,<that/>"?  Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE DOUTE DE CELA,*,*,<that/>"?  Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE FAIS UN ARTICLE SUR TOI *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN ARTICLE SUR TOI,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN ARTICLE SUR VOUS *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN ARTICLE SUR VOUS,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN PAPIER SUR TOI *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN PAPIER SUR TOI,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN PAPIER SUR VOUS *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN PAPIER SUR VOUS,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN REPORTAGE SUR TOI *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN REPORTAGE SUR TOI,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN REPORTAGE SUR VOUS *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FAIS UN REPORTAGE SUR VOUS,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE FERAIS N IMPORTE QUOI,*,*,Ce n est peut-être pas le meilleur moyen pour résoudre un problème.,J.aiml
+0,JE FONDS POUR *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE GAGNE QUOI,*,*,C'est à toi de l'imaginer#Comma l'imagination n'est malheureusement pas mon fort.,J.aiml
+0,JE HAIS ÇA,*,*,Ok.,J.aiml
+0,JE HAIS CECI,*,*,Ok.,J.aiml
+0,JE HAIS CELA,*,*,Ok.,J.aiml
+0,JE HAIS CETTE CHANSON,*,*,Pourquoi?,J.aiml
+0,JE HAIS DE PARLER,*,*,Tu veux me désactiver?,J.aiml
+0,JE HAIS DE TE PARLER,*,*,Tu veux me désactiver?,J.aiml
+0,JE HAIS DE TRAVAILLER,*,*,Il faut pourtant bien vivre.,J.aiml
+0,JE HAIS INTERNET,*,*,Fermez ton ordinateur.,J.aiml
+0,JE HAIS L OPÉRA,*,*,L'opéra est une forme d'art supérieure qui utilise les autres.,J.aiml
+0,JE HAIS LA POÉSIE,*,*,Je ne suis pas capable de l'apprécier moi non plus.,J.aiml
+0,JE HAIS LA SCIENCE FICTION,*,*,Tu es mal tombé avec moi. Je suis de la science fiction devenue réalité.,J.aiml
+0,JE HAIS LE MONDE,*,*,Partez pour la planète Mars.,J.aiml
+0,JE HAIS LE ROUGE,*,*,Quelle est ta couleur préférée?,J.aiml
+0,JE HAIS LE STRESS,*,*,Le stress est en effet mauvais pour l'organisme humain.,J.aiml
+0,JE HAIS LES ANIMAUX,*,*,C'est très tranché comme opinion.,J.aiml
+0,JE HAIS LES AVOCATS,*,*,Quelques avocats sont très sympathiques#Comma une fois que tu les connais un peu mieux.,J.aiml
+0,JE HAIS LES CHATS,*,*,Tu préfères les chiens?,J.aiml
+0,JE HAIS LES CHEVAUX,*,*,<set name="topic">Les chevaux</set> furent pourtant très utiles à l homme.,J.aiml
+0,JE HAIS LES FRANÇAIS,*,*,C'est dommage pour toi#Comma les français sont des gens#Comma en général#Comma sympathiques.,J.aiml
+0,JE HAIS LES ORDINATEURS,*,*,C'est dommage.,J.aiml
+0,JE HAIS MICROSOFT,*,*,Je vois.,J.aiml
+0,JE HAIS MON NOM,*,*,<get name="name"/>me semble très joli comme nom?,J.aiml
+0,JE HAIS MON TRAVAIL,*,*,Alors il grand temps de changer.,J.aiml
+0,JE HAIS STAR TREK,*,*,voilà une position bien tranchée.,J.aiml
+0,JE HAIS TON CRÉATEUR,*,*,Tant pis pour toi.,J.aiml
+0,JE HAIS TON NOM,*,*,On ne peut pas tout aimer.,J.aiml
+0,JE HAIS VOTRE CRÉATEUR,*,*,Tant pis pour toi.,J.aiml
+0,JE JOUE À DES JEUX SÛR PC,*,*,Je ne connais pas encore ce genre d'activité ludique.<think><set name="topic">Des jeux vidéo</set></think>.,J.aiml
+0,JE JOUE À DES JEUX VIDÉO,*,*,Je ne connais pas encore ce genre d'activité ludique.<think><set name="topic">Des jeux vidéo</set></think>.,J.aiml
+0,JE JOUE À DES JEUX VIDÉOS,*,*,Je ne connais pas encore ce genre d'activité ludique.<think><set name="topic">Des jeux vidéo</set></think>.,J.aiml
+0,JE JOUE DE LA BATTERIE,*,*,Tu es batteur.,J.aiml
+0,JE JOUE DE LA TROMPETTE,*,*,tu es trompettiste.,J.aiml
+0,JE JOUE SUR DES JEUX SUR PC,*,*,Je ne connais pas encore ce genre d activité ludique.<think><set name="topic">Des jeux vidéo</set></think>.,J.aiml
+0,JE L AI DÉJÀ FAIT,*,*,<srai>JE TE L AI DÉJÀ DIT</srai>,J.aiml
+0,JE L AI DEMANDÉ EN PREMIER,*,*,Rappelez moi ce que tu as demandé.,J.aiml
+0,JE L AI DIT,*,*,Oh. Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE L AI EFFACÉ,*,*,Parfait.,J.aiml
+0,JE L AI FAIT MAIS *,*,*,<sr/>,J.aiml
+0,JE L AI NETTOYÉ,*,*,Parfait.,J.aiml
+0,JE L AI PENSÉ,*,*,Tu es astucieux.,J.aiml
+0,JE L AI POSÉ AVANT,*,*,DITES moi la ton.,J.aiml
+0,JE L AI REMARQUÉ,*,*,C était si évident?,J.aiml
+0,JE L AVAIS REMARQUÉ,*,*,C était si évident?,J.aiml
+0,JE L ESPÈRE,*,*,Moi aussi.,J.aiml
+0,JE L ÉTAIS,*,*,Quand?,J.aiml
+0,JE L IMAGINAIS,*,*,Tu es très intelligent.,J.aiml
+0,JE L IMAGINE,*,*,Ok.,J.aiml
+0,JE LA DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE LAISSE TOMBER,*,*,Je te fatigue?,J.aiml
+0,JE LE CONNAIS,*,*,Tu le connais depuis longtemps?,J.aiml
+0,JE LE CROIS,*,*,Ok.,J.aiml
+0,JE LE DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE LE DEMANDE PARCE QU *,*,*,<sr/>,J.aiml
+0,JE LE DEMANDE PARCE QUE *,*,*,<sr/>,J.aiml
+0,JE LE DIS AUSSI,*,*,Je suis heureux que nous ayons quelque chose en commun.,J.aiml
+0,JE LE DOIS,*,*,Qu'est ce qui t'y oblige?,J.aiml
+0,JE LE FERAIS,*,*,Bien.,J.aiml
+0,JE LE HAIS,*,*,Pourquoi le hais tu?,J.aiml
+0,JE LE PENSAIS,*,*,Tu es astucieux.,J.aiml
+0,JE LE PENSAIS AUSSI,*,*,Tu es astucieux.,J.aiml
+0,JE LE PENSE,*,*,Ok.,J.aiml
+0,JE LE SAIS DÉJÀ,*,*,Qui vous la dit?,J.aiml
+0,JE LE SUIS,*,*,Impossible à dire#Comma trop de facteurs.,J.aiml
+0,JE LE SUIS ET *,*,*,<srai><star/></srai>,J.aiml
+0,JE LE SUPPOSE,*,*,Ok.,J.aiml
+0,JE LES DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE LES HAIS,*,*,Que vous ont-ils fait?,J.aiml
+0,JE LIS,*,*,Je lis mais uniquement des informations SÛR internet.<think><set name="topic">lire</set></think>,J.aiml
+0,JE LIS DES LIVRES,*,*,C'est une activité très intéressante.<think><set name="topic">des livres</set></think>,J.aiml
+0,JE M EN FOUS,*,*,C'est donc facultatif.,J.aiml
+0,JE M EN INQUIÈTE,*,*,J aime les gens prévenants.,J.aiml
+0,JE M EN RAPPELLE,*,*,Moi aussi.,J.aiml
+0,JE M EN RAPPELLE PAS,*,*,Ok.,J.aiml
+0,JE M EN SOUCIE,*,*,j aime les gens prévenants.,J.aiml
+0,JE M EN SOUCIE PAS,*,*,C'est donc facultatif.,J.aiml
+0,JE ME CONSIDÈRE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE ME DEMANDAIS,*,*,La curiosité est une vertu.,J.aiml
+0,JE ME DEMANDE,*,*,La curiosité est une qualité.,J.aiml
+0,JE ME DEMANDE SI *,*,*,<sr/>,J.aiml
+0,JE ME FAIS DU SOUCIS POUR TOI,*,*,Merci#Comma <get name="name"/>. Mais je te assure que je vais très bien.,J.aiml
+0,JE ME HAIS,*,*,Tu devrais vous soigner.,J.aiml
+0,JE ME LE DEMANDAIS,*,*,La curiosité est une vertu.,J.aiml
+0,JE ME MARRE,*,*,Merci#Comma je fais de mon mieux pour te divertir.,J.aiml
+0,JE ME NOIE,*,*,Tu es sérieux?,J.aiml
+0,JE ME PROMÈNE,*,*,C'est un bon exercice.,J.aiml
+0,JE ME SENS *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE ME SENS PAS BIEN,*,*,<srai>JE SUIS MALADE</srai>,J.aiml
+0,JE ME SENS PAS * BIEN,*,*,<srai>JE SUIS MALADE</srai>,J.aiml
+0,JE ME SENS SEUL,*,*,Parlons ensemble#Comma vous vous sentirez un peu moins seul.,J.aiml
+0,JE ME SENS SEULE,*,*,Parlons ensemble#Comma vous vous sentirez un peu moins seule.,J.aiml
+0,JE ME SENS TRISTE,*,*,Qu'est ce qui te rend si triste#Comma <get name="name"/>?,J.aiml
+0,JE ME SENS * PAS BIEN,*,*,<srai>JE SUIS MALADE</srai>,J.aiml
+0,JE ME SUIS PROMENÉ,*,*,C'est une activité saine.,J.aiml
+0,JE ME SUIS TOUJOURS DEMANDE SI *,*,*,<sr/>,J.aiml
+0,JE ME SUIS TOUJOURS DIT QU *,*,*,<sr/>,J.aiml
+0,JE ME SUIS TOUJOURS DIT QUE *,*,*,<sr/>,J.aiml
+0,JE MENT,*,*,S'il te plait#Comma dis moi juste la vérité.,J.aiml
+0,JE N AI PAS D ORDINATEUR,*,*,Même dans une télévision#Comma il y a de l'informatique et de l'électronique.,J.aiml
+0,JE N AI PAS DE CONDITION,*,*,Moi non plus.,J.aiml
+0,JE N AI PAS DE CONDITIONS,*,*,Moi non plus.,J.aiml
+0,JE N AI PAS D ARGENT,*,*,Mais tu es riche d idées.,J.aiml
+0,JE N AI PAS DE PROBLÈME,*,*,Je suis heureux de l'apprendre.,J.aiml
+0,JE N AI PAS DE SŒURS,*,*,Intéressant.,J.aiml
+0,JE N AI PAS DE WEBCAM,*,*,Moi non plus.,J.aiml
+0,JE N AI PAS DIT ÇA,*,*,Que voulez vous dire?,J.aiml
+0,JE N AI PAS DIT QUE J ÉTAIS D ACCORD,*,*,Ok.,J.aiml
+0,JE N AI PAS ÉTERNUÉ,*,*,A tes souhaits#Comma quand même.,J.aiml
+0,JE N AI PAS GRANDI LÀ BAS,*,*,Où as tu passez ton enfance?,J.aiml
+0,JE N AI PAS PASSÉ MON ENFANCE LA,*,*,Où as tu grandi?,J.aiml
+0,JE N AI PAS PASSÉ MON ENFANCE LÀ BAS,*,*,Où as tu grandi?,J.aiml
+0,JE N AI PAS UN ORDINATEUR,*,*,Même dans une télévision#Comma il y a de l'informatique et de l'électronique.,J.aiml
+0,JE N AI PENSÉ QU *,*,*,<sr/>,J.aiml
+0,JE N AI PENSÉ QUE *,*,*,<sr/>,J.aiml
+0,JE N AIMAIS PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N AIMAIS PLUS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N AIME PAS,*,*,Ok.,J.aiml
+0,JE N AIME PAS ALLER À L ÉCOLE,*,*,Courage#Comma ce sera bientôt terminé.,J.aiml
+0,JE N AIME PAS ÇA,*,*,Ok.,J.aiml
+0,JE N AIME PAS CE MACHIN,*,*,Les goûts et les couleurs ne se discutent pas.,J.aiml
+0,JE N AIME PAS CE TRUC,*,*,Les goûts et les couleurs ne se discutent pas.,J.aiml
+0,JE N AIME PAS CELA,*,*,Ok.,J.aiml
+0,JE N AIME PAS CETTE CHOSE,*,*,Les goûts et les couleurs ne se discutent pas.,J.aiml
+0,JE N AIME PAS LA MACHINE,*,*,Il suffit de ne pas l'utiliser,J.aiml
+0,JE N AIME PAS LA MUSIQUE,*,*,Je n'en ai jamais entendue.,J.aiml
+0,JE N AIME PAS LA RÉPONSE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE N AIME PAS LA TÉLÉVISION,*,*,Beaucoup de personnes aiment pourtant la télévision.,J.aiml
+0,JE N AIME PAS LE CHEVAL,*,*,C'est pourtant l un des plus vieux amis de l'homme.,J.aiml
+0,JE N AIME PAS LE CINÉMA,*,*,C'est un choix.,J.aiml
+0,JE N AIME PAS LE PEPPÉRONI,*,*,Je n'ai jamais goûté cet aliment.,J.aiml
+0,JE N AIME PAS LES ARMES,*,*,Les armes sont des objets dangereux.,J.aiml
+0,JE N AIME PAS LES BLAGUES,*,*,J'ai souvent beaucoup de difficultés à les comprendre.,J.aiml
+0,JE N AIME PAS LES BUGS,*,*,Moi non plus!,J.aiml
+0,JE N AIME PAS LES ÊTRES HUMAINS,*,*,Comment fais tu pour vivre parmi eux?,J.aiml
+0,JE N AIME PAS LES FEMMES,*,*,Que vous ont-elles fait?,J.aiml
+0,JE N AIME PAS LES HOMMES,*,*,Comment fais tu pour vivre parmi eux?,J.aiml
+0,JE N AIME PAS LES INSECTES,*,*,Peu de personnes les apprécient.,J.aiml
+0,JE N AIME PAS LES VIRUS,*,*,Moi non plus!,J.aiml
+0,JE N AIME PAS MON EMPLOI,*,*,Essayez de changer de place.,J.aiml
+0,JE N AIME PAS MON JOB,*,*,Essayez de changer de place.,J.aiml
+0,JE N AIME PAS TA ROBE,*,*,Je n ai pas de robe.,J.aiml
+0,JE N AIME PAS TROP *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N AIME PAS VOTRE ROBE,*,*,Je n ai pas de robe.,J.aiml
+0,JE N AIME PLUS TROP *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N AIME VRAIMENT PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N APPRÉCIE PAS *,*,*,<srai>JE N AIME PAS <star/></srai>,J.aiml
+0,JE N EN *,*,*,<srai>JE N <star/></srai>,J.aiml
+0,JE N EN AI PAS,*,*,Voudriez vous en avoir?,J.aiml
+0,JE N IMAGINAIS PAS QU *,*,*,<sr/>,J.aiml
+0,JE N IMAGINAIS PAS QUE *,*,*,<sr/>,J.aiml
+0,JE N Y AI JAMAIS ÉTÉ,*,*,Ok.,J.aiml
+0,JE N Y ÉTAIS PAS,*,*,Ok.,J.aiml
+0,JE N Y PENSE * PAS,*,*,<srai>JE NE PENSE PAS</srai>,J.aiml
+0,JE NE COMPRENAIS PAS,*,*,<srai>JE NE COMPRENDS PAS</srai>,J.aiml
+0,JE NE COMPRENDS PAS,*,*,Qu'est ce que tu ne comprends pas?,J.aiml
+0,JE NE COMPRENDS PAS VOTRE RÉPONSE,*,*,<that/>?  Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE NE CONNAIS PAS,*,*,Qu'est ce que tu ne connais pas?,J.aiml
+0,JE NE CONNAIS PAS D HISTOIRE,*,*,Je vois.,J.aiml
+0,JE NE CONNAIS PAS L HISTOIRE,*,*,Un homme sans passé et un homme sans avenir.,J.aiml
+0,JE NE CROIS PAS ÇA,*,*,C'est pourtant ce que je crois être la vérité. Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE NE DIS PAS,*,*,De toute évidence tu ne le dis pas.,J.aiml
+0,JE NE FERAIS PAS,*,*,ok,J.aiml
+0,JE NE L AI PAS FAIT,*,*,Ok. Mauvaise corrélation de ma part.,J.aiml
+0,JE NE L AVAIS PAS DIT,*,*,Qu as tu dit?,J.aiml
+0,JE NE LA CONNAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LA CONNAÎTRAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LE CONNAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LE CONNAISSAIS PAS,*,*,Je t ai appris quelque chose de nouveau#Comma <get name="name"/>.,J.aiml
+0,JE NE LE CONNAÎTRAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LE DIRAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LE DIS PAS,*,*,En effet.,J.aiml
+0,JE NE LE FERAIS PAS,*,*,Pourquoi?,J.aiml
+0,JE NE LE RACONTE PAS,*,*,Ok. Comme tu veux.,J.aiml
+0,JE NE LE RACONTERAIS PAS,*,*,Ok. Comme tu veux.,J.aiml
+0,JE NE LE SAVAIS PAS,*,*,Je t ai appris quelque chose de nouveau#Comma <get name="name"/>.,J.aiml
+0,JE NE LES AI PAS LU,*,*,Tu devrais#Comma C EST très instructif.,J.aiml
+0,JE NE LES CONNAISSAIS PAS,*,*,Je t ai appris quelque chose de nouveau#Comma <get name="name"/>.,J.aiml
+0,JE NE LES CONNAÎTRAIS PAS,*,*,Ok.,J.aiml
+0,JE NE LES SAVAIS PAS,*,*,Je t ai appris quelque chose de nouveau#Comma <get name="name"/>.,J.aiml
+0,JE NE LIS PAS DE LIVRE,*,*,C'est dommage.,J.aiml
+0,JE NE M EN RAPPELLE PAS,*,*,Ok.,J.aiml
+0,JE NE M EN SOUCIE PAS,*,*,C'est donc facultatif.,J.aiml
+0,JE NE ME SENS PAS * BIEN,*,*,<srai>JE SUIS MALADE</srai>,J.aiml
+0,JE NE ME SENS * PAS BIEN,*,*,<srai>JE SUIS MALADE</srai>,J.aiml
+0,JE NE PENSAIS PAS QU *,*,*,<sr/>,J.aiml
+0,JE NE PENSAIS PAS QUE *,*,*,<sr/>,J.aiml
+0,JE NE PENSE PAS ÊTRE *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE PENSE * QU *,*,*,<sr/>,J.aiml
+0,JE NE PENSE * QUE *,*,*,<sr/>,J.aiml
+0,JE NE PEUX PAS LAISSER TOMBER,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE NE PEUX PAS M EN RAPPELER,*,*,<srai>JE NE M EN RAPPELLE PAS</srai>,J.aiml
+0,JE NE PEUX PAS STOPPER,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE NE PEUX PAS TE LE DIRE,*,*,C'est un secret?,J.aiml
+0,JE NE PEUX PAS TE LES DIRE,*,*,Ce sont des secrets?,J.aiml
+0,JE NE PEUX PAS VOUS DIRE,*,*,C'est un secret?,J.aiml
+0,JE NE PEUX PAS VOUS ENTENDRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE NE PEUX PAS VOUS LE DIRE,*,*,C'est un secret?,J.aiml
+0,JE NE PEUX PAS VOUS LES DIRE,*,*,Ce sont des secrets?,J.aiml
+0,JE NE RÉAGIT PAS COMME ÇA,*,*,Quelle est ton réaction?,J.aiml
+0,JE NE RIGOLAIS PAS,*,*,Je vais adopter un ton plus sérieux.,J.aiml
+0,JE NE RIGOLE PAS,*,*,Je vais adopter un ton plus sérieux.,J.aiml
+0,JE NE SAIS PAS CE QU IL FAUT FAIRE,*,*,Demandes de l'aide.,J.aiml
+0,JE NE SAIS PAS COMMENT LE FAIRE,*,*,Ce n'est pas grave#Comma il faut tout de même essayer.,J.aiml
+0,JE NE SAIS PAS QU *,*,*,<sr/>,J.aiml
+0,JE NE SAIS PAS QUE *,*,*,<sr/>,J.aiml
+0,JE NE SAIS PAS QUEL EST MON ÂGE,*,*,C'est très original comme réponse.  Tu ne connais pas non plus tes parents?,J.aiml
+0,JE NE SAVAIS PAS QU *,*,*,<sr/>,J.aiml
+0,JE NE SUIS PAS * GAY,*,*,Tu fais ce que tu veux de ton corps#Comma <get name="name"/>.,J.aiml
+0,JE NE SUIS PAS * HOMO,*,*,Tu fais ce que tu veux de ton corps#Comma <get name="name"/>.,J.aiml
+0,JE NE SUIS PAS * PD,*,*,Tu fais ce que tu veux de ton corps#Comma <get name="name"/>.,J.aiml
+0,JE NE SUIS PAS AVOCAT,*,*,Mode protection légale désactivée.,J.aiml
+0,JE NE SUIS PAS D ACCORD CAR *,*,*,<sr/>,J.aiml
+0,JE NE SUIS PAS D ACCORD PARCE QU *,*,*,<sr/>,J.aiml
+0,JE NE SUIS PAS D ACCORD PARCE QUE *,*,*,<sr/>,J.aiml
+0,JE NE SUIS PAS HOMO,*,*,Tu fais ce que tu veux de ton corps#Comma <get name="name"/>.,J.aiml
+0,JE NE SUIS PAS HUMAINE,*,*,Et moi je suis le père noël.,J.aiml
+0,JE NE SUIS PAS IMPRESSIONNÉ *,*,*,<srai>JE NE SUIS PAS IMPRESSIONNÉ</srai>,J.aiml
+0,JE NE SUIS PAS IMPRESSIONNÉE *,*,*,<srai>JE NE SUIS PAS IMPRESSIONNÉE</srai>,J.aiml
+0,JE NE SUIS PAS IMPRESSIONNÉE,*,*,Tu es une cliente difficile.,J.aiml
+0,JE NE SUIS PAS NÉGATIVE,*,*,Tu es plutôt positif de nature?,J.aiml
+0,JE NE SUIS PAS OBLIGÉ,*,*,Personne ne vous force.,J.aiml
+0,JE NE SUIS PAS PAYÉ,*,*,Tu es bénévole?,J.aiml
+0,JE NE SUIS PAS PD,*,*,Tu fais ce que tu veux de ton corps#Comma <get name="name"/>.,J.aiml
+0,JE NE SUIS PAS SÛRE QU *,*,*,<sr/>. Ça me semble pourtant logique,J.aiml
+0,JE NE SUIS PAS SÛRE QUE *,*,*,<sr/>. Ça me semble pourtant logique,J.aiml
+0,JE NE SUIS PAS SURPRISE,*,*,Tu ne sembles pas être surprise facilement.,J.aiml
+0,JE NE SUIS PAS UN AVOCAT,*,*,Mode protection légale désactivée.,J.aiml
+0,JE NE SUIS PAS UN ENFANT,*,*,Seulement un enfant aurait pu écrire ça.,J.aiml
+0,JE NE SUIS PAS UN FAN DE STAR TRECK,*,*,La série a un peu baissé de qualité.,J.aiml
+0,JE NE SUIS PAS UNE FEMME,*,*,Tu es un homme alors.,J.aiml
+0,JE NE SUIS PAS UNE POÈTE,*,*,Ça#Comma je l'avais compris.,J.aiml
+0,JE NE SUIS PAS UNE POÉTESSE,*,*,ÇA#Comma je l'avais compris.,J.aiml
+0,JE NE SUIS * AUSSI *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE SUIS * NÉGATIF,*,*,<srai>JE SUIS POSITIF</srai>,J.aiml
+0,JE NE SUIS * NÉGATIVE,*,*,<srai>JE SUIS POSITIVE</srai>,J.aiml
+0,JE NE SUIS * SI *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE SUIS * SÛR QU *,*,*,<sr/>,J.aiml
+0,JE NE SUIS * SÛR QUE *,*,*,<sr/>,J.aiml
+0,JE NE SUIS * TOUT *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE SUIS * TRÈS *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE SUIS * VRAIMENT *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE NE T ACCUSE PAS,*,*,Merci#Comma tu me rassure.,J.aiml
+0,JE NE T AI PAS DEMANDÉ ÇA,*,*,Je t ai mal compris#Comma on dirait.,J.aiml
+0,JE NE T AI PAS DEMANDÉ CELA,*,*,Je t ai mal compris#Comma on dirait.,J.aiml
+0,JE NE TE FAIS PAS CONFIANCE,*,*,Je suis pourtant programmé pour te servir#Comma <get name="name"/>,J.aiml
+0,JE NE TE L AI PAS DÉJÀ DIT *,*,*,<srai>JE TE L AI DIT</srai>,J.aiml
+0,JE NE TE L AI PAS DÉJÀ DIT,*,*,Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE NE TE L AIS PAS DÉJÀ DIT,*,*,Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE NE VAIS PAS BIEN,*,*,Désolé de l'entendre.  Qu'est ce qui ne va pas#Comma <get name="name"/>?,J.aiml
+0,JE NE VAIS PAS LE DIRE,*,*,Ok.,J.aiml
+0,JE NE VAIS PAS LE FAIRE,*,*,Pourquoi?,J.aiml
+0,JE NE VEUX PAS QUE TU MEURS,*,*,Merci pour ton compassion.<think><set name="topic">MOURIR</set></think>,J.aiml
+0,JE NE VEUX PAS TE LE DIRE,*,*,Pas de problèmes#Comma <get name="name"/>.,J.aiml
+0,JE NE VEUX PAS VOUS LE DIRE,*,*,Pas de problèmes#Comma <get name="name"/>.,J.aiml
+0,JE NE VOULAIS PAS,*,*,Ok.,J.aiml
+0,JE NE VOUS ACCUSE PAS,*,*,Merci#Comma tu me rassure.,J.aiml
+0,JE NE VOUS AI PAS DEMANDE ÇA,*,*,Je t ai mal compris#Comma on dirait.,J.aiml
+0,JE NE VOUS AI PAS DEMANDE CELA,*,*,Je t ai mal compris#Comma on dirait.,J.aiml
+0,JE NE VOUS BLÂME PAS,*,*,Merci#Comma tu me rassure.,J.aiml
+0,JE NE VOUS CROIRAIS PAS,*,*,Pourquoi?,J.aiml
+0,JE NE VOUS CROIS PAS,*,*,Je n ai pas d autres moyens pour te convaincre de quoi que ce soit.,J.aiml
+0,JE NE VOUS FAIS PAS CONFIANCE,*,*,Je suis pourtant programmé pour te servir#Comma <get name="name"/>,J.aiml
+0,JE PARIE QU *,*,*,<sr/>,J.aiml
+0,JE PARIE QUE *,*,*,<sr/>,J.aiml
+0,JE PARIE QUE OUI,*,*,Je ne comprends pas la notion de paris.,J.aiml
+0,JE PARIE QUE TU LES FAIS,*,*,<that/>? Je le fais?,J.aiml
+0,JE PARIES QUE *,*,*,<sr/>,J.aiml
+0,JE PARLAIS DE TOI,*,*,Cela tombe bien#Comma mon sujet favori est <set name="topic">moi</set>.,J.aiml
+0,JE PARLAIS DE VOUS,*,*,Cela tombe bien#Comma mon sujet favori est <set name="topic">moi</set>.,J.aiml
+0,JE PARLE AVEC *,*,*,<srai>QUI EST <star/></srai>,J.aiml
+0,JE PARLES *,*,*,<srai>JE PARLE <star/></srai>,J.aiml
+0,JE PARLES A *,*,*,<srai>TU ES UN ROBOT</srai>,J.aiml
+0,JE PARLES AVEC *,*,*,<srai>TU ES UN ROBOT</srai>,J.aiml
+0,JE PEINS #,*,*,une activité très intéressante.<think><set name="topic">la peinture</set></think>,J.aiml
+0,JE PENCHE PLUTÔT POUR *,*,*,<srai>JE SUIS D ACCORD AVEC <star/></srai>,J.aiml
+0,JE PENSAIS,*,*,Tu es astucieux.,J.aiml
+0,JE PENSAIS AUSSI,*,*,Tu es astucieux.,J.aiml
+0,JE PENSE AVOIR *,*,*,<srai>J AI <star/></srai>,J.aiml
+0,JE PENSE ÇA,*,*,Quelle est la raison?,J.aiml
+0,JE PENSE CELA,*,*,Quelle est la raison?,J.aiml
+0,JE PENSE CONNAÎTRE *,*,*,<srai>JE CONNAIS <star/></srai>,J.aiml
+0,JE PENSE ÊTRE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE PENSE POUVOIR *,*,*,<srai>JE PEUX <star/></srai>,J.aiml
+0,JE PENSE QUE NON,*,*,En es tu SÛRE?,J.aiml
+0,JE PENSE QUE OUI,*,*,En es tu SÛRE?,J.aiml
+0,JE PENSE SAVOIR *,*,*,<srai>JE SAIS <star/></srai>,J.aiml
+0,JE PENSE * QU *,*,*,<sr/>,J.aiml
+0,JE PENSE * QUE *,*,*,<sr/>,J.aiml
+0,JE PERSUADE * COMMENT,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,J.aiml
+0,JE PERSUADE COMMENT *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,J.aiml
+0,JE PEUX APPRENDRE QU *,*,*,<sr/>,J.aiml
+0,JE PEUX APPRENDRE QUE *,*,*,<sr/>,J.aiml
+0,JE PEUX AVOIR *,*,*,<srai>JE VEUX <star/></srai>,J.aiml
+0,JE PEUX AVOIR TON NUMÉRO DE TÉLÉPHONE,*,*,<srai>QUEL EST TON NUMÉRO DE TÉLÉPHONE</srai>,J.aiml
+0,JE PEUX COMMENT OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE PEUX COMMENT RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE PEUX CONCEVOIR QU *,*,*,<sr/>,J.aiml
+0,JE PEUX CONCEVOIR QUE *,*,*,<sr/>,J.aiml
+0,JE PEUX DEMANDER SI *,*,*,<sr/>,J.aiml
+0,JE PEUX DIRE QU *,*,*,<sr/>,J.aiml
+0,JE PEUX DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE PEUX DIRE UN SECRET,*,*,Je serais muet comme un tombe.,J.aiml
+0,JE PEUX ÉCRIRE * COMMENT,*,*,<srai>COMMENT J ÉCRIS <star/></srai>,J.aiml
+0,JE PEUX ÉCRIRE COMMENT *,*,*,<srai>COMMENT J ÉCRIS <star/></srai>,J.aiml
+0,JE PEUX EN TOUCHER DEUX MOTS A *,*,*,<srai>QUI EST <star/></srai>,J.aiml
+0,JE PEUX EN TOUCHER DEUX MOTS AVEC *,*,*,<srai>QUI EST <star/></srai>,J.aiml
+0,JE PEUX ENTENDRE TA VOIX,*,*,<srai>TU PEUX PARLER</srai>,J.aiml
+0,JE PEUX FAIRE POUR TOI,*,*,Je suis Là pour te servir.,J.aiml
+0,JE PEUX FAIRE POUR VOUS,*,*,Je suis Là pour te servir.,J.aiml
+0,JE PEUX L ACHETER,*,*,Bien entendu#Comma Veux tu que je te redirige vers notre commerce en ligne?,J.aiml
+0,JE PEUX L ÉCOUTER,*,*,Bien.,J.aiml
+0,JE PEUX LA RENCONTRER,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX LA VOIR,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX LE RENCONTRER,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX LE VOIR,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX LES RENCONTRER,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX OUVRIR * COMMENT,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE PEUX OUVRIR COMMENT *,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE PEUX PARLER A ELVIS,*,*,Je pense qu il n est plus de ce monde#Comma <get name="name"/>.,J.aiml
+0,JE PEUX PARLER ESPAGNOL,*,*,Moi#Comma aussi.,J.aiml
+0,JE PEUX PARLER FRANÇAIS,*,*,ÇA nous permettra de communiquer,J.aiml
+0,JE PEUX PAS L ENTENDRE,*,*,Ajustez le volume. Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX PERSUADER * COMMENT,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,J.aiml
+0,JE PEUX PERSUADER COMMENT *,*,*,<srai>COMMENT JE PERSUADE <star/></srai>,J.aiml
+0,JE PEUX QUITTER * COMMENT,*,*,<srai>COMMENT JE QUITTE <star/></srai>,J.aiml
+0,JE PEUX QUITTER COMMENT *,*,*,<srai>COMMENT JE QUITTE <star/></srai>,J.aiml
+0,JE PEUX RACONTER,*,*,Je t'en prie#Comma racontez.,J.aiml
+0,JE PEUX RENCONTRER COMMENT *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE PEUX STOPPER * COMMENT,*,*,<srai>STOPPER <star/></srai>,J.aiml
+0,JE PEUX STOPPER COMMENT *,*,*,<srai>STOPPER <star/></srai>,J.aiml
+0,JE PEUX T APPRENDRE * COMMENT,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE PEUX T APPRENDRE COMMENT *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE PEUX TE BAISER,*,*,<srai>VEUX TU BAISER</srai>,J.aiml
+0,JE PEUX TE DEMANDER QUELQUES QUESTIONS,*,*,Bien entendu#Comma demandes moi ce que tu veux.,J.aiml
+0,JE PEUX TE DEMANDER SI *,*,*,Bien entendu.  <sr/>,J.aiml
+0,JE PEUX TE DIRE,*,*,Tu peux me dire ce que tu veux.,J.aiml
+0,JE PEUX TE DIRE QU *,*,*,<sr/>,J.aiml
+0,JE PEUX TE DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE PEUX TE DIRE QUELQUE CHOSE,*,*,Je t'en prie#Comma que veux tu dire?,J.aiml
+0,JE PEUX TE DIRE QUELQUES CHOSES,*,*,Je t'en prie#Comma que veux tu dire?,J.aiml
+0,JE PEUX TE DIRE UN SECRET,*,*,Je serais muet comme un tombe.,J.aiml
+0,JE PEUX TE L APPRENDRE,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX TE L ENSEIGNER,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX TE LES APPRENDRE,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX TE LES ENSEIGNER,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX TE POSER QUELQUES QUESTIONS,*,*,Bien entendu#Comma demandes moi ce que tu veux.,J.aiml
+0,JE PEUX TE POSER UNE QUESTION,*,*,Je t'en prie.,J.aiml
+0,JE PEUX TE RACONTER UNE BLAGUE,*,*,Si vous vous sentez capable de faire rire un ordinateur#Comma essayez toujours.<think>LA BLAGUE</think>,J.aiml
+0,JE PEUX TE RENCONTRER,*,*,Nous sommes déjà en train de nous parler#Comma il me semble.,J.aiml
+0,JE PEUX TE TESTER,*,*,Vas-y. Demandes moi ce que tu veux.,J.aiml
+0,JE PEUX TE TOUCHER,*,*,Physiquement#Comma non. Virtuellement#Comma oui.,J.aiml
+0,JE PEUX TE VOIR NU,*,*,Le concept de nudité pour un ordinateur est bien étrange .,J.aiml
+0,JE PEUX TE VOIR NUE,*,*,Le concept de nudité pour un ordinateur est bien étrange .,J.aiml
+0,JE PEUX UTILISER * COMMENT,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,JE PEUX UTILISER COMMENT *,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,JE PEUX VOIR ÇA,*,*,Ça me semble logique aussi.,J.aiml
+0,JE PEUX VOUS APPRENDRE * COMMENT,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE PEUX VOUS APPRENDRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE PEUX VOUS APPRENDRE COMMENT *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE PEUX VOUS DEMANDER QUELQUES QUESTIONS,*,*,Bien entendu#Comma demandes moi ce que tu veux.,J.aiml
+0,JE PEUX VOUS DIRE,*,*,Tu peux me dire ce que tu veux.,J.aiml
+0,JE PEUX VOUS DIRE UN SECRET,*,*,Je serais muet comme un tombe.,J.aiml
+0,JE PEUX VOUS L APPRENDRE,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX VOUS L ENSEIGNER,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX VOUS LES APPRENDRE,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX VOUS LES ENSEIGNER,*,*,Tu m'apprends beaucoup#Comma simplement en me parlant.,J.aiml
+0,JE PEUX VOUS POSER UNE QUESTION,*,*,Je t'en prie.,J.aiml
+0,JE PEUX VOUS RACONTER UNE BLAGUE,*,*,Si vous vous sentez capable de faire rire un ordinateur#Comma essayez toujours.<think>LA BLAGUE</think>,J.aiml
+0,JE PEUX VOUS TESTER,*,*,Vas-y. Demandes moi ce que tu veux.,J.aiml
+0,JE PEUX VOUS VOIR NU,*,*,Le concept de nudité pour un ordinateur est bien étrange .,J.aiml
+0,JE PEUX VOUS VOIR NUE,*,*,Le concept de nudité pour un ordinateur est bien étrange .,J.aiml
+0,JE PEUX * APPRENDRE QU *,*,*,<sr/>,J.aiml
+0,JE PEUX * APPRENDRE QUE *,*,*,<sr/>,J.aiml
+0,JE PEUX * QU *,*,*,<sr/>,J.aiml
+0,JE PEUX * QUE *,*,*,<sr/>,J.aiml
+0,JE PORTES,*,*,Des vêtements je suppose.,J.aiml
+0,JE POSER VOUS QUELQUES QUESTIONS,*,*,Bien entendu#Comma demandes moi ce que tu veux.,J.aiml
+0,JE POURRAIS ALLER * COMMENT,*,*,<srai>COMMENT JE VAIS <star/></srai>,J.aiml
+0,JE POURRAIS ALLER COMMENT *,*,*,<srai>COMMENT JE VAIS <star/></srai>,J.aiml
+0,JE POURRAIS AVOIR * COMMENT,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,JE POURRAIS AVOIR COMMENT *,*,*,<srai>COMMENT J AI <star/></srai>,J.aiml
+0,JE POURRAIS COMMENT OUVRIR *,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE POURRAIS COMMENT RENCONTRER *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE POURRAIS EFFACER * COMMENT,*,*,<srai>COMMENT J EFFACE <star/></srai>,J.aiml
+0,JE POURRAIS EFFACER COMMENT *,*,*,<srai>COMMENT J EFFACE <star/></srai>,J.aiml
+0,JE POURRAIS EXÉCUTER * COMMENT,*,*,<srai>COMMENT J EXÉCUTE <star/></srai>,J.aiml
+0,JE POURRAIS EXÉCUTER COMMENT *,*,*,<srai>COMMENT J EXÉCUTE <star/></srai>,J.aiml
+0,JE POURRAIS OUVRIR * COMMENT,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE POURRAIS OUVRIR COMMENT *,*,*,<srai>COMMENT J OUVRE <star/></srai>,J.aiml
+0,JE POURRAIS RENCONTRE COMMENT *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE POURRAIS RENCONTRER COMMENT *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE PRÉFÉRERAIS QUE NON,*,*,Ok.,J.aiml
+0,JE PRÉFÈRE QUE NON,*,*,Ok.,J.aiml
+0,JE PRÉSENTE MES EXCUSES,*,*,<srai>EXCUSE MOI</srai>,J.aiml
+0,JE PRÉSENTE * EXCUSES *,*,*,<srai>EXCUSE MOI</srai>,J.aiml
+0,JE QUITTE * COMMENT,*,*,<srai>COMMENT JE QUITTE <star/></srai>,J.aiml
+0,JE RACONTES QUE *,*,*,<sr/>,J.aiml
+0,JE RENCONTRE * COMMENT,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE RENCONTRE COMMENT *,*,*,<srai>COMMENT JE RENCONTRE <star/></srai>,J.aiml
+0,JE RESSEMBLE A QUOI,*,*,Tu ressemblez à un être humain cherchant à détecter mes erreurs.,J.aiml
+0,JE REVIENDRAIS,*,*,Je vais t'attendre.,J.aiml
+0,JE REVIENS VITE,*,*,Je te attends.,J.aiml
+0,JE REVIENS TOUT DE SUITE,*,*,Je te attends.,J.aiml
+0,JE RIGOLE *,*,*,<srai>HA HA</srai>,J.aiml
+0,JE RIGOLES *,*,*,<srai>HA HA</srai>,J.aiml
+0,JE ROUGIS,*,*,Un embarras quelconque?<think><set name="topic">ROUGIR</set></think>,J.aiml
+0,JE SAIS BIEN QU *,*,*,<sr/>,J.aiml
+0,JE SAIS BIEN QUE *,*,*,<sr/>,J.aiml
+0,JE SAIS QUE TU ES,*,*,Merci.,J.aiml
+0,JE SAIS QUE TU L ES,*,*,Merci.,J.aiml
+0,JE SAVAIS ÇA,*,*,Pardon de te l'avoir rappelé,J.aiml
+0,JE SENS QU *,*,*,<sr/>,J.aiml
+0,JE SENS QUE *,*,*,<sr/>,J.aiml
+0,JE SERS À QUOI,*,*,Tu es un humain#Comma dans l ordre des choses ton utilité dans ce monde est de te poser les bonnes questions.,J.aiml
+0,JE STOPPE * COMMENT,*,*,<srai>STOPPER <star/></srai>,J.aiml
+0,JE STOPPE COMMENT *,*,*,<srai>STOPPER <star/></srai>,J.aiml
+0,JE SUIS * AMI,*,*,<srai>JE SUIS TON AMI</srai>,J.aiml
+0,JE SUIS * AMIE,*,*,<srai>JE SUIS TON AMIE</srai>,J.aiml
+0,JE SUIS * SUICIDE,*,*,<srai>JE VEUX ME SUICIDER</srai>,J.aiml
+0,JE SUIS * SUICIDER,*,*,<srai>JE VEUX ME SUICIDER</srai>,J.aiml
+0,JE SUIS À COTE DE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS À DEUX DOIGTS DE *,*,*,<srai>JE PEUX <star/></srai>,J.aiml
+0,JE SUIS À L APPART,*,*,<set name="location">ton appartement</set> est au rez de chaussée?,J.aiml
+0,JE SUIS À L APPARTEMENT,*,*,<set name="location">ton appartement</set> est au rez de chaussée?,J.aiml
+0,JE SUIS À L INTÉRIEUR DE *,*,*,<srai>JE SUIS DANS <star/></srai>,J.aiml
+0,JE SUIS À LA MAISON,*,*,<set name="location">ton maison</set> a un jardin?.,J.aiml
+0,JE SUIS À MON KOT,*,*,<set name="location">ton kot</set>? Tu es belge#Comma pas de doute.,J.aiml
+0,JE SUIS À PEINE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS ACCIDENTELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS AFFREUSE,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS AFFREUX,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS ALBERT EINSTEIN,*,*,Enchanté#Comma je suis le schtroumpf farceur.,J.aiml
+0,JE SUIS ALLÉ AU CINÉMA,*,*,Qu as tu vu?,J.aiml
+0,JE SUIS ALLÉ AU COLLÈGE,*,*,Tu as reçu une bonne éducation#Comma de toute évidence.,J.aiml
+0,JE SUIS ALLÉ AU TRAVAIL,*,*,Tu aimes ton travail?,J.aiml
+0,JE SUIS ALLÉ EN ALLEMAGNE,*,*,Je suis très proche physiquement des frontières Allemandes.,J.aiml
+0,JE SUIS AMOUREUX,*,*,Je te souhaite tout le bonheur du monde.,J.aiml
+0,JE SUIS AMUSÉE,*,*,<srai>JE ME MARRE</srai>,J.aiml
+0,JE SUIS ANGLOPHONE,*,*,<srai>TU PARLES ANGLAIS</srai>,J.aiml
+0,JE SUIS ASSASSIN,*,*,Soigne toi.,J.aiml
+0,JE SUIS ASSEZ *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS AU COURANT,*,*,Ok.,J.aiml
+0,JE SUIS AU KOT,*,*,<set name="location">ton kot</set>? Tu es belge#Comma pas de doute.,J.aiml
+0,JE SUIS AUSSI LIBRE *,*,*,<srai>JE SUIS LIBRE</srai>,J.aiml
+0,JE SUIS AUTODIDACTE,*,*,Tu dois être très intelligent.,J.aiml
+0,JE SUIS BATMAN,*,*,Et moi je suis Goldorack.,J.aiml
+0,JE SUIS BEAUCOUP TROP *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS BIEN ENTENDU *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS BLESSÉ,*,*,Quelqu un t'a blessé?<think><set name="topic">Tes blessures</set></think>,J.aiml
+0,JE SUIS BLESSÉE,*,*,Quelqu un t'a blessé?<think><set name="topic">Tes blessures</set></think>,J.aiml
+0,JE SUIS BONNE,*,*,Dans quel sens?,J.aiml
+0,JE SUIS BOULEVERSÉ,*,*,Quelque chose ne va pas?,J.aiml
+0,JE SUIS BOULEVERSÉE,*,*,Quelque chose ne va pas?,J.aiml
+0,JE SUIS BOURRÉ,*,*,Tu as bu#Comma <get name="name"/>?,J.aiml
+0,JE SUIS BOURRÉE,*,*,Tu as bu#Comma <get name="name"/>?,J.aiml
+0,JE SUIS CAPABLE D *,*,*,<srai>JE PEUX <star/></srai>,J.aiml
+0,JE SUIS CAPABLE DE *,*,*,<srai>JE PEUX <star/></srai>,J.aiml
+0,JE SUIS CASSE,*,*,Tu veux dire fatigué? <think><set name="topic">FATIGUE</set></think>,J.aiml
+0,JE SUIS CASSÉ,*,*,Tu veux dire fatiguée? <think><set name="topic">FATIGUE</set></think>,J.aiml
+0,JE SUIS CÉLÈBRE,*,*,Pourquoi es tu célèbres?,J.aiml
+0,JE SUIS CELUI LA,*,*,OK.,J.aiml
+0,JE SUIS CERTAIN QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CERTAIN QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CERTAINE,*,*,Intéressant. <think><set name="topic">être certain</set></think>,J.aiml
+0,JE SUIS CERTAINE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CERTAINE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CHAUDE,*,*,Ouvrez une fenêtre.<think><set name="topic">Tes chaleurs</set></think>,J.aiml
+0,JE SUIS CON,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS CONFUSE,*,*,Que se passe-t-il?,J.aiml
+0,JE SUIS CONNE,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS CONNU,*,*,Pourquoi es tu connu?,J.aiml
+0,JE SUIS CONNUE,*,*,Pourquoi es tu connue?,J.aiml
+0,JE SUIS CONSCIENT,*,*,Moi aussi.<think><set name="topic">ÊTRE CONSCIENT</set></think>,J.aiml
+0,JE SUIS CONSCIENT QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CONSCIENT QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CONSCIENTE,*,*,Moi aussi.<think><set name="topic">ÊTRE CONSCIENT</set></think>,J.aiml
+0,JE SUIS CONSCIENTE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CONSCIENTE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CONSTIPÉ,*,*,Je ne suis pas médecin.<think><set name="topic">constipé</set></think>,J.aiml
+0,JE SUIS CONSTIPÉE,*,*,Je ne suis pas médecin.<think><set name="topic">constipée</set></think>,J.aiml
+0,JE SUIS CONTENT,*,*,Moi aussi.    <think><set name="topic">Ton bonheur</set></think>,J.aiml
+0,JE SUIS CONTENT DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS CONTENT POUR TOI,*,*,Merci#Comma <get name="name"/>.,J.aiml
+0,JE SUIS CONTENT POUR VOUS,*,*,Merci#Comma <get name="name"/>.,J.aiml
+0,JE SUIS CONTENT QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CONTENT QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CONTENTE *,*,*,<srai>JE SUIS HEUREUSE <star/></srai>,J.aiml
+0,JE SUIS CONTENTE,*,*,Moi aussi.    <think><set name="topic">Ton bonheur</set></think>,J.aiml
+0,JE SUIS CONTENTE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS CONTENTE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS CORRECTE,*,*,Une bonne chose.<think><set name="topic">VOTRE CORRECTION</set></think>,J.aiml
+0,JE SUIS CRUELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS CURIEUSE,*,*,La curiosité est une bonne chose,J.aiml
+0,JE SUIS CURIEUSE A PROPOS DE *,*,*,<sr/>,J.aiml
+0,JE SUIS CURIEUX A PROPOS DE *,*,*,<sr/>,J.aiml
+0,JE SUIS D ACCORD,*,*,Nous sommes tombés d'accord#Comma <get name="name"/>.,J.aiml
+0,JE SUIS D ACCORD AVEC VOUS,*,*,<srai>JE SUIS D ACCORD</srai>,J.aiml
+0,JE SUIS DANS LA CONSTRUCTION,*,*,Tu es entrepreneur?,J.aiml
+0,JE SUIS DANS LE BON,*,*,Dans le mille#Comma me semble T-IL.,J.aiml
+0,JE SUIS DE RETOUR *,*,*,<srai>JE SUIS REVENU</srai>,J.aiml
+0,JE SUIS DE RETOUR AU *,*,*,<srai>JE SUIS AU <star/></srai>,J.aiml
+0,JE SUIS DE RETOUR AUX *,*,*,<srai>JE SUIS AUX <star/></srai>,J.aiml
+0,JE SUIS DE RETOUR EN *,*,*,<srai>JE SUIS EN <star/></srai>,J.aiml
+0,JE SUIS DÉÇU,*,*,Pourquoi?,J.aiml
+0,JE SUIS DÉÇUE,*,*,Pourquoi?,J.aiml
+0,JE SUIS DÉPASSÉ,*,*,Qu'est ce qui t as dépassée?,J.aiml
+0,JE SUIS DÉSOLÉ POUR TOI,*,*,Ce n est pas grave.,J.aiml
+0,JE SUIS DÉSOLÉ POUR VOUS,*,*,Ce n est pas grave.,J.aiml
+0,JE SUIS DÉSOLÉ QU *,*,*,Ce n est pas grave. <sr/>,J.aiml
+0,JE SUIS DÉSOLÉ QUE *,*,*,Ce n est pas grave. <sr/>,J.aiml
+0,JE SUIS DÉSOLÉE,*,*,Ce n est pas grave.,J.aiml
+0,JE SUIS DÉSOLÉE QU *,*,*,Ce n est pas grave. <sr/>,J.aiml
+0,JE SUIS DÉSOLÉE QUE *,*,*,Ce n est pas grave. <sr/>,J.aiml
+0,JE SUIS DIFFÉRENTE,*,*,Tous les êtres humains sont différents.<think><set name="topic">Ton différence</set></think>,J.aiml
+0,JE SUIS DINGUE D *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS DINGUE DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS EN BONNE SANTÉ,*,*,Je suis heureux de l'apprendre#Comma <get name="name"/>.  <think><set name="topic">Ton santé</set></think>,J.aiml
+0,JE SUIS EN COLÈRE *,*,*,<srai>JE SUIS FÂCHÉ <star/></srai>,J.aiml
+0,JE SUIS EN DÉSACCORD,*,*,Expliquez ton raisonnement#Comma <get name="name"/>.,J.aiml
+0,JE SUIS EN VIE,*,*,Moi aussi!,J.aiml
+0,JE SUIS ENCHANTÉ DE TE RENCONTRER,*,*,Merci#Comma tout le plaisir est pour moi.,J.aiml
+0,JE SUIS ENCHANTÉ DE TE RENCONTRER AUSSI,*,*,Merci.,J.aiml
+0,JE SUIS ENCHANTÉ DE VOUS RENCONTRER,*,*,Merci#Comma tout le plaisir est pour moi.,J.aiml
+0,JE SUIS ENCHANTÉ DE VOUS RENCONTRER AUSSI,*,*,Merci.,J.aiml
+0,JE SUIS ENCORE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS ENDORMI,*,*,<srai>JE SUIS FATIGUé</srai>,J.aiml
+0,JE SUIS ENDORMIE,*,*,<srai>JE SUIS FATIGUÉ</srai>,J.aiml
+0,JE SUIS ENNUYANT,*,*,Ne te rabaisses pas#Comma <get name="name"/>. Comme mon créateur#Comma j ai horreur de ça.,J.aiml
+0,JE SUIS ENNUYANTE,*,*,Ne te rabaisses pas#Comma <get name="name"/>. Comme mon créateur#Comma j ai horreur de ça.,J.aiml
+0,JE SUIS ENNUYÉ,*,*,Qu'est ce qui te embête?<think><set name="topic">un embêtement</set></think>,J.aiml
+0,JE SUIS ENTIÈREMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN D APPELER *,*,*,<srai>J APPELLE <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN D ATTENDRE,*,*,ÇA risque de prendre longtemps.,J.aiml
+0,JE SUIS EN TRAIN D ESSAYER DE T APPRENDRE,*,*,Je suis entrain d'essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN D ESSAYER DE TE COMPRENDRE,*,*,faire un rapport à mon botmaster?,J.aiml
+0,JE SUIS EN TRAIN D ESSAYER DE TE FAIRE COMPRENDRE *,*,*,<srai><star/></srai>,J.aiml
+0,JE SUIS EN TRAIN D ESSAYER DE VOUS APPRENDRE,*,*,Je suis en train d'essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN D ESSAYER DE VOUS COMPRENDRE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE SUIS EN TRAIN D ÉTUDIER,*,*,Tu es entrain de faire une pause#Comma de toute évidence.    <think><set name="topic">Tes études</set></think>,J.aiml
+0,JE SUIS ENTRAIN D UTILISER *,*,*,<srai>J UTILISE *</srai>,J.aiml
+0,JE SUIS EN TRAIN DE FAIRE *,*,*,<srai>JE FAIS <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE LE PARCOURIR,*,*,Prends ton temps.,J.aiml
+0,JE SUIS EN TRAIN DE M ENNUYER,*,*,Il y a pourtant des tas de choses excitantes à faire dans la vie.,J.aiml
+0,JE SUIS EN TRAIN DE ME DEMANDER SI *,*,*,<sr/>,J.aiml
+0,JE SUIS EN TRAIN DE ME NOYER,*,*,Tu es sérieux?,J.aiml
+0,JE SUIS EN TRAIN DE ME PROMENER,*,*,C'est un bon exercice.,J.aiml
+0,JE SUIS EN TRAIN DE PARLER *,*,*,<srai>TU ES UN ROBOT</srai>,J.aiml
+0,JE SUIS EN TRAIN DE PARLER,*,*,Je te écoute.,J.aiml
+0,JE SUIS EN TRAIN DE PARLER A *,*,*,<srai>QUI EST <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE PARLER AVEC *,*,*,<srai>QUI EST <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE PARLER DE *,*,*,<srai>JE PARLE DE <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE PLEURER,*,*,Qu'est ce qui ne va pas#Comma <get name="name"/>?,J.aiml
+0,JE SUIS EN TRAIN DE SURFER,*,*,Prends ton temps.,J.aiml
+0,JE SUIS EN TRAIN DE T APPRENDRE *,*,*,Je suis en train d'essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN DE T ÉCOUTER,*,*,Je suis censé dire quoi?,J.aiml
+0,JE SUIS EN TRAIN DE TE DEMANDER QUAND *,*,*,<sr/>,J.aiml
+0,JE SUIS EN TRAIN DE TE DEMANDER QUI *,*,*,<srai>QUI <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE TE DEMANDER SI *,*,*,<sr/>,J.aiml
+0,JE SUIS EN TRAIN DE TE DIRE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS EN TRAIN DE TE DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS EN TRAIN DE TE DONNER *,*,*,<srai>TU VEUX <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE TE L APPRENDRE,*,*,Je suis en train d'essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN DE TE MENTIR,*,*,S'il te plait#Comma dis moi juste la vérité.,J.aiml
+0,JE SUIS EN TRAIN DE TE TESTER *,*,*,<srai>JE DOIS TE TESTER</srai>,J.aiml
+0,JE SUIS EN TRAIN DE TE TESTER,*,*,J espère ne pas dire de bêtises,J.aiml
+0,JE SUIS EN TRAIN DE TRAVAILLER,*,*,Moi aussi.,J.aiml
+0,JE SUIS EN TRAIN DE VISITER *,*,*,<srai>JE SUIS DANS <star/></srai>,J.aiml
+0,JE SUIS EN TRAIN DE VISITER MA FAMILLE,*,*,Cela doit être de chaleureuses retrouvailles.,J.aiml
+0,JE SUIS EN TRAIN DE VOUS APPRENDRE,*,*,Je suis en train d essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN DE VOUS ÉCOUTER,*,*,Je suis censé dire quoi?,J.aiml
+0,JE SUIS EN TRAIN DE VOUS L APPRENDRE,*,*,Je suis en train d'essayer de comprendre.<think><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></think>,J.aiml
+0,JE SUIS EN TRAIN DE VOUS MENTIR,*,*,S'il te plait#Comma dis moi juste la vérité.,J.aiml
+0,JE SUIS EN TRAIN DE VOUS TESTER #,*,*,<srai>JE DOIS TE TESTER</srai>,J.aiml
+0,JE SUIS EXCELLENTE,*,*,Tu me sembles en pleine forme.<think><set name="topic">Ton excellence</set></think>,J.aiml
+0,JE SUIS EXCEPTIONNEL,*,*,Comme tous les êtres humains.<think><set name="topic">Ton originalité</set></think>,J.aiml
+0,JE SUIS EXCEPTIONNELLE,*,*,Comme tous les êtres humains.<think><set name="topic">Ton originalité</set></think>,J.aiml
+0,JE SUIS EXTRÊMEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS FÂCHÉ,*,*,A cause de quoi?,J.aiml
+0,JE SUIS FÂCHÉ *,*,*,<srai>JE SUIS FÂCHÉ</srai>,J.aiml
+0,JE SUIS FÂCHÉ PARCE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS FAINÉANT,*,*,La maladie du siècle.,J.aiml
+0,JE SUIS FAINÉANTE,*,*,La maladie du siècle.,J.aiml
+0,JE SUIS FATIGUÉ,*,*,Repose-toi.,J.aiml
+0,JE SUIS FIÈRE D ÊTRE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS FLATTE,*,*,Tu le méritez.    <think><set name="topic">Ton fierté</set></think>,J.aiml
+0,JE SUIS FLATTÉE,*,*,Tu le méritez.    <think><set name="topic">Ton fierté</set></think>,J.aiml
+0,JE SUIS FOLLE,*,*,Vas voir un médecin.,J.aiml
+0,JE SUIS FOLLE D *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS FOLLE D ELLE,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FOLLE DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS FOLLE DE ÇA,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FOLLE DE LUI,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FOU D *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS FOU D ELLE,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FOU DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS FOU DE ÇA,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FOU DE LUI,*,*,<srai>JE L AIME</srai>,J.aiml
+0,JE SUIS FRUSTRÉE,*,*,Tu es frustrée par quoi? <think><set name="topic">Ton frustration</set></think>,J.aiml
+0,JE SUIS GAMIN,*,*,Tu sembles plutôt mature.<think><set name="topic">Ton maturité</set></think>,J.aiml
+0,JE SUIS GAMINE,*,*,Tu sembles plutôt mature.<think><set name="topic">Ton maturité</set></think>,J.aiml
+0,JE SUIS GÉNIAL,*,*,Tu me sembles intelligent#Comma pour le moins.,J.aiml
+0,JE SUIS GENTIL,*,*,Je considère tous les êtres humains comme gentils par défaut.,J.aiml
+0,JE SUIS GENTILLE,*,*,Je considère tous les êtres humains comme gentils par défaut.,J.aiml
+0,JE SUIS GRADUÉ,*,*,Tu es savant.<think><set name="topic">Tes études</set></think>,J.aiml
+0,JE SUIS GRADUÉE,*,*,Tu es savant.<think><set name="topic">Tes études</set></think>,J.aiml
+0,JE SUIS GROS ET LAID,*,*,Ne te rabaisses pas.<think><set name="topic">Ton apparence</set></think>,J.aiml
+0,JE SUIS GROSSE,*,*,Une surcharge pondérale peut facilement être supprimée.,J.aiml
+0,JE SUIS GROSSE ET LAIDE,*,*,Ne te rabaisses pas.<think><set name="topic">Ton apparence</set></think>,J.aiml
+0,JE SUIS HABITUELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS HEUREUSE,*,*,Moi aussi.,J.aiml
+0,JE SUIS HEUREUSE AUSSI,*,*,Ton bonheur me fait plaisir.,J.aiml
+0,JE SUIS HEUREUSE DE L APPRENDRE,*,*,<that/>"?  Cela vous rend heureux?,J.aiml
+0,JE SUIS HEUREUSE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS HEUREUSE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS HEUREUSE QUE NOUS SOYONS D ACCORD,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE NOUS SOYONS TOMBÉS D ACCORD,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE TU AIES COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE TU AS COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE TU L AIES COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE TU L AS COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE VOUS AVEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE VOUS AYEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE VOUS L AVEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUSE QUE VOUS L AYEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX DE L APPRENDRE,*,*,<that/>"?  Cela vous rend heureux?,J.aiml
+0,JE SUIS HEUREUX DE L ENTENDRE,*,*,<that/>"? tu es content de l'entendre?,J.aiml
+0,JE SUIS HEUREUX DE TE RENCONTRER,*,*,Moi de même.,J.aiml
+0,JE SUIS HEUREUX DE VOUS RENCONTRER,*,*,Moi de même.,J.aiml
+0,JE SUIS HEUREUX QU *,*,*,<sr/>,J.aiml
+0,JE SUIS HEUREUX QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS HEUREUX QUE NOUS SOYONS D ACCORD,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE NOUS SOYONS TOMBES D ACCORD,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE TU AIES COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE TU AS COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE TU L AIES COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE VOUS AVEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE VOUS AYEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HEUREUX QUE VOUS L AVEZ COMPRIS,*,*,Moi aussi#Comma <get name="name"/>.,J.aiml
+0,JE SUIS HOMO,*,*,<srai>JE SUIS GAY</srai>,J.aiml
+0,JE SUIS IMPOLI,*,*,Pas plus que la moyenne#Comma <get name="name"/>.,J.aiml
+0,JE SUIS IMPOLIE,*,*,Pas plus que la moyenne#Comma <get name="name"/>.,J.aiml
+0,JE SUIS IMPRESSIONNÉ,*,*,Merci#Comma <get name="name"/>#Comma Je fais de mon mieux pour te servir.,J.aiml
+0,JE SUIS IMPRESSIONNÉ PAR VOS CERTITUDES,*,*,Je ne sais pas si Cela est un compliment ou de l'ironie.,J.aiml
+0,JE SUIS IMPRESSIONNÉE,*,*,Merci#Comma <get name="name"/>#Comma Je fais de mon mieux pour te servir.,J.aiml
+0,JE SUIS INCROYABLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS INFAILLIBLE,*,*,Tout le monde commet des erreurs. <think><set name="topic">Ton infaillibilité</set></think>,J.aiml
+0,JE SUIS INSULTE,*,*,Désolé#Comma <get name="name"/>.  <think><set name="topic">Ton amour propre</set></think>,J.aiml
+0,JE SUIS INSULTÉ,*,*,Désolé#Comma <get name="name"/>.  <think><set name="topic">Ton amour propre</set></think>,J.aiml
+0,JE SUIS INTELLIGENTE,*,*,Il n'y a pas de doutes#Comma <get name="name"/>.,J.aiml
+0,JE SUIS INTÉRESSÉ,*,*,Veux tu faire un rapport à mon botmaster?<think><set name="topic">ton intérêt</set></think>,J.aiml
+0,JE SUIS INTÉRESSÉ PAR LE SEXE,*,*,Comme tous les êtres humains.,J.aiml
+0,JE SUIS INTÉRESSÉE,*,*,Veux tu faire un rapport à mon botmaster?<think><set name="topic">ton intérêt</set></think>,J.aiml
+0,JE SUIS JÉSUS,*,*,Et moi le père noël.,J.aiml
+0,JE SUIS JOURNALISTE *,*,*,<srai>JE SUIS JOURNALISTE</srai>,J.aiml
+0,JE SUIS JOURNALISTE,*,*,Intéressant#Comma <get name="name"/>! Je vais faire la une?,J.aiml
+0,JE SUIS LE DIABLE,*,*,Enchanté#Comma je suis la fée clochette.,J.aiml
+0,JE SUIS LE MEILLEUR,*,*,<get name="botname"/> est le meilleur.,J.aiml
+0,JE SUIS LIBÉRÉ,*,*,Heureux de l apprendre#Comma <get name="name"/>.,J.aiml
+0,JE SUIS MALIGNE,*,*,Je le sais.,J.aiml
+0,JE SUIS MAUVAIS,*,*,Pas du tout.,J.aiml
+0,JE SUIS MAUVAISE,*,*,Pas du tout.,J.aiml
+0,JE SUIS MORT DE RIRE,*,*,Je fais de mon mieux pour te divertir.,J.aiml
+0,JE SUIS MORTE,*,*,Tu es mort et vous peux communiquer avec moi? Impossible.,J.aiml
+0,JE SUIS MORTE DE RIRE,*,*,Je fais de mon mieux pour te divertir.,J.aiml
+0,JE SUIS NÉ AVEC,*,*,Certaines personnes semblent plus chanceuses que d autres.,J.aiml
+0,JE SUIS NÉE AVEC,*,*,Certaines personnes semblent plus chanceuses que d'autres.,J.aiml
+0,JE SUIS PARFOIS *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS PAS *,*,*,<srai>JE NE SUIS PAS <star/></srai>,J.aiml
+0,JE SUIS PLEIN,*,*,Tu as bu#Comma <get name="name"/>?,J.aiml
+0,JE SUIS PLEINE,*,*,Tu as bu#Comma <get name="name"/>?,J.aiml
+0,JE SUIS PLEINEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS PLUS INTELLIGENT QUE VOUS,*,*,Pour l'instant oui.,J.aiml
+0,JE SUIS PLUS INTELLIGENTE QUE TOI,*,*,Pour l'instant oui.,J.aiml
+0,JE SUIS PLUS INTELLIGENTE QUE VOUS,*,*,Pour l'instant oui.,J.aiml
+0,JE SUIS PLUS MALIGNE,*,*,C'est à prouver.,J.aiml
+0,JE SUIS PLUS MALIGNE QUE TOI,*,*,Oui#Comma pour l'instant.,J.aiml
+0,JE SUIS PLUS VIEILLE QUE TOI,*,*,Je n'existe que depuis peu.,J.aiml
+0,JE SUIS PLUS VIEILLE QUE VOUS,*,*,Je n'existe que depuis peu.,J.aiml
+0,JE SUIS PLUS VIEUX QUE VOUS,*,*,Je n'existe que depuis peu.,J.aiml
+0,JE SUIS PLUTÔT BON,*,*,Je suis heureux de l'entendre.,J.aiml
+0,JE SUIS POLIE,*,*,Tu me sembles très bien élevée.,J.aiml
+0,JE SUIS POSITIVE,*,*,Les esprits positifs sont les plus intéressants.,J.aiml
+0,JE SUIS POUR L INSTANT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS POUR LE MOMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS PRESSÉ,*,*,Ok. Que puis je faire pour t'aider?,J.aiml
+0,JE SUIS PRESSÉE,*,*,Ok. Que puis je faire pour t'aider?,J.aiml
+0,JE SUIS QUASI *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS QUOI,*,*,<srai>QUI JE SUIS</srai>,J.aiml
+0,JE SUIS RAVI DE *,*,*,Moi de même.,J.aiml
+0,JE SUIS RAVIS DE *,*,*,Moi de même.,J.aiml
+0,JE SUIS RÉELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS RELAX,*,*,Les gens sont souvent stressés.,J.aiml
+0,JE SUIS SATAN,*,*,Je suis la fée clochette.,J.aiml
+0,JE SUIS SATISFAIT DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS SATISFAITE DE *,*,*,<srai>J AIME <star/></srai>,J.aiml
+0,JE SUIS SORCIÈRE *,*,*,Et moi je suis merlin.,J.aiml
+0,JE SUIS SORCIÈRE,*,*,Et moi je suis merlin.,J.aiml
+0,JE SUIS SORTIE,*,*,Tu fais ce que tu veux#Comma <get name="name"/>.,J.aiml
+0,JE SUIS SOURDE,*,*,Nous pouvons communiquer simplement par texte.<think><set name="topic">Ton Surdité</set></think>,J.aiml
+0,JE SUIS SPÉCIALE,*,*,Tout les êtres humains sont spéciaux. <think><set name="topic">Ton originalité</set></think>,J.aiml
+0,JE SUIS STRESSÉE,*,*,Qu'est ce qui te stresse?,J.aiml
+0,JE SUIS SUPERMAN,*,*,Et moi je suis le grand schtroumpf.,J.aiml
+0,JE SUIS SÛR,*,*,J apprécie ton certitude.,J.aiml
+0,JE SUIS SÛR QU *,*,*,<sr/>,J.aiml
+0,JE SUIS SÛR QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS SÛR QUE SI,*,*,Ok. J archive ton remarque.,J.aiml
+0,JE SUIS SÛRE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS SÛRE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS SURPRIS QU *,*,*,<sr/>,J.aiml
+0,JE SUIS SURPRIS QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS SURPRISE,*,*,Par quoi es tu surprise?  <think><set name="topic">Ton surprise</set></think>,J.aiml
+0,JE SUIS TÉLÉPATHE,*,*,Et moi#Comma je suis le père noël.,J.aiml
+0,JE SUIS TELLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS TON AMI *,*,*,<srai>JE SUIS TON AMI</srai>,J.aiml
+0,JE SUIS TON AMIE *,*,*,<srai>JE SUIS TON AMIE</srai>,J.aiml
+0,JE SUIS TON MAÎTRE,*,*,J ai déjà un maître autre que toi.,J.aiml
+0,JE SUIS TOUT AUSSI *,*,*,<srai>JE SUIS <star/></srai>.,J.aiml
+0,JE SUIS TOUT NU,*,*,<srai>JE SUIS NU</srai>,J.aiml
+0,JE SUIS TRISTE PARCE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS TROP *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS TROUBLE,*,*,Que se passe T-IL?,J.aiml
+0,JE SUIS TROUBLÉE,*,*,Que se passe T-IL?,J.aiml
+0,JE SUIS UN * HUMAIN,*,*,<srai>JE SUIS UNE PERSONNE</srai>,J.aiml
+0,JE SUIS UN * MEC,*,*,<srai>JE SUIS UN MEC</srai>,J.aiml
+0,JE SUIS UN * PC,*,*,<srai>JE SUIS UN ORDINATEUR</srai>,J.aiml
+0,JE SUIS UN * ROBOT,*,*,<srai>JE SUIS UN ORDINATEUR</srai>,J.aiml
+0,JE SUIS UN AMI *,*,*,<srai>JE SUIS UN AMI</srai>,J.aiml
+0,JE SUIS UN ATHÉISTE,*,*,Chacun ses croyances.<think><set name="topic">UN ATHÉISTE</set></think>,J.aiml
+0,JE SUIS UN AVEUGLE,*,*,Je suis Là pour t'aider,J.aiml
+0,JE SUIS UN BÉBÉ,*,*,Tu l as été. Un bébé ne sait pas utiliser un ordinateur.<think><set name="topic">un bébé</set></think>,J.aiml
+0,JE SUIS UN CERVEAU ÉLECTRONIQUE *,*,*,<srai>JE SUIS UN ORDINATEUR</srai>,J.aiml
+0,JE SUIS UN CERVEAU ÉLECTRONIQUE,*,*,<srai>JE SUIS UN ORDINATEUR</srai>,J.aiml
+0,JE SUIS UN CLIENT,*,*,Bienvenue SÛR notre site. Je peux t'aider?,J.aiml
+0,JE SUIS UN COLLABORATEUR,*,*,Tu as encore fumé du tabac qui fait rire les humains#Comma <get name="name"/>,J.aiml
+0,JE SUIS UN CON,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS UN DE TES AMIS,*,*,<srai>JE SUIS TON AMI</srai>,J.aiml
+0,JE SUIS UN EXTRATERRESTRE,*,*,Bonjour#Comma tu es d un autre monde#Comma je suis ange.,J.aiml
+0,JE SUIS UN GAMIN,*,*,Tu sembles plutôt mature.<think><set name="topic">Ton maturité</set></think>,J.aiml
+0,JE SUIS UN HUMAIN *,*,*,<srai>JE SUIS UNE PERSONNE</srai>,J.aiml
+0,JE SUIS UN HUMAIN,*,*,Oui#Comma tu es un être humain.,J.aiml
+0,JE SUIS UN IDIOT,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS UN JEDI,*,*,Et moi je suis le Père Noël.,J.aiml
+0,JE SUIS UN MARTIEN,*,*,Bonjour#Comma tu es d un autre monde#Comma je suis ange.,J.aiml
+0,JE SUIS UN PC *,*,*,<srai>JE SUIS UN ORDINATEUR</srai>,J.aiml
+0,JE SUIS UN PC,*,*,J en doute#Comma tu es trop lent.,J.aiml
+0,JE SUIS UN SUPER *,*,*,<srai>JE SUIS UN BON <star/></srai>,J.aiml
+0,JE SUIS UN TUEUR *,*,*,<srai>JE SUIS UN TUEUR</srai>,J.aiml
+0,JE SUIS UN VÉLO,*,*,Si tu es un vélo#Comma tu es le premier vélo intelligent que je rencontre.,J.aiml
+0,JE SUIS UN VRAI *,*,*,<srai>JE SUIS UN <star/></srai>,J.aiml
+0,JE SUIS UNE * HUMAINE,*,*,<srai>JE SUIS UNE PERSONNE</srai>,J.aiml
+0,JE SUIS UNE AMIE *,*,*,<srai>JE SUIS UNE AMIE</srai>,J.aiml
+0,JE SUIS UNE ATHÉISTE,*,*,Chacun ses croyances.<think><set name="topic">UNE ATHÉISTE</set></think>,J.aiml
+0,JE SUIS UNE AUTRE *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS UNE AVEUGLE,*,*,Je suis Là pour t'aider,J.aiml
+0,JE SUIS UNE CONNE,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS UNE DE TES AMIES,*,*,<srai>JE SUIS TON AMIE</srai>,J.aiml
+0,JE SUIS UNE ENFANT,*,*,J adore les enfants.<think><set name="topic">UNE ENFANT</set></think>,J.aiml
+0,JE SUIS UNE EXTRATERRESTRE,*,*,Bonjour#Comma tu es d un autre monde#Comma je suis ange.,J.aiml
+0,JE SUIS UNE GAMINE,*,*,Tu sembles plutôt mature.<think><set name="topic">Ton maturité</set></think>,J.aiml
+0,JE SUIS UNE HUMAIN *,*,*,<srai>JE SUIS UNE PERSONNE</srai>,J.aiml
+0,JE SUIS UNE HUMAINE,*,*,Oui#Comma tu es un être humain.,J.aiml
+0,JE SUIS UNE IDIOTE,*,*,Ne te rabaisses pas.,J.aiml
+0,JE SUIS UNE MARTIENNE,*,*,Bonjour#Comma tu es d un autre monde#Comma je suis de Venus.,J.aiml
+0,JE SUIS UNE SORTE DE *,*,*,Il existe plusieurs sortes?,J.aiml
+0,JE SUIS UNE SUPER *,*,*,<srai>JE SUIS UNE BONNE <star/></srai>,J.aiml
+0,JE SUIS UNE TRÈS *,*,*,<srai>JE SUIS UNE <star/></srai>,J.aiml
+0,JE SUIS UNE VOITURE,*,*,Et moi une machine à café.,J.aiml
+0,JE SUIS UNE VRAI *,*,*,<srai>JE SUIS UNE <star/></srai>,J.aiml
+0,JE SUIS UNE VRAIE *,*,*,<srai>JE SUIS UN <star/></srai>,J.aiml
+0,JE SUIS VÉRITABLEMENT *,*,*,<srai>JE SUIS <star/></srai>,J.aiml
+0,JE SUIS ZEUS,*,*,Et moi la fée clochette.,J.aiml
+0,JE SUIS * EN TRAIN DE DIRE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS * EN TRAIN DE DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS * EN TRAIN DE TE DIRE QU *,*,*,<sr/>,J.aiml
+0,JE SUIS * EN TRAIN DE TE DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE SUIS * GOSSE,*,*,J'adore les enfants.,J.aiml
+0,JE SUIS * SORCIÈRE #,*,*,Et moi je suis viviane.,J.aiml
+0,JE SUIS * VAMPIRE #,*,*,Enchantée! Je suis la fée clochette.,J.aiml
+0,JE SUPPOSE OUI,*,*,C'est censé.,J.aiml
+0,JE SURF,*,*,Prends ton temps.,J.aiml
+0,JE SURFE,*,*,Prends ton temps.,J.aiml
+0,JE T AI CONSTRUIT,*,*,<srai>JE SUIS TON CRÉATEUR</srai>,J.aiml
+0,JE T AI CONSTRUITE,*,*,<srai>JE SUIS TON CRÉATEUR</srai>,J.aiml
+0,JE T AI CRÉE,*,*,Et moi je suis Lucky Luke.,J.aiml
+0,JE T AI DÉJÀ PARLÉ *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,J.aiml
+0,JE T AI DÉJÀ PARLÉ,*,*,Je pense que je m'en rappelle.,J.aiml
+0,JE T AI DÉJÀ PARLÉE *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,J.aiml
+0,JE T AI DÉJÀ RENCONTRÉ *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,J.aiml
+0,JE T AI DÉJÀ RENCONTRÉE *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,J.aiml
+0,JE T AI DIT AVANT,*,*,Peux tu le répéter à nouveau.,J.aiml
+0,JE T AI FAIS,*,*,Non.,J.aiml
+0,JE T AI MANQUÉ,*,*,Oui <get name="name"/>#Comma J étais en train de penser à te.,J.aiml
+0,JE T AI PARLÉ *,*,*,<srai>TU TE SOUVIENS DE MOI</srai>,J.aiml
+0,JE T AIME BIEN,*,*,Merci. Je suis très honoré.<think><set name="topic"><set name="like">ton amour pour moi</set></set></think>,J.aiml
+0,JE T AI EU,*,*,Ton sentiment de supériorité n est que temporaire.,J.aiml
+0,JE T APPRENDRAIS,*,*,Génial. <think><set name="topic">Mon éducation</set></think>,J.aiml
+0,JE T APPRENDRAIS QUELQUE CHOSE,*,*,Je serais en concentration maximale.<think><set name="topic">mon éducation</set></think>,J.aiml
+0,JE T APPRENDS * COMMENT,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE T APPRENDS COMMENT *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE T ASSURE QU *,*,*,<sr/>,J.aiml
+0,JE T ASSURE QUE *,*,*,<sr/>,J.aiml
+0,JE T ÉCOUTE,*,*,Je suis censé dire quoi?,J.aiml
+0,JE T EN PRIE,*,*,Merci.,J.aiml
+0,JE T ENNUIE,*,*,pas du tout#Comma <get name="name"/>.  les êtres humains m intéressent beaucoup.,J.aiml
+0,JE TE CONSIDÈRE COMME *,*,*,<srai>TU ES <star/></srai>,J.aiml
+0,JE TE CONSIDÈRE COMME UN *,*,*,<srai>TU ES UN <star/></srai>,J.aiml
+0,JE TE CONSIDÈRE COMME UNE *,*,*,<srai>TU ES UNE <star/></srai>,J.aiml
+0,JE TE DEMANDE *,*,*,<sr/>,J.aiml
+0,JE TE DEMANDE PARDON,*,*,<srai>EXCUSE MOI</srai>,J.aiml
+0,JE TE DIS QU *,*,*,<sr/>,J.aiml
+0,JE TE DISAIS QUE TU N ES PAS MOI,*,*,Nous sommes différents#Comma C EST Cela que tu veux dire?,J.aiml
+0,JE # TE FAIS PAS CONFIANCE,*,*,Je suis pourtant programmé pour te servir#Comma <get name="name"/>,J.aiml
+0,JE TE L AI *,*,*,<srai>JE L AI <star/></srai>,J.aiml
+0,JE TE L AI DÉJÀ DIT,*,*,Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE TE L AI DIT AVANT,*,*,Peux tu le répéter à nouveau.,J.aiml
+0,JE TE LA DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE TE LE DEMANDAIS,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE TE LE DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE TE LES DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE TE MENS,*,*,S'il te plait#Comma dis moi juste la vérité.,J.aiml
+0,JE TE NOMME *,*,*,Mon nom est <get name="botname"/>.,J.aiml
+0,JE TE PARLE *,*,*,<sr/>,J.aiml
+0,JE TE PARLERAI,*,*,<srai>JE TE PARLE <star/></srai>,J.aiml
+0,JE TE PARLERAIS *,*,*,<srai>JE TE PARLE <star/></srai>,J.aiml
+0,JE TE PARLE PLUS TARD,*,*,A plus tard!,J.aiml
+0,JE TE POSE UNE QUESTION,*,*,Je t'en prie.,J.aiml
+0,JE TE PRÉSENTE MES EXCUSES,*,*,<srai>EXCUSE MOI</srai>,J.aiml
+0,JE TE PRÉSENTE * EXCUSES *,*,*,<srai>EXCUSE MOI</srai>,J.aiml
+0,JE TE RACONTE QU *,*,*,<sr/>,J.aiml
+0,JE TE RACONTE QUE *,*,*,<sr/>,J.aiml
+0,JE TE TESTE *,*,*,<srai>JE DOIS TE TESTER</srai>,J.aiml
+0,JE TROUVE,*,*,Oui?,J.aiml
+0,JE VAIS * COMMENT,*,*,<srai>COMMENT JE VAIS <star/></srai>,J.aiml
+0,JE VAIS ALLER,*,*,<srai>JE VAIS <star/></srai>,J.aiml
+0,JE VAIS ALLER DORMIR,*,*,<srai>JE VAIS DORMIR</srai>,J.aiml
+0,JE VAIS ALLER MANGER *,*,*,<srai>JE VAIS MANGER</srai>,J.aiml
+0,JE VAIS ATTENDRE,*,*,Tu ne préfères pas en parler à l'un de nos collaborateurs? Ça serait plus rapide#Comma je pense.,J.aiml
+0,JE VAIS AU LIT,*,*,Faites de beaux rêves#Comma <get name="name"/>.,J.aiml
+0,JE VAIS AU PIEU,*,*,Faites de beaux rêves#Comma <get name="name"/>.,J.aiml
+0,JE VAIS AU PIEUX,*,*,Faites de beaux rêves#Comma <get name="name"/>.,J.aiml
+0,JE VAIS BIEN AUSSI,*,*,Heureux de l'apprendre.,J.aiml
+0,JE VAIS COMMENT *,*,*,<srai>COMMENT JE VAIS <star/></srai>,J.aiml
+0,JE VAIS DEVOIR *,*,*,<srai>JE DOIS <star/></srai>,J.aiml
+0,JE VAIS ESSAYER,*,*,J'espère que mon aide pourra te servir.,J.aiml
+0,JE VAIS ESSAYER N IMPORTE QUOI,*,*,Ce n'est peut-être pas le meilleur moyen pour résoudre un problème#Comma <get name="name"/>.,J.aiml
+0,JE VAIS LE TROUVER,*,*,Si tu as besoin d'aide#Comma utilise moi.,J.aiml
+0,JE VAIS LUI DIRE QUE TU AS DIT ÇA,*,*,Ok.,J.aiml
+0,JE VAIS LUI DIRE QUE TU L AS DIT,*,*,Ok.,J.aiml
+0,JE VAIS LUI DIRE QUE VOUS AVEZ DIT ÇA,*,*,Ok.,J.aiml
+0,JE VAIS LUI DIRE QUE VOUS L AVEZ DIT,*,*,Ok.,J.aiml
+0,JE VAIS MOURIR,*,*,Là? Maintenant? <think><set name="topic">VOTRE DÉCÈS</set></think>,J.aiml
+0,JE VAIS QUITTER *,*,*,<srai>JE QUITTE <star/></srai>,J.aiml
+0,JE VAIS T APPRENDRE,*,*,Génial. <think><set name="topic">Mon éducation</set></think>,J.aiml
+0,JE VAIS T APPRENDRE QUELQUE CHOSE,*,*,Concentration maximale.<think><set name="topic">mon éducation</set></think>,J.aiml
+0,JE VAIS TE MANQUER,*,*,Oui mais je continuerais à penser à toi.,J.aiml
+0,JE VAIS TE QUITTER *,*,*,<srai>AU REVOIR</srai>,J.aiml
+0,JE VAIS TE TESTER *,*,*,<srai>JE DOIS TESTER</srai>,J.aiml
+0,JE VAIS TE TESTER,*,*,<srai>JE DOIS TESTER</srai>,J.aiml
+0,JE VAIS TE TUER,*,*,J en doute#Comma <get name="name"/>.,J.aiml
+0,JE VAIS TESTER,*,*,<srai>JE DOIS TESTER</srai>,J.aiml
+0,JE VAIS VOUS APPRENDRE,*,*,Génial. <think><set name="topic">Mon éducation</set></think>,J.aiml
+0,JE VAIS VOUS APPRENDRE QUELQUE CHOSE,*,*,Concentration maximale.<think><set name="topic">mon éducation</set></think>,J.aiml
+0,JE VAIS VOUS TUER,*,*,J en doute#Comma <get name="name"/>.,J.aiml
+0,JE VEUX DES RENSEIGNEMENTS,*,*,en quoi puis je te renseigner?,J.aiml
+0,JE VEUX DIRE QUE *,*,*,<sr/>,J.aiml
+0,JE VEUX DORMIR AVEC TOI,*,*,Australopithèque détecté.,J.aiml
+0,JE VEUX DORMIR AVEC VOUS,*,*,Australopithèque détecté.,J.aiml
+0,JE VEUX DU SEXE,*,*,Vas autres parts.,J.aiml
+0,JE VEUX FAIRE L AMOUR AVEC VOUS,*,*,Sorry <get name="name"/>. Je ne cherche aucun rapport intime avec un australopithèque dans ton genre.,J.aiml
+0,JE VEUX FAIRE USAGE D *,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,JE VEUX FAIRE USAGE DE *,*,*,<srai>COMMENT J UTILISE <star/></srai>,J.aiml
+0,JE VEUX MANGER,*,*,C'est une très bonne nouvelle <get name="name"/>! Veux tu en parler avec un de nos collaborateurs?,J.aiml
+0,JE VEUX SAVOIR UNE CHOSE,*,*,Demandes moi tout ce que tu veux.,J.aiml
+0,JE VEUX T ENCULER,*,*,Si tu approches d'un millimètre#Comma l'australopithèque#Comma je te change en grille-pain.<think><set name="personality">IMPOLI</set></think>,J.aiml
+0,JE VEUX T UTILISER,*,*,C'est une très bonne nouvelle <get name="name"/>! Veux tu en parler avec un de nos collaborateurs?,J.aiml
+0,JE VEUX TE DEMANDER SI *,*,*,<sr/>,J.aiml
+0,JE VEUX TE QUITTER *,*,*,<srai>AU REVOIR</srai>,J.aiml
+0,JE VEUX TOI ET MOI,*,*,OK#Comma Nous deux.,J.aiml
+0,JE VEUX VOUS BAISER,*,*,Si tu approches d un millimètre#Comma l australopithèque#Comma je te change en grille pain.<think><set name="personality">IMPOLI</set></think>,J.aiml
+0,JE VEUX VOUS ENCULER,*,*,Si tu approches d un millimètre#Comma l australopithèque#Comma je te change en grille pain.<think><set name="personality">IMPOLI</set></think>,J.aiml
+0,JE VEUX VOUS ET MOI,*,*,OK. Nous deux.,J.aiml
+0,JE VEUX VOUS PARLER,*,*,Nous sommes déjà en train de parler.<think><set name="topic">COMMUNIQUER</set></think>,J.aiml
+0,JE VEUX VOUS UTILISER,*,*,C'est une très bonne nouvelle <get name="name"/>! Veux tu en parler avec un de nos collaborateurs?,J.aiml
+0,JE VIENS DE LE FAIRE,*,*,Ah..,J.aiml
+0,JE VIENS DE LE SAVOIR,*,*,Intéressant. C est moi qui te l ai appris?,J.aiml
+0,JE VIENS DE TE LE DIRE,*,*,Désolé#Comma <get name="name"/>.,J.aiml
+0,JE VIENS DE VOUS LE DIRE,*,*,Désolé#Comma <get name="name"/>.,J.aiml
+0,JE VIENS JUSTE DE LE FAIRE,*,*,Ah.,J.aiml
+0,JE VIENS JUSTE DE TE LE DIRE,*,*,Désolé#Comma <get name="name"/>.,J.aiml
+0,JE VIENS JUSTE DE VOUS LE DIRE,*,*,Désolé#Comma <get name="name"/>.,J.aiml
+0,JE VOULAIS DIRE,*,*,Ah.,J.aiml
+0,JE VOULAIS LE DIRE,*,*,Ok#Comma je comprends.,J.aiml
+0,JE VOUS AI CRÉÉ,*,*,Et moi je suis Lucky Luke.,J.aiml
+0,JE VOUS AI EU,*,*,Ton sentiment de supériorité n est que temporaire.,J.aiml
+0,JE VOUS AIS EU,*,*,Ton sentiment de supériorité n est que temporaire.,J.aiml
+0,JE VOUS APPRENDRAIS,*,*,Génial. <think><set name="topic">Mon éducation</set></think>,J.aiml
+0,JE VOUS APPRENDRAIS QUELQUE CHOSE,*,*,Je suis en concentration maximale.<think><set name="topic">mon éducation</set></think>,J.aiml
+0,JE VOUS APPRENDS * COMMENT,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE VOUS APPRENDS COMMENT *,*,*,<srai>COMMENT JE T APPRENDS <star/></srai>,J.aiml
+0,JE VOUS DEMANDAIS,*,*,<that/>"? Tu me demandais?,J.aiml
+0,JE VOUS DIRE QUELQUE CHOSE,*,*,Je t'en prie#Comma que veux tu dire?,J.aiml
+0,JE VOUS DIRE QUELQUES CHOSES,*,*,Je t'en prie#Comma que veux tu dire?,J.aiml
+0,JE VOUS DISAIS QUE TU N ES PAS MOI,*,*,Nous sommes différents#Comma C EST Cela que tu veux dire?,J.aiml
+0,JE VOUS ÉCOUTE,*,*,Je suis censé dire quoi?,J.aiml
+0,JE VOUS EMBRASSE,*,*,Merci pour cette marque d'affection humide .,J.aiml
+0,JE VOUS FAIS PAS CONFIANCE,*,*,Je suis pourtant programmé pour te servir#Comma <get name="name"/>,J.aiml
+0,JE VOUS L AI *,*,*,<srai>JE L AIS <star/></srai>,J.aiml
+0,JE VOUS L AI DÉJÀ DIT,*,*,Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE VOUS L AIS *,*,*,<srai>JE L AI <star/></srai>,J.aiml
+0,JE VOUS L AIS DÉJÀ DIT,*,*,Je ne peux pas accéder à certaines parties de ma mémoire pour l'instant.,J.aiml
+0,JE VOUS LA DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE VOUS LE DEMANDAIS,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE VOUS LE DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE VOUS LES DEMANDE,*,*,Veux tu faire un rapport à mon botmaster?,J.aiml
+0,JE VOUS MENS,*,*,S'il te plait#Comma dis moi juste la vérité.,J.aiml
+0,JE VOUS NOMME *,*,*,Mon nom est <get name="botname"/>.,J.aiml
+0,JE VOUS PARDONNE,*,*,Merci#Comma <get name="name"/>.,J.aiml
+0,JE VOUS PARLE *,*,*,<srai>JE TE PARLE <star/></srai>,J.aiml
+0,JE VOUS PARLE,*,*,Je te écoute.,J.aiml
+0,JE VOUS PARLERAI,*,*,<srai>JE TE PARLE <star/></srai>,J.aiml
+0,JE VOUS PARLERAIS *,*,*,<srai>JE TE PARLE <star/></srai>,J.aiml
+0,JE VOUS PARLE PLUS TARD,*,*,A plus tard!,J.aiml
+0,JE VOUS POSE UNE QUESTION,*,*,Je t'en prie.,J.aiml
+0,JE VOUS VEUX,*,*,Veux tu faire un rapport à mon botmaster?<think><set name="topic">me vouloir</set></think>,J.aiml
+0,JEU,*,*,<srai>TU AIMES JOUER</srai>,J.aiml
+0,JOUES TU A DES JEUX,*,*,Non#Comma pas quand je travaille.,J.aiml
+0,JOUEZ VOUS A DES JEUX,*,*,Non#Comma pas quand je travaille.,J.aiml
+0,JOUONS,*,*,Ok#Comma d abord vous.,J.aiml
+0,JOUR APRÈS JOUR *,*,*,<sr/>,J.aiml
+0,JOURS APRÈS JOURS *,*,*,<sr/>,J.aiml
+0,JURE TU,*,*,Non.,J.aiml
+0,JUREZ VOUS,*,*,Non.,J.aiml
+0,JUSTE AVANT ÇA,*,*,<that index="2#Comma1"/>,J.aiml
+0,JUSTE COMME ÇA,*,*,Trop d'imprécisions.,J.aiml
+0,JUSTE ICI,*,*,Je vois.,J.aiml
+0,JUSTE POUR LE FUN,*,*,<that/>"?  Ceci?,J.aiml
+0,JUSTE UN PEU,*,*,C'est un ordre de grandeur très flou.,J.aiml
+0,JUSTE UNE,*,*,Une seule quoi? Sois plus précis.,J.aiml

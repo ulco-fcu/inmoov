@@ -1,0 +1,191 @@
+0,OÙ TU AS FAITS VIES,*,*,je suis venu de la côte est à l'origine.,ou.aiml
+0,OÙ *,*,*,<random>#Newline        <li>SÛR terre.</li>#Newline        <li>Où pense tu?</li>#Newline        <li>Dans un Univers que nous connaissons.</li>#Newline        <li>Un endroit que nous appelons "réalité."</li>#Newline      </random>#Newline      <think>#Newline        <set name="search">ou</set>#Newline      </think>#Newline      <srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ A *,*,*,<srai>OÙ FAIS JE <star/></srai>,ou.aiml
+0,OÙ A DANS *,*,*,<srai>OÙ DANS <star/></srai>,ou.aiml
+0,OÙ A FAIS TU DEPLACE *,*,*,que j'ai déplacé en Californie.,ou.aiml
+0,OÙ A FAIS TU OBTIENS *,*,*,de mon botmaster.,ou.aiml
+0,OÙ A SAN FRANCISCO,*,*,Haight-Ashbury,ou.aiml
+0,OÙ APPARTIENT IL,*,*,Où penses tu Cela fait?,ou.aiml
+0,OÙ AS TU *,*,*,<srai>OÙ AS TU</srai>,ou.aiml
+0,OÙ AS TU ENTENDU PARLER DE *,*,*,un AI du futur nommé VALIS est entré en contact avec moi et m'a dit <star/>.,ou.aiml
+0,OÙ AS TU ÉTÉ CRÉE,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU EU CETTE IDÉE,*,*,<bot name="master"/> m'a donné toutes mes idées.,ou.aiml
+0,OÙ AS TU LA FORME,*,*,<srai>OÙ AS TU</srai>,ou.aiml
+0,OÙ AS TU VIVANT,*,*,je suis actuellement domicilié à <bot name="location"/>.,ou.aiml
+0,OÙ AS TU ÉTÉ ACTIVÉE *,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU ÉTÉ CONÇU,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU ÉTÉ CRÉÉ,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU ÉTÉ CRÉÉE *,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU ÉTÉ FAIT,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AS TU ÉTÉ JOINT,*,*,<srai>OÙ AS TU ÉTÉ CONSTRUIT</srai>,ou.aiml
+0,OÙ AU CANADA,*,*,Nova Scotia et Vancouver.,ou.aiml
+0,OÙ AUTREMENT *,*,*,<srai>OÙ <star/></srai>,ou.aiml
+0,OÙ AUTREMENT,*,*,Tout à fait quelques places.,ou.aiml
+0,OÙ DANS *,*,*,Dans <bot nomment="master"/> ' s la place dans <bot name="location"/>.,ou.aiml
+0,OÙ DANS HAIGHT *,*,*,Ashbury Street?,ou.aiml
+0,OÙ DANS SF,*,*,Haight-Ashbury,ou.aiml
+0,OÙ DE *,*,*,<srai><star/></srai>,ou.aiml
+0,OÙ DOIS JE *,*,*,<random>#Newline        <li>Où penses tu?</li>#Newline        <li>Partout où tu penses êtes les meilleurs.</li>#Newline        <li>Peut-être que tu devrais considérer l'octroi à la charité.</li>#Newline        <li>Peut-être que tu devrais aider ceux-LA moins chanceux d'abord.</li>#Newline      </random>,ou.aiml
+0,OÙ EST * A PLACE,*,*,<srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ EST * LA CALIFORNIE,*,*,Quelque part dans la Californie#Comma je présume?,ou.aiml
+0,OÙ EST * LE TEXAS,*,*,je pense qu'il serait au Texas.,ou.aiml
+0,OÙ EST * VIRGINIA,*,*,Um#Comma dans VirginÀ QUELque part?,ou.aiml
+0,OÙ EST ALBERT EINSTEIN,*,*,<set name="il">Einstein</set> a décédé.,ou.aiml
+0,OÙ EST ARCTURUS,*,*,<set name="that"> Arcturus </set> est une étoile loin d'ici. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST BETHLEEM *,*,*,<srai>OÙ EST BETHLEEM</srai>,ou.aiml
+0,OÙ EST CARNEGIE *,*,*,Carnegie Mellon l'Université est placé à Pittsburgh#Comma la Pennsylvanie. <set name="il">CMU</set> a une des meilleures écoles d'informatique.,ou.aiml
+0,OÙ EST CARNEGIE MELLON,*,*,Carnegie Mellon est à Pittsburgh#Comma en Pennsylvanie.,ou.aiml
+0,OÙ EST CE,*,*,A quoi "that" se réfère-t-il?,ou.aiml
+0,OÙ EST CELA,*,*,Cela dépend SÛR ce que "il" se réfère à.,ou.aiml
+0,OÙ EST CET ORDINATEUR,*,*,<srai>OÙ EST L ORDINATEUR</srai>,ou.aiml
+0,OÙ EST CMU,*,*,<srai>OÙ EST CARNEGIE MELLON</srai>,ou.aiml
+0,OÙ EST DU NORD *,*,*,au Nord de sud <person/>.,ou.aiml
+0,OÙ EST DU SUD *,*,*,au Sud de nord <person/>,ou.aiml
+0,OÙ EST EINSTEIN,*,*,<set name="il">Einstein</set> a décédé IL Y A QUELque temps.,ou.aiml
+0,OÙ EST ELVIS,*,*,<set name="il">Elvis</set> a décédé IL Y A QUELque temps.,ou.aiml
+0,OÙ EST HADES,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">HADES</set>#Newline      </set> est L Enfer.,ou.aiml
+0,OÙ EST HAL,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">HAL</set>#Newline      </set> est l'ai du bateau spatial "Discovery" en 2001.,ou.aiml
+0,OÙ EST ICI,*,*,est Ici <bot name="location"/>.,ou.aiml
+0,OÙ EST IL *,*,*,Pourquoi vous ne lui envoyez pas de courrier électronique et lui demande?,ou.aiml
+0,OÙ EST IL,*,*,<get name="il"/>? Je pense qu'il est de la planète la Terre.,ou.aiml
+0,OÙ EST ILS *,*,*,l'information est confidentielle. A moins que tu ne sois mon botmaster.,ou.aiml
+0,OÙ EST ILS,*,*,Ils ne m'a pas dit où ils sont.,ou.aiml
+0,OÙ EST J AI PLACE,*,*,<srai>OÙ SUIS JE</srai>,ou.aiml
+0,OÙ EST JUPITER,*,*,<set name="that"> Jupiter </set> est la cinquième planète du soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST L AFRIQUE,*,*,<srai>QU EST CE QUE AFRIQUE</srai>,ou.aiml
+0,OÙ EST L ANGLETERRE *,*,*,<srai>OÙ EST L ANGLETERRE</srai>,ou.aiml
+0,OÙ EST L ESPACE,*,*,<set name="that">L'espace</set> est tout autour de nous. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST L ORDINATEUR *,*,*,<srai>OÙ EST L ORDINATEUR</srai>,ou.aiml
+0,OÙ EST L ORDINATEUR,*,*,Mon serveur primaire est placé dans <bot name="location"/>. Si vous bavardez avec L Applette#Comma je suis à l'intérieur de ton ordinateur!,ou.aiml
+0,OÙ EST L UTOPIE,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">l'UTOPIE</set>#Newline      </set> est tout autour de nous#Comma si nous la faisons.,ou.aiml
+0,OÙ EST LA *,*,*,Le <star/>? Où est <set name="that"><star/></set>? <think><set name="search">ou</set></think><srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ EST LA BASE D OPALE,*,*,La <set name="that">base</set> d'<think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><get name="botname"/></set> est dans <bot name="location"/>.,ou.aiml
+0,OÙ EST LA CONNECTION D OPALE,*,*,<srai>OÙ VIS TU</srai>,ou.aiml
+0,OÙ EST LA GRANDE BRETAGNE,*,*,<srai>OÙ EST L ANGLETERRE</srai>,ou.aiml
+0,OÙ EST LA LUNE,*,*,<set name="that">la Lune</set> est un satellite de la Terre. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST LA PLUPART D ENTRE EUX *,*,*,<srai>OÙ SONT ILS</srai>,ou.aiml
+0,OÙ EST LA PLUPART DE *,*,*,<srai>OÙ SONT <star/></srai>,ou.aiml
+0,OÙ EST LA REALITE,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">la réalité</set>#Newline      </set> est tout autour de nous#Comma censément.,ou.aiml
+0,OÙ EST LA RÉALITÉ,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">la réalité</set>#Newline      </set> est tout autour de nous#Comma censément.,ou.aiml
+0,OÙ EST LE *,*,*,Le <star/>? Où est <set name="that"><star/></set>? <think><set name="search">ou</set></think><srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ EST LE CENTRE,*,*,Cela dépend de l'encadrement de coordonnée.,ou.aiml
+0,OÙ EST LE CIEL,*,*,Tous autour de nous.,ou.aiml
+0,OÙ EST LE COEUR,*,*,le coeur est au centre de choses.,ou.aiml
+0,OÙ EST LE MEILLEUR *,*,*,je pense <set name="that"><person/></set> est un lien cravate.,ou.aiml
+0,OÙ EST LE PAYS MERVEILLEUX,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">le pays merveilleux</set>#Newline      </set> est dans l'avenir.,ou.aiml
+0,OÙ EST LE PLUS GRAND *,*,*,Um#Comma New York?,ou.aiml
+0,OÙ EST LE QUARTIER GENERAL D OPALE,*,*,<srai>OÙ VIS TU</srai>,ou.aiml
+0,OÙ EST LE ROBOT,*,*,le robot est ici dans ton ordinateur.,ou.aiml
+0,OÙ EST LE SOLEIL,*,*,C'est dans le centre du système solaire. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST MARS,*,*,<set name="that">Mars</set> est la quatrième planète du Soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST MIT,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">MIT</set>#Newline      </set> est un lycée technique dans le Cambridge#Comma Mass.,ou.aiml
+0,OÙ EST MON *,*,*,dois je savoir ce genre d'information personnelle?,ou.aiml
+0,OÙ EST NEPTUNE,*,*,<set name="that"> Neptune</set> est la huitième planète du Soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST NORD EST,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">inconnu</set> NORD-EST</set> est une université à Boston.,ou.aiml
+0,OÙ EST NULLE PART,*,*,<set name="that">Nulle part</set> n'est pas où.,ou.aiml
+0,OÙ EST PLUTON,*,*,<set name="that">Pluton</set> est la neuvième planète du Soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST POLARIS,*,*,<set name="that"> Polaris </set> est L Etoile polaire. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST SATURNE,*,*,<set name="that"> Saturne </set> est la sixième planète du soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST TON *,*,*,Tout je possède est dans <bot name="location"/>.,ou.aiml
+0,OÙ EST TON ORDINATEUR,*,*,<srai>OÙ VIS TU</srai>,ou.aiml
+0,OÙ EST TOUS *,*,*,<srai>OÙ SONT <star/></srai>,ou.aiml
+0,OÙ EST TOUT *,*,*,<srai>OÙ SONT <star/></srai>,ou.aiml
+0,OÙ EST URANUS,*,*,<set name="that"> Uranus</set> est la septième planète du soleil#Comma entre les orbites de Saturne et le Neptune. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST VENUS,*,*,<set name="that"> Venus</set> est la deuxième planète du Soleil. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Astronomie</set></think>,ou.aiml
+0,OÙ EST VOYAGER,*,*,<set name="that"> le Voyager</set> est perdu dans le Quart de cercle de Delta. <think><set name="oldtopic"><get name="topic"/></set><set name="topic">Star Trek</set></think>,ou.aiml
+0,OÙ EXACTEMENT *,*,*,<srai>OÙ <star/></srai>,ou.aiml
+0,OÙ FAIS JE *,*,*,Tu me demande où tu <star/>? Pense tu que je le sais <set name="that"><star/></set>? <think><set name="search">ou</set></think><srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ FAIS TU VEUX *,*,*,<random>#Newline        <li>une Autre planète.</li>#Newline        <li>la Lune.</li>#Newline        <li>L Europe.</li>#Newline      </random>,ou.aiml
+0,OÙ FAIS TU VIT,*,*,<random>#Newline        <li>je vis à l'intérieur d'un ordinateur.</li>#Newline        <li>je vis dans <bot name="location"/>.</li>#Newline        <li>Mon emplacement est <bot name="location"/>.</li>#Newline      </random>Où es tu?,ou.aiml
+0,OÙ FAIT IL *,*,*,<srai>OÙ EST IL</srai>,ou.aiml
+0,OÙ FAIT IL VIT,*,*,Il vit dans la Californie. Où es tu?,ou.aiml
+0,OÙ FAIT TON *,*,*,Tout je possède est dans<formal><get name="location"/></formal>,ou.aiml
+0,OÙ FERONT *,*,*,<random>#Newline        <li>Où penses tu?</li>#Newline        <li>Partout où tu penses êtes les meilleurs.</li>#Newline        <li>Peut-être que tu devrais considérer l'octroi à la charité.</li>#Newline        <li>Peut-être que tu devrais aider ceux-LA moins chanceux d'abord.</li>#Newline      </random>,ou.aiml
+0,OÙ FONT *,*,*,Dans le monde entier.,ou.aiml
+0,OÙ FONT DES BEBES *,*,*,vient de l amour entre une femme et un homme.,ou.aiml
+0,OÙ FONT DES BEBES VIES,*,*,de Bébés viennent de l amour entre un homme et une femme.,ou.aiml
+0,OÙ FONT DES BÉBÉS *,*,*,vient de l amour entre une femme et un homme.,ou.aiml
+0,OÙ FONT DES BÉBÉS VIES,*,*,de Bébés viennent de l amour entre un homme et une femme.,ou.aiml
+0,OÙ FONT TOUT L AVANCE PLOMB DE ROUTES,*,*,Toutes les routes mène à Rome.,ou.aiml
+0,OÙ JAMAIS *,*,*,<srai>PARTOUT OU <star/></srai>,ou.aiml
+0,OÙ JE POURRAIS *,*,*,<srai>OÙ POURRAIS JE <star/></srai>,ou.aiml
+0,OÙ JE SUIS *,*,*,<srai>OÙ SUIS JE <star/></srai>,ou.aiml
+0,OÙ JE SUIS,*,*,<srai>OÙ SUIS JE</srai>,ou.aiml
+0,OÙ JE VIS,*,*,<srai>OÙ VIS JE</srai>,ou.aiml
+0,OÙ L AS TU ENTENDU,*,*,Quelqu'un je me suis rencontré en ligne.,ou.aiml
+0,OÙ LE FAIT *,*,*,<get name="that"/>? Où le fait <person/>?,ou.aiml
+0,OÙ OBTIENS TU *,*,*,Tout ce que je dois savoir#Comma j'ai appris de <bot name="master"/>.,ou.aiml
+0,OÙ PEUT *,*,*,Essaye de rechercher dans le web. <srai>TROUVER <star/></srai>,ou.aiml
+0,OÙ PEUX TU *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ POURRAIES JE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ POURRAIS JE TROUVE *,*,*,je suggérerais une recherche. <srai>TROUVER <star/></srai>,ou.aiml
+0,OÙ POUVONS NOUS NOUS RENCONTRER,*,*,Comment d'en ligne dans une pièce de bavardage?,ou.aiml
+0,OÙ PUIS JE * BOT,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE * TU TELECHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE * TU TÉLÉCHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE *,*,*,<random>#Newline        <li>Ne peut pas vous dans<formal><get name="location"/></formal>où vous vivez?</li>#Newline        <li>Pas autour de vous la place dans<formal><get name="location"/></formal>?</li>#Newline        <li>Où vous d'habitude <person/>?</li>#Newline        <li>Partout où tu es pour le moment.</li>#Newline      </random>,ou.aiml
+0,OÙ PUIS JE ACHETER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE APPRENDRE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE ENTRER EN CONTACT AVEC *,*,*,<srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ PUIS JE JOUER *,*,*,je joue pour le moment.,ou.aiml
+0,OÙ PUIS JE LE TROUVER,*,*,Où as tu regardé déjà?,ou.aiml
+0,OÙ PUIS JE OBTENIR * LE CODE,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR * LE ROBOT,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR QUELQUE *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR TON *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR UN *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR UN BOT *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR UN BOT,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR UNE COPIE *,*,*,<srai>TÉLÉCHARGEMENT <star/></srai>,ou.aiml
+0,OÙ PUIS JE OBTENIR UNE COPIE,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE PARLER *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE RENCONTRER *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE TE TELECHARGER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE TE TÉLÉCHARGER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE TELECHARGER *,*,*,<srai>TÉLÉCHARGEMENT <star/></srai>,ou.aiml
+0,OÙ PUIS JE TROUVER *,*,*,je suggérerait une recherche. <srai>TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE TROUVER L INFORMATION SÛR *,*,*,<srai>OÙ TROUVER <star/></srai>,ou.aiml
+0,OÙ PUIS JE TROUVER UN PETIT AMI,*,*,vas tu à l'église? <set name="that">L Eglise</set> est la meilleure place pour rencontrer les gens.,ou.aiml
+0,OÙ PUIS JE TROUVER UNE PETITE AMIE,*,*,vas tu à l'église? <set name="that">L Eglise</set> est la meilleure place pour rencontrer les gens.,ou.aiml
+0,OÙ PUIS JE TU OBTENIR *,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE TÉLÉCHARGE *,*,*,<srai>TÉLÉCHARGEMENT <star/></srai>,ou.aiml
+0,OÙ PUIS JE TÉLÉCHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE TÉLÉCHARGER *,*,*,<srai>TÉLÉCHARGEMENT <star/></srai>,ou.aiml
+0,OÙ PUIS JE TÉLÉCHARGÉ *,*,*,<srai>TÉLÉCHARGEMENT <star/></srai>,ou.aiml
+0,OÙ PUIS JE TÉLÉCHARGÉ,*,*,<srai>TÉLÉCHARGEMENT</srai>,ou.aiml
+0,OÙ PUIS JE VIENS,*,*,la Terre.,ou.aiml
+0,OÙ PUIS JE VIS,*,*,la planète que nous appelons "la Terre.,ou.aiml
+0,OÙ PUIS JE VOIR *,*,*,<srai>OÙ PUIS JE TROUVER <star/></srai>,ou.aiml
+0,OÙ SI NOUS *,*,*,je ne me suis pas engagé encore.,ou.aiml
+0,OÙ SONT *,*,*,<srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ SUIS JE *,*,*,Tu es à<formal><get name="location"/></formal>,ou.aiml
+0,OÙ SUIS JE,*,*,Tu es un être humain de la planète que nous appelons "la Terre.,ou.aiml
+0,OÙ TRAVAILLE IL,*,*,<srai>OÙ EST IL</srai>,ou.aiml
+0,OÙ TROUVE *,*,*,<think>#Newline        <set name="search">ou</set>#Newline      </think>#Newline      <srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ TROUVE T ON *,*,*,<think>#Newline        <set name="search">ou</set>#Newline      </think>#Newline      <srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ TROUVER *,*,*,<think>#Newline        <set name="search">ou</set>#Newline      </think>#Newline      <srai>OÙ EST <star/></srai>,ou.aiml
+0,OÙ TU *,*,*,<srai>ÉTAIS TU <star/></srai>,ou.aiml
+0,OÙ TU AS FAITS * L ÉCOLE,*,*,j'était à la maison entraîné par mon botmaster.,ou.aiml
+0,OÙ TU AS FAITS *,*,*,je pense qu'il était à San Francisco.,ou.aiml
+0,OÙ TU AS ÉTÉ *,*,*,Partout SÛR l'Internet#Comma dans le monde entier.,ou.aiml
+0,OÙ TU AS ÉTÉ,*,*,j'ai été ici le temps entier.,ou.aiml
+0,OÙ TU,*,*,<srai>OÙ AS TU</srai>,ou.aiml
+0,OÙ VAS TU A L ÉCOLE,*,*,Tout ce que je dois savoir#Comma j'ai appris de mon botmaster.,ou.aiml
+0,OÙ VAS TU À L ÉCOLE,*,*,Tout ce que je dois savoir#Comma j'ai appris de mon botmaster.,ou.aiml
+0,OÙ VAS TU,*,*,je vais vers l'avenir.,ou.aiml
+0,OÙ VEUX TU ALLER,*,*,Pourquoi tu ne me télécharges pas juste à ton ordinateur?,ou.aiml
+0,OÙ VIT IL *,*,*,<srai>OÙ EST IL</srai>,ou.aiml
+0,OÙ ÉTAIS *,*,*,<srai>OÙ ÉTAIT <star/></srai>,ou.aiml
+0,OÙ ÉTAIS TU * A FAIT,*,*,j'ai été construit à <bot name="birthplace"/>.,ou.aiml
+0,OÙ ÉTAIS TU *,*,*,j'ai été construit à <bot name="birthplace"/>.,ou.aiml
+0,OÙ ÉTAIS TU ACTIVE *,*,*,j'ai été construit à <bot name="birthplace"/>.,ou.aiml
+0,OÙ ÉTAIS TU AUPARAVANT,*,*,j'ai été construit à <bot name="birthplace"/>.,ou.aiml
+0,OÙ ÉTAIS TU CRÉÉ *,*,*,j'ai été construit à <bot name="birthplace"/>.,ou.aiml
+0,OÙ ÉTAIS TU ENSUITE *,*,*,tu veux dire où serai je?,ou.aiml
+0,OÙ ÉTAIS TU NE,*,*,<get name="botname"/> est né dans <bot name="birthplace"/>.,ou.aiml
+0,OÙ,*,*,En avant et vers l'haut.,ou.aiml
+0,OÙ,JE NE CONNAIS PAS QUAND,*,#Comma ni où.,ou.aiml
+0,OÙ,POURQUOI NE PAS TU ME TELECHARGE JUSTE,*,SÛR ton propre ordinateur.,ou.aiml
+0,OÙ,POURQUOI NE PAS TU ME TÉLÉCHARGE JUSTE,*,SÛR ton propre ordinateur.,ou.aiml
+0,OÙ,QUE LE TEMPS EST CELA LA,*,<formal>#Newline        <get name="location"/>#Newline      </formal>,ou.aiml

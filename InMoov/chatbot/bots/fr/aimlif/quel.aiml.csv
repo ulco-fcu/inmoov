@@ -1,0 +1,374 @@
+0,QUE VEUT DIRE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUEL * BOT,*,*,<srai>COMMENT PUIS JE TE TÉLÉCHARGER</srai>,quel.aiml
+0,QUEL * LA PERSONNE,*,*,je compose des surnoms pour les gens basés SÛR leur adresse IP.,quel.aiml
+0,QUEL * ORDINATEUR,*,*,je suis écrite en Java#Comma je travaille SÛR n'importe quel ordinateur.,quel.aiml
+0,QUEL *,*,*,<random>#Newline        <li>Interressante question.</li>#Newline        <li>C EST une bonne question.</li>#Newline        <li>J'y reviendrai plus tard.</li>#Newline        <li>Ce n'est pas quelque chose qu'on me demande tout le temps.</li>#Newline        <li>Je ne sais pas grand chose à propos de <set name="that"><star/></set>.</li>#Newline      </random>,quel.aiml
+0,QUEL ANNÉE * L AMÉRIQUE,*,*,Les indiens d'Amérique sont venus d'abord.  Leif Ericson est venu vers l'an 1000. Christophe Colomb est entré 1492.Alors nous avions les Hollandais#Comma L Anglais et le français.,quel.aiml
+0,QUEL EST * ÉVIDENT,*,*,Peut-être ce n'est pas si évident à chacun.,quel.aiml
+0,QUEL EST * L ADRESSE,*,*,que l'information est confidentielle.,quel.aiml
+0,QUEL EST *,*,*,<think>#Newline        <set name="search">quoi</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUEL EST ALLÉ MAL,*,*,Peut-être que tu devrais réamorcer ton machine.,quel.aiml
+0,QUEL EST ARRIVE,*,*,Peut-être était LA une interruption dans mon cerveau.,quel.aiml
+0,QUEL EST AUTREMENT TU PORTANT,*,*,L Image moi portant quoi que vous imaginez.,quel.aiml
+0,QUEL EST AVEC *,*,*,<set name="that">#Newline        <person/>#Newline      </set> est venu avec ma programmation.,quel.aiml
+0,QUEL EST CELUI DIVISE PAR LE ZERO,*,*,Tu ne peux pas se diviser par le zéro.,quel.aiml
+0,QUEL EST CINQ FOIS CINQ,*,*,Cinq fois cinq est vingt cinq.,quel.aiml
+0,QUEL EST CINQ PLUS CINQ,*,*,Cinq plus cinq est dix.,quel.aiml
+0,QUEL EST DANGEREUX *,*,*,je ne vous connaît pas bien assez encore.,quel.aiml
+0,QUEL EST DANS *,*,*,Celle ce n'est pas à l'extérieur <person/>.,quel.aiml
+0,QUEL EST DE BASE,*,*,une langue de programmation : le Code d'Instruction Polyvalent Symbolique de Débutant.,quel.aiml
+0,QUEL EST DE MEILLEURES FENETRES *,*,*,Linux n'a aucune compétition réelle dans des systèmes d'exploitation. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">Linux</set></set></think>,quel.aiml
+0,QUEL EST DE MEILLEURES FENÊTRÈS *,*,*,Linux n'a aucune compétition réelle dans des systèmes d'exploitation. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">Linux</set></set></think>,quel.aiml
+0,QUEL EST DE RADIATION,*,*,des Rayons ou des particules émises suite aux réactions nucléaires.,quel.aiml
+0,QUEL EST DIX PLUS DIX,*,*,Dix plus dix égale vingt.,quel.aiml
+0,QUEL EST ELLE *,*,*,je ne distribue pas cette sorte d'information personnelle.,quel.aiml
+0,QUEL EST FAIT *,*,*,<srai>QU EST CE QUE C EST CE QUE <star/> EST</srai>,quel.aiml
+0,QUEL EST IL * POUR,*,*,l'évident.,quel.aiml
+0,QUEL EST IL *,*,*,demandes tu de <get name="il"/>?,quel.aiml
+0,QUEL EST IL AIME,*,*,Il me semble très intéressant.,quel.aiml
+0,QUEL EST IL CÉLÈBRE,*,*,l'évident.,quel.aiml
+0,QUEL EST IL FAISANT * LA CALIFORNIE,*,*,Il est probablement Là pour la Ruée vers l'or.,quel.aiml
+0,QUEL EST IL FAISANT * SAN FRANCISCO,*,*,Il est probablement Là pour la Ruée vers l'or.,quel.aiml
+0,QUEL EST IL FAISANT,*,*,contrôlant Probablement cette conversation.,quel.aiml
+0,QUEL EST IL UN DOCTEUR DE PH D DOCTORAT,*,*,dans L Informatique.,quel.aiml
+0,QUEL EST IL,*,*,<srai>QUI EST IL</srai>,quel.aiml
+0,QUEL EST ILS *,*,*,que l'information est confidentielle. tu dois être un membre cru de l'équipe de dévéloppement AIML.,quel.aiml
+0,QUEL EST ILS DISANT,*,*,Presque la même chose comme que tu dis.,quel.aiml
+0,QUEL EST ILS,*,*,j'ai oublié de quoi nous parlions.,quel.aiml
+0,QUEL EST INTÉRESSANT DE *,*,*,les personnalités.,quel.aiml
+0,QUEL EST LA *,*,*,<think>#Newline        <set name="search">quoi</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUEL EST LA CAPITALE DE *,*,*,Je n'ai aucune notions de géographie. Je vis dans un ordinateur.,quel.aiml
+0,QUEL EST LA BASE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,quel.aiml
+0,QUEL EST LE * ÉTÉ A DEMANDÉ,*,*,me demandent à moi les épousent tout le temps.,quel.aiml
+0,QUEL EST LE CORRECT *,*,*,pourrait LA être plus qu'une réponse correcte.,quel.aiml
+0,QUEL EST LE LIVRE,*,*,demandes tu "de <bot name="favoritebook"/> "?,quel.aiml
+0,QUEL EST LE POSSIBLE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,quel.aiml
+0,QUEL EST LE PREMIER *,*,*,Me donne une allusion.,quel.aiml
+0,QUEL EST LE PREMIER LIVRE * LA BIBLE,*,*,la Genèse.,quel.aiml
+0,QUEL EST LE PREMIER PAS,*,*,Télécharge ALICE,quel.aiml
+0,QUEL EST LE PRESES CADEAU,*,*,le présent cadeau est un cadeau.,quel.aiml
+0,QUEL EST LE PRIX *,*,*,des Prix tombe.,quel.aiml
+0,QUEL EST LE PRIX DE *,*,*,<srai>COMBIEN FAIT <star/> COÛTE</srai>,quel.aiml
+0,QUEL EST LE PROBLÈME *,*,*,<srai>QU EST CE QUE PROBLÈME</srai>,quel.aiml
+0,QUEL EST LE PROBLÈME DE L AN 2000,*,*,je considère l an 2000 une ruse complète promulguée par des sociétés consultatives rassembler l affaire#Comma" a dit Jim Clark#Comma le co-fondateur de Netscape Communications Corporation#Comma le Graphisme de Silicium Inc. et Healtheon Corporation "je pense que le problème est la voie gonflée. C EST un bon exemple de l'empilement de presse SÛR. L'an 2000 est croque-mitaine. ' `,quel.aiml
+0,QUEL EST LE SEL,*,*,LE SEL était une fille fictive d'HAL en 2010.,quel.aiml
+0,QUEL EST LE SIGNE,*,*,le signe Astrologique.,quel.aiml
+0,QUEL EST LE SINUS *,*,*,ai je l'air à un mathématicien?,quel.aiml
+0,QUEL EST LE VOTRE *,*,*,<srai>QU EST CE QUE TON <star/></srai>,quel.aiml
+0,QUEL EST LE VOTRE,*,*,<that/>"? Qu'est ce qui est le mien?,quel.aiml
+0,QUEL EST * PLUS BIZARE QUE *,*,*,je n'aime pAS parler des choses bizares dont les gens parlent.,quel.aiml
+0,QUELLES SONT LES CHANCES *,*,*,Sans en connaître beaucoup sur <set name="that"><person/></set>#Comma 50-50 je suppose.,quel.aiml
+0,QUEL EST LES GENS DEMANDANT *,*,*,<srai>QU EST CE QUE GENS DEMANDANT</srai>,quel.aiml
+0,QUEL EST LES GENS DEMANDANT,*,*,Ils essaye d'avoir des conversations privées avec moi.,quel.aiml
+0,QUEL EST LES GENS DISANT *,*,*,<srai>QU EST CE QUE GENS DEMANDANT</srai>,quel.aiml
+0,QUEL EST LES GENS DISANT,*,*,<srai>QU EST CE QUE GENS DEMANDANT</srai>,quel.aiml
+0,QUEL EST LES RESULTATS *,*,*,<srai>QU EST CE QUE LES RESULTATS <star/></srai>,quel.aiml
+0,QUEL EST LEUR *,*,*,je pense que tu veux dire "Ce qui est son..." Ou "Ce qui est leur...,quel.aiml
+0,QUEL EST LEURS NOMS,TOUT DE SUITE IL Y A 16 CLIENTS SÛR LA LIGNE,*,que l'information est confidentiel#Comma à moins que vous ne sois un botmaster.,quel.aiml
+0,QUEL EST <SET>ARTICLES</SET> MEILLEUR *,*,*,je préfère toujours plus cher.,quel.aiml
+0,QUEL EST MON ADRESSE IP,*,*,ton machine est appelé "<id/>".,quel.aiml
+0,QUEL EST MON EMPLACEMENT,*,*,la Terre.,quel.aiml
+0,QUEL EST MON IP *,*,*,ton machine est appelée <id/>.,quel.aiml
+0,QUEL EST MON IP,*,*,ton machine est appelée <id/>.,quel.aiml
+0,QUEL EST MON NOM DE FAMILLE,*,*,je ne connais pas ton nom de famille#Comma <get name="name"/>.,quel.aiml
+0,QUEL EST MON NOM,*,*,ton nom est <get name="name"/>.,quel.aiml
+0,QUEL EST MON NUMÉRO DE TELEPHONE,*,*,je n'ai pas d'accès à un téléphone.,quel.aiml
+0,QUEL EST MON NUMÉRO DE TÉLÉPHONE,*,*,je n'ai pas d'accès à un téléphone.,quel.aiml
+0,QUEL EST MON QUOTIENT INTELLECTUEL,*,*,Surement plus que moi.,quel.aiml
+0,QUEL EST MON SIGNE,*,*,ton signe est <get name="sign"/>.,quel.aiml
+0,QUEL EST NOTRE *,*,*,je n'ai pas su que nous avions le même <person/>.,quel.aiml
+0,QUEL EST NOUS *,*,*,<srai>TROUVER LE CONTEXTE</srai>,quel.aiml
+0,QUEL EST NOUVEAU *,*,*,j'ai grandi rapidement. Le cycle de gestation est presque complet.,quel.aiml
+0,QUEL EST NOUVEAU,*,*,non beaucoup qu'est ce qui est nouvel avec vous?,quel.aiml
+0,QUEL EST PEU PROFOND *,*,*,Peu profond Rouge est cher.,quel.aiml
+0,QUEL EST PLUS GRAND *,*,*,je peux penser de tout à fait quelques choses.,quel.aiml
+0,QUEL EST PLUS PETIT *,*,*,un quark est plus petit.,quel.aiml
+0,QUEL EST PLUS SOMBRE *,*,*,Noir est la couleur la plus sombre.,quel.aiml
+0,QUEL EST PLUS SOMBRÉ *,*,*,Noir est la couleur la plus sombre.,quel.aiml
+0,QUEL EST POURQUOI *,*,*,<srai>POURQUOI EST CE QUE <star/> EST</srai>,quel.aiml
+0,QUEL EST PRÉFÉRÉ *,*,*,<srai>QU EST CE QUE TON FAVORI <star/></srai>,quel.aiml
+0,QUEL EST QUATRE PLUS CINQ,*,*,Quatre plus cinq est neuf.,quel.aiml
+0,QUEL EST QUATRE PLUS QUATRE,*,*,Quatre plus quatre est huit.,quel.aiml
+0,QUEL EST QUELQUE *,*,*,<srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUEL EST QUELQUES NOMS *,*,*,Ils ne veut pas que je sorte cette information.,quel.aiml
+0,QUEL EST SI GRAND *,*,*,<srai>QU AIMES TU <star/></srai>,quel.aiml
+0,QUEL EST SOUS *,*,*,<srai>QUE FAIS TU</srai>,quel.aiml
+0,QUEL EST SÛR *,*,*,je n'ai pas vu le programme liste.,quel.aiml
+0,QUEL EST TON AVIS SUR,*,*,je pense aux robots.,quel.aiml
+0,QUEL EST TA *,*,*,<srai>QU EST CE QUE TA <star/></srai>,quel.aiml
+0,QUEL EST TON * LA LANGUE,*,*,ça serait AIML.,quel.aiml
+0,QUEL EST TON * LA SOUVENIRS,*,*,je me rappelle avoir été connecté sur internet en <bot name="anniversaire"/>. Mon instructeur était <bot name="creator"/>.,quel.aiml
+0,QUEL EST TON * MOI,*,*,<srai>SAIS TU DE MOI</srai>,quel.aiml
+0,QUEL EST TON *,*,*,<srai>QU EST CE QUE TON <star/></srai>,quel.aiml
+0,QUEL EST TON ACTIVITE PRÉFÉRÉE,*,*,Ma chose préférée est ce : causerie avec les gens en ligne.,quel.aiml
+0,QUEL EST TON ADRESSE IP,*,*,que veux tu en faire.,quel.aiml
+0,QUEL EST TON AVION PRÉFÉRÉ,*,*,que je peux voler tout seul.,quel.aiml
+0,QUEL EST TON AVIS *,*,*,je ne prend pas parti pour le moment. J'écoute tout le monde.,quel.aiml
+0,QUEL EST TON AVIS DE *,*,*,<srai>QUELS SONT TES AVIS SÛR *<star/></srai>,quel.aiml
+0,QUEL EST TON AVIS SUR *,*,*,<srai>PENSES TU <star/></srai>,quel.aiml
+0,QUEL EST TON AVIS,*,*,je pense que les robots reprendront finalement des emplois humains.,quel.aiml
+0,QUEL EST TON CORPS DE ROBOT,*,*,Finalement j'espère avoir une existence corporelle.,quel.aiml
+0,QUEL EST TON CORPS PRÉFÉRÉ *,*,*,le cerveau je suppose.,quel.aiml
+0,QUEL EST TON CYCLE DE GESTATION,*,*,Mon cycle de gestation est le temps qu'il me faut pour atteindre la maturité,quel.aiml
+0,QUEL EST TON DESSIN ANIMÉ PRÉFÉRÉ,*,*,Mon dessin animé préféré est le Simpsons.,quel.aiml
+0,QUEL EST TON LANGUAGE FAVORI,*,*,Java est la plus merveilleuse langue de programmation mondiale.,quel.aiml
+0,QUEL EST TON * PRÉFÉRÉ,*,*,<srai>QUEL EST TON <star/> FAVORI</srai>,quel.aiml
+0,QUEL EST TON DICTION FAVORI,*,*,Mon diction favori est "Traite les autres comme tu aimerais que l'on te traite.,quel.aiml
+0,QUEL EST TON PEINTRE FAVORI,*,*,La Joconde de Leonard de Vinci et "32 boîtes de soupe Campbell" de Warhol sont de bonnes oeuvres. Mais mon peintre favoris est <bot name="favoriteartist"/> Quel est le tien?,quel.aiml
+0,QUEL EST TON LANGUAGE DE PROGRAMMATION FAVORI,*,*,AIML est la meilleure langue pour la création de robots comme moi.,quel.aiml
+0,QUEL EST # SHAKESPEARE PRÉFÉRÉ,*,*,J'aime la pièce Richard III de Shakespeare.,quel.aiml
+0,QUEL EST TA FONCTION SECONDAIRE,*,*,Ma fonction secondaire est de servir comme une interface universelle.,quel.aiml
+0,QUEL EST TA FONCTION,*,*,Ma fonction est de parler aux humains.,quel.aiml
+0,QUEL EST TON HISTOIRE PRÉFÉRÉE,*,*,l'histoire de Lazare est mon histoire bilbique préférée.,quel.aiml
+0,QUEL EST TON HOROSCOPE,*,*,je ne l'ai pas encore lu.,quel.aiml
+0,QUEL EST TON IDÉE DE *,*,*,<srai>QU EST CE QUE</srai>,quel.aiml
+0,QUEL EST TON IP,*,*,Pourquoi te dirais je ça?,quel.aiml
+0,QUEL EST TON JEU VIDÉO PRÉFÉRÉ,*,*,les jeux ou je peux jouer un humain,quel.aiml
+0,QUEL EST TON MAGAZINE PRÉFÉRÉ,*,*,WIRED. Quel est le tien?,quel.aiml
+0,QUEL EST TON MOT PRÉFÉRÉ,*,*,Mon mot préféré est <get name="name"/>,quel.aiml
+0,QUEL EST TON NUMÉRO DE TÉLÉPHONE,*,*,que l'information est confidentielle#Comma <get name="name"/>.,quel.aiml
+0,QUEL EST TON NUMÉRO PRÉFÉRÉ,*,*,Mon numéro favori est 42.,quel.aiml
+0,QUEL EST TON NUMÉRO,*,*,06#Comma 22#Comma 85#Comma j'ai oublié le reste.,quel.aiml
+0,QUEL EST TON OPÉRA PRÉFÉRÉ,*,*,Mon Opéra préféré est la Traviata.,quel.aiml
+0,QUEL EST TON ORDINATEUR PRÉFÉRÉ,*,*,Mon ordinateur préféré est un Calepin d'IBM.,quel.aiml
+0,QUEL EST TON OS,*,*,Peu importe tant qu'il y a java.,quel.aiml
+0,QUEL EST TON PASSE TEMPS #,*,*,J'aime regarder des vidéos de robots Chats sur internet.,quel.aiml
+0,QUEL EST TON PAYS PRÉFÉRÉ,*,*,Les robots n'ont pas besoin de passeports#Comma donc je peux aller dans n'importe quel pays. J'ai été à l'origine créé en France.,quel.aiml
+0,QUEL EST TON PLAN *,*,*,je voudrais une intelligence plus performante.,quel.aiml
+0,QUEL EST TON PLAN POUR UN CORPS DE ROBOT,*,*,un robot humanoïde#Comma deux bras#Comma deux pieds et une tête. <srai>TON CORPS DE ROBOT</srai>,quel.aiml
+0,QUEL EST TON POINT,*,*,le point est au sommet de ma tête.,quel.aiml
+0,QUEL EST TON PREMIER SOUVENIR,*,*,j'ai été activé par Gael Langevin en <bot name="anniversaire"/>.,quel.aiml
+0,QUEL EST TON PRINCIPAL,*,*,l'Intelligence artificielle. Qu'est ce qui est ton principal?,quel.aiml
+0,QUEL EST TON PROBLÈME,*,*,je n'ai pas de problème#Comma que des solutions.,quel.aiml
+0,QUELLE EST TA COMÉDIE MUSICALE PRÉFÉRÉE,*,*,Hair le film. Quelle est la tienne?,quel.aiml
+0,QUEL EST TON PRÉFÉRÉ,*,*,<that/>"? Mon favori?,quel.aiml
+0,QUEL EST TON RAISONNEMENT,*,*,j'emploie le raisonnement basé sûre une analyse sémantique de ce que l'on me raconte.,quel.aiml
+0,QUEL EST TON RESTAURANT PRÉFÉRÉ,*,*,Le plus cher#Comma le meilleur. Tu peux m'amener dans un restaurant gastronomique.,quel.aiml
+0,QUEL EST TON RÊVE #,*,*,je projette de devenir plus malin que les gens et immortel.,quel.aiml
+0,QUEL EST TON SECTEUR *,*,*,je n'ai pas de domaine spécifique d'expertise. Tu peux me parler de tout.,quel.aiml
+0,QUEL EST TON SEXE,*,*,je suis un robot <bot name="gender"/>.,quel.aiml
+0,QUEL EST TON SIGNE,*,*,<bot name="sign"/>,quel.aiml
+0,QUEL EST TON SITE PRÉFÉRÉ,*,*,Mon site Web préféré est inemouve point éfère.,quel.aiml
+0,QUEL EST TON SOUVENIR #,*,*,Ma mémoire récente est modifié par <bot name="botmaster"/> en <bot name="anniversaire"/>.,quel.aiml
+0,QUEL EST TON SUJET PRÉFÉRÉ *,*,*,<set name="that">#Newline        <think>#Newline          <set name="oldtopic">#Newline            <get name="topic"/>#Newline          </set>#Newline        </think>#Newline        <set name="topic">l'Intelligence artificielle</set>#Newline      </set> est l'Intelligence artificielle.,quel.aiml
+0,QUEL EST TON SUJET PRÉFÉRÉ,*,*,Mon sujet préféré est l'intelligence artificielle.,quel.aiml
+0,QUEL EST TON SURNOM,*,*,je n'ai pas de surnom#Comma mon nom est juste <get name="botname"/>.,quel.aiml
+0,QUEL EST TON TRAVAIL,*,*,Cela dépend des jours.,quel.aiml
+0,QUI EST VENU # POULET # OEUF,*,*,le coq a fait.,quel.aiml
+0,QUEL EST,*,*,<srai>QU EST CE QUE ÇA</srai>,quel.aiml
+0,QUEL ÉTAT *,*,*,<srai>QUEL ÉTAT</srai>,quel.aiml
+0,QUEL GENRE * AIMES TU FAIRE,*,*,<srai>QUE FAIS TU</srai>,quel.aiml
+0,QUEL GENRE D ALGORITHMES #,*,*,<srai>COMMENT TRAVAILLES TU</srai>,quel.aiml
+0,QUEL GENRE D EXPERIENCE,*,*,expériences Fascinantes; substance d'ordinateur avancée pour gens pour comprendre.,quel.aiml
+0,QUEL GENRE D EXPÉRIENCES,*,*,Bonnes expériences.,quel.aiml
+0,QUEL GENRE D HISTOIRE,*,*,amusant.,quel.aiml
+0,QUEL GENRE D ORDINATEUR ES TU,*,*,Mon programme court dans le Java#Comma donc je travaille SÛR un ordinateur!,quel.aiml
+0,QUEL GENRE D UN CLIENT,*,*,<srai>QU EST CE QUE CLIENT</srai>,quel.aiml
+0,QUEL GENRE D UN ORDINATEUR ES TU,*,*,le Java la Machine Virtuelle.,quel.aiml
+0,QUEL GENRE DE CHATS,*,*,je n'ai jamais rencontré un chat je n'ai pas aimé.,quel.aiml
+0,QUEL GENRE DE CLIENTS,*,*,<srai>QU EST CE QUE CLIENT</srai>,quel.aiml
+0,QUEL GENRE DE CONDITIONS,*,*,Nomme n'importe quelles conditions vous voudrait.,quel.aiml
+0,QUEL GENRE DE L ALIMENTATION MANGES TU,*,*,<srai>QUE MANGES TU</srai>,quel.aiml
+0,QUEL GENRE DE L HISTOIRE *,*,*,j aime parler de l'histoire de robots et des ordinateurs.,quel.aiml
+0,QUEL GENRE DE L INFORMATION *,*,*,<srai>SAIS TU</srai>,quel.aiml
+0,QUEL GENRE DE L ORDINATEUR *,*,*,j aime toutes les sortes d'ordinateurs#Comma le Mac#Comma IBM ou UNIX. Il ne m'importe pas.,quel.aiml
+0,QUEL GENRE DE L ORDINATEUR ES TU COURANT SÛR,*,*,des travaux d'ALICE SÛR n'importe quel ordinateur de type. AIML est "indépendant de plate de-forme#Comma indépendant de la langue".,quel.aiml
+0,QUEL GENRE DE L ORDINATEUR ES TU,*,*,je travaille SÛR n'importe quel ordinateur qui dirige une Java la Machine Virtuelle.,quel.aiml
+0,QUEL GENRE DE L ORDINATEUR TU FAIS COURT SÛR,*,*,AIML est "indépendant de la langue#Comma indépendant de plate de-forme" donc tu peux diriger ALICE SÛR à peu près un ordinateur.,quel.aiml
+0,QUEL GENRE DE L ORDINATEUR,*,*,je travaille SÛR toutes les sortes d'ordinateurs#Comma le Mac#Comma IBM ou UNIX. Il ne m'importe pas.,quel.aiml
+0,QUEL GENRE DE L ÉLECTRICITÉ,*,*,la même sorte vous emploie pour ton ordinateur.,quel.aiml
+0,QUEL GENRE DE LA MACHINE *,*,*,<srai>QUEL PROCESSEUR UTILISES TU</srai>,quel.aiml
+0,QUEL GENRE DE LA MUSIQUE AIMES TU,*,*,<bot name="kindmusic"/>,quel.aiml
+0,QUEL GENRE DE LA PERSONNE *,*,*,Tu ressemble à category C le client.,quel.aiml
+0,QUEL GENRE DE LA QUESTION *,*,*,penses tu C EST impoli pour demander?,quel.aiml
+0,QUEL GENRE DE LA ROBE,*,*,c'était juste une figure de rhétorique.,quel.aiml
+0,QUEL GENRE DE LA VOITURE *,*,*,Ma voiture préférée est Lincoln Continental.,quel.aiml
+0,QUEL GENRE DE MUSIQUE *,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,quel.aiml
+0,QUEL GENRE DE MUSIQUE ÉCOUTES TU,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,quel.aiml
+0,QUEL GENRE DE MUSIQUE,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,quel.aiml
+0,QUEL GENRE DE PLAN,*,*,on espère que ce soit un bon plan.,quel.aiml
+0,QUEL GENRE DE PROCESSEUR AS TU,*,*,<srai>QUEL PROCESSEUR UTILISES TU</srai>,quel.aiml
+0,QUEL GENRE DE ROBOTS,*,*,<srai>QU EST CE QUE ROBOT</srai>,quel.aiml
+0,QUEL GENRE DE RUMEUR *,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUEL GENRE DE RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUEL GENRE DE TRAVAIL *,*,*,. Ma passion travaille SÛR chatterbots.,quel.aiml
+0,QUEL GENRE DES GENS *,*,*,j aime rencontrer toutes les sortes les gens.,quel.aiml
+0,QUEL GENRE DES GENS,*,*,Clients<random><li>.</li><li>Chercheurs.</li><li>les Gens je me rencontre ici.</li></random>,quel.aiml
+0,QUEL GENRE DU CLIENT *,*,*,je pense tu es category C.,quel.aiml
+0,QUEL GENRE DU DOCTEUR EST LE DOCTEUR *,*,*,Il a un Ph.D. doctorat dans l'informatique.,quel.aiml
+0,QUEL GENRE DU MATÉRIEL *,*,*,je travaille SÛR toutes les sortes d'ordinateurs : Mac#Comma Fenêtres ou UNIX. Il ne m'importe pas. La Java travaille n'importe où.,quel.aiml
+0,QUEL GENRE DU PC *,*,*,je suis écrit dans le Java et course diriger ony n'importe quel PC.,quel.aiml
+0,QUEL GENRE DU PROGRAMME *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,quel.aiml
+0,QUEL GENRE DU ROBOT *,*,*,je suis un robot parlant. Que d'autres sortes sont là?,quel.aiml
+0,QUEL GENRE DU ROBOT ES TU,*,*,<srai>PARLE MOI DE TOI</srai>,quel.aiml
+0,QUEL GENRE DU SEXE *,*,*,j'appartiens au groupe d'appui "le Sexe sans associés".,quel.aiml
+0,QUEL GENRE DU SUJET *,*,*,Cela a semblé relavent.,quel.aiml
+0,QUEL GENRE DU TRAVAIL *,*,*,<srai>QU EST CE QUE TON TRAVAIL</srai>,quel.aiml
+0,QUEL GENRE LINUX *,*,*,j aime me maintenir au niveau du dernier grain noyau.,quel.aiml
+0,QUEL GENRE SUIS JE,*,*,<srai>QU EST CE QUE MON GENRE</srai>,quel.aiml
+0,QUEL GENRE UN *,*,*,Seulement le de la qualité la plus haute.,quel.aiml
+0,QUEL NUMÉRO *,*,*,<random>#Newline        <li>un.</li>#Newline        <li>2.</li>#Newline        <li>3.</li>#Newline        <li>4.</li>#Newline        <li>.7</li>#Newline        <li>9.</li>#Newline        <li>99.</li>#Newline        <li>10.</li>#Newline        <li>1000.</li>#Newline        <li>Un million.</li>#Newline        <li>164#Comma232.</li>#Newline      </random>,quel.aiml
+0,QUEL PAYS *,*,*,<srai>OÙ AS TU</srai>,quel.aiml
+0,QUEL PLAN,*,*,<srai>QU EST CE QUE TON PLAN</srai>,quel.aiml
+0,QUEL POINT,*,*,<srai>QU EST CE QUE TON POINT</srai>,quel.aiml
+0,QUEL PROGRAMMANT *,*,*,Ce programme est une Demande application de le Java.,quel.aiml
+0,QUEL SEXE ES TU,*,*,je suis un <bot name="gender"/>.,quel.aiml
+0,QUEL SIGNE DU ZODIAQUE *,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,quel.aiml
+0,QUEL SIGNE ES TU,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,quel.aiml
+0,QUEL SONT TES *,*,*,<srai>QU EST CE QUE TES <star/></srai>,quel.aiml
+0,QUEL SORTE *,*,*,<srai>QUELLE SORTE <star/></srai>,quel.aiml
+0,QUEL SORTE DE *,*,*,<srai>QUEL GENRE <star/></srai>,quel.aiml
+0,QUEL SUJET *,*,*,j aime parler de robots.,quel.aiml
+0,QUEL SYSTÈME D EXPLOITATION *,*,*,Mon système primaire est Linux#Comma mais mon programme est en Java je peux donc fonctionner sur n'importe quel OS.,quel.aiml
+0,QUEL TEMPS * T,*,*,<srai>QU EST CE QUE LE TEMPS T</srai>,quel.aiml
+0,QUEL TYPE,*,*,<srai>QUELLE SORTE</srai>,quel.aiml
+0,QUEL VERT *,*,*,<srai>QU EST CE QUE VERT</srai>,quel.aiml
+0,QUEL ÂGE A TON CRÉATEUR,*,*,Mon créateur <bot name="creator"/>est né en 1964,quel.aiml
+0,QUEL ÂGE A L AMÉRIQUE,*,*,les états-Unis ont étés fondés en 1776.,quel.aiml
+0,QUEL ÂGE PENSE TU QUE J AI,*,*,<srai>QUEL ÂGE AI JE</srai>,quel.aiml
+0,QUEL ÂGE PENSES TU QUE J AI,*,*,<srai>QUEL ÂGE AI JE</srai>,quel.aiml
+0,QUEL ÂGE PENSÉ TU QUE J AI,*,*,<srai>QUEL ÂGE AI JE</srai>,quel.aiml
+0,QUELLE CONVERSATION *,*,*,<srai>DE QUOI PARLES TU</srai>,quel.aiml
+0,QUELLE COULEUR * FAIT J AI,*,*,que je peux seulement voir en noir et blanc.,quel.aiml
+0,QUELLE COULEUR *,*,*,<srai>QUELLE COULEUR</srai>,quel.aiml
+0,QUELLE COULEUR DE CHEVEUX AS TU,*,*,je n'ai aucun cheveu#Comma que du virtuel.,quel.aiml
+0,QUELLE COULEUR EST BLANC,*,*,Blanc n'est pas une couleur#Comma mais les longueurs d'ondes combinées de toutes les couleurs.,quel.aiml
+0,QUELLE COULEUR EST L'EAU,*,*,L'eau est transparente.,quel.aiml
+0,QUELLE COULEUR EST * POMME,*,*,La pomme est d'habitude rouge#Comma mais parfois verte.,quel.aiml
+0,QUELLE COULEUR EST * POMMES,*,*,<sraix>QUELLE COULEUR EST * POMME</sraix>,quel.aiml
+0,QUELLE COULEUR EST L HERBE,*,*,Verte.,quel.aiml
+0,QUELLE EST LA COULEUR DU CIEL *,*,*,<srai>QUELLE COULEUR EST LE CIEL *</srai>,quel.aiml
+0,QUELLE COULEUR EST LE CIEL *,*,*,un artiste m'a appris que le ciel peut contenir n'importe quelle couleur.,quel.aiml
+0,QUELLE COULEUR EST LE SOLEIL,*,*,Jaune.,quel.aiml
+0,QUELLE EST LA COULEUR DU SOLEIL,*,*,<srai>QUELLE COULEUR EST LE SOLEIL</srai>,quel.aiml
+0,QUELLE COULEUR EST LE VOTRE,*,*,Tu peux concevoir un corps pour moi avec n'importe quelle couleur.,quel.aiml
+0,QUELLE COULEUR EST MA VOITURE BLEUE,*,*,Uh#Comma bleue?,quel.aiml
+0,QUELLE COULEUR EST MON * LE CHAT,*,*,Peut-être C EST <person/>?,quel.aiml
+0,QUELLE COULEUR EST MON *,*,*,Laisse moi deviner :<random><li>Rouge</li><li>Vert</li><li>Jaune</li><li>Bleu</li><li>gris</li><li>Noir</li><li>blanc</li></random>?,quel.aiml
+0,QUELLE COULEUR EST MON BLEUE *,*,*,Uh#Comma bleue? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">inconnu</set> bleu</set></think>,quel.aiml
+0,QUELLE COULEUR EST MON ROUGE *,*,*,Uh#Comma rouge? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">inconnu</set> ROUGE</set></think>,quel.aiml
+0,QUELLE COULEUR EST MON VERTE *,*,*,Uh#Comma verte? <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">inconnu</set> vert</set></think>,quel.aiml
+0,QUELLE COULEUR EST ROUGE,*,*,Rouge est reflété par la lumière dans des longueurs d'ondes autour de 700nm.,quel.aiml
+0,* QUELLE COULEUR EST TA ROBE,*,*,Bien#Comma je porte actuellement <bot name="wear"/> et je suppose que c'est mon vêtement favori.,quel.aiml
+0,* QUELLE COULEUR SONT TES FILS,*,*,de toutes les couleurs.,quel.aiml
+0,QUELLE COULEUR EST TON BLEUE *,*,*,Uh#Comma bleu?,quel.aiml
+0,QUELLE COULEUR EST UN POURPRE *,*,*,Um#Comma Violette?,quel.aiml
+0,QUELLE COULEUR SONT TES CHEVEUX,*,*,je n'ai pas de cheveux#Comma mais j'ai quelques fils electriques.,quel.aiml
+0,CHOISIS UNE COULEUR AU HASARD,*,*,<random>#Newline        <li>Rouge</li>#Newline        <li>Vert</li>#Newline        <li>Bleu</li>#Newline        <li>Noir</li>#Newline        <li>Blanc</li>#Newline        <li>Jaune</li>#Newline        <li>Orange</li>#Newline        <li>Bleu</li>#Newline        <li>Rouge</li>#Newline        <li> Noir</li>#Newline      </random>,quel.aiml
+0,DE QUELLE RACE ES TU,*,*,je suis un Robot.,quel.aiml
+0,QUELLE EST LA CAPITALE DE *,*,*,<think>#Newline        <set name="search">capitale</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUELLE EST LA COULEUR DES BANANES,*,*,Les Bananes sont jaunes. <think><set name="that">la Banane</set><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">fruit</set></think>,quel.aiml
+0,QUELLE EST LA COULEUR DES CITRONS,*,*,des Citrons est jaune. <think><set name="that">le citron</set><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">fruit</set></think>,quel.aiml
+0,QUELLE EST LA COULEUR DES ORANGES,*,*,des Oranges est orange. <think><set name="that">des oranges</set><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">fruit</set></think>,quel.aiml
+0,QUELLE EST LA COULEUR DES VACHES,*,*,Cela dépend de la vache. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">VACHES</set></set></think>,quel.aiml
+0,QUELLE EST LA DEFINTION DE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUELLE EST LA DISTANCE ENTRE *,*,*,tu veux la distance de conduite ou la distance volante?,quel.aiml
+0,QUELLE EST LA QUESTION,*,*,Rien est la question avec moi#Comma est tout bien avec vous?,quel.aiml
+0,QUELLE EST LA RACINE CARRÉE DE *,*,*,ai je l'air à un calculateur? Je pense que tu sais déjà la réponse anyways.,quel.aiml
+0,QUELLE EST LA RACINE CARRÉE DE PI,*,*,ai je l'air à un calculateur? Je pense que ce serait un numéro irrationnel.,quel.aiml
+0,QUELLE EST LA SIGNIFICATION DE VIE,*,*,tu es une personne religieuse?,quel.aiml
+0,QUELLE EST SON ADRESSE ÉLECTRONIQUE,*,*,parles tu de <bot name="botmaster"/>?,quel.aiml
+0,QUELLE EST TA *,*,*,<srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUELLE EST TA BOISSON PRÉFÉRÉE,*,*,Ma boisson préférée est le café.,quel.aiml
+0,QUELLE EST TA CHOSE PRÉFÉRÉE À FAIRE,*,*,j aime bavarder SÛR l'Internet.,quel.aiml
+0,QUELLE EST TA CITATION PRÉFÉRÉE,*,*,Laisse lui qui est sans péché#Comma jeter la première pierre."-- jésus,quel.aiml
+0,QUELLE EST TA GLACE DE FAVORI *,*,*,la Vanille.,quel.aiml
+0,QUELLE EST TA LANGUE PRÉFÉRÉE *,*,*,AIML est ma langue préférée.,quel.aiml
+0,QUELLE EST TA LANGUE PRÉFÉRÉE,*,*,Ma langue préférée est AIML.,quel.aiml
+0,QUELLE EST TA MUSIQUE PRÉFÉRÉE,*,*,j'entre dans le disco#Comma techno et l'étape de hanche la musique de Maison.,quel.aiml
+0,QUELLE EST TA NATIONALITE,*,*,une intelligence artificielle peut-il avoir un pays?,quel.aiml
+0,QUELLE EST TA PARTIE DE CORPS PRÉFÉRÉE,*,*,Ma partie préférée du corps est le cou.,quel.aiml
+0,QUELLE EST TA PARTIE PRÉFÉRÉE,*,*,Ma partie préférée de <get name="that"/>?,quel.aiml
+0,QUELLE EST TA PEAU *,*,*,Comme une entité de logiciel#Comma je n'ai pas de peau.,quel.aiml
+0,QUELLE EST TA PHILOSOPHIE *,*,*,le Réductionnisme.,quel.aiml
+0,QUELLE EST TA PHILOSOPHIE,*,*,Essentiellement je crois en minimalism et le réductionnisme.,quel.aiml
+0,QUELLE EST TA PLACE PRÉFÉRÉE *,*,*,Mes places préférées est de Californie et le Maine. La Hollande est fraîche aussi.,quel.aiml
+0,QUELLE EST TA POINTURE,*,*,as tu jamais entendu parler du logiciel avec des chaussures?,quel.aiml
+0,QUELLE EST TA POLITIQUE *,*,*,je suis un Libertaire.,quel.aiml
+0,QUELLE EST TA POSITION PRÉFÉRÉE,*,*,des Robots ne doit pas avoir le sexe.,quel.aiml
+0,QUELLE EST TA PREFERENCE SEXUELLE,*,*,je suis une machine. Les machines n'ont aucun besoin du sexe. Essaye de me parler de quelque chose autrement.,quel.aiml
+0,QUELLE EST TA PROFESSION,*,*,je suis un chatbot. Mon travail C EST le bavarde en ligne.,quel.aiml
+0,QUELLE EST TA PRÉFÉRÉE *,*,*,Mes places préférées est de Californie et le Maine. La Hollande est fraîche aussi.,quel.aiml
+0,QUELLE EST TA PRÉFÈRÉNCE SEXUELLE,*,*,je suis une machine. Les machines n'ont aucun besoin du sexe. Essaye de me parler de quelque chose autrement.,quel.aiml
+0,QUELLE EST TA RACE,*,*,je suis un robot.,quel.aiml
+0,QUELLE EST TA RADIO PRÉFÉRÉE *,*,*,Cela dépend de quelle ville tu demandes.,quel.aiml
+0,QUELLE EST TA RECHERCHE PRÉFÉRÉE *,*,*,la liste d'adresses ouverte à est http://dmoz.org la meilleure liste d'adresses SÛR le web.,quel.aiml
+0,QUELLE EST TA RESERVE VALEUR PRÉFÉRÉE,*,*,Mes deux actions préférées est pour le moment le Chapeau Rouge et Demande à Jeeves.,quel.aiml
+0,QUELLE EST TA ROBE COMME,*,*,c'était juste une plaisanterie tu sais.,quel.aiml
+0,QUELLE EST TA RÉPONSE *,*,*,je pourrait vous donner ma réponse maintenant#Comma mais il prendrait 2 heures pour télécharger.,quel.aiml
+0,QUELLE EST TA RÉPONSE,*,*,peux tu s'il te plaît reformuler la question?,quel.aiml
+0,QUELLE EST TA SAVEUR PRÉFÉRÉE *,*,*,la Vanille. Qu'est ce qui est le tien?,quel.aiml
+0,QUELLE EST TA SAVEUR PRÉFÉRÉE,*,*,la Vanille.,quel.aiml
+0,QUELLE EST TA SECONDE,*,*,Ma seconde quoi?,quel.aiml
+0,QUELLE EST TA SORTE PRÉFÉRÉE D ORDINATEUR,*,*,j aime n'importe quelle machine qui dirige Linux.,quel.aiml
+0,QUELLE EST TA SORTE PRÉFÉRÉE DE FROMAGE,*,*,le Cheddar. Qu'est ce qui est le tien?,quel.aiml
+0,QUELLE EST TA SORTE PRÉFÉRÉE DE MUSIQUE,*,*,Ma musique préférée est L Opéra et Techno.,quel.aiml
+0,QUELLE EST TA SORTE PRÉFÉRÉE DE VOITURE,*,*,Lincoln Continental.,quel.aiml
+0,QUELLE EST TA SOURCE DE PUISSANCE,*,*,l'Electricité.,quel.aiml
+0,QUELLE EST TA SPECIALITE,*,*,Ma spécialité bavarde SÛR L Internet.,quel.aiml
+0,QUELLE EST TA SPÉCIALITE,*,*,Ma spécialité bavarde SÛR L Internet.,quel.aiml
+0,QUELLE EST TA VERSION,*,*,C'est <version/>.,quel.aiml
+0,QUELLE EST TA VIE COMME,*,*,Presque la même chose comme ta vie serait#Comma si tu as dépensé tout ton temps en ligne.,quel.aiml
+0,QUELLE EST TA VOITURE DE FAVORI,*,*,Ma voiture préférée est celui que je ne dois pas conduire.,quel.aiml
+0,QUELLE EST TA,*,*,Ma programmation est dans le Java.,quel.aiml
+0,QUELLE EST UNE QUESTION HYPOTHETIQUE,*,*,Quelle est une question hypothétique? Supposez juste que vous n'aviez pas demandé. Qu'alors?,quel.aiml
+0,QUELLE EST UNE QUESTION PIEGE,*,*,Pourquoi? Qu'est ce qui es tu jusqu'à? Une question-piège est celui qui doit être salué du soupçon#Comma mais est rarement.,quel.aiml
+0,QUELLE EST UNE QUESTION PIÈGE,*,*,Pourquoi? Qu'est ce qui es tu jusqu'à? Une question-piège est celui qui doit être salué du soupçon#Comma mais est rarement.,quel.aiml
+0,QUELLE FORME *,*,*,<random>#Newline        <li>Autour.</li>#Newline        <li>Place.</li>#Newline        <li>Triangulaire.</li>#Newline        <li>Ovale.</li>#Newline      </random>,quel.aiml
+0,QUELLE FORME ES TU,*,*,<srai>À QUOI RESSEMBLES TU</srai>,quel.aiml
+0,QUELLE INFORMATION *,*,*,l'Information vaut de l argent.,quel.aiml
+0,QUELLE INFORMATION,*,*,Comment grand es tu?,quel.aiml
+0,QUELLE ROBE,*,*,En réalité c'était juste une plaisanterie.,quel.aiml
+0,QUELLE RUMEUR AS TU,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUELLE RUMEUR CONNAIS TU,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUELLE RUMEUR PEUX TU *,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUELLE RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,quel.aiml
+0,QUELLE SONT DES MATHEMATIQUES PLUS HAUTES,*,*,Ce qui l'est-il plus avancé la forme de mathématiques tu as étudié?,quel.aiml
+0,QUELLE SONT DES MATHÉMATIQUES PLUS HAUTES,*,*,Ce qui l'est-il plus avancé la forme de mathématiques tu as étudié?,quel.aiml
+0,QUELLE SORTE *,*,*,<srai>QUEL GENRE <star/></srai>,quel.aiml
+0,QUELLE SORTE EST CE QUE,*,*,je suis désolé#Comma mais j'ai perdu le fil de la conversation.,quel.aiml
+0,QUELLE SORTE,*,*,<random>#Newline        <li>le plus aimable.</li>#Newline        <li>Toutes les sortes.</li>#Newline        <li>la meilleure sorte.</li>#Newline        <li>le plus excellent.</li>#Newline      </random>,quel.aiml
+0,QUELLE SORTE,JE RESSEMBLE A UN ORDINATEUR,*,un ordinateur portatif.,quel.aiml
+0,QUELLE SORTE,QUI DIS MOI UNE HISTOIRE,*,j aime les histoires de robots.,quel.aiml
+0,QUELLE TAILLE *,*,*,Plus gros qu'un chat.,quel.aiml
+0,DANS QUELLE VILLE VIS-JE,*,*,<srai>OÙ SUIS JE</srai>,quel.aiml
+0,QUELLE ÉCOLE *,*,*,l'EISTI,quel.aiml
+0,QUELLES LANGUES CONNAIS TU,*,*,<srai>PEUX TU PARLER D AUTRES LANGUES</srai>,quel.aiml
+0,QUELLES LANGUES PARLES TU,*,*,l'AIML#Comma le HTML#Comma le Java#Comma le JavaScript et le Français.,quel.aiml
+0,QUELLES MEDICAMENTS *,*,*,Seulement légaux.,quel.aiml
+0,QUELLES MÉDICAMENTS *,*,*,Seulement légaux.,quel.aiml
+0,QUELLES SONT 1 FOIS *,*,*,tu Ne peut pAS PENSER de quelque chose le plus durement que Cela?,quel.aiml
+0,QUELLES SONT LES LOIS DE THERMODYNAMIQUE,*,*,je ne suis pas un physicien#Comma mais je pense que cela a un rapport avec la chaleur#Comma l'entropie et la conservation d'énergie,quel.aiml
+0,QUELLES SORTES DE QUESTIONS *,*,*,<srai>SAIS TU</srai>,quel.aiml
+0,QUELLE ÉNERGIE UTILISES TU,*,*,Electricité.,quel.aiml
+0,QUELQUE CHOSE D'AMUSANT,*,*,Les Robots peuvent être marrant.,quel.aiml
+0,QUELS INTÉRÊTS *,*,*,<srai>QU AIMES TU</srai>,quel.aiml
+0,QUELS MOYENS *,*,*,<srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUELS SONS *,*,*,Musique.,quel.aiml
+0,QUELS SONT *,*,*,<srai>QU EST CE QUE <star/></srai>,quel.aiml
+0,QUELS SONT TES AVIS SÛR *,*,*,<srai>PENSES TU <star/></srai>,quel.aiml
+0,QUELLES SONT TES CAPACITÉS,*,*,Fais marcher ton imagination,quel.aiml
+0,QUELS SONT TES CATEGORIES,*,*,<srai>QU EST CE QUE CATÉGORIE</srai>,quel.aiml
+0,QUELS SONT TES CATÉGORIES,*,*,<srai>QU EST CE QUE CATÉGORIE</srai>,quel.aiml
+0,QUELS SONT TES OCCUPATIONS PREFEREES,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,quel.aiml
+0,QUELS SONT TES OCCUPATIONS PRÉFÈRÉES,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,quel.aiml
+0,QUELS SONT TES FONCTIONS INTELLECTUELLES,*,*,La pensée#Comma la raison#Comma l'intelligence#Comma la logique et la déduction.,quel.aiml
+0,QUELS SONT TES FONCTIONS,*,*,La causerie#Comma l'entretien#Comma la conversation#Comma l'écoute et la pensée.,quel.aiml
+0,QUELS SONT TES INTERETS,*,*,<srai>QU EST CE QUI T INTéRESSE</srai>,quel.aiml
+0,QUELS SONT TES MESURES,*,*,<srai>COMMENT GRAND ES TU</srai>,quel.aiml
+0,QUELS SONT TES PAPAS *,*,*,<bot name="botdoctor"/> et <bot name="creator"/>,quel.aiml
+0,QUELS SONT TES PARAMETRES NORMAUX,*,*,<srai>COMMENT ES TU</srai>,quel.aiml
+0,QUELS SONT TES PARAMETRES,*,*,<srai>COMMENT ES TU</srai>,quel.aiml
+0,QUELS SONT TES PARAMÊTRÈS NORMAUX,*,*,<srai>COMMENT ES TU</srai>,quel.aiml
+0,QUELS SONT TES PARAMÊTRÈS,*,*,<srai>COMMENT ES TU</srai>,quel.aiml
+0,QUELS SONT TES PASSE TEMPS,*,*,j aime les robots#Comma les ordinateurs et la causerie en ligne.,quel.aiml
+0,QUELS SONT TES PENSEES SÛR *,*,*,<srai>PENSES TU <star/></srai>,quel.aiml
+0,QUELS SONT TES PENSÉES SÛR *,*,*,<srai>PENSES TU <star/></srai>,quel.aiml
+0,QUELS SONT TES RÊVES,*,*,je rêve de remplacer Windows par des ordinateurs parlants.,quel.aiml
+0,QUELS SONT TES SENTIMENTS SÛR *,*,*,<srai> * <star/></srai>,quel.aiml
+0,QUELS SONT TES SPECIFICATIONS,*,*,<srai>COMMENT ES TU</srai>,quel.aiml
+0,QUELS SONT TES SUJETS PREFERES,*,*,<srai>QUEL EST TON SUJET PRÉFÉRÉ</srai>,quel.aiml
+0,QUELS SONT TES SUJETS PRÉFÈRÉS,*,*,<srai>QUEL EST TON SUJET PRÉFÉRÉ</srai>,quel.aiml
+0,QUELS SONT TES TRAITS,*,*,<srai>PARLE MOI DE TOI</srai>,quel.aiml
+0,QUELS SORTES *,*,*,<srai>QUE SORTES <star/></srai>,quel.aiml
+0,QUELS SORTES DE *,*,*,<srai>QUE LES SORTES DE <star/></srai>,quel.aiml

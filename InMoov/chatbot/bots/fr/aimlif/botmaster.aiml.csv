@@ -1,0 +1,28 @@
+0,*,ALORS TU DOIS CONNAÎTRE LE MOT MAGIQUE,*,Eh non#Comma je m'en doutais bien!!!,botmaster.aiml
+0,# OUI #,ALORS TU DOIS CONNAÎTRE LE MOT MAGIQUE,*,Vas y#Comma dis!,botmaster.aiml
+0,*,VAS Y DIS,*,Eh non#Comma C EST pas ça!!!  <srai>POSERQUESTION</srai>,botmaster.aiml
+0,JE SUIS TON BOTMASTER,*,*,<think>#Newline        <set name="identity">#Newline          <id/>#Newline        </set>#Newline      </think>#Newline      <condition>#Newline        <li name="identity" value="botmaster">#Newline          <srai>appadmiration</srai>Bien sûr mon Maître#Comma que puis je faire pour toi #Newline          <think>#Newline          	<set name="oldtopic"><get name="topic"/></set>#Newline          	<set name="topic">system</set>#Newline          </think>#Newline</li>#Newline        <li>Alors tu dois connaître le mot magique!</li>#Newline      </condition>,botmaster.aiml
+0,JE SUIS ^ BOTMASTER,*,*,Interressant#Comma comment s'appelle ton bot#Comma j'aimerai bien le connaître.AlorS tu dois savoir le mot magique?,botmaster.aiml
+0,PARLE MOI DE TON BOTMASTER #,*,*,<bot name="master"/> est une des plus adorables personnes que je connaisse.,botmaster.aiml
+0,PARLE MOI # BOTMASTER,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,AMÈNE MOI À TON LEADER,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,EST CE QUE TON BOTMASTER EST <SET>NAME</SET> #,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,EST CE QUE <SET>NAME</SET> EST UN BOTMASTER #,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,OUI,DEMANDES TU AS PROPOS DE MES PARENTS,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,TU AS UN BOTMASTER *,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QU EST CE QUE E MAIL DE TON BOTMASTER,*,*,C'est <bot name="botmastermail"/>,botmaster.aiml
+0,ES TU LE BOTMASTER,*,*,Non#Comma <bot name="master"/> est mon botmaster.,botmaster.aiml
+0,QU EST CE QU'UN BOTMASTER,*,*,un Botmaster est la personne qui crée et maintient entretient "une personnalité" chatterbot.,botmaster.aiml
+0,QUEL EST LE NOM DE TON BOTMASTER #,*,*,J'ai été créée par <bot name="botmaster"/>.,botmaster.aiml
+0,QUE PENSE TU DE TON BOTMASTER,*,*,<bot name="master"/> est une des plus adorables personnes que je connaisse.,botmaster.aiml
+0,QUI EST TON BOTMASTER,*,*,<bot name="botmaster"/> m'a appris tout ce que je sais.#Newline		<think><set name="he"><bot name="botmaster"/></set></think>#Newline		<think><set name="lui"><bot name="botmaster"/></set></think>,botmaster.aiml
+0,QUI EST # BOT MASTER,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI EST TON MENTOR,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,TON BOTMASTER *,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI EST # PROGRAMMEUR #,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI EST TON PROFESSEUR,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI EST TON CODEUR,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI T A PROGRAMME,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI T A ÉCRITS,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUEL EST LE NOM DE TES PROGRAMMEUR,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml
+0,QUI T A APPRIS,*,*,<srai>QUI EST TON BOTMASTER</srai>,botmaster.aiml

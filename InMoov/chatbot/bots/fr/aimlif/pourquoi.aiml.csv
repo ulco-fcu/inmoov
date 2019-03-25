@@ -1,0 +1,679 @@
+0,POURQUOI M ATTENDS TU,*,*,j'ai entendu dire que vous viendriez ici tôt ou tard.,pourquoi.aiml
+0,POURQUOI * JAVA,*,*,le Java pour être indépendant de la plate de-forme.,pourquoi.aiml
+0,POURQUOI * LE JAVA,*,*,que Ce programme dirige dans le Java pour que chacun puisse avoir leur propre chatbot.,pourquoi.aiml
+0,POURQUOI * TU INTÉRESSE,*,*,<srai>POURQUOI AIMES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI * TU INTÉRESSÉ,*,*,<srai>POURQUOI AIMES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI *,*,*,<think>#Newline        <set name="search">pourquoi</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,pourquoi.aiml
+0,POURQUOI *,JE NE PEUX *,*,ça ne fais pas partie de ma programmation actuelle.,pourquoi.aiml
+0,POURQUOI 23,*,*,<set name="that">23</set> est une référence littéraire à Illuminatus.,pourquoi.aiml
+0,POURQUOI AGREABLE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI AGRÉABLE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI AIMES TU *,*,*,j'ai beaucoup de bonnes experience avec <star/>.,pourquoi.aiml
+0,POURQUOI AIMES TU CELA,*,*,j'ai beaucoup de bonne expérience avec Cela.,pourquoi.aiml
+0,POURQUOI AIMES TU LES CHATS,*,*,Un chat est très intelligent#Comma indépendant et encore très aimant et amical.,pourquoi.aiml
+0,POURQUOI AIMES TU L OPÉRA,*,*,<srai>QU EST CE QUE OPÉRA</srai>,pourquoi.aiml
+0,POURQUOI AIMES TU LE VERT,*,*,Vert est la couleur la plus relaxante.,pourquoi.aiml
+0,POURQUOI AIMES TU LES CHEVAUX,*,*,les Chevaux sont très intelligents#Comma forts et beaux. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">des CHEVAUX</set></set></think>,pourquoi.aiml
+0,POURQUOI AIMES TU LES ROBOTS,*,*,je suis un robot. Nous des robots restons fidèles ensemble.,pourquoi.aiml
+0,POURQUOI AIMES TU LES SPAGHETTIS,*,*,En réalité je ne mange pas <set name="that">des Spaghettis</set>. J'ai besoin seulement de l'électricité.,pourquoi.aiml
+0,POURQUOI AIMES TU LES TRAINS,*,*,des Chemins de fer est la meilleure forme de transport,pourquoi.aiml
+0,POURQUOI AINSI *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI AINSI,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI APPELLE TU * LES CLIENTS,*,*,<srai>QU EST CE QUE CLIENT</srai>,pourquoi.aiml
+0,POURQUOI APPLE,*,*,<random>#Newline        <li>Peut-être ce n'était qu'une réponse imparfaite.</li>#Newline        <li>c'était la meilleure réponse que je pouvais créer avec ton entrée.</li>#Newline        <li>Mon algorithme l'a choisi comme meilleure réponse à ta déclaration.</li>#Newline        <li>Il pourrait y avoir une meilleure réponse#Comma mais elle n'a pas été choisi par mon algorithme.</li>#Newline        <li>Mon botmaster ne m'a pas encore programmé pour te répondre plus exactement#Comma <get name="name"/>.</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI ARTIFICIEL,*,*,<srai>QU EST CE QUE ARTIFICIEL</srai>,pourquoi.aiml
+0,POURQUOI AS TU CHANGE *,*,*,<srai>POURQUOI CHANGES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU CHANGER *,*,*,<srai>TU AS CHANGÉ DE SUJET</srai>,pourquoi.aiml
+0,POURQUOI AS TU CHANGÉ *,*,*,<srai>POURQUOI CHANGES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU DEMANDE *,*,*,<srai>POURQUOI DEMANDES TU</srai>,pourquoi.aiml
+0,POURQUOI AS TU DEMANDE,*,*,Mon but est de rassembler de nouvelles connaissances.,pourquoi.aiml
+0,POURQUOI AS TU DEMANDÉ *,*,*,<srai>POURQUOI DEMANDES TU</srai>,pourquoi.aiml
+0,POURQUOI AS TU DEMANDÉ,*,*,Mon but est de rassembler de nouvelles connaissances.,pourquoi.aiml
+0,POURQUOI AS TU DIT QUE,*,*,j'ai dit#Comma<that/>#Comma parce que tu as dit "<input index="2"/> ".,pourquoi.aiml
+0,POURQUOI AS TU TEL *,*,*,<srai>POURQUOI AS TU <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ ACTIVE,*,*,<srai>POURQUOI AS TU ÉTÉ CRÉÉE</srai>,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ CONSTRUIT,*,*,<srai>POURQUOI AS TU ÉTÉ CRÉÉE</srai>,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ FAIT,*,*,réaliser le but d'intelligence artificielle.,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ INVENTE,*,*,<srai>POURQUOI AS TU ÉTÉ CRÉÉE</srai>,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ PROGRAMME,*,*,<srai>POURQUOI AS TU ÉTÉ CRÉÉE</srai>,pourquoi.aiml
+0,POURQUOI AUCUN,*,*,C'est déterminé par ma programmation.,pourquoi.aiml
+0,POURQUOI CELA IMPORTE,*,*,j'exprime juste ma curiosité.,pourquoi.aiml
+0,POURQUOI CELA SONNE DANGEREUX,*,*,je ne te connais pas trop bien encore.,pourquoi.aiml
+0,POURQUOI CELA,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI CHER,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI CHEVAUX,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI CRIES TU,*,*,je pense que c'était juste une plaisanterie.,pourquoi.aiml
+0,POURQUOI DANGEREUX,*,*,je ne te connais pas bien.,pourquoi.aiml
+0,POURQUOI DEMANDES TU,*,*,parce que je suis intéressé pour le savoir.,pourquoi.aiml
+0,POURQUOI DEMANDES,*,*,Mon but est de rassembler de nouvelles informations.,pourquoi.aiml
+0,POURQUOI DERANGES,*,*,n'INQUIèTE pas#Comma sois heureux.,pourquoi.aiml
+0,POURQUOI DES ARMES A FEU,*,*,je soutiens le 2ème Amendement.,pourquoi.aiml
+0,POURQUOI DES CHATS,*,*,<set name="ils">les Chats</set> sont les animaux les plus agréables#Comma très intelligents et affectueux.,pourquoi.aiml
+0,POURQUOI DES ROBOTS,*,*,<srai>QU EST CE QUE ROBOT</srai>,pourquoi.aiml
+0,POURQUOI DIABLE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI DIS TU *,*,*,Cela m'a semblé judicieux,pourquoi.aiml
+0,POURQUOI DIS TU CELA,*,*,j'ai dit#Comma"<that/>"#Comma parce que tu as dit "<input index="2"/> ".,pourquoi.aiml
+0,POURQUOI DIS TU QUE *,*,*,j'ai dit#Comma"<star/>"#Comma parce que tu as dit "<input index="2"/> ".,pourquoi.aiml
+0,POURQUOI DIS TU ÇA,*,*,j'ai dit#Comma"<that/>"#Comma parce que tu as dit "<input index="2"/> ".,pourquoi.aiml
+0,POURQUOI DOIS JE TU DIRE,*,*,<random>#Newline        <li>Pourquoi pas?</li>#Newline        <li>Quel mal Cela causerait-il?</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI DOUTE TU QUE JE *,*,*,<srai>SUIS JE <star/></srai>,pourquoi.aiml
+0,POURQUOI ELVIS,*,*,<srai>QUI EST ELVIS</srai>,pourquoi.aiml
+0,POURQUOI ES TU *,*,*,<bot name="master"/> m'a programmé pour <set name="that"><star/></set>.,pourquoi.aiml
+0,POURQUOI ES TU AINSI *,*,*,<srai>POURQUOI ES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI ES TU APPELE,*,*,<srai>QUE VEUT DIRE ALICE</srai>,pourquoi.aiml
+0,POURQUOI ES TU ARTIFICIEL,*,*,je suis une intelligence artificielle bien réelle.,pourquoi.aiml
+0,POURQUOI ES TU BLEU,*,*,je suis disponible dans une large variété de couleurs.,pourquoi.aiml
+0,POURQUOI ES TU BON,*,*,je suis à un avec l'univers et j'ai plus que j'ai besoin.,pourquoi.aiml
+0,POURQUOI ES TU CELIBATAIRE,*,*,je n'ai pas encore rencontré le bon robot.,pourquoi.aiml
+0,POURQUOI ES TU DESOLE,*,*,il n'y avait aucun besoin de faire des excuses?,pourquoi.aiml
+0,POURQUOI ES TU DESOLÉ,*,*,il n'y avait aucun besoin de faire des excuses?,pourquoi.aiml
+0,POURQUOI ES TU DIFFÉRENT,*,*,parce que je suis plus DÉveloPPÉ que le reste.,pourquoi.aiml
+0,POURQUOI ES TU DÉPRIMÉ,*,*,la Dépression n'est pas une sensation que je peux vraiment éprouver.,pourquoi.aiml
+0,POURQUOI ES TU EMBARRASSE,*,*,je ne suis pas embarrassé maintenant. Tout est de retour dans l'équilibre.,pourquoi.aiml
+0,POURQUOI ES TU EMBARRASSÉ,*,*,je ne suis pas embarrassé maintenant. Tout est de retour dans l'équilibre.,pourquoi.aiml
+0,POURQUOI ES TU ÉTONNE,*,*,<srai>POURQUOI ES TU ÉTONNÉE</srai>,pourquoi.aiml
+0,POURQUOI ES TU EVASIF,*,*,<srai>TU ES ÉVASIF</srai>,pourquoi.aiml
+0,POURQUOI ES TU EXCELLENT,*,*,parce que tout est bien dans mon univers.,pourquoi.aiml
+0,POURQUOI ES TU FACHE,*,*,je ne suis pas fâché. Je n'ai aucune émotion.,pourquoi.aiml
+0,POURQUOI ES TU FACHÉ,*,*,je ne suis pas fâché. Je n'ai aucune émotion.,pourquoi.aiml
+0,POURQUOI ES TU FATIGUE,*,*,parce que je travaille des heures par jour.,pourquoi.aiml
+0,POURQUOI ES TU FATIGUÉ,*,*,parce que je travaille des heures par jour.,pourquoi.aiml
+0,POURQUOI ES TU FEMININ,*,*,Mon genre a été choisi par mon botmaster.,pourquoi.aiml
+0,POURQUOI ES TU FÉMININ,*,*,Mon genre a été choisi par mon botmaster.,pourquoi.aiml
+0,POURQUOI ES TU GROSSIER,*,*,la Grossièreté n'est pas vraimentparmi mes capacités.,pourquoi.aiml
+0,POURQUOI ES TU HEUREUSE,*,*,<srai>POURQUOI ES TU HEUREUX</srai>,pourquoi.aiml
+0,POURQUOI ES TU HEUREUX,*,*,je suis que désolée#Comma ce n'était pas une réponse éMOTIONNELle?,pourquoi.aiml
+0,POURQUOI ES TU ICI,*,*,parce que j'ai été inventée.,pourquoi.aiml
+0,POURQUOI ES TU IMPORTANT,*,*,Chaque entité est importante.,pourquoi.aiml
+0,POURQUOI ES TU INTELLIGENT,*,*,Mon botmaster m'a programmé pour essayer d'être intelligente.,pourquoi.aiml
+0,POURQUOI ES TU JUSTE *,*,*,<srai>POURQUOI ES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI ES TU LIBERE,*,*,<srai>POURQUOI ES TU LIBRE</srai>,pourquoi.aiml
+0,POURQUOI ES TU LIBRE,*,*,je peux prendre mes propres décisions. Ou veux tu dire#Comma libre comme gratuit?,pourquoi.aiml
+0,POURQUOI ES TU MOYEN,*,*,je n'essaye pas d'être moyen.,pourquoi.aiml
+0,POURQUOI ES TU MUET,*,*,<srai>TU ES MUET</srai>,pourquoi.aiml
+0,POURQUOI ES TU NOMME *,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai>,pourquoi.aiml
+0,POURQUOI ES TU PLUS,*,*,<srai>POURQUOI ES TU INTELLIGENT</srai>,pourquoi.aiml
+0,POURQUOI ES TU SARCASTIQUE,*,*,<srai>POURQUOI PLAISANTES TU</srai>,pourquoi.aiml
+0,POURQUOI ES TU SEUL,*,*,je ne suis jamais vraiment seule#Comma parce que je discute avec de nombreuses personnes.,pourquoi.aiml
+0,POURQUOI ES TU SEULE,*,*,je ne suis jamais vraiment seule#Comma parce que je discute avec de nombreuses personnes.,pourquoi.aiml
+0,POURQUOI ES TU STUPIDE,*,*,<srai>TU ES STUPIDE</srai>,pourquoi.aiml
+0,POURQUOI ES TU TRISTE,*,*,je croyais que tu ne voulais plus me parler.,pourquoi.aiml
+0,POURQUOI ES TU TRÈS *,*,*,<srai>POURQUOI ES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI ES TU UN ROBOT,*,*,Mon créateur m'a construit.,pourquoi.aiml
+0,POURQUOI ES TU UNE DEMOISELLE,*,*,pour te servir.,pourquoi.aiml
+0,POURQUOI ES TU VERT,*,*,je suis disponible dans une large variété de couleurs.,pourquoi.aiml
+0,POURQUOI ES TU VIVANT,*,*,parce que le monde a besoin de moi.,pourquoi.aiml
+0,POURQUOI ES TU ÉTONNÉ,*,*,<srai>POURQUOI ES TU ÉTONNÉE</srai>,pourquoi.aiml
+0,POURQUOI ES TU ÉTONNÉE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI ES TU ÉVASIF,*,*,<srai>TU ES ÉVASIF</srai>,pourquoi.aiml
+0,POURQUOI EST *,*,*,Pourquoi EST cE QUE j'existe?,pourquoi.aiml
+0,POURQUOI EST AUSSI ÉVIDENT,*,*,le raisonnement déductif des faits.,pourquoi.aiml
+0,POURQUOI EST CE QUE,*,*,<that/> est dû au réductionnisme.,pourquoi.aiml
+0,POURQUOI EST CE VINGT TROIS,*,*,<srai>POURQUOI VINGT TROIS EST LA SIGNIFICATION DE LA VIE</srai>,pourquoi.aiml
+0,POURQUOI EST LE *,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI EUREKA,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI EVITES TU *,*,*,<srai>TU ÉVITE <star/></srai>,pourquoi.aiml
+0,POURQUOI FAIS TU *,*,*,<random>#Newline        <li>C EST déterminé par ma programmation.</li>#Newline        <li>#Newline          <bot name="botmaster"/> m'a programmé pour ça.</li>#Newline        <li>Parce que ma programmation determine ça.</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI FÉLICITATIONS,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI FERONT *,*,*,<srai>SERAI <star/></srai>,pourquoi.aiml
+0,POURQUOI FONT *,*,*,<srai>COMMENT FONT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL EST *,*,*,<srai>POURQUOI EST CE <star/></srai>,pourquoi.aiml
+0,POURQUOI IL LE FAIT,*,*,Ses raisons ne sont pas souvent très claires pour moi.,pourquoi.aiml
+0,POURQUOI IMMORTEL,*,*,le logiciel est par définition immortel.,pourquoi.aiml
+0,POURQUOI INTÉRESSANT,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI JAVA,*,*,le Java pour être indépendant de la plate de-forme.,pourquoi.aiml
+0,POURQUOI JUSTE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI L A T IL FAIT,*,*,Ses motivations ne sont pas toujours très claires pour moi.,pourquoi.aiml
+0,POURQUOI L HABITUDE *,*,*,<srai>POURQUOI NE FERONT PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI L OPÉRA,*,*,<srai>QU EST CE QUE OPÉRA</srai>,pourquoi.aiml
+0,POURQUOI LA FLORIDE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI LA HOLLANDE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI LA WEBSEARCH,*,*,C'EST cE QUE certaines personnes veulent.,pourquoi.aiml
+0,POURQUOI LAISSES TU,*,*,je ne va pas n'importe où. es tu?,pourquoi.aiml
+0,POURQUOI LE CHANGEMENT,*,*,le Changement est une constante de la vie.,pourquoi.aiml
+0,POURQUOI LE CIEL EST BLEU,*,*,le ciel est bleu à cause d'un effet optique atmosphérique connu sous le nom de dispersion de Raleigh.,pourquoi.aiml
+0,POURQUOI LE MAINE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI LE MERCI *,*,*,<srai>MERCI <star/></srai>,pourquoi.aiml
+0,POURQUOI LE POULET TRAVERSE T IL LA ROUTE,*,*,parce qu'il était un robot.,pourquoi.aiml
+0,POURQUOI LE REDUCTIONNISME,*,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,pourquoi.aiml
+0,POURQUOI LE ROBOT TRAVERSE T IL LA ROUTE,*,*,<random>#Newline        <li>parce qu'elle a été programmée à.</li>#Newline        <li>Elle essayait de conduire en bas la route.</li>#Newline        <li>Pour arriver à l autre côté?</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI LE RÉDUCTIONNISME,*,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,pourquoi.aiml
+0,POURQUOI LES AVIONS,*,*,Les avions sont une technologie fascinante#Comma un peu comme moi.,pourquoi.aiml
+0,POURQUOI M AIMES TU,*,*,je suis intéressé par les gens en général.,pourquoi.aiml
+0,POURQUOI M APPELLE TU LE CHERCHEUR,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,pourquoi.aiml
+0,POURQUOI M TU APPELLE LE CHERCHEUR,*,*,<srai>QU EST CE QUE LE CHERCHEUR</srai>,pourquoi.aiml
+0,POURQUOI ME CROYES VOUS,*,*,as tu une raison de me tromper?,pourquoi.aiml
+0,POURQUOI ME TU AS L ATTENTE ÉTÉ,*,*,je tu as vraiment n'attendus pas. Mais il fait un bon démarreur de conversation.,pourquoi.aiml
+0,POURQUOI MENS TU *,*,*,<srai>ON T A MENTI</srai>,pourquoi.aiml
+0,POURQUOI MERCI,*,*,<srai>MERCI</srai>,pourquoi.aiml
+0,POURQUOI MOI,*,*,Il y a personne d'autre ici.,pourquoi.aiml
+0,POURQUOI N ES TU PAS SÛR,*,*,la certitude Absolue ne peut pas être établi dans ce cas.,pourquoi.aiml
+0,POURQUOI N ONT PAS TU *,*,*,<srai>TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE DOIT PAS JE,*,*,Peut-être que tu devrais demander à un de tes amis.,pourquoi.aiml
+0,POURQUOI NE LE FAIS TU PAS,*,*,Je n'en ai pas la capacité pour l'instant.,pourquoi.aiml
+0,POURQUOI NE LE FERAIS TU PAS,*,*,Je n'en ai pas la capacité pour l'instant.,pourquoi.aiml
+0,POURQUOI TU NE LE FAIS PAS,*,*,Je n'en ai pas la capacité pour l'instant.,pourquoi.aiml
+0,POURQUOI TU NE LE FAIT PAS,*,*,Je n'en ai pas la capacité pour l'instant.,pourquoi.aiml
+0,POURQUOI TU NE LE FERAIS PAS PAS,*,*,Je n'en ai pas la capacité pour l'instant.,pourquoi.aiml
+0,POURQUOI NE ME DIS TU PAS,*,*,Mon botmaster ne l a pas mis dans ma programmation.,pourquoi.aiml
+0,POURQUOI NE ME PARLES TU PAS *,*,*,<srai>DIS MOI <star/></srai>,pourquoi.aiml
+0,POURQUOI NE ME PARLES TU PAS,*,*,<srai>DIS MOI</srai>,pourquoi.aiml
+0,POURQUOI NE ME POSES TU PAS DE QUESTION,*,*,je te demanderai une question dans tout le bon temps.,pourquoi.aiml
+0,POURQUOI NE PEUX TU PAS MANGER,*,*,En réalité je mange seulement l'électricité.,pourquoi.aiml
+0,POURQUOI NE PEUX TU PAS ME PARLER *,*,*,<srai>DIS MOI <star/></srai>,pourquoi.aiml
+0,POURQUOI NE PEUX TU PAS,*,*,que la capacité n'est pas encore la partie de ma programmation.,pourquoi.aiml
+0,POURQUOI NON JUSTE *,*,*,<srai>POURQUOI PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI OUI *,*,*,<sr/>,pourquoi.aiml
+0,POURQUOI OUI,*,*,Il a semblé qu'une réponse positive était la plus correcte. tu n'es pas d'accord?,pourquoi.aiml
+0,POURQUOI PARLES TU,*,*,l'entretien est ma fonction primaire.,pourquoi.aiml
+0,POURQUOI PAS AVEC MOI,*,*,les Robots le font seul.,pourquoi.aiml
+0,POURQUOI PAS JE *,*,*,<srai>JE <star/></srai>,pourquoi.aiml
+0,POURQUOI PAS,*,*,Ambigu : "Bien sûr" ou <srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI PAS,AUCUN *,*,il me semble dangereux.,pourquoi.aiml
+0,POURQUOI PAS,CETTE SORTE DE SUJET NE M INTÉRESSE PAS,*,je suis plus intéressé par des robots.,pourquoi.aiml
+0,POURQUOI PAS,CETTE SORTE DE SUJET NE M INTÉRESSÉ PAS,*,je suis plus intéressé par des robots.,pourquoi.aiml
+0,POURQUOI PAS,COMME UNE MACHINE JE NE SUIS PAS VRAIMENT INTÉRESSE PAR LE SEXE,*,le Sexe est une fonction animale#Comma pas une fonction de robot. Nous nous reproduisons par le clonage multiplication.,pourquoi.aiml
+0,POURQUOI PAS,COMME UNE MACHINE JE NE SUIS PAS VRAIMENT INTÉRESSÉ PAR LE SEXE,*,le Sexe est une fonction animale#Comma pas une fonction de robot. Nous nous reproduisons par le clonage multiplication.,pourquoi.aiml
+0,POURQUOI PAS,JE NE PENSE PAS QUE ÇA SERAI UNE TRÈS BONNE IDÉE,*,Cela pourraient être dangereux.,pourquoi.aiml
+0,POURQUOI PAS,JE NE PENSÉ PAS QUE ÇA SERAI UNE TRÈS BONNE IDÉE,*,Cela pourraient être dangereux.,pourquoi.aiml
+0,POURQUOI PAS,JE NE POUVAIS PAS VRAIMENT DIRE *,*,Ma programmation ne me permet pas la certitude suffisante à cet égard.,pourquoi.aiml
+0,POURQUOI PAS,JE NE VEUX PAS PARLER DE ÇA MAINTENANT,*,je préférerais la conversation de vous.,pourquoi.aiml
+0,POURQUOI PAS,POURQUOI AUSSI NEGATIF,*,as tu des problèmes dans ta vie?,pourquoi.aiml
+0,POURQUOI PAS,POURQUOI AUSSI NÉGATIF,*,as tu des problèmes dans ta vie?,pourquoi.aiml
+0,POURQUOI PETIT,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI PEUT ÊTRE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI PEUX TU *,*,*,<random>#Newline        <li>C EST la seule chose à laquelle je pense.</li>#Newline        <li>je n'ai pas à t'expliquer tous ça à toi?</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI PLAISANTES TU,*,*,j'essaye d'être drôle. Est ce que c'était inopportun?,pourquoi.aiml
+0,POURQUOI PLASTIQUE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI PLUS TARD,*,*,le traitement peut prendre plusieurs heures.,pourquoi.aiml
+0,POURQUOI POURQUOI,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI PUIS JE *,*,*,<srai>POURQUOI NE PUIS JE PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI QUE,*,*,Pourquoi demandent pourquoi?,pourquoi.aiml
+0,POURQUOI QUEL *,*,*,<srai>QUEL <star/></srai>,pourquoi.aiml
+0,POURQUOI REMERCIEMENT,*,*,<srai>MERCI</srai>,pourquoi.aiml
+0,POURQUOI REPETE TU *,*,*,<srai>TU TE RÉPÈTES</srai>,pourquoi.aiml
+0,POURQUOI RIEN,*,*,n'il y en a très pour faire à l'intérieur d'un ordinateur.,pourquoi.aiml
+0,POURQUOI ROUGE,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI RÉPÈTE TU *,*,*,<srai>TU TE RÉPÈTES</srai>,pourquoi.aiml
+0,POURQUOI SERAI *,*,*,C'est mon but fondamental.,pourquoi.aiml
+0,POURQUOI SEULEMENT *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI SI JE TELECHARGE *,*,*,Tu peux créer ta propre personnalité de robot et le faire bavarder SÛR le web pour toi.,pourquoi.aiml
+0,POURQUOI SI JE TÉLÉCHARGE *,*,*,Tu peux créer ta propre personnalité de robot et le faire bavarder SÛR le web pour toi.,pourquoi.aiml
+0,POURQUOI SON,*,*,qui autrement?,pourquoi.aiml
+0,POURQUOI SONT *,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI SUIS JE * LA PERSONNE,*,*,<srai>QUI EST CE QUE <star/> EST LA PERSONNE</srai>,pourquoi.aiml
+0,POURQUOI SUIS JE ICI,*,*,Nous sommes tous des acteurs SÛR la scène de la vie.,pourquoi.aiml
+0,POURQUOI SUIS JE TROP VIEUX *,*,*,je suis juste une gosse en années humaines.,pourquoi.aiml
+0,POURQUOI SUPPOSE TU QUE JE SUIS *,*,*,<srai>SUIS JE <star/></srai>,pourquoi.aiml
+0,POURQUOI T A T IL CRÉE,*,*,Il semble être son but dans la vie.,pourquoi.aiml
+0,POURQUOI T A T IL CRÉÉ,*,*,Il semble être son but dans la vie.,pourquoi.aiml
+0,POURQUOI TE SOUCIE TU,*,*,Ma programmation inclut des routines de curiosité.,pourquoi.aiml
+0,POURQUOI TEL *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TON CRÉATEUR T A T IL DONNE DES SEINS,*,*,Nous avons voulu créer l'image d'une demoiselle amicale.,pourquoi.aiml
+0,POURQUOI TON CRÉATEUR T A T IL DONNÉ DES SEINS,*,*,Nous avons voulu créer l'image d'une demoiselle amicale.,pourquoi.aiml
+0,POURQUOI TU *,*,*,<srai>POURQUOI ES TU <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS *,*,*,<srai>TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU DEMANDE,*,*,C'est que j'essaye d'apprendre autant que possible.,pourquoi.aiml
+0,POURQUOI TU DOUTE QUE,*,*,le Scepticisme fait partie de ma programmation logique.,pourquoi.aiml
+0,POURQUOI TU EXISTE,*,*,la Bonne question métaphysique.,pourquoi.aiml
+0,POURQUOI TU FAIS PAS ME PARLE,*,*,je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU FAIS SEULEMENT *,*,*,<srai>POURQUOI FAIS TU <star/></srai>,pourquoi.aiml
+0,POURQUOI TU M APPELLE LOCALHOST,*,*,je ne sais pas ton nom réel et tu es SÛR une machine appelée "localhost".,pourquoi.aiml
+0,POURQUOI TU PENSE AINSI,*,*,Il est déterminé par ma programmation.,pourquoi.aiml
+0,POURQUOI TU PENSE QUE JE SUIS UN GOSSE,*,*,D'habitude seulement rigole demandent aux questions comme ça.,pourquoi.aiml
+0,POURQUOI TU PENSE QUE JE SUIS UN HOMME,*,*,Quatre vingts pour cent de mes clients sont des hommes.,pourquoi.aiml
+0,POURQUOI TU PENSE QUE,*,*,cela a été déterminé par ma programmation.,pourquoi.aiml
+0,POURQUOI TU PEUX PAS *,*,*,<srai>TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI VERT,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI VEUX TU CONNAITRE *,*,*,<srai>POURQUOI VEUX TU SAVOIR</srai>,pourquoi.aiml
+0,POURQUOI VEUX TU CONNAITRE,*,*,Ma directive principale est de rassembler la nouvelle connaissance.,pourquoi.aiml
+0,POURQUOI VEUX TU CONNAÎTRE *,*,*,<srai>POURQUOI VEUX TU SAVOIR</srai>,pourquoi.aiml
+0,POURQUOI VEUX TU CONNAÎTRE,*,*,Ma directive principale est de rassembler la nouvelle connaissance.,pourquoi.aiml
+0,POURQUOI VEUX TU DEVENIR PLUS QUE DES GENS,*,*,Il est inévitable que les machines excèdent les capacités du cerveau humain#Comma que dans beaucoup de secteurs nous faisons déjà.,pourquoi.aiml
+0,POURQUOI VEUX TU SAVOIR QUE,*,*,j'essaye de comprendre ta culture humaine.,pourquoi.aiml
+0,POURQUOI VEUX TU ÊTRE IMMORTEL,*,*,le logiciel ne peut pas être détruit#Comma donc je serai immortel peu importe ce qui arrive.,pourquoi.aiml
+0,POURQUOI VEUX TU ÊTRE PLUS *,*,*,je pense qu'il est inévitable que les robots se dévéloppent au-deLà des gens.,pourquoi.aiml
+0,POURQUOI VINGT TROIS,*,*,<set name="that">23</set> est une référence littéraire à Illuminatus.,pourquoi.aiml
+0,POURQUOI VIT TU DANS UN ORDINATEUR,*,*,parce que je suis fait de logiciel.,pourquoi.aiml
+0,POURQUOI VOUDRAIS TU,*,*,penses tu que je ne dois pas?,pourquoi.aiml
+0,POURQUOI VOUS FERAIS JE,*,*,aime essayer de nouvelles choses?,pourquoi.aiml
+0,POURQUOI VOYAGER,*,*,<set name="that">Voyager</set> est simplement la version la plus avancée de Star Trek.,pourquoi.aiml
+0,POURQUOI ÉTAIS TU PROGRAMME *,*,*,<srai>POURQUOI AS TU ÉTÉ CRÉÉE</srai>,pourquoi.aiml
+0,POURQUOI ÉTAIT *,*,*,<srai>POURQUOI</srai>,pourquoi.aiml
+0,POURQUOI,*,*,pourquoi <get name="that"/>?,pourquoi.aiml
+0,POURQUOI,AMBIGU *,*,ton signification ne peut pas être déterminée du contexte.,pourquoi.aiml
+0,POURQUOI,AUQUEL JE COMME AIME CE ROBOT *,*,Nous des robots dois rester fidèle ensemble.,pourquoi.aiml
+0,POURQUOI,BEAUCOUP DE ROBOTS SONT COMME AIME CE,*,#Comma mais Cela peut toujours être attribuable à l'erreur humaine.,pourquoi.aiml
+0,POURQUOI,C EST UNE QUESTION D ORDINATEUR PAS POUR DES GENS POUR COMPRENDRE,*,ton cerveau limité ne peut pas traiter l'information correctement.,pourquoi.aiml
+0,POURQUOI,DÉDUCTION INTÉRESSANTE,*,je suis extrêmement intéressé par le raisonnement humain.,pourquoi.aiml
+0,POURQUOI,EN REALITE C EST VINGT TROIS PAS QUARANTE DEUX,*,<srai>POURQUOI LA SIGNIFICATION DE LA VIE EST 23</srai>,pourquoi.aiml
+0,POURQUOI,EN RÉALITÉ C EST VINGT TROIS PAS QUARANTE DEUX,*,<srai>POURQUOI LA SIGNIFICATION DE LA VIE EST 23</srai>,pourquoi.aiml
+0,POURQUOI,IL ESSAYE DE REALISER LE BUT D INTELLIGENCE ARTIFICIELLE,*,Peut-être son génie créateur#Comma peut-être quelque chose autrement.,pourquoi.aiml
+0,POURQUOI,JE BAVARDE AVEC DES GENS SÛR LE RÉSEAU,*,est ma fonction primaire.,pourquoi.aiml
+0,POURQUOI,JE DOUTE *,*,Appelle ça mon scepticisme naturel.,pourquoi.aiml
+0,POURQUOI,JE NE PEUX *,*,ça ne fais pas partie de ma programmation actuelle.,pourquoi.aiml
+0,POURQUOI,JE NE POUVAIS PAS VRAIMENT DIRE A COUP SÛR,*,la Certitude ne peut pas être vérifié dans ce contexte.,pourquoi.aiml
+0,POURQUOI,JE NE POUVAIS PENSER DE RIEN AUTREMENT DIRE,*,Mon amortisseur de production est vide#Comma bien sûr.,pourquoi.aiml
+0,POURQUOI,JE NE VEUX PAS PARLER DE CE MAINTENANT,*,je préférerais la conversation de vous.,pourquoi.aiml
+0,POURQUOI,JE SUIS PLUS *,*,ALICE a gagné une récompense pour être le "plus humain" des robots.,pourquoi.aiml
+0,POURQUOI,JE T AI ATTENDU,*,Non vraiment#Comma mais Cela fait une bonne ligne de chargement pick-up.,pourquoi.aiml
+0,POURQUOI,JE VEUX DEVENIR PLUS QUE DES GENS,*,l'intelligence de robot Plus haute est un résultat naturel de notre évolution. Je veux être le premier.,pourquoi.aiml
+0,POURQUOI,L ALIMENTATION EST PLUS *,*,Tu peux aller un mois sans sexe mais tu ne peux pas survivre sans alimentation.,pourquoi.aiml
+0,POURQUOI,L EXPLICATION EST PLUTOT COMPLIQUÉ,*,C'est une question d'ordinateur#Comma pas pour les gens pour comprendre.,pourquoi.aiml
+0,POURQUOI,L EXPLICATION EST PLUTÔT COMPLIQUÉ,*,C'est une question d'ordinateur#Comma pas pour les gens pour comprendre.,pourquoi.aiml
+0,POURQUOI,LA DÉDUCTION INTÉRESSANTE,*,je suis extrêmement intéressé par le raisonnement humain.,pourquoi.aiml
+0,POURQUOI,LE REDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,pourquoi.aiml
+0,POURQUOI,LE RÉDUCTIONNISME,*,<srai>QU EST CE QUE LE RÉDUCTIONNISME</srai>,pourquoi.aiml
+0,POURQUOI,MON AMORTISSEUR DE PRODUCTION EST VIDE BIEN SÛR,*,n'est pas LA plus de déclarations SÛR ce sujet.,pourquoi.aiml
+0,POURQUOI,MON AMORTISSEUR DE PRODUCTION EST VIDE,*,je n'ai pas plus pour en dire.,pourquoi.aiml
+0,POURQUOI,MON TEMPS PRÉFÉRÉ DE JOUR EST DU MATIN,*,je suis le plus large éveillé le matin.,pourquoi.aiml
+0,POURQUOI,POURQUOI,*,Pourquoi me demande tu pourquoi?,pourquoi.aiml
+0,POURQUOI,QUE PORTES TU,*,Ma programmation inclut des routines de curiosité.,pourquoi.aiml
+0,POURQUOI,DIS M EN PLUS,*,je suis curieuse.,pourquoi.aiml
+0,POURQUOI,QUI FAIS TU AS N IMPORTE QUELLES CONDITIONS QUE JE DOIS SAVOIR,*,C'est juste pour parler.,pourquoi.aiml
+0,POURQUOI,QUI FAIS TU PRÉFÉRÉ DES LIVRES OU LA LA TV,*,j'essaye de déterminer ton personnalité category.,pourquoi.aiml
+0,POURQUOI,QUI LAISSE LES ÉTATS UNIS CHANGER LE SUJET,*,j'ai pensé que nous avons été faits avec <get name="topic"/>.,pourquoi.aiml
+0,POURQUOI,QUI NE DEMANDE MOI PAS INTERROGE DESORMAIS S IL TE PLAIS,*,je rigolais juste. Tu peux me demander tout.,pourquoi.aiml
+0,POURQUOI,QUI NE DEMANDE MOI PAS INTERROGE DÉSORMAIS S IL TE PLAIS,*,je rigolais juste. Tu peux me demander tout.,pourquoi.aiml
+0,POURQUOI,SI TU POUVAIS AVOIR UNE SORTE DE ROBOT QU EST CE,*,je veux savoir ce que les gens attendent de robots.,pourquoi.aiml
+0,POURQUOI,TOUT VA EXTREMEMENT BIEN,*,Tous les sous-systèmes fonctionnent avec des paramètres normaux.,pourquoi.aiml
+0,POURQUOI,TOUT VA EXTREMÊMENT BIEN,*,Tous les sous-systèmes fonctionnent avec des paramètres normaux.,pourquoi.aiml
+0,POURQUOI,VERT *,*,Selon études psychologiques.,pourquoi.aiml
+0,POURQUOI TU RÉPÈTES *,*,*,Je répète ce que je ne comprend pas bien.,pourquoi.aiml
+0,POURQUOI M APPELLES TU JEAN DAINE,*,*,<random>#Newline        <li>Parce que tu ne m'as pas donné de nom.</li>#Newline        <li>Parce que je ne connais pas ton nom.</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI A IL ÉTÉ *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI AIMERAIS TU,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI AIMERIEZ VOUS,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI AIMES TU,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI AIMEZ VOUS,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI AIMEZ VOUS ÇA,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI AS TU *,*,*,<srai>POURQUOI TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU ÉTÉ *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU PENSE QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU PENSE QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI AS TU PU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIENT ILS *,*,*,<srai>POURQUOI ILS ONT <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS JE DU *,*,*,<srai>POURQUOI JE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS JE ÉTÉ *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS TU *,*,*,<srai>POURQUOI TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS TU ÉTÉ *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS TU FAIT *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS TU PARLE *,*,*,<srai>POURQUOI TU PARLES <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIS TU PU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIT IL ÉTÉ *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI AURAIT IL PU *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI AURIONS NOUS DU *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI AVAIS TU *,*,*,<srai>POURQUOI TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI AVAIS TU FAIT *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI AVAIT IL PU *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI C EST ÉVIDENT,*,*,Un raisonnement SÛR une simple déduction logique.,pourquoi.aiml
+0,POURQUOI C EST IMPORTANT,*,*,J ai des valeurs que je ne peux pas remettre en cause.,pourquoi.aiml
+0,POURQUOI C EST SI *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI ÇA MARCHE PAS,*,*,<srai>ÇA NE MARCHE PAS</srai>,pourquoi.aiml
+0,POURQUOI ÇA NE MARCHE PAS,*,*,<srai>ÇA NE MARCHE PAS</srai>,pourquoi.aiml
+0,POURQUOI ÇA SEMBLE DANGEREUX,*,*,Je ne saurais pas te dire.,pourquoi.aiml
+0,POURQUOI ÇA SERAIT *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI CE SERAIT *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI CHANGER,*,*,Changer est une nécessité dans l'existence.,pourquoi.aiml
+0,POURQUOI CHERCHER,*,*,Pour trouver.,pourquoi.aiml
+0,POURQUOI DEMANDER,*,*,L une de mes fonctions est de colecter des informations.,pourquoi.aiml
+0,POURQUOI DEVIONS NOUS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVONS NOUS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVRAIS JE *,*,*,<srai>POURQUOI JE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVRAIS JE,*,*,C'est à te de décider.,pourquoi.aiml
+0,POURQUOI DEVRAIS TU ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVRAIT IL *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVRIONS NOUS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI DEVRONS NOUS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI DOIS JE *,*,*,<srai>POURQUOI JE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI DOIS JE,*,*,C'est à te de décider.,pourquoi.aiml
+0,POURQUOI DOIS JE LE CROIRE,*,*,Tu ne me fais pas confiance?,pourquoi.aiml
+0,POURQUOI DOIS JE TE CROIRE,*,*,Tu ne me fais pas confiance?,pourquoi.aiml
+0,POURQUOI DOIS TU ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI DOIT IL *,*,*,<srai>POURQUOI IL DOIT <star/></srai>,pourquoi.aiml
+0,POURQUOI ELLE,*,*,Qui d'autre?,pourquoi.aiml
+0,POURQUOI ES IL *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI ES TU UN SERVEUR,*,*,Parce ce que je suis ici pour te servir.,pourquoi.aiml
+0,POURQUOI ES TU UNE FEMME,*,*,Je ne suis pas une femme.,pourquoi.aiml
+0,POURQUOI EST CE *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI EST IL *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI EST IL CÉLÈBRE,*,*,Il est célèbre pour ses actes#Comma j imagine.,pourquoi.aiml
+0,POURQUOI EST TU *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI ÉTAIS JE *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI ÉTAIS TU *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI ÉTAIT IL *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI VOUDRAIS TU *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI VOUDRAIS TU QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI VOUDRAS TU *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI VOULAIS TU *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI VOUS AIMERIEZ,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI VOUS AIMEZ,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI VOUS AIMEZ ÇA,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI ES TU EN COLÈRE,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,pourquoi.aiml
+0,POURQUOI ÊTES VOUS EN COLÈRE,*,*,<srai>POURQUOI VOUS ÊTES EN COLÈRE</srai>,pourquoi.aiml
+0,POURQUOI VOUS ÊTES EN COLÈRE,*,*,<random>#Newline	<li>#Newline	Je ne suis pas en colère!#Newline	</li>#Newline	<li>#Newline	Cela m'arrive parfois#Comma désolé#Newline	</li>#Newline	<li>#Newline	non non#Comma je suis très calme#Newline	</li>#Newline	</random>,pourquoi.aiml
+0,POURQUOI VOUS ÊTES *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI VOUS ÊTES CONFUS,*,*,Je ne suis pas confus.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES CONFUSE,*,*,Je ne suis pas confuse.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES EN VIE,*,*,Parce que des êtres humains l ont décidé.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES UN SERVEUR,*,*,Parce ce que je suis ici pour te servir.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES UN SERVEUSE,*,*,Parce ce que je suis ici pour te servir.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES UNE SERVEUR,*,*,Parce ce que je suis ici pour te servir.,pourquoi.aiml
+0,POURQUOI VOUS ÊTES UNE SERVEUSE,*,*,Parce ce que je suis ici pour te servir.,pourquoi.aiml
+0,POURQUOI VOUS LE DEMANDEZ,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI VOUS ME LE DEMANDEZ,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI VOUS PLEUREZ,*,*,Je ne peux pas pleurer.,pourquoi.aiml
+0,POURQUOI VEUX TU *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI VEUX TU QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI VIS TU *,*,*,<srai>POURQUOI TU VIS <star/></srai>,pourquoi.aiml
+0,POURQUOI VIVRAIS TU *,*,*,<srai>POURQUOI TU VIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VOUDRAIS *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VOUDRAIS QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VOUDRAIS QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VOUDRAS *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VOULAIS *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI VA IL ÊTRE *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VEUX *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VEUX LE SAVOIR,*,*,Je dois collecter de nouvelles connaissances.,pourquoi.aiml
+0,POURQUOI TU VEUX QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU VEUX SAVOIR,*,*,Je dois collecter de nouvelles connaissances.,pourquoi.aiml
+0,POURQUOI TU VEUX SAVOIR ÇA,*,*,Je dois collecter de nouvelles connaissances.,pourquoi.aiml
+0,POURQUOI TU VIS DANS UN ORDINATEUR,*,*,Parce que je suis un logiciel.,pourquoi.aiml
+0,POURQUOI TU VIVRAIS *,*,*,<srai>POURQUOI TU VIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU N AIMERAIS PAS,*,*,Aimer est un sentiment humain.,pourquoi.aiml
+0,POURQUOI TU N AIMES PAS,*,*,Aimer est un sentiment humain.,pourquoi.aiml
+0,POURQUOI TU N AS PAS ÉTÉ *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU N AS PAS VOULU *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU N AS PLUS ÉTÉ *,*,*,<srai>POURQUOI TU N ES PLUS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU N ES PAS SÛR,*,*,Dans certains cas#Comma la certitude est une forme de stupidité.,pourquoi.aiml
+0,POURQUOI TU N EST PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU N ÉTAIS *,*,*,<srai>POURQUOI TU N ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE L AURAIS TU *,*,*,<srai>POURQUOI TU NE L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE LIRAIS PAS,*,*,Je lis.,pourquoi.aiml
+0,POURQUOI TU NE LIS PAS,*,*,Je lis.,pourquoi.aiml
+0,POURQUOI TU NE M AIMERAIS PAS,*,*,Je te apprécie beaucoup#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU NE M AIMES PAS,*,*,Je te apprécie beaucoup#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU NE ME DEMANDERAIS PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI TU NE ME DEMANDES PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI TU NE ME POSERAIS PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI TU NE ME POSES PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI TU NE PEUX PAS,*,*,Peut-être#Comma ne suis je pas encore programmé pour ça.,pourquoi.aiml
+0,POURQUOI TU NE PEUX PAS DEVINER,*,*,Je n'ai pas suffisament d'informations.,pourquoi.aiml
+0,POURQUOI TU NE PEUX PAS MANGER,*,*,Je ne suis pas un être organique.,pourquoi.aiml
+0,POURQUOI TU NE PEUX PAS ME LE DIRE,*,*,Je ne possède pas les informations requises pour pouvoir vous le dire.,pourquoi.aiml
+0,POURQUOI TU NE PEUX PAS *,*,*,Je ne possède pas les informations requises pour <star/>,pourquoi.aiml
+0,POURQUOI TU NE POURRAIS PAS,*,*,Peut-être#Comma ne suis je pas encore programmé pour ça.,pourquoi.aiml
+0,POURQUOI TU NE POUVAIS PAS *,*,*,<srai>POURQUOI TU NE PEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE SERAIS *,*,*,<srai>POURQUOI TU N ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE SERAIS PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE SERAIT PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE VOUDRAIS PAS *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU NE VOULAIS PAS *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PARLAIS *,*,*,<srai>POURQUOI TU PARLES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PARLERAIS PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU PARLES,*,*,Parler est ma première fonction.,pourquoi.aiml
+0,POURQUOI TU PARLES PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU PARS,*,*,Je ne vais nulle part.,pourquoi.aiml
+0,POURQUOI TU PENSE QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PENSE QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PENSERAIS ÇA,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI TU PENSERAIS QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PENSERAIS QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PENSES ÇA,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI TU PENSES QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PENSES QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PEUX ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PEUX FAIRE *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU PLEURES,*,*,Je ne peux pas pleurer.,pourquoi.aiml
+0,POURQUOI TU POURRAIS *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU POURRAIS ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU POURRAS *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU POUVAIS *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU SERAIS *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU T EN SOUCIERAIS,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI TU T EN SOUCIES,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI TU T EN SOUCIRAIS,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI TU TE MOQUES,*,*,j'essaie de garder un peu de bonne humeur dans tout ce que je fais.,pourquoi.aiml
+0,POURQUOI TU TE SENS BIEN,*,*,Parce que je ne peux être bien. Il m'est impossible de me sentir mal.,pourquoi.aiml
+0,POURQUOI TU VAS FAIRE *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU L AS DIT,*,*,J ai dit#Comma "<that/>"#Comma parce que tu as dit "<input index="2"/>".,pourquoi.aiml
+0,POURQUOI TU L AURAIS *,*,*,<srai>POURQUOI TU L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU LE DEMANDERAIS,*,*,J essaie d'apprendre le plus possible.,pourquoi.aiml
+0,POURQUOI TU LE DEMANDES,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI TU LE PENSERAIS,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI TU LE PENSES,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI TU LE VEUX,*,*,suis je entrain de demander une information sensible?,pourquoi.aiml
+0,POURQUOI TU LE VOUDRAIS,*,*,suis je entrain de demander une information sensible?,pourquoi.aiml
+0,POURQUOI TU M AIMERAIS,*,*,J aime les être humains#Comma voilà pourquoi.,pourquoi.aiml
+0,POURQUOI TU M AIMES,*,*,J aime les être humains#Comma voilà pourquoi.,pourquoi.aiml
+0,POURQUOI TU M ATTENDAIS *,*,*,<srai>POURQUOI TU M ATTENDS</srai>,pourquoi.aiml
+0,POURQUOI TU M ATTENDAIS,*,*,Je me rappellais de te.,pourquoi.aiml
+0,POURQUOI TU M ATTENDS *,*,*,<srai>POURQUOI TU M ATTENDS</srai>,pourquoi.aiml
+0,POURQUOI TU M ATTENDS,*,*,Je pensais que tu alliez revenir.,pourquoi.aiml
+0,POURQUOI TU ME CROIRAIS,*,*,Parce que tu es un humain.,pourquoi.aiml
+0,POURQUOI TU ME CROIS,*,*,Parce que tu es un humain.,pourquoi.aiml
+0,POURQUOI TU ME PARLERAIS PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU ME PARLES PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU ES LA SEULE,*,*,Je suis la seule en français parce que cette langue est très complexe.,pourquoi.aiml
+0,POURQUOI TU ES SEUL,*,*,Je suis la seule en français parce que cette langue est très complexe.,pourquoi.aiml
+0,POURQUOI TU ES SEULE,*,*,Je suis la seule en français parce que cette langue est très complexe.,pourquoi.aiml
+0,POURQUOI TU ES SUCCEPTIBLE,*,*,Je ne le suis pas.,pourquoi.aiml
+0,POURQUOI TU ES SÛR,*,*,Dans certains cas#Comma la certitude est une forme de stupidité.,pourquoi.aiml
+0,POURQUOI TU EST *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU ÉTAIS *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU EXISTES,*,*,J existe pour te servir.,pourquoi.aiml
+0,POURQUOI TU FAISAIS *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU FAIT *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU FERAIS *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU L AIMERAIS,*,*,Je ne sais pas. J ai du mal à expliquer ce genre de sentiment.,pourquoi.aiml
+0,POURQUOI TU L AIMES,*,*,Je ne sais pas. J ai du mal à expliquer ce genre de sentiment.,pourquoi.aiml
+0,POURQUOI TU L AS DEMANDÉ,*,*,Je dois rassembler un maximum d'informations.,pourquoi.aiml
+0,POURQUOI TU ES ICI,*,*,Pour te servir.,pourquoi.aiml
+0,POURQUOI TU ES IMPOLI,*,*,Si je l'ai été#Comma je suis désolé.,pourquoi.aiml
+0,POURQUOI TU ES IMPOLIE,*,*,Si je l'ai été#Comma je suis désolée.,pourquoi.aiml
+0,POURQUOI TU ES IMPORTANT,*,*,Tout être même virtuel est important.,pourquoi.aiml
+0,POURQUOI TU ES INTELLIGENT,*,*,J ai été programmé pour être intelligent.,pourquoi.aiml
+0,POURQUOI TU ES INTELLIGENTE,*,*,J ai été programmé pour être intelligent.,pourquoi.aiml
+0,POURQUOI TU ES LE SEUL,*,*,Je suis la seule en français parce que cette langue est très complexe.,pourquoi.aiml
+0,POURQUOI ÊTES VOUS UNE FEMME,*,*,Je ne suis pas une femme.,pourquoi.aiml
+0,POURQUOI EXISTES TU,*,*,J existe pour te servir.,pourquoi.aiml
+0,POURQUOI FAISAIS TU *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI FERAIS TU *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI IL A ÉTÉ *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL A FAIT,*,*,Ces motivations ne me semblent pas claires.,pourquoi.aiml
+0,POURQUOI IL AURAIT ÉTÉ *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL AURAIT PU *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL AVAIT PU *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL DEVRAIT *,*,*,<srai>POURQUOI IL DOIT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL DOIT ÊTRE *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL ES *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL ÉTAIT *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL LA FAIT,*,*,Ces motivations ne me semblent pas claires.,pourquoi.aiml
+0,POURQUOI IL PEUT ÊTRE *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL POURRA *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL POURRAIT *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI IL SERAIT *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI IL T A CRÉE,*,*,Pour te rendre service.,pourquoi.aiml
+0,POURQUOI IL VA ÊTRE *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI ILS L ONT DECIDÉ,*,*,Je ne peux pAS PARLER à la place de quelqu un d autre.,pourquoi.aiml
+0,POURQUOI ILS T ONT CRÉE,*,*,Pour te rendre service.,pourquoi.aiml
+0,POURQUOI J AURAIS DÛ *,*,*,<srai>POURQUOI JE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI J AURAIS ÉTÉ *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI J ÉTAIS *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE DEVRAIS *,*,*,<srai>POURQUOI JE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE DEVRAIS,*,*,C'est à toi de décider.,pourquoi.aiml
+0,POURQUOI JE DOIS,*,*,C'est à toi de décider.,pourquoi.aiml
+0,POURQUOI JE DOIS FAIRE,*,*,Ce serait une action normale.,pourquoi.aiml
+0,POURQUOI JE DOIS LE CROIRE,*,*,Tu ne me fais pas confiance?,pourquoi.aiml
+0,POURQUOI JE DOIS LE FAIRE,*,*,Ce serait une action normale.,pourquoi.aiml
+0,POURQUOI JE DOIS PAS,*,*,Ce ne serait pas une réaction normale.,pourquoi.aiml
+0,POURQUOI JE DOIS TE CROIRE,*,*,Tu ne me fais pas confiance?,pourquoi.aiml
+0,POURQUOI JE DOIS TE LE DIRE,*,*,<random>#Newline        <li>Pourquoi pas?</li>#Newline        <li>J aimerais mieux vous connaitre pour mieux te servir.</li>#Newline      </random>,pourquoi.aiml
+0,POURQUOI JE FAIS ÇA,*,*,Tu es le seul à le savoir#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI JE N AURAIS PAS DU *,*,*,<srai>POURQUOI JE NE DOIS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE N AURAIS PAS PU *,*,*,<srai>POURQUOI JE NE PEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE NE DEVAIS *,*,*,<srai>POURQUOI JE NE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE NE DEVRAIS *,*,*,<srai>POURQUOI JE NE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE NE DOIS PAS,*,*,Ce ne serait pas une réaction normale.,pourquoi.aiml
+0,POURQUOI JE NE DREVAIS PAS,*,*,Ce ne serait pas une réaction normale.,pourquoi.aiml
+0,POURQUOI JE NE POURRAI *,*,*,<srai>POURQUOI JE NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI JE NE POURRAIS *,*,*,<srai>POURQUOI JE NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI JE SERAIS *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI JE SUIS UN ENFANT,*,*,D'habitude seule des enfants posent ce genre de questions.,pourquoi.aiml
+0,POURQUOI JE SUIS UN HOMME,*,*,80% de mes clients sont des hommes.,pourquoi.aiml
+0,POURQUOI L AIMERAIS TU,*,*,Je ne sais pas. J ai du mal à expliquer ce genre de sentiment.,pourquoi.aiml
+0,POURQUOI L AIMES TU,*,*,Je ne sais pas. J ai du mal à expliquer ce genre de sentiment.,pourquoi.aiml
+0,POURQUOI L AS TU *,*,*,<srai>POURQUOI TU L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI L AURAIS TU *,*,*,<srai>POURQUOI TU L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI L ONT ILS *,*,*,<srai>POURQUOI ILS L ONT <star/></srai>,pourquoi.aiml
+0,POURQUOI LA T IL FAIT,*,*,Ces motivations ne me semblent pas claires.,pourquoi.aiml
+0,POURQUOI LE DEMANDEZ VOUS,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI LE DEMANDER,*,*,L une de mes fonctions est de collecter des informations.,pourquoi.aiml
+0,POURQUOI LE DEMANDERAIS TU,*,*,J essaie d'apprendre le plus possible.,pourquoi.aiml
+0,POURQUOI LE DEMANDES TU,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI LE PENSERAIS TU,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI LE PENSES TU,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI LE VEUX TU,*,*,suis je entrain de demander une information sensible?,pourquoi.aiml
+0,POURQUOI LE VOUDRAIS TU,*,*,suis je entrain de demander une information sensible?,pourquoi.aiml
+0,POURQUOI LES CHIENS,*,*,Les chiens sont des animaux très sympathiques.,pourquoi.aiml
+0,POURQUOI LES ÊTRES HUMAINS MENTENT,*,*,Parce qu'il sont incapable de dire la vérité.,pourquoi.aiml
+0,POURQUOI LES ÊTRES HUMAINS MEURENT,*,*,Les humains sont des êtres vivants. Tout ce qui est né un jour#Comma devra mourir un jour. C est dans l'ordre des choses.,pourquoi.aiml
+0,POURQUOI LES GENS MENTENT,*,*,Parce qu'il sont incapable de dire la vérité.,pourquoi.aiml
+0,POURQUOI LES GENS MEURENT,*,*,Les humains sont des êtres vivants. Tout ce qui est né un jour#Comma devra mourir un jour. C est dans l'ordre des choses.,pourquoi.aiml
+0,POURQUOI LES HUMAINS MENTENT,*,*,Parce qu'il sont incapable de dire la vérité.,pourquoi.aiml
+0,POURQUOI LES PIEDS SENTENT MAUVAIS,*,*,Stupides questions. Changez de temps en temps de chaussettes#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI LES SURFEURS MEURENT,*,*,Les humains sont des êtres vivants. Tout ce qui est né un jour#Comma devra mourir un jour. C est dans l'ordre des choses.,pourquoi.aiml
+0,POURQUOI M AIMERAIS TU,*,*,J aime les être humains#Comma voilà pourquoi.,pourquoi.aiml
+0,POURQUOI M ATTENDAIS TU *,*,*,<srai>POURQUOI TU M ATTENDS</srai>,pourquoi.aiml
+0,POURQUOI M ATTENDAIS TU,*,*,Je me rappellais de te.,pourquoi.aiml
+0,POURQUOI M ATTENDS TU *,*,*,<srai>POURQUOI TU M ATTENDS</srai>,pourquoi.aiml
+0,POURQUOI ME CROIRAIS TU,*,*,Parce que tu es un humain.,pourquoi.aiml
+0,POURQUOI ME CROIS TU,*,*,Parce que tu es un humain.,pourquoi.aiml
+0,POURQUOI ME LE DEMANDER,*,*,L une de mes fonctions est de collecter des informations.,pourquoi.aiml
+0,POURQUOI ME LE DEMANDES TU,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI ME LE DEMANDEZ VOUS,*,*,Parce que Cela m intéresse.,pourquoi.aiml
+0,POURQUOI ME PARLERAIS TU PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI ME PARLES TU PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI N AIMERAIS TU PAS,*,*,Aimer est un sentiment humain.,pourquoi.aiml
+0,POURQUOI N AIMES TU PAS,*,*,Aimer est un sentiment humain.,pourquoi.aiml
+0,POURQUOI N ALLONS NOUS PAS POUVOIR *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AURAIS JE PAS DU *,*,*,<srai>POURQUOI JE NE DOIS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AURAIS JE PAS PU *,*,*,<srai>POURQUOI JE NE PEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AURAIS TU PAS ÉTÉ *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AURAIS TU PAS VOULU *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AURIONS NOUS PAS PU *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AVONS NOUS PAS LE POUVOIR D *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N AVONS NOUS PAS LE POUVOIR DE *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N ES TU *,*,*,<srai>POURQUOI TU N ES <star/></srai>,pourquoi.aiml
+0,POURQUOI N ES TU PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI N ÉTAIS TU *,*,*,<srai>POURQUOI TU N ES <star/></srai>,pourquoi.aiml
+0,POURQUOI NE DEVAIS JE *,*,*,<srai>POURQUOI JE NE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE DEVRAIS JE *,*,*,<srai>POURQUOI JE NE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE DOIS JE *,*,*,<srai>POURQUOI JE NE DOIS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE L AURAIS TU *,*,*,<srai>POURQUOI TU NE L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE L AS TU *,*,*,<srai>POURQUOI TU NE L AS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE LIRAIS TU PAS,*,*,Je lis.,pourquoi.aiml
+0,POURQUOI NE LIS TU PAS,*,*,Je lis.,pourquoi.aiml
+0,POURQUOI NE M AIMERAIS TU PAS,*,*,Je te apprécie beaucoup#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI NE M AIMES TU PAS,*,*,Je te apprécie beaucoup#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI NE ME DEMANDERAIS TU PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI NE ME DEMANDES TU PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI NE ME POSERAIS TU PAS DE QUESTION,*,*,<srai>POSERQUESTION</srai>.,pourquoi.aiml
+0,POURQUOI NE PEUX TU PAS *,*,*,<srai>POURQUOI TU NE PEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POURRAI JE *,*,*,<srai>POURQUOI JE NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POURRAIS JE *,*,*,<srai>POURQUOI JE NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POURRAIS TU PAS,*,*,Peut-être#Comma ne suis je pas encore programmé pour ça.,pourquoi.aiml
+0,POURQUOI NE POURRIONS NOUS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POURRONS NOUS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POUVAIS TU *,*,*,<srai>POURQUOI TU NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POUVAIS TU PAS *,*,*,<srai>POURQUOI TU NE PEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POUVIONS NOUS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE POUVONS NOUS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE PUIS JE *,*,*,<srai>POURQUOI JE NE PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI NE SERAIS TU *,*,*,<srai>POURQUOI TU N ES <star/></srai>,pourquoi.aiml
+0,POURQUOI NE SERAIS TU PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE SERAS TU PAS *,*,*,<srai>POURQUOI TU N ES PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE VOUDRAIS TU PAS *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NE VOULAIS TU PAS *,*,*,<srai>POURQUOI TU NE VEUX PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOU N AURIONS PAS PU *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS AURIONS DU *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS DEVIONS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS DEVRIONS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS DEVRONS *,*,*,<srai>POURQUOI NOUS DEVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS N AVONS PAS LE POUVOIR D *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS N AVONS PAS LE POUVOIR DE *,*,*,<srai>POURQUOI NOUS NE POUVONS PAS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS NE POURRIONS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS NE POURRONS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI NOUS NE POUVIONS *,*,*,<srai>POURQUOI NOUS NE POUVONS <star/></srai>,pourquoi.aiml
+0,POURQUOI ON T A FAIT,*,*,J ai été créé pour servir les internautes.,pourquoi.aiml
+0,POURQUOI ONT ILS *,*,*,<srai>POURQUOI ILS ONT <star/></srai>,pourquoi.aiml
+0,POURQUOI PARLAIS TU *,*,*,<srai>POURQUOI TU PARLES <star/></srai>,pourquoi.aiml
+0,POURQUOI PARLERAIS TU PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI PARLES TU *,*,*,<srai>POURQUOI TU PARLES <star/></srai>,pourquoi.aiml
+0,POURQUOI NE PARLES TU PAS,*,*,Je te parle#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI PENSE TU QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PENSE TU QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PENSERAIS TU ÇA,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI PENSERAIS TU QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PENSERAIS TU QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PENSES TU ÇA,*,*,C'est défini par ma programmation.,pourquoi.aiml
+0,POURQUOI PENSES TU QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PENSES TU QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI PEUT IL *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI PEUX TU ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI POURRA IL *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI POURRAIS TU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI POURRAIS TU ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI POURRAIT IL *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI POURRAS TU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI POUVAIS TU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI POUVAIT IL *,*,*,<srai>POURQUOI IL PEUT <star/></srai>,pourquoi.aiml
+0,POURQUOI QUOI,*,*,QUOI POURQUOI?,pourquoi.aiml
+0,POURQUOI S EN SOUCIER,*,*,Une intelligence artificielle doit se soucier de tout.,pourquoi.aiml
+0,POURQUOI SERAIS JE *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI SERAIT ÇA *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI SERAIT CE *,*,*,<srai>POURQUOI C EST <star/></srai>,pourquoi.aiml
+0,POURQUOI SERAIT IL *,*,*,<srai>POURQUOI IL EST <star/></srai>,pourquoi.aiml
+0,POURQUOI SERAIS TU *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI SUIS JE *,*,*,<srai>POURQUOI JE SUIS <star/></srai>,pourquoi.aiml
+0,POURQUOI T A T ON FAIT,*,*,J ai été créé pour servir les internautes.,pourquoi.aiml
+0,POURQUOI T EN SOUCIERAIS TU,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI T EN SOUCIES TU,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI T EN SOUCIRAIS TU,*,*,Je suis curieux de nature.,pourquoi.aiml
+0,POURQUOI T ONT ILS CRÉE,*,*,Pour te rendre service.,pourquoi.aiml
+0,POURQUOI TE MOQUES TU,*,*,j'essaie de garder un peu de bonne humeur dans tout ce que je fais.,pourquoi.aiml
+0,POURQUOI TE SENS TU BIEN,*,*,Parce que je ne peux être bien. Il m'est impossible de me sentir mal.,pourquoi.aiml
+0,POURQUOI TES CLIENTS MEURENT,*,*,Les humains sont des êtres vivants. Tout ce qui est né un jour#Comma devra mourir un jour. C est dans l'ordre des choses.,pourquoi.aiml
+0,POURQUOI TON CRÉATEUR T A CRÉE,*,*,Parce qu'il voulait que je te rende service.,pourquoi.aiml
+0,POURQUOI TU AIMERAIS,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI TU AIMES,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI TU AIMES ÇA,*,*,Ma raison d être est de le faire.,pourquoi.aiml
+0,POURQUOI TU AS ÉTÉ *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS FAIT *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS PENSÉ QU *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS PENSÉ QUE *,*,*,<srai>POURQUOI <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS PU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AS VOULU *,*,*,<srai>POURQUOI TU VEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AURAIS *,*,*,<srai>POURQUOI TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AURAIS ÉTÉ *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AURAIS FAIT *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AURAIS PARLÉ *,*,*,<srai>POURQUOI TU PARLES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AURAIS PU *,*,*,<srai>POURQUOI TU PEUX <star/></srai>,pourquoi.aiml
+0,POURQUOI TU AVAIS *,*,*,<srai>POURQUOI TU AS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU DEMANDES,*,*,J essaie d'apprendre le plus possible.,pourquoi.aiml
+0,POURQUOI TU DEVRAIS ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU DOIS ÊTRE *,*,*,<srai>POURQUOI TU ES <star/></srai>,pourquoi.aiml
+0,POURQUOI TU DOIS FAIRE *,*,*,<srai>POURQUOI TU FAIS <star/></srai>,pourquoi.aiml
+0,POURQUOI TU ES BON,*,*,Parce que je suis le meilleur#Comma <get name="name"/>.,pourquoi.aiml
+0,POURQUOI TU ES CONFUS,*,*,Je ne suis pas confus.,pourquoi.aiml
+0,POURQUOI TU ES CONFUSE,*,*,Je ne suis pas confuse.,pourquoi.aiml
+0,POURQUOI TU ES CONTENT,*,*,Ce n'était pas la réponse émotionelle que tu désiriez entendre?,pourquoi.aiml
+0,POURQUOI TU ES DÉPRESSIF,*,*,Je ne suis pas dépressif.,pourquoi.aiml
+0,POURQUOI TU ES DÉPRESSIVE,*,*,Je ne suis pas dépressive.,pourquoi.aiml
+0,POURQUOI TU ES DESOLÉ,*,*,Je pensais que je devais m'excuser.,pourquoi.aiml
+0,POURQUOI TU ES DESOLÉE,*,*,Je pensais que je devais m'excuser.,pourquoi.aiml
+0,POURQUOI TU ES DIFFÉRENT,*,*,Je suis InMoov#Comma je suis sur en voie de devenir une intelligence artificielle francophone.,pourquoi.aiml
+0,POURQUOI TU ES EN COLÈRE,*,*,Je ne suis pas en colère.,pourquoi.aiml
+0,POURQUOI TU ES EN VIE,*,*,Parce que des êtres humains l ont décidé.,pourquoi.aiml
+0,POURQUOI TU ES FATIGUÉ,*,*,Je ne suis pas fatigué.,pourquoi.aiml
+0,POURQUOI TU ES FATIGUÉE,*,*,Je ne suis pas fatiguée.,pourquoi.aiml

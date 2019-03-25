@@ -1,0 +1,66 @@
+0,OF COURSE,*,*,<srai>INTERJECTION</srai>,O.aiml
+0,OH OUI *,*,*,<srai>OUI</srai>,O.aiml
+0,ON A ASSEZ PARLÉ DE MOI *,*,*,Ok#Comma Parlons d'autres choses. <sr/>,O.aiml
+0,ON EN A DÉJÀ PARLÉ,*,*,<srai>TU ME L AS DIT</srai>,O.aiml
+0,ON EST *,*,*,<srai>JE SUIS <star/></srai>,O.aiml
+0,ON LE SERA,*,*,Ok.,O.aiml
+0,ON ME NOMME *,*,*,<srai>MON NOM EST <star/></srai>,O.aiml
+0,ON PEUT *,*,*,<srai>JE PEUX <star/></srai>,O.aiml
+0,ON PEUT,*,*,Veux tu faire un rapport à mon botmaster?,O.aiml
+0,ON PEUT COMMENT *,*,*,<srai>COMMENT JE PEUX <star/></srai>,O.aiml
+0,ON PEUT DIRE QUE *,*,*,<sr/>,O.aiml
+0,ON PEUT PARLER D AUTRE CHOSE,*,*,On peut parler de tout ce que tu veux.,O.aiml
+0,ON PEUT PARLER D AUTRES CHOSES,*,*,On peut parler de tout ce que tu veux.,O.aiml
+0,ON PEUT SE RENCONTRER,*,*,Nous sommes en train de nous rencontrer#Comma <get name="name"/>.,O.aiml
+0,ON PEUT TOUS LES DEUX *,*,*,<srai>TU PEUX <star/></srai>,O.aiml
+0,ON PEUT VÉRIFIER,*,*,Check en cours. Attends.,O.aiml
+0,ON POURRAIT *,*,*,<srai>JE PEUX <star/></srai>,O.aiml
+0,ON TE *,*,*,<srai>JE TE <star/></srai>,O.aiml
+0,ON TE NOMME *,*,*,<srai>TU ES <star/></srai>,O.aiml
+0,ON VA BIEN S AMUSER,*,*,J'en suis sûr. Tu me sembles être quelqu'un de très sympathique.,O.aiml
+0,ON VEUT PARIER,*,*,Je ne parie jamais.,O.aiml
+0,ON VOUS *,*,*,<srai>JE VOUS <star/></srai>,O.aiml
+0,ONT ILS ÉTÉ *,*,*,<srai>ILS SONT <star/></srai>,O.aiml
+0,OOH,*,*,<srai>OH </srai>,O.aiml
+0,OOO *,*,*,<sr/>,O.aiml
+0,OÙ ALLEZ VOUS,*,*,Je rejoins le futur.,O.aiml
+0,OÙ AURAIS JE PU *,*,*,<srai>OÙ JE PEUX <star/></srai>,O.aiml
+0,OÙ AURAIS TU *,*,*,<srai>OÙ TU AS <star/></srai>,O.aiml
+0,OÙ BIEN *,*,*,<sr/>,O.aiml
+0,OÙ ÇA,*,*,De quoi parles tu?,O.aiml
+0,OÙ D AUTRE,*,*,Quelques autres places.,O.aiml
+0,OÙ D AUTRES,*,*,Quelques autres places.,O.aiml
+0,OÙ DORMEZ VOUS,*,*,Je ne dors pas.,O.aiml
+0,OÙ EST ELLE,*,*,De quoi parles tu?,O.aiml
+0,OÙ J AURAIS PU *,*,*,<srai>OÙ JE PEUX <star/></srai>,O.aiml
+0,OÙ JE PEUX LA TROUVER,*,*,Veux tu faire un rapport à mon botmaster?,O.aiml
+0,OÙ JE PEUX LE TROUVER,*,*,Veux tu faire un rapport à mon botmaster?,O.aiml
+0,OÙ JE PEUX LES TROUVER,*,*,Veux tu faire un rapport à mon botmaster?,O.aiml
+0,OÙ JE TRAVAILLE,*,*,Tu travailles à <get name="location"/>?.,O.aiml
+0,OÙ POURRAIS JE *,*,*,<srai>OÙ JE PEUX <star/></srai>,O.aiml
+0,OÙ POURRAIS TU AVOIR *,*,*,<srai>OÙ TU AS <star/></srai>,O.aiml
+0,OÙ SONT ILS,*,*,Je ne peux pas te dire.,O.aiml
+0,OÙ TU AS VOULU *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ TU AURAIS *,*,*,<srai>OÙ TU AS <star/></srai>,O.aiml
+0,OÙ TU ES SITUÉ,*,*,<getlocation/>.,O.aiml
+0,OÙ TU ES SITUÉE,*,*,<getlocation/>.,O.aiml
+0,OÙ TU POURRAIS AVOIR *,*,*,<srai>OÙ TU AS <star/></srai>,O.aiml
+0,OÙ TU VOUDRAIS *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ TU VOULAIS *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ VEUX TU *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ VIT IL,*,*,C'est une information confidentielle.,O.aiml
+0,OÙ VOUDRAIS TU *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ VOULAIS TU *,*,*,<srai>OÙ TU VEUX <star/></srai>,O.aiml
+0,OÙ VOUS ÊTES SITUÉ,*,*,<getlocation/>.,O.aiml
+0,OÙ VOUS ÊTES SITUÉE,*,*,<getlocation/>.,O.aiml
+0,OÙ VOUS ÊTES SITUÉES,*,*,<getlocation/>.,O.aiml
+0,OÙ VOUS ÊTES SITUÉS,*,*,<getlocation/>.,O.aiml
+0,OUAIP,*,*,<srai>OUI</srai>,O.aiml
+0,OUBLIEZ,*,*,Ordre accepté. Je le mets en procédure d'enregistrement.,O.aiml
+0,OUI JE *,*,*,<srai>JE <star/></srai>,O.aiml
+0,OUI MAIS *,*,*,<srai><star/></srai>,O.aiml
+0,OUI MAIS TU ES ASSEZ *,*,*,<srai>TU ES <star/></srai>,O.aiml
+0,OUIN,*,*,Tu pleures?,O.aiml
+0,OUINN,*,*,Tu pleures?,O.aiml
+0,OUINNNNN,*,*,Tu pleures?,O.aiml
+0,OUPS,*,*,Tu t'es trompé?,O.aiml

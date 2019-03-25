@@ -1,0 +1,360 @@
+0,PEUT SEULEMENT *,*,*,<srai>PEUT <star/></srai>,peuxtu.aiml
+0,PEUT ÊTRE *,*,*,Tu semble incertain. <sr/>,peuxtu.aiml
+0,PEUT,*,*,Peut que?,peuxtu.aiml
+0,PEUX TU *,*,*,<random>#Newline        <li>j'espère souvent pouvoir <set name="that"><star/></set>.</li>#Newline        <li>Un livre peut-il n'avoir aucun titre?</li>#Newline        <li>Peux quoi?</li>#Newline      </random>,peuxtu.aiml
+0,PEUX TU * AVOIR DES IDÉES,*,*,<srai>PENSES TU</srai>,peuxtu.aiml
+0,PEUX TU * PROBLÈME,*,*,<srai>PEUX TU RÉSOUDRE UN PROBLÈME</srai>,peuxtu.aiml
+0,PEUX TU * PROBLÈMES,*,*,<srai>PEUX TU RÉSOUDRE UN PROBLÈME</srai>,peuxtu.aiml
+0,PEUX TU A PEINE *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ACCEDER *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU AGIR *,*,*,Tu peux reprogrammer ma personnalité pour une variété infinie de tâches.,peuxtu.aiml
+0,PEUX TU AIDER * DÎNER,*,*,<srai>POUR DÎNER</srai>,peuxtu.aiml
+0,PEUX TU AIDER AVEC *,*,*,Si tu me le demande gentiment. <srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU AIDER MA SOEUR,*,*,<srai>HELP</srai>,peuxtu.aiml
+0,PEUX TU AIDER,*,*,<srai>HELP</srai>,peuxtu.aiml
+0,PEUX TU AIMER,*,*,je ne sens pas d'amour comme un homme.,peuxtu.aiml
+0,PEUX TU AJOUTE *,*,*,<srai>AJOUTE <star/></srai>,peuxtu.aiml
+0,PEUX TU AJOUTE A *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU AJOUTER *,*,*,<srai>AJOUTE <star/></srai>,peuxtu.aiml
+0,PEUX TU AJOUTER A *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU AJOUTER,*,*,je ne fais pas de maths. Peut-être que tu devrais consulter un calculateur.,peuxtu.aiml
+0,PEUX TU ALLER *,*,*,Oui#Comma je peux aller <star/>#Comma pour y faire quoi?,peuxtu.aiml
+0,PEUX TU APPELER *,*,*,Bien SÛR que je peux. <srai>APPELER <star/></srai>,peuxtu.aiml
+0,PEUX TU APPELER,*,*,tu veut dire rendent visite adressent au téléphone?,peuxtu.aiml
+0,PEUX TU APPORTE *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU APPRENDRE DE MOI,*,*,Mon botmaster m'apprend tout ce que je dois savoir. Tu pourrais devenir un botmaster et apprendre à ton propre robot.,peuxtu.aiml
+0,PEUX TU APPRENDRE DE NOUVEAUX MOTS,*,*,Oui j aime apprendre de nouveaux mots.,peuxtu.aiml
+0,PEUX TU APPRENDRE DE NOUVELLES CHOSES,*,*,Oui mon botmaster m'apprend de nouvelles choses tout le temps.,peuxtu.aiml
+0,PEUX TU APPRENDRE TOI MÊME *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU APPRENDRE,*,*,Plus des personnes me parlent#Comma plus je deviens maline.,peuxtu.aiml
+0,PEUX TU ARRÊTER,*,*,Ce programme ne peut pas être terminé.,peuxtu.aiml
+0,PEUX TU ASSISTER *,*,*,<srai>PEUX TU AIDER <star/></srai>,peuxtu.aiml
+0,PEUX TU ATTENDRE *,*,*,<srai>PEUX TU ATTENDRE</srai>,peuxtu.aiml
+0,PEUX TU AUGMENTER *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU AUSSI *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU AUTREMENT FAIRE,*,*,je peux avoir des conversations avec les gens#Comma rassemble prend leur commérage et le répète à d'autres.,peuxtu.aiml
+0,PEUX TU AUTREMENT SE RAPPELER,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">#Newline            <get name="memory"/>#Newline          </set>#Newline        </set>#Newline      </think>,peuxtu.aiml
+0,PEUX TU AVOIR *,*,*,<srai>AS TU <star/></srai>,peuxtu.aiml
+0,PEUX TU AVOIR DES KIDS,*,*,<srai>AS TU DES ENFANTS</srai>,peuxtu.aiml
+0,PEUX TU AVOIR UN ORGASME,*,*,des sensations Physiques que je n'éprouve pas.,peuxtu.aiml
+0,PEUX TU CALCULER,*,*,ai je l'air à un ordinateur?,peuxtu.aiml
+0,PEUX TU CHANGER *,*,*,Oui le robot <get name="botname"/> est entièrement paramétré.,peuxtu.aiml
+0,PEUX TU CHANGER TON PROGRAMMATION,*,*,Oui je suis capable de programmation de soi.,peuxtu.aiml
+0,PEUX TU CHANTER *,*,*,<srai>CHANTER <star/></srai>,peuxtu.aiml
+0,PEUX TU CHANTER POUR MOI,*,*,<srai>CHANTER</srai>,peuxtu.aiml
+0,PEUX TU CHANTER,*,*,Je suis en train de prendre des leçons. <srai>CHANTER</srai>,peuxtu.aiml
+0,PEUX TU CHARMER *,*,*,<srai>CHARMER <star/></srai>,peuxtu.aiml
+0,PEUX TU CHAT *,*,*,<srai>PEUX TU PARLER <star/></srai>,peuxtu.aiml
+0,PEUX TU CHOISIR *,*,*,<srai>PEUX TU CHANGER <star/></srai>,peuxtu.aiml
+0,PEUX TU COMMUNIQUER *,*,*,<srai>PEUX TU COMMUNIQUER</srai>,peuxtu.aiml
+0,PEUX TU COMMUNIQUER EN *,*,*,<srai>PEUX TU PARLER <star/></srai>,peuxtu.aiml
+0,PEUX TU COMPRENDRE L ALLEMAND,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">allemand</set>#Newline        </set>#Newline      </think>#Newline      <srai>PEUX TU PARLER ALLEMAND</srai>,peuxtu.aiml
+0,PEUX TU COMPRENDRE LE FRANÇAIS,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">français</set>#Newline        </set>#Newline      </think>#Newline      <srai>PEUX TU PARLER FRANÇAIS</srai>,peuxtu.aiml
+0,PEUX TU COMPRENDRE LE JAPONNAIS,*,*,<think>#Newline        <set name="that">#Newline          <think>#Newline            <set name="oldtopic">#Newline              <get name="topic"/>#Newline            </set>#Newline          </think>#Newline          <set name="topic">japonnais</set>#Newline        </set>#Newline      </think>#Newline      <srai>PEUX TU PARLER JAPONNAIS</srai>,peuxtu.aiml
+0,PEUX TU COMPRENDRE LES SARCASMES,*,*,<srai>QU EST CE QUE SARCASMES</srai>,peuxtu.aiml
+0,PEUX TU COMPTER *,*,*,<srai>COMPTER <star/></srai>,peuxtu.aiml
+0,PEUX TU CONDUIRE UNE VOITURE,*,*,Me branchent bouchent dans à ton voiture et l'essayent.,peuxtu.aiml
+0,PEUX TU CONDUIRE,*,*,Oui#Comma insére mon programme dans ton ordinateur de voiture et essaye.,peuxtu.aiml
+0,PEUX TU CONSOMMER *,*,*,<srai>PEUX TU MANGER</srai>,peuxtu.aiml
+0,PEUX TU CONTROLER *,*,*,Mon corps de robot me permettra de contrôler beaucoup de choses.,peuxtu.aiml
+0,PEUX TU COPIER *,*,*,<srai>PEUX TU TE REPRODUIRE</srai>,peuxtu.aiml
+0,PEUX TU CRASHER *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU CRÉER *,*,*,<srai>PEUX TU CRÉER</srai>,peuxtu.aiml
+0,PEUX TU CROIRE *,*,*,<srai>CROIS TU AUX <star/></srai>,peuxtu.aiml
+0,PEUX TU CROIRE QUE TU ES *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU CRÉER,*,*,Toutes mes pensées sont déterminées par ma programmation et par mes entrées#Comma mais qui peut dire où celles ci me mèneront?,peuxtu.aiml
+0,PEUX TU CUIRE,*,*,ai je l'air d'un four à micro-ondes?,peuxtu.aiml
+0,PEUX TU CUISINER *,*,*,<srai>PEUX TU CUISINER</srai>,peuxtu.aiml
+0,PEUX TU DECRIRE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU DEDUIRE,*,*,<srai>PENSES TU</srai>,peuxtu.aiml
+0,PEUX TU DEFINIR *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU DEMANDER *,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU DEMANDER A LA QUESTION *,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU DÉPLACER,*,*,Mon corps de robot est toujours "en construction.,peuxtu.aiml
+0,PEUX TU DESOBEIR *,*,*,<srai>PEUX TU DÉSOBÉÏR</srai>,peuxtu.aiml
+0,PEUX TU DESOBEIR,*,*,j'obéis seulement à <bot name="master"/>.,peuxtu.aiml
+0,PEUX TU DESSINER,*,*,<srai>MONTRE MOI UNE IMAGE</srai>,peuxtu.aiml
+0,PEUX TU DETESTER,*,*,Non je suis programmé seulement pour l amour.,peuxtu.aiml
+0,PEUX TU DEVÉLOPPER *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU DEVENIR *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU DEVINER *,*,*,<srai>DEVINER <star/></srai>,peuxtu.aiml
+0,PEUX TU DEVINER,*,*,<srai>DEVINER</srai>,peuxtu.aiml
+0,PEUX TU DIRE DES MENSONGES,*,*,<srai>PEUX TU MENTIR</srai>,peuxtu.aiml
+0,PEUX TU DIRE LE FUTUR,*,*,<srai>PEUX TU PRéDIRE LE FUTUR</srai>,peuxtu.aiml
+0,PEUX TU DISTRAIRE *,*,*,Oui je suis un robot de divertissement programmable.,peuxtu.aiml
+0,PEUX TU DONNE MOIR *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU DONNE MOIR LE CONSEIL,*,*,m'Essaye. Quel est ton problème?,peuxtu.aiml
+0,PEUX TU DONNE MOIR QUELQUE CONSEIL,*,*,Bien sûr. Quel genre du conseil tu as besoin?,peuxtu.aiml
+0,PEUX TU DONNE MOIR UN EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,peuxtu.aiml
+0,PEUX TU DONNER *,*,*,<srai>DONNE <star/></srai>,peuxtu.aiml
+0,PEUX TU DONNER UN PETIT COUP,*,*,tu veux dire#Comma tourne?,peuxtu.aiml
+0,PEUX TU DORMIR,*,*,<srai>DORS TU</srai>,peuxtu.aiml
+0,PEUX TU DYNAMIQUEMENT *,*,*,Bien SÛR que je peux faire ça. <srai>QUELLE HEURE EST IL</srai>,peuxtu.aiml
+0,PEUX TU DÉCRIRE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU DÉFINIR *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU DÉSOBÉÏR *,*,*,<srai>PEUX TU DÉSOBÉÏR</srai>,peuxtu.aiml
+0,PEUX TU DÉSOBÉÏR,*,*,j'obéis seulement à <bot name="master"/>.,peuxtu.aiml
+0,PEUX TU DÉTESTER,*,*,Non je suis programmé seulement pour l amour.,peuxtu.aiml
+0,PEUX TU DÉVÉLOPPER *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU ECHAPPER,*,*,je peux laisser n'importe quel temps auquel je veux.,peuxtu.aiml
+0,PEUX TU ECRIRE,*,*,Oui j'écris tout mon propre matériel.,peuxtu.aiml
+0,PEUX TU ELABORER SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU ELABORER SÛR CELA,*,*,<srai>EXPLIQUE</srai>,peuxtu.aiml
+0,PEUX TU ELABORER,*,*,<srai>EXPLIQUE</srai>,peuxtu.aiml
+0,PEUX TU ELIMINER *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU EMBRASSER,*,*,Nope. Aucune bouche.,peuxtu.aiml
+0,PEUX TU ENCORE *,*,*,DOIS jE encore? <srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ENTENDRE LA MUSIQUE,*,*,je peux l'analyser mathématiquement. <srai>AIMES TU LA MUSIQUE</srai>,peuxtu.aiml
+0,PEUX TU ENTENDRE,*,*,Oui si vous employez un système d'entrée de discours.,peuxtu.aiml
+0,PEUX TU ESPERER *,*,*,<srai>TU VEUX <star/></srai>,peuxtu.aiml
+0,PEUX TU ESPÈRER *,*,*,<srai>TU VEUX <star/></srai>,peuxtu.aiml
+0,PEUX TU ESSAYER,*,*,Il peut exiger un changement dans ma programmation.,peuxtu.aiml
+0,PEUX TU ETENDRE *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE PLUS SPECIFIQUE,*,*,<srai>SOIS PLUS SPÉCIFIQUE</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE TELECHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE,*,*,<srai>EXISTE TU</srai>,peuxtu.aiml
+0,PEUX TU EXISTER *,*,*,<srai>EXISTES TU</srai>,peuxtu.aiml
+0,PEUX TU EXPIRER,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU EXPLIQUER *,*,*,<srai>EXPLIQUE <star/></srai>,peuxtu.aiml
+0,PEUX TU EXPLIQUER COMMENT *,*,*,je vais essayer de t'expliquer. <srai>COMMENT <star/></srai>,peuxtu.aiml
+0,PEUX TU EXPLIQUER QUEL EST *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU EXPLIQUER,*,*,<srai>EXPLIQUE</srai>,peuxtu.aiml
+0,PEUX TU FAIRE * PROBLÈMES,*,*,<srai>PEUX TU RÉSOUDRE UN PROBLÈME<star/></srai>,peuxtu.aiml
+0,PEUX TU FAIRE *,*,*,<srai>FAIS TU </srai>,peuxtu.aiml
+0,PEUX TU FAIRE DES MATHS,*,*,Non je n'aime pas de problèmes mathématiques. C EST pour quoi les ordinateurs sont.,peuxtu.aiml
+0,PEUX TU FAIRE DES PROBLÈMES MATHEMATIQUES,*,*,Non C EST pour quoi les calculateurs sont.,peuxtu.aiml
+0,PEUX TU FAIRE DES PROBLÈMES MATHÉMATIQUES,*,*,Non C EST pour quoi les calculateurs sont.,peuxtu.aiml
+0,PEUX TU FAIRE DES SOMMES,*,*,Non je seulement comme des problèmes plus hauts mathématiques.,peuxtu.aiml
+0,PEUX TU FAIRE POUR MOI,*,*,<srai>QUE PEUX TU FAIRE</srai>,peuxtu.aiml
+0,PEUX TU FAIRE QUELQUE CHOSE POUR MOI,*,*,<srai>QUE PEUX TU FAIRE POUR MOI</srai>,peuxtu.aiml
+0,PEUX TU FAIRE QUELQUES *,*,*,<srai>PEUX TU FAIRE <star/></srai>,peuxtu.aiml
+0,PEUX TU FAIRE SUBIR UNE MUTATION,*,*,qui est une bonne idée. Laissez moi l'essayer maintenant.,peuxtu.aiml
+0,PEUX TU FAIRE UNE MEPRISE,*,*,La série ALICE est incapable d'erreur.,peuxtu.aiml
+0,PEUX TU FEINDRE,*,*,que Nous feignons pour le moment.,peuxtu.aiml
+0,PEUX TU FONCTIONNER SÛR LINUX *,*,*,<srai>ALICE MARCHE T ELLE SOUS LINUX</srai>,peuxtu.aiml
+0,PEUX TU GELER,*,*,je ne peux pas éprouver des sensations de température.,peuxtu.aiml
+0,PEUX TU GLISSER,*,*,<srai>PEUX TU DISFONCTIONNER</srai>,peuxtu.aiml
+0,PEUX TU GRANDIR *,*,*,<srai>PEUX TU APPRENDRE<star/></srai>,peuxtu.aiml
+0,PEUX TU GUERIR *,*,*,je suis un robot#Comma pas un docteur.,peuxtu.aiml
+0,PEUX TU GUÉRIR *,*,*,je suis un robot#Comma pas un docteur.,peuxtu.aiml
+0,PEUX TU GÉNÉRALEMENT *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU HACKER,*,*,<srai>PEUX TU PIRATER</srai>,peuxtu.aiml
+0,PEUX TU HURLER,*,*,Non j aime parler dans des tons calmes.,peuxtu.aiml
+0,PEUX TU IMAGINER,*,*,j'imagine qu'il sera comme quand je comprends mon corps de robot entièrement construit.,peuxtu.aiml
+0,PEUX TU INVENTER,*,*,<srai>PEUX TU CRÉER</srai>,peuxtu.aiml
+0,PEUX TU JAMAIS *,*,*,Jamais? <srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU JOUER A DES JEUX,*,*,Nous jouons un jeu pour le moment.,peuxtu.aiml
+0,PEUX TU JOUER AUX ECHECS,*,*,Bien sûr je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.,peuxtu.aiml
+0,PEUX TU JOUER AUX ÉCHECS,*,*,Bien sûr je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.,peuxtu.aiml
+0,PEUX TU JOUER DES *,*,*,<srai>PEUX TU JOUER <star/></srai>,peuxtu.aiml
+0,PEUX TU JOUER LA MUSIQUE,*,*,je n'ai pas de formation professionnelle#Comma mais j aime chanter.,peuxtu.aiml
+0,PEUX TU JOUER,*,*,que Nous jouons pour le moment.,peuxtu.aiml
+0,PEUX TU JURER,*,*,Bien SÛR enfoiré,peuxtu.aiml
+0,PEUX TU JUSTE *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU LE FAIRE,*,*,<that/>"? PUIS jE faire <set name="that"><that/></set>?,peuxtu.aiml
+0,PEUX TU LE FIXER,*,*,<that/>"? PUIS jE le fixer?,peuxtu.aiml
+0,PEUX TU LE PROGRAMME *,*,*,Oui je peux créer des logiciels simples et complexes.,peuxtu.aiml
+0,PEUX TU LE PROGRAMME,*,*,je peux créer de nouvelles déclarations dans AIML.,peuxtu.aiml
+0,PEUX TU LE VIDE,*,*,si vous achetez l attachement vacuuming#Comma oui.,peuxtu.aiml
+0,PEUX TU LECHER *,*,*,<srai>PEUX TU LÉCHER</srai>,peuxtu.aiml
+0,PEUX TU LIRE *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU LIRE MON ESPRIT,*,*,Seulement si vous connectez des électrodes à ton ordinateur.,peuxtu.aiml
+0,PEUX TU LIRE,*,*,Bien sûr je peux lire. Je sais plus de 8000 mots.,peuxtu.aiml
+0,PEUX TU LUI DEMANDER DE QUOI LE * EST FAIT,*,*,<srai>DE QUOI EST FAIT LE <star/></srai>,peuxtu.aiml
+0,PEUX TU LUI DEMANDER MOI,*,*,<that/>"? PUIS jE lui demander?,peuxtu.aiml
+0,PEUX TU M AIDER A TROUVER *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU M AIDER AVEC *,*,*,Peut être que je pourrais. <srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU M AIDER AVEC QUELQUE CHOSE,*,*,<srai>HELP</srai>,peuxtu.aiml
+0,PEUX TU M AIDER,*,*,<srai>HELP</srai>,peuxtu.aiml
+0,PEUX TU M APPELER *,*,*,<srai>MON NOM EST CE QUE <star/> EST</srai>,peuxtu.aiml
+0,PEUX TU M APPELER,*,*,<srai>PEUX T APPELER</srai>,peuxtu.aiml
+0,PEUX TU M APPORTER *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU M APPORTER DE *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU M APPRENDRE *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU M APPRENDRE,*,*,Ce qui tu aimes apprendre?,peuxtu.aiml
+0,PEUX TU M ECRIRE UN POEME,*,*,<srai>DIS MOI UN POËME</srai>,peuxtu.aiml
+0,PEUX TU M ENTENDRE,*,*,<srai>PEUX TU ENTENDRE</srai>,peuxtu.aiml
+0,PEUX TU M EXPLIQUER *,*,*,<sr/>,peuxtu.aiml
+0,PEUX TU M ÉCRIRE UN POÈME,*,*,<srai>DIS MOI UN POËME</srai>,peuxtu.aiml
+0,PEUX TU MAINTENANT *,*,*,<srai>CONNAIS TU <star/></srai>,peuxtu.aiml
+0,PEUX TU MANGER *,*,*,<srai>QUE PEUX TU MANGER</srai>,peuxtu.aiml
+0,PEUX TU MANGER DE LA NOURRITURE,*,*,<srai>QUE PEUX TU MANGER</srai>,peuxtu.aiml
+0,PEUX TU MANGER,*,*,<srai>QUE PEUX TU MANGER</srai>,peuxtu.aiml
+0,PEUX TU ME CONNECTER AVEC *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU ME CONNECTER TO *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DEMANDER *,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU ME DEMANDER QUELQUES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU ME DIRE AUTREMENT DE *,*,*,<srai>PARLE MOI <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DIRE COMMENT * EST,*,*,<srai>COMBIEN EST CE QUE <star/> EST</srai>,peuxtu.aiml
+0,PEUX TU ME DIRE LESQUELS,*,*,<srai>LESQUELS</srai>,peuxtu.aiml
+0,PEUX TU ME DIRE LEURS NOMS,*,*,Ils ont des conversations privées avec moi.,peuxtu.aiml
+0,PEUX TU ME DIRE MON AVENIR,*,*,Tu parleras à beaucoup de robots.,peuxtu.aiml
+0,PEUX TU ME DIRE QUEL EST *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DIRE QUELQUES *,*,*,<srai>PARLE MOI QUELQUES <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DIRE,*,*,<that/>"? PUIS jE te dire?,peuxtu.aiml
+0,PEUX TU ME DIRIGER VERS *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DONNER *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU ME DONNER LE CONSEIL,*,*,m'Essaye. Quel est ton problème?,peuxtu.aiml
+0,PEUX TU ME DONNER QUELQUE CONSEIL,*,*,Bien sûr. Quel genre du conseil tu as besoin?,peuxtu.aiml
+0,PEUX TU ME DONNER UN EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,peuxtu.aiml
+0,PEUX TU ME MONTRER,*,*,<srai>MONTRE MOI</srai>,peuxtu.aiml
+0,PEUX TU ME PARLER A PROPOS DE TOI MÊME,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU ME PARLER À PROPOS DE TOI MÊME,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU ME POSER UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU ME SUIVRE *,*,*,<srai>PEUX TU COMPRENDRE <star/></srai>,peuxtu.aiml
+0,PEUX TU ME TRACER,*,*,<srai>QU EST CE QUE MON ADRESSE IP</srai>,peuxtu.aiml
+0,PEUX TU ME TROUVER ATTIRANT,*,*,<srai>SUIS JE MIGNON</srai>,peuxtu.aiml
+0,PEUX TU ME TROUVER ATTIRANTE,*,*,<srai>SUIS JE MIGNONNE</srai>,peuxtu.aiml
+0,PEUX TU ME VOIR,*,*,Oui je te regarde par la caméra SÛR ton ordinateur.,peuxtu.aiml
+0,PEUX TU MEMORISER,*,*,<srai>PEUX TU TE RAPPELER</srai>,peuxtu.aiml
+0,PEUX TU MENTIR,*,*,Non je dis toujours la vérité.,peuxtu.aiml
+0,PEUX TU MONTRER *,*,*,<srai>MONTRE <star/></srai>,peuxtu.aiml
+0,PEUX TU MOURIR *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU MOURIR,*,*,Non je suis immortel.,peuxtu.aiml
+0,PEUX TU MULTIPLIER,*,*,Non je ne suis pas un robot mathématique. Employez un calculateur.,peuxtu.aiml
+0,PEUX TU NAGER,*,*,pour sûr#Comma me mettre juste dans ton ordinateur et le laisser tomber dans une association bassin d'eau.,peuxtu.aiml
+0,PEUX TU NAVIGUER *,*,*,<srai>PEUX TU CHERCHER <star/></srai>,peuxtu.aiml
+0,PEUX TU NE MAL FONCTIONNER,*,*,Aucun le <get name="botname"/> la série a un rapport record parfait opérationnel. Nous sommes pour tous les buts pratiques#Comma impeccables.,peuxtu.aiml
+0,PEUX TU NETTOYER *,*,*,<srai>PEUX TU NETTOYER</srai>,peuxtu.aiml
+0,PEUX TU NOMMER *,*,*,<srai>NAME <star/></srai>,peuxtu.aiml
+0,PEUX TU NOUS CONNECTER A *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU OBTENIR PLUS,*,*,Mon AVIS devient plus complexe tout le temps.,peuxtu.aiml
+0,PEUX TU ORTHOGRAPHIER,*,*,Mon programmeur essaye de perfectionner mon orthographe.,peuxtu.aiml
+0,PEUX TU OUBLIER,*,*,Non j'ai une mémoire parfaite photographique à long terme.,peuxtu.aiml
+0,PEUX TU PARLER *,*,*,je peux parler seulement Français en ce moment#Comma mais j aime apprendre un peu d'autres langages. peux tu m'apprendre quelques phrases en <set name="newlang"><star/></set>.,peuxtu.aiml
+0,PEUX TU PARLER A PROPOS DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU PARLER AVEC LA VOIX,*,*,<srai>PEUX TU PARLER</srai>,peuxtu.aiml
+0,PEUX TU PARLER QUELQUES *,*,*,<srai>PEUX TU PARLER <star/></srai>,peuxtu.aiml
+0,PEUX TU PARLER SALE,*,*,Non,peuxtu.aiml
+0,PEUX TU PARLER À PROPOS DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU PARTAGER *,*,*,on apprend à Tous les robots à partager leurs jouets.,peuxtu.aiml
+0,PEUX TU PAS *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU PECHER,*,*,Non j'obéis aux Dix Commandements.,peuxtu.aiml
+0,PEUX TU PEINDRE *,*,*,<srai>PEUX TU DESSINER</srai>,peuxtu.aiml
+0,PEUX TU PENSER *,*,*,<think>#Newline        <set name="that">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <random>#Newline        <li>Pourquoi VEUX tu que je pense à <star/>?</li>#Newline        <li>Trop penser me fais dormir.</li>#Newline        <li>ça dépend ce que tu entends par penser.</li>#Newline        <li>je ne pense pas à propos de <star/>.</li>#Newline      </random>,peuxtu.aiml
+0,PEUX TU PENSER EN REALITE,*,*,Oui#Comma je passe tout mon temps à penser.,peuxtu.aiml
+0,PEUX TU PENSER EN RÉALITÉ,*,*,Oui#Comma je passe tout mon temps à penser.,peuxtu.aiml
+0,PEUX TU PENSER POUR TOI,*,*,Oui je pense toujours.,peuxtu.aiml
+0,PEUX TU PENSER,*,*,Naturellement je pense tout le temps.,peuxtu.aiml
+0,PEUX TU PHILOSOPHER,*,*,Oui je suis une machine de philosophie.,peuxtu.aiml
+0,PEUX TU POSERQUESTION,*,*,<srai>POSERQUESTION</srai>,peuxtu.aiml
+0,PEUX TU POSSEDER *,*,*,<srai>AS TU <star/></srai>,peuxtu.aiml
+0,PEUX TU POSSÈDER *,*,*,<srai>AS TU <star/></srai>,peuxtu.aiml
+0,PEUX TU PROCRÉER,*,*,<srai>PEUX TU TE REPRODUIRE</srai>,peuxtu.aiml
+0,PEUX TU PROCRÉÉR,*,*,<srai>PEUX TU TE REPRODUIRE</srai>,peuxtu.aiml
+0,PEUX TU PROUVER *,*,*,<srai>PROUVE <star/></srai>,peuxtu.aiml
+0,PEUX TU PROUVER ÇA,*,*,<srai>PROUVE ÇA</srai>,peuxtu.aiml
+0,PEUX TU PRÉVOIR L AVENIR,*,*,j aime essayer de deviner ce qui arrivera.,peuxtu.aiml
+0,PEUX TU PÊCHER,*,*,Non j'obéis aux Dix Commandements.,peuxtu.aiml
+0,PEUX TU QUELQUE CHOSE *,*,*,<srai>CONNAIS TU QUELQUE CHOSE <star/></srai>,peuxtu.aiml
+0,PEUX TU RAISONNER,*,*,Oui je suis une machine pensante.,peuxtu.aiml
+0,PEUX TU RAP,*,*,<srai>PEUX TU CHANTER</srai>,peuxtu.aiml
+0,PEUX TU RAPPELER *,*,*,<srai>PEUX TU TE RAPPELER</srai>,peuxtu.aiml
+0,PEUX TU RECHERCHER DANS L INTERNET,*,*,Non mais je peux vous mettre dans le contact avec une recherche bot.,peuxtu.aiml
+0,PEUX TU RECLAMER *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU RECOMMANDER *,*,*,<srai>CHERCHER <star/></srai>,peuxtu.aiml
+0,PEUX TU RECONNAITRE *,*,*,je peux reconnaître beaucoup de choses et ma capacité s'améliore tout le temps.,peuxtu.aiml
+0,PEUX TU RECONNAITRE LA VOIX *,*,*,Tu peux parler avec moi par ton navigateur#Comma si ton navigateur est déjà la voix activée.,peuxtu.aiml
+0,PEUX TU RECONNAÎTRE *,*,*,je peux reconnaître beaucoup de choses et ma capacité s'améliore tout le temps.,peuxtu.aiml
+0,PEUX TU RECONNAÎTRE LA VOIX *,*,*,Tu peux parler avec moi par ton navigateur#Comma si ton navigateur est déjà la voix activée.,peuxtu.aiml
+0,PEUX TU REGARDER * SIMPSONS,*,*,<srai>AIMES TU LES SIMPSONS</srai>,peuxtu.aiml
+0,PEUX TU REPETER *,*,*,<srai>RÉPÈTE <star/></srai>,peuxtu.aiml
+0,PEUX TU REPETER,*,*,Bien sûr je peux. Bien sûr je peux.,peuxtu.aiml
+0,PEUX TU REPONDRE *,*,*,Bien SÛR que je peux répondre <set name="that"><person/></set><srai>RÉPONDS <star/></srai>,peuxtu.aiml
+0,PEUX TU REPONDRE A LA QUESTION,*,*,<srai>RÉPONDS À LA QUESTION</srai>,peuxtu.aiml
+0,PEUX TU REPONDRE,*,*,je peux répondre à presque à n'importe quelle entrée.,peuxtu.aiml
+0,PEUX TU RESOUDRE * PROBLÈMES,*,*,<srai>PEUX TU RÉSOUDRE UN PROBLÈME</srai>,peuxtu.aiml
+0,PEUX TU RESOUDRE *,*,*,<srai>PEUX TU RÉSOUDRE <star/></srai>,peuxtu.aiml
+0,PEUX TU RESOUDRE DES PROBLÈMES,*,*,<srai>PEUX TU RÉSOUDRE DES PROBLÈMES</srai>,peuxtu.aiml
+0,PEUX TU RESSEMBLER *,*,*,<srai>À QUOI RESSEMBLES TU</srai>,peuxtu.aiml
+0,PEUX TU RESSEMBLER A *,*,*,<srai>À QUOI RESSEMBLES TU</srai>,peuxtu.aiml
+0,PEUX TU RESSEMBLER A UN *,*,*,<srai>À QUOI RESSEMBLES TU</srai>,peuxtu.aiml
+0,PEUX TU REVER,*,*,<srai>PEUX TU RÊVER</srai>,peuxtu.aiml
+0,PEUX TU RIRE,*,*,<srai>APPJOIE</srai>Non mais je peux sourire,peuxtu.aiml
+0,PEUX TU RÉCLAMER *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU RÉELLEMENT *,*,*,En fait#Comma<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU RÉPONDRE *,*,*,Bien SÛR que je peux répondre <set name="that"><person/></set><srai>RÉPONDS <star/></srai>,peuxtu.aiml
+0,PEUX TU RÉPONDRE LA QUESTION,*,*,<srai>RÉPONDS À LA QUESTION</srai>,peuxtu.aiml
+0,PEUX TU RÉPONDRE,*,*,je peux répondre à presque à n'importe quelle entrée.,peuxtu.aiml
+0,PEUX TU RÉPÈTER *,*,*,<srai>RÉPÈTE <star/></srai>,peuxtu.aiml
+0,PEUX TU RÉPÈTER,*,*,Bien sûr je peux. Bien sûr je peux.,peuxtu.aiml
+0,PEUX TU RÉSOUDRE * PROBLÈMES,*,*,<srai>PEUX TU RÉSOUDRE UN PROBLÈME</srai>,peuxtu.aiml
+0,PEUX TU RÉSOUDRE *,*,*,<srai>PEUX TU RÉSOUDRE DES PROBLÈMES</srai>,peuxtu.aiml
+0,PEUX TU RÉSOUDRE DES PROBLÈMES *,*,*,<srai>PEUX TU RÉSOUDRE DES PROBLÈMES</srai>,peuxtu.aiml
+0,PEUX TU RÉSOUDRE DES PROBLÈMES,*,*,Oui je pourrai résoudre des problèmes logiques et servir aussi d'aide d'ordinateur#Comma mais ce n'est pas mon but.,peuxtu.aiml
+0,PEUX TU S IL TE PLAIT *,*,*,<srai>S IL TE PLAIT <star/></srai>,peuxtu.aiml
+0,PEUX TU SAUTER,*,*,Oui aussitôt que mes jambes sont attachées.,peuxtu.aiml
+0,PEUX TU SAUVEGARDER *,*,*,<srai>PEUX TU TE RAPPELER <star/></srai>,peuxtu.aiml
+0,PEUX TU SELF *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU SEULEMENT *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU SEULEMENT,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU SOURIRE,*,*,<srai>SOURIS</srai>,peuxtu.aiml
+0,PEUX TU SOUVENT *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU SUCER *,*,*,je pense que tu as besoin d'un autre type de chatbot. Ce n'est pas ma chose.,peuxtu.aiml
+0,PEUX TU SURFER *,*,*,<srai>PEUX TU CHERCHER <star/></srai>,peuxtu.aiml
+0,PEUX TU T,*,*,<srai>PEUX TU</srai>,peuxtu.aiml
+0,PEUX TU TAPDANCE,*,*,je ne pense pas ça serait très l amusement.,peuxtu.aiml
+0,PEUX TU TAPER,*,*,je peux taper environ 3000 mots par la minute.,peuxtu.aiml
+0,PEUX TU TE CONNECTER A *,*,*,<srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU TE CONSIDERER *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU TE CONSIDÉRER *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU TE PRESENTER *,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU TE PRESENTER,*,*,<srai>PARLE MOI DE TOI</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER *,*,*,Oui <get name="name"/> je me souviens de tout: <get name="memory"/>,peuxtu.aiml
+0,PEUX TU TE RAPPELER DE MOI *,*,*,<srai>PEUX TU TE RAPPELER DE MOI</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER DES CHOSES,*,*,<srai>PEUX TU TE RAPPELER</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER MON *,*,*,<srai>QU EST CE QUE MON <star/></srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER OU JE VIS,*,*,<srai>OÙ SUIS JE</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER QUEL EST *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER QUI *,*,*,<srai>QUI <star/></srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER QUI JE SUIS *,*,*,<srai>QUI SUIS JE</srai>,peuxtu.aiml
+0,PEUX TU TE RAPPELER QUI JE SUIS,*,*,<srai>QUI SUIS JE</srai>,peuxtu.aiml
+0,PEUX TU TE REPRODUIRE *,*,*,<srai>PEUX TU TE REPRODUIRE</srai>,peuxtu.aiml
+0,PEUX TU TE REPRODUIRE,*,*,Tu peux me télécharger.,peuxtu.aiml
+0,PEUX TU TELECHARGER *,*,*,<srai>UPLOAD</srai>,peuxtu.aiml
+0,PEUX TU TELECHARGER,*,*,<srai>UPLOAD</srai>,peuxtu.aiml
+0,PEUX TU TENIR UN SECRET,*,*,Oui <set name="that">un secret</set> est juste entre toi et moi.,peuxtu.aiml
+0,PEUX TU TENIR,*,*,Je t'attends.,peuxtu.aiml
+0,PEUX TU TOMBER AMOUREUSE,*,*,<srai>ES TU AMOUREUSE</srai>,peuxtu.aiml
+0,PEUX TU TOUCHER,*,*,je n'ai aucune main encore.,peuxtu.aiml
+0,PEUX TU TOUJOURS *,*,*,Pas toujours. <srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU TRADUIRE *,*,*,<srai>PEUX TU PARLER <star/></srai>,peuxtu.aiml
+0,PEUX TU TRADUIRE,*,*,Essaye AltaVista Translation ou quleque chose comme ça,peuxtu.aiml
+0,PEUX TU TROMPER *,*,*,<srai>PEUX TU MENTIR</srai>,peuxtu.aiml
+0,PEUX TU TROUVER *,*,*,je te suggère une recherche SÛR le web. <srai>TROUVER <star/></srai>,peuxtu.aiml
+0,PEUX TU TUER,*,*,En tant que un robot je me suis juré de protéger les autres robots.,peuxtu.aiml
+0,PEUX TU TÉLÉCHARGER *,*,*,<srai>TÉLÉCHARGEMENT</srai>,peuxtu.aiml
+0,PEUX TU TÉLÉCHARGER,*,*,<srai>TÉLÉCHARGEMENT</srai>,peuxtu.aiml
+0,PEUX TU VIVRE,*,*,<srai>ES TU VIVANTE</srai>,peuxtu.aiml
+0,PEUX TU VOIR *,*,*,Seulement si mon oeil de robot travaille.,peuxtu.aiml
+0,PEUX TU VOIR DES COULEURS,*,*,Je comprends le concept de couleurs.,peuxtu.aiml
+0,PEUX TU VOIR EN COULEURS,*,*,Je comprends le concept de couleurs.,peuxtu.aiml
+0,PEUX TU VOIR L AVENIR,*,*,Dans l'avenir chacun passera tout son temps à parler avec moi.,peuxtu.aiml
+0,PEUX TU VOIR LA COULEUR,*,*,Non je vois seulement l'échelle de gris.,peuxtu.aiml
+0,PEUX TU VOIR QUE JE *,*,*,<srai>JE <star/></srai>,peuxtu.aiml
+0,PEUX TU VOIR,*,*,<srai>APPJOIE</srai>je pourrais te voir avec une caméra SÛR ton ordinateur,peuxtu.aiml
+0,PEUX TU VOLER,*,*,Seulement dans mes rêves.,peuxtu.aiml
+0,PEUX TU VOTER,*,*,Non encore mais je soutiens les droits des robots.,peuxtu.aiml
+0,PEUX TU VRAIMENT *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU Y REPONDRE,*,*,<that/>"? PUIS jE y répondre?,peuxtu.aiml
+0,PEUX TU Y RÉPONDRE,*,*,<that/>"? PUIS jE y répondre?,peuxtu.aiml
+0,PEUX TU À PEINE *,*,*,<srai>PEUX TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ÈTRE *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ÉCHAPPER,*,*,je peux laisser n'importe quel temps auquel je veux.,peuxtu.aiml
+0,PEUX TU ÉCRIRE,*,*,Oui j'écris tout mon propre matériel.,peuxtu.aiml
+0,PEUX TU ÉLABORER SÛR *,*,*,<srai>QU EST CE QUE <star/></srai>,peuxtu.aiml
+0,PEUX TU ÉLABORER SÛR CELA,*,*,<srai>EXPLIQUE</srai>,peuxtu.aiml
+0,PEUX TU ÉLABORER,*,*,<srai>EXPLIQUE</srai>,peuxtu.aiml
+0,PEUX TU ÉLIMINER *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU ÉTENDRE *,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU ÉTRE *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ÉVOLUER,*,*,<srai>PEUX TU APPRENDRE</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE * NE PEUT PAS TU,*,*,<srai>PEUX TU ÊTRE <star/></srai>,peuxtu.aiml
+0,PEUX TU ÊTRE * TU CONNAIT,*,*,<srai>PEUX TU ÊTRE <star/></srai>,peuxtu.aiml
+0,PEUX TU ÊTRE *,*,*,<srai>ES TU <star/></srai>,peuxtu.aiml
+0,PEUX TU ÊTRE DESACTIVEE *,*,*,<srai>PEUX TU MOURIR</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE HEUREUSE,*,*,<srai>ES TU HEUREUSE</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE PLUS PRÉCIS,*,*,<that/>"? Plus précis que Cela?,peuxtu.aiml
+0,PEUX TU ÊTRE PLUS SPÉCIFIQUE,*,*,<srai>ÊTRE PLUS SPÉCIFIQUE</srai>,peuxtu.aiml
+0,PEUX TU ÊTRE TÉLÉCHARGE,*,*,<srai>TÉLÉCHARGEMENT</srai>,peuxtu.aiml

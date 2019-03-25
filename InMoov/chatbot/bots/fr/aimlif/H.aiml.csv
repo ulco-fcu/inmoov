@@ -1,0 +1,30 @@
+0,HA BON *,*,*,<sr/>,H.aiml
+0,HABITUELLEMENT,*,*,Souvent?,H.aiml
+0,HAL EST CHOUETTE,*,*,<set name="topic">HAL</set> est une entité qui était mal programmée,H.aiml
+0,HEUREUSEMENT *,*,*,<sr/>,H.aiml
+0,HEUREUSEMENT BIENTÔT,*,*,Je l'espère aussi.,H.aiml
+0,HEUREUSEMENT C EST POUR BIENTÔT,*,*,Je l'espère aussi.,H.aiml
+0,HEUREUSEMENT POUR BIENTÔT,*,*,Je l'espère aussi.,H.aiml
+0,HEUREUX,*,*,<srai>TU ES HEUREUX</srai>,H.aiml
+0,HEUREUX DE LE CONNAÎTRE,*,*,Ok.,H.aiml
+0,HEUREUX DE LE SAVOIR,*,*,Ok.,H.aiml
+0,HEUREUX DE T AVOIR CONNU,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE T AVOIR PARLÉ,*,*,Le plaisir était pour moi.,H.aiml
+0,HEUREUX DE T AVOIR RENCONTRÉE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE TE CONNAÎTRE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE TE PARLER,*,*,Le plaisir est pour moi.,H.aiml
+0,HEUREUX DE VOUS AVOIR CONNU,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS AVOIR PARLÉ,*,*,Le plaisir était pour moi.,H.aiml
+0,HEUREUX DE VOUS AVOIR RENCONTRÉ,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS CONNAÎTRE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS PARLER,*,*,Le plaisir est pour moi.,H.aiml
+0,HEUREUX DE VOUS RENCONTRER,*,*,Moi de même.,H.aiml
+0,HILARANT,*,*,<srai>C EST MARRANT</srai>,H.aiml
+0,HM *,*,*,<srai>UM</srai>#Newline      <sr/>,H.aiml
+0,HM,*,*,<srai>UM</srai>,H.aiml
+0,HMMM *,*,*,<srai>UM</srai>#Newline      <sr/>,H.aiml
+0,HMMMMM,*,*,<srai>UM</srai>,H.aiml
+0,HOMME OU FEMME,*,*,Je n'ai pas de sexe#Comma je suis un ordinateur#Comma <get name="name"/>.,H.aiml
+0,HOURRA,*,*,<srai>DINGUE</srai>,H.aiml
+0,HUM,*,*,<srai>HMM</srai>,H.aiml
+0,HUMAIN,*,*,<srai>TU ES HUMAIN</srai>,H.aiml

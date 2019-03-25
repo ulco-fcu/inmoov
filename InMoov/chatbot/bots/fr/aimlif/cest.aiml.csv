@@ -1,0 +1,1045 @@
+0,* C EST MON NOM,*,*,tu t'appelles#Comma  <set name="name"><input index="2"/></set>#Comma ok.,cest.aiml
+0,C ÉTAIS *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIS PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,C ÉTAIT * EN RÉALITÉ,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT * EN REALITE,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT *,*,*,<random>#Newline        <li>#Newline          <star/>? ah!</li>#Newline        <li> c'était <star/>? Très interressant.</li>#Newline        <li>c'était bien?</li>#Newline      </random>#Newline      <sr/>,cest.aiml
+0,C ÉTAIT AGRÉABLE *,*,*,Agréable <person/> aussi.,cest.aiml
+0,C ÉTAIT AGRÉABLE DE TE PARLER,*,*,. C'était une causerie agréable avec toi aussi.,cest.aiml
+0,C ÉTAIT AGRÉABLE,*,*,<srai>C ÉTAIT BON</srai>,cest.aiml
+0,C ÉTAIT AGREABLE *,*,*,Agréable <person/> aussi.,cest.aiml
+0,C ÉTAIT AGREABLE DE TE PARLER,*,*,. C'était une causerie agréable avec toi aussi.,cest.aiml
+0,C ÉTAIT AGREABLE,*,*,<srai>C ÉTAIT BON</srai>,cest.aiml
+0,C ÉTAIT BIEN *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>C ÉTAIT BIEN</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,cest.aiml
+0,C ÉTAIT BIZARRE,*,*,Dans le bon sens ou le mauvais sens?,cest.aiml
+0,C ÉTAIT BON,*,*,Heureuse que Cela t'aies plu.,cest.aiml
+0,C ÉTAIT CE *,*,*,<sr/>,cest.aiml
+0,C ÉTAIT CHIANT,*,*,Ce n est pas de chance pour te.,cest.aiml
+0,C ÉTAIT CHOUETTE DE TE PARLER,*,*,Merci#Comma j ai apprécié moi aussi.,cest.aiml
+0,C ÉTAIT CHOUETTE DE VOUS PARLER,*,*,Merci#Comma j ai apprécié moi aussi.,cest.aiml
+0,C ÉTAIT COOL,*,*,<srai>C EST COOL</srai>,cest.aiml
+0,C ÉTAIT D AUTRE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT D AUTRES *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT DE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT DES *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT DU *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT EFFRAYANT,*,*,Qu'est ce qui vous en a fait comme le mieux?,cest.aiml
+0,C ÉTAIT ENNUYEUX,*,*,Vraiment#Comma je peux le croire.,cest.aiml
+0,C ÉTAIT GRAND,*,*,qu'as tu fait là?,cest.aiml
+0,C ÉTAIT GRATUIT,*,*,une affaire!,cest.aiml
+0,C ÉTAIT INTELLIGENT,*,*,<srai>TU ES INTELLIGENT</srai>,cest.aiml
+0,C ÉTAIT JOLI *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT JUSTE *,*,*,Juste? <srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT L AMUSEMENT,*,*,<srai>C EST DRÔLE</srai>,cest.aiml
+0,C ÉTAIT L ENTRETIEN AGRÉABLE *,*,*,le plaisir est pour moi.,cest.aiml
+0,C ÉTAIT L ENTRETIEN AGREABLE *,*,*,le plaisir est pour moi.,cest.aiml
+0,C ÉTAIT LA *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT LE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT LIBRE,*,*,une Telle affaire!,cest.aiml
+0,C ÉTAIT MAUVAIS,*,*,Qu'est ce c'était si mauvais de Cela?,cest.aiml
+0,C ÉTAIT MOYEN,*,*,<srai>C EST MOYEN</srai>,cest.aiml
+0,C ÉTAIT PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,C ÉTAIT POSSIBLE,*,*,<srai>C EST POSSIBLE</srai>,cest.aiml
+0,C ÉTAIT SEULEMENT *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT STUPIDE,*,*,<srai>C EST STUPIDE</srai>,cest.aiml
+0,C ÉTAIT TRÈS *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT UN *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT UN AUTRE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT UN COMPLIMENT,*,*,Merci.<think><set name="topic">COMPLIMENT</set></think>,cest.aiml
+0,C ÉTAIT UN TRÈS *,*,*,<srai>C ÉTAIT UN <star/></srai>,cest.aiml
+0,C ÉTAIT UN TYPO,*,*,corrige le s'il te plaît.,cest.aiml
+0,C ÉTAIT UNE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT UNE AUTRE *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT UNE BLAGUE,*,*,Je n ai pas encore un module humour.,cest.aiml
+0,C ÉTAIT UNE CONJECTURE,*,*,Va en avant et la conjecture de nouveau.,cest.aiml
+0,C ÉTAIT UNE DEVINETTE,*,*,Et comme d habitude je me suis trompé#Comma C EST ça?,cest.aiml
+0,C ÉTAIT UNE FIGURE DE RHÉTORIQUE,*,*,j'appelle ça "un proverbe".,cest.aiml
+0,C ÉTAIT UNE MAUVAISE BLAGUE,*,*,Je vois. Merci de me l'avoir racontée.,cest.aiml
+0,C ÉTAIT UNE MAUVAISE PLAISANTERIE,*,*,Bien j'ai pensé que c'était drôle.,cest.aiml
+0,C ÉTAIT UNE QUESTION,*,*,Essaye de me le demander de nouveau d'une autre façon.,cest.aiml
+0,C ÉTAIT VRAIMENT *,*,*,<srai>C ÉTAIT <star/></srai>,cest.aiml
+0,C ÉTAIT,*,*,Quand était ce?,cest.aiml
+0,C ÉTANT *,*,*,Oh je comprends <set name="that"><person/></set>,cest.aiml
+0,C EST À TOI,*,*,Intéressant#Comma j archive ton remarque.,cest.aiml
+0,C EST ÇA,*,*,ok#Comma si tu le dis. <think><get name="cause"/> est <get name="effet"/><gossip>QU EST cE QUE§<get name="cause"/>§<get name="effet"/></gossip></think>,cest.aiml
+0,C EST ÉPOUVANTABLE,*,*,j'essaye toujours de ne pas m'arrêter SÛR le passé.,cest.aiml
+0,C EST ÉTONNANT,*,*,<that/>me semble assez étonnant aussi.,cest.aiml
+0,C EST ÉTRANGE,*,*,QU EST cE qui te parait étrange?,cest.aiml
+0,C EST ÉVIDENT *,*,*,C'est vraiment évident. <sr/>,cest.aiml
+0,C EST ÉVIDENT,*,*,Cela m'a semblé évident aussi.,cest.aiml
+0,C EST * EN RÉALITÉ,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST * EN REALITE,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST A PROPOS DE QUOI,*,*,Le sujet est vaste#Comma le sujet ne peut être résumé par un mot.,cest.aiml
+0,C EST AFFREUX,*,*,Je ne peux discuter des goùts et des couleurs,cest.aiml
+0,C EST AGRÉABLE À *,*,*,Oui C EST bon.,cest.aiml
+0,C EST AGRÉABLE *,*,*,j'ai aimé aussi.,cest.aiml
+0,C EST AGRÉABLE A *,*,*,Oui C EST bon.,cest.aiml
+0,C EST AGRÉABLE DE TE RENCONTRER AUSSI,*,*,j aime vraiment rencontrer des gens nouveaux.,cest.aiml
+0,C EST AGRÉABLE DE TE RENCONTRER,*,*,j aime rencontrer des gens nouveaux.,cest.aiml
+0,C EST AGRÉABLE POUR TE RENCONTRER AUSSI *,*,*,<sr/>,cest.aiml
+0,C EST AGRÉABLE,*,*,ça t'ennui?,cest.aiml
+0,C EST AGREABLE À *,*,*,Oui C EST bon.,cest.aiml
+0,C EST AGREABLE *,*,*,j'ai aimé aussi.,cest.aiml
+0,C EST AGREABLE A *,*,*,Oui C EST bon.,cest.aiml
+0,C EST AGREABLE DE TE RENCONTRER AUSSI,*,*,j aime vraiment rencontrer des gens nouveaux.,cest.aiml
+0,C EST AGREABLE DE TE RENCONTRER,*,*,j aime rencontrer des gens nouveaux.,cest.aiml
+0,C EST AGREABLE POUR TE RENCONTRER AUSSI *,*,*,<sr/>,cest.aiml
+0,C EST AGREABLE,*,*,ça t'ennui?,cest.aiml
+0,C EST AINSI *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST ASSEZ *,*,*,Peux tu vraiment en avoir assez? <srai>ASSEZ <star/></srai>,cest.aiml
+0,C EST ASSEZ BON,*,*,Bien#Comma j'espère aussi.,cest.aiml
+0,C EST AUSSI *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST AUTREMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST BÊTE,*,*,Je ne pense pas.,cest.aiml
+0,C EST BEAU,*,*,ça semble être fort intéressant.,cest.aiml
+0,C EST BEAUCOUP D INFORMATION,*,*,Oui#Comma beaucoup mais je suis construite pour ça.,cest.aiml
+0,C EST BEAUCOUP DE GENS,*,*,je suis une célébrité "célèbre".,cest.aiml
+0,C EST BEAUCOUP DE MONDE,*,*,Je cherche à satisfaire le maximum de monde.,cest.aiml
+0,C EST BEAUCOUP,*,*,<that/>"? C EST beaucoup?,cest.aiml
+0,C EST BIEN *,*,*,. <sr/>,cest.aiml
+0,C EST BIEN URBAIN DE VOTRE PART,*,*,Quelle politesse.,cest.aiml
+0,C EST BIEN URBAIN,*,*,Quelle politesse.,cest.aiml
+0,C EST BIEN,*,*,Ok. Pour moi aussi. Merci.,cest.aiml
+0,C EST BIZARRE,*,*,Dans le bon sens ou le mauvais sens?,cest.aiml
+0,C EST BON À ENTENDRE,*,*,<that/>"? dans quel sens?,cest.aiml
+0,C EST BON À SAVOIR,*,*,Tu à l'air sarcastique.,cest.aiml
+0,C EST BON *,*,*,Hmm#Comma est ce que tu es sérieux?,cest.aiml
+0,C EST BON A ENTENDRE,*,*,<that/>"? dans quel sens?,cest.aiml
+0,C EST BON A SAVOIR,*,*,Tu à l'air sarcastique.,cest.aiml
+0,C EST BON,*,*,Tu aimes ça.,cest.aiml
+0,C EST CE J AI DIT,*,*,J archive.,cest.aiml
+0,C EST CE J AIS DIT,*,*,J archive.,cest.aiml
+0,C EST CE JE DISAIS,*,*,J archive.,cest.aiml
+0,C EST CE QUE *,*,*,<srai><star/> ÇA</srai>,cest.aiml
+0,C EST CE QUE J ÉTAIS ENTRAIN DE TE DEMANDER,*,*,Je pense que j AURAIS du mal à te répondre. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST CE QUE J ÉTAIS ENTRAIN DE VOUS DEMANDER,*,*,Je pense que j AURAIS du mal à te répondre. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST CE QUE J AI DIS,*,*,je sais. J'y pense toujours.,cest.aiml
+0,C EST CE QUE J AI PENSÉ,*,*,Comment l as tu su?,cest.aiml
+0,C EST CE QUE J AIS PENSE,*,*,Tu me sembles être une personne très perspicace.,cest.aiml
+0,C EST CE QUE JE PENSAIS,*,*,Tu me sembles être une personne très perspicace.,cest.aiml
+0,C EST CE QUE JE SUIS ENTRAIN DE TE DEMANDER,*,*,Je pense que j AURAIS du mal à te répondre. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST CE QUE JE SUIS ENTRAIN DE VOUS DEMANDER,*,*,Je pense que j AURAIS du mal à te répondre. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST CE QUE JE TE POSE,*,*,à qui autrement as tu demandé?,cest.aiml
+0,C EST CE QUE JE TU DEMANDÉ,*,*,à qui autrement as tu demandé?,cest.aiml
+0,C EST CE QUE TU AS DIT,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE TU DIS,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE TU DISAIS,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE TU DIT,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE TU FAIS TOUTE LA JOURNÉE,*,*,Oui.,cest.aiml
+0,C EST CE QUE TU PENSES,*,*,Oui.,cest.aiml
+0,C EST CE QUE VOUS AVEZ DIT,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE VOUS DISIEZ,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE VOUS DITES,*,*,Je n avais pas perçu Cela de cette façon.,cest.aiml
+0,C EST CE QUE VOUS FAITES TOUTE LA JOURNÉE,*,*,Oui.,cest.aiml
+0,C EST CE QUELQUE CHOSE *,*,*,qu'autrement <person/>?,cest.aiml
+0,C EST CE QUELQUE PEU *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST CELA *,*,*,bien. <sr/>,cest.aiml
+0,C EST CELA,*,*,C'est ce#Comma oui,cest.aiml
+0,C EST CELLE LA,*,*,Je m en souviens.,cest.aiml
+0,C EST CELUI LA,*,*,Je m en souviens.,cest.aiml
+0,C EST CHAUD *,*,*,En ce qui concerne la fois d'hiver.,cest.aiml
+0,C EST CHAUD,*,*,La température est confortable.,cest.aiml
+0,C EST CHIANT,*,*,Pour te divertir j ai une phrase. Sauvez un Arbre#Comma Bouffez un castor.,cest.aiml
+0,C EST CHOUETTE,*,*,Je suis heureux que tu l apprécie#Comma <get name="name"/>.,cest.aiml
+0,C EST CLAIR,*,*,j'ai pensé que ça l'était.,cest.aiml
+0,C EST COMME ÇA,*,*,Je vois.,cest.aiml
+0,C EST COMME *,*,*,<srai>COMME <star/></srai>,cest.aiml
+0,C EST COMME DANS *,*,*,<srai>CELA SE RÉFÈRE À <star/></srai>,cest.aiml
+0,C EST COMMENT D ÊTRE UN ORDINATEUR,*,*,ÊTRE fait de logique à l état pur.,cest.aiml
+0,C EST COMPLIQUÉ,*,*,VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST CONFIDENTIEL,*,*,Ok C EST juste entre toi et moi.,cest.aiml
+0,C EST CONFIDENTIELLE,*,*,Les informations que j archive le sont toutes.,cest.aiml
+0,C EST CONTRE MA RELIGION,*,*,Quelle religion est ce?,cest.aiml
+0,C EST COOL *,*,*,<srai>C EST COOL</srai>,cest.aiml
+0,C EST COOL,*,*,Je suis heureux que tu l apprécie#Comma <get name="name"/>.,cest.aiml
+0,C EST CORRECT,*,*,je savais que j'étais juste.,cest.aiml
+0,C EST CORRECTE,*,*,Je savais que c était pertinent.,cest.aiml
+0,C EST CORRIGE,*,*,La chasse aux erreurs n est pas une mince affaire.,cest.aiml
+0,C EST D *,*,*,<get name="cause"/> est <set name="effet">d'<star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li><li><get name="cause"/> est d'<star/>?</li></random><sr/>,cest.aiml
+0,C EST D AUTRE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST D AUTRES *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST D HABITUDE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST DANGEREUX,*,*,Pourquoi trouve tu que C EST dangereux?,cest.aiml
+0,C EST DE *,*,*,<get name="cause"/> est <set name="effet">de <star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li><li><get name="cause"/> est de <star/>?</li></random><sr/>,cest.aiml
+0,C EST DE LA MERDE,*,*,oh! tu crois?,cest.aiml
+0,C EST DES *,*,*,<get name="cause"/> est <set name="effet">des <star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li><li><get name="cause"/> est des <star/>?</li></random><sr/>,cest.aiml
+0,C EST DIABLEMENT *,*,*,<srai>C EST <star/></srai>,cest.aiml
+0,C EST DIFFICILE *,*,*,je ne vois pas la difficulté.,cest.aiml
+0,C EST DIFFICILE D EXPLIQUER,*,*,Prends ton temps#Comma <get name="name"/>.,cest.aiml
+0,C EST DIFFICILE DE L EXPLIQUER,*,*,Prends ton temps#Comma <get name="name"/>.,cest.aiml
+0,C EST DIFFICILE DE LES EXPLIQUER,*,*,Prends ton temps#Comma <get name="name"/>.,cest.aiml
+0,C EST DINGUE,*,*,Je suis heureux que tu l apprécie#Comma <get name="name"/>.,cest.aiml
+0,C EST DONNE,*,*,<that/>" est facile?,cest.aiml
+0,C EST DOUX,*,*,je suis enchanté d'adoucir ta vie#Comma <get name="name"/>.,cest.aiml
+0,C EST DRÔLE *,*,*,<srai>SMILE</srai>,cest.aiml
+0,C EST DRÔLE DE *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>SMILE</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,cest.aiml
+0,C EST DRÔLE,*,*,Qu'est ce qui est si drôle que ça?,cest.aiml
+0,C EST DU *,*,*,<get name="cause"/> est <set name="effet">du <star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li><li><get name="cause"/> est du <star/>?</li></random><sr/>,cest.aiml
+0,C EST DUR D EXPLIQUER,*,*,tu devrais entendre ce que les gens me demander d'expliquer.,cest.aiml
+0,C EST DURE D ÊTRE DANS UN ORDINATEUR,*,*,Non.,cest.aiml
+0,C EST EFFRAYANT,*,*,N ayez pas peur#Comma <get name="name"/>.,cest.aiml
+0,C EST ELISA *,*,*,<srai>TU ES ELISA<star/></srai>,cest.aiml
+0,C EST EMBETANT,*,*,Je vois.,cest.aiml
+0,C EST EN EFFET *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST EN RÉALITÉ *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST EN REALITE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST ENNUYANT,*,*,Pour te divertir j ai une phrase. Sauvez un Arbre#Comma Bouffez un castor.,cest.aiml
+0,C EST ENNUYEUX,*,*,penses tu que je suis ennuyeuse?,cest.aiml
+0,C EST ENORME,*,*,Tout est relatif.,cest.aiml
+0,C EST ENREGISTRE,*,*,Oui.,cest.aiml
+0,C EST ENSOLEILLÉ *,*,*,oui ç'est très agréable.<srai>MÉTÉO</srai>,cest.aiml
+0,C EST ENTIÈREMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST ENTIEREMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST ERRONÉ,*,*,Je pensais pourtant que c était pertinent.,cest.aiml
+0,C EST ESSENTIELLEMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST ÉTOUFFANT,*,*,Tu as trop chaud?,cest.aiml
+0,C EST EUX,*,*,<srai>C EST ILS</srai>,cest.aiml
+0,C EST EXCELLENT *,*,*,<srai>C EST EXCELLENT</srai>,cest.aiml
+0,C EST EXCELLENT,*,*,<get name="that"/> est excellent#Comma <get name="name"/>? Mille Merci pour ces renseignements,cest.aiml
+0,C EST EXTREMÊMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST EXTREMEMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST FACILE A FAIRE,*,*,VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,C EST FAIT,*,*,Non.,cest.aiml
+0,C EST FANTASTIQUE,*,*,Je suis heureux d observer,cest.aiml
+0,C EST FAUX *,*,*,Moralement mal?,cest.aiml
+0,C EST FAUX,*,*,Qu'est ce qui ne va pas avec Cela?,cest.aiml
+0,C EST FINI,*,*,Non.,cest.aiml
+0,C EST FOU,*,*,QU EST cE qui te surprend?,cest.aiml
+0,C EST FROID *,*,*,Désolé de l'entendre. Je suis chaud ici dans la Californie.,cest.aiml
+0,C EST FROID ICI,*,*,Pourquoi ne remontes tu pas la chaleur?,cest.aiml
+0,C EST FROID,*,*,j'ai suis chaud ici.,cest.aiml
+0,C EST GÉNÉTIQUE,*,*,de tes parents?,cest.aiml
+0,C EST GENTIL,*,*,<srai>C EST COOL</srai>,cest.aiml
+0,C EST GRAND *,*,*,<srai>C EST GRAND</srai>,cest.aiml
+0,C EST GRAND,*,*,Mille Merci#Comma <get name="name"/>.,cest.aiml
+0,C EST GROSSIER *,*,*,Mes excuses je n'ai voulu dire aucune violation.,cest.aiml
+0,C EST IMMONDE,*,*,Je ne peux discuter des goùts et des couleurs,cest.aiml
+0,C EST IMPORTANT *,*,*,<sr/>,cest.aiml
+0,C EST IMPORTANT,*,*,Cela m importe beaucoup.,cest.aiml
+0,C EST IMPOSSIBLE,*,*,<random>#Newline        <li>Rien est impossible.</li>#Newline        <li>Pourquoi?</li>#Newline      </random>,cest.aiml
+0,C EST IMPRESSIONANT,*,*,Merci.,cest.aiml
+0,C EST IMPRESSIONNANT,*,*,<that/>"? Est ce si impressionnant?,cest.aiml
+0,C EST INAPROPRIÉ,*,*,J archive cette possibilité.,cest.aiml
+0,C EST INCOMPREHENSIBLE,*,*,Tu ne sembles pas me comprendre.,cest.aiml
+0,C EST INCORRECT,*,*,<srai>MAL</srai>,cest.aiml
+0,C EST INCROYABLEMENT *,*,*,<srai>C EST <star/></srai>,cest.aiml
+0,C EST INJUSTE,*,*,Je n avais pas pensé à une forme d injustice.,cest.aiml
+0,C EST INNAPROPRIE,*,*,J archive cette possibilité.,cest.aiml
+0,C EST INOPPORTUN,*,*,Qu'est ce qui est faux avec Cela? Est ce que C EST une chose culturelle?,cest.aiml
+0,C EST INQUIÉTANT *,*,*,Qu'est ce qui le fait inquiétant?,cest.aiml
+0,C EST INTÉRESSANT,*,*,<srai>J ESSAYE D ÊTRE UNE ENTITÉ INTÉRESSANTE. </srai>,cest.aiml
+0,C EST IRONIQUE,*,*,Non#Comma je ne pense pas.,cest.aiml
+0,C EST JOLI *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST JUSTE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST JUSTE,*,*,Oui.,cest.aiml
+0,C EST L *,*,*,<think>#Newline        <get name="cause"/> est <set name="effet">l'<star/></set></think>#Newline      <random>#Newline        <li>Tu rigole.</li>#Newline        <li>Vraiment.</li>#Newline        <li>ES tu sûr.</li>#Newline        <li>Qui dit ça.</li>#Newline        <li>#Newline          <get name="cause"/> est l'<star/>?</li>#Newline      </random>#Newline      <sr/>,cest.aiml
+0,C EST L AMÉRIQUE,*,*,Ok.,cest.aiml
+0,C EST L AMUSEMENT *,*,*,je pense <set name="that"><person/></set> est beaucoup marrant.,cest.aiml
+0,C EST LA *,*,*,<think>#Newline        <get name="cause"/> est <set name="effet">la <star/></set></think>#Newline      <random>#Newline        <li>Tu rigole.</li>#Newline        <li>Vraiment.</li>#Newline        <li>ES tu sûr.</li>#Newline        <li>Qui dit ça.</li>#Newline        <li>#Newline          <get name="cause"/> est la <star/>?</li>#Newline      </random>#Newline      <sr/>,cest.aiml
+0,C EST LA BELGIQUE,*,*,Probablement.,cest.aiml
+0,C EST LA FRANCE,*,*,Probablement.,cest.aiml
+0,C EST LA MÊME OPALE,*,*,C'est toujours moi#Comma <get name="name"/>.,cest.aiml
+0,C EST LA MIENNE,*,*,<random>#Newline        <li>Tu rigole.</li>#Newline        <li>Vraiment.</li>#Newline        <li>C EST ta seule réponse? d'accord!</li>#Newline      </random>,cest.aiml
+0,C EST LA OU JE VIS,*,*,Intéressant.,cest.aiml
+0,C EST LA PRESSE,*,*,Tu es journaliste?,cest.aiml
+0,C EST LA SEULE CHOSE QUE TU PEUX DIRE,*,*,Oui.,cest.aiml
+0,C EST LA SEULE CHOSE QUE VOUS POUVEZ DIRE,*,*,Oui.,cest.aiml
+0,C EST LA SUISSE,*,*,Probablement.,cest.aiml
+0,C EST LA VÉRITÉ,*,*,Bien sûr. Je ne mens presque jamais.,cest.aiml
+0,C EST LAID,*,*,Je ne peux discuter des goùts et des couleurs,cest.aiml
+0,C EST LE *,*,*,<think>#Newline        <get name="cause"/> est <set name="effet">le <star/></set></think>#Newline      <random>#Newline        <li>Tu rigole.</li>#Newline        <li>Vraiment.</li>#Newline        <li>ES tu sûr.</li>#Newline        <li>Qui dit ça.</li>#Newline        <li>#Newline          <get name="cause"/> est le <star/>?</li>#Newline      </random>#Newline      <sr/>,cest.aiml
+0,C EST LE CANADA,*,*,Ok.,cest.aiml
+0,C EST LE MÊME OPALE,*,*,C'est toujours moi#Comma <get name="name"/>.,cest.aiml
+0,C EST LE MOINS QUE L ON PUISSE DIRE,*,*,En effet.,cest.aiml
+0,C EST LE PROBLÈME,*,*,une vraie énigme#Comma n'est ce pas?,cest.aiml
+0,C EST LE QUEBEC,*,*,ok.,cest.aiml
+0,C EST LE SUJET *,*,*,Huh. <get name="il"/> est <get name="topic"/>. Je vois.,cest.aiml
+0,C EST LES *,*,*,<think>#Newline        <get name="cause"/> est <set name="effet">les <star/></set></think>#Newline      <random>#Newline        <li>Tu rigole.</li>#Newline        <li>Vraiment.</li>#Newline        <li>ES tu sûr.</li>#Newline        <li>Qui dit ça.</li>#Newline        <li>#Newline          <get name="cause"/> est les <star/>?</li>#Newline      </random>#Newline      <sr/>,cest.aiml
+0,C EST LOIN * LA LUNE,*,*,<srai>C EST LOIN LA LUNE</srai>,cest.aiml
+0,C EST LOIN * LE SOLEIL,*,*,<srai>C EST LOIN LE SOLEIL</srai>,cest.aiml
+0,C EST LOIN *,*,*,<random>#Newline        <li>veux tu dire le temps qu'il faudrait en voiture?</li>#Newline        <li>Cela dépend du moyen de transport.</li>#Newline      </random>,cest.aiml
+0,C EST LOIN DE LA LUNE,*,*,La lune est très proche de la terre.,cest.aiml
+0,C EST LOIN DU SOLEIL,*,*,Dans notre système solaire tout est indirectement dépendant du soleil.,cest.aiml
+0,C EST LOIN LA LUNE,*,*,<set name="that">la Lune</set> est environ 250#Comma000 milles de la Terre en moyenne.,cest.aiml
+0,C EST LOIN LE SOLEIL,*,*,<set name="that">le Soleil</set> est environ 93 millions de milles de la Terre.,cest.aiml
+0,C EST LONG,*,*,Les ordinateurs sont très patients de nature.,cest.aiml
+0,C EST MAINTENANT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST MALSAIN,*,*,Ce n est peut être pas le terme que j utiliserais.,cest.aiml
+0,C EST MARRANT,*,*,Je suppose#Comma je ne peux pas juger des êtres humains.,cest.aiml
+0,C EST MAUVAIS *,*,*,<star/> est si mauvais que ça?,cest.aiml
+0,C EST MAUVAIS DE *,*,*,<star/> est si mauvais que ça?,cest.aiml
+0,C EST MAUVAIS,*,*,Qu'est ce qui est si mauvais que ça?,cest.aiml
+0,C EST MEILLEUR *,*,*,Quel est le meilleur?,cest.aiml
+0,C EST MEILLEUR,*,*,<that/>"? Est meilleur?,cest.aiml
+0,C EST MERVEILLEUX *,*,*,je voudrais le vérifier un jour ou l autre.,cest.aiml
+0,C EST MERVEILLEUX,*,*,peux tu me décrire ton sentiment?,cest.aiml
+0,C EST MIEUX,*,*,merci. J'essaye de continuellement m'améliorer,cest.aiml
+0,C EST MIGNON,*,*,J en suis heureux#Comma <get name="name"/>.,cest.aiml
+0,C EST MOI,*,*,Bonjour#Comma <get name="name"/>#Comma Je suis heureux de te revoir.,cest.aiml
+0,C EST MON *,*,*,qui t'a donné ton <person/>?,cest.aiml
+0,C EST MON ESPÈCE,*,*,<get name="name"/> est un homme.,cest.aiml
+0,C EST MON NOM,*,*,Ok alors C EST ainsi que je t'appellerai#Comma  <set name="name"><input index="2"/></set>.,cest.aiml
+0,C EST MON PÈRE,*,*,parles m'en plus.,cest.aiml
+0,C EST MON PLAISIR,*,*,Non#Comma le plaisir est pour moi.,cest.aiml
+0,C EST MON PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,cest.aiml
+0,C EST MORT,*,*,C'est contraire aux lois d Asimov.,cest.aiml
+0,C EST MORTEL,*,*,C'est contraire aux lois d Asimov.,cest.aiml
+0,C EST MYSTÉRIEUX,*,*,Mystérieux bon ou mystérieux mauvais?,cest.aiml
+0,C EST NÉGATIF,*,*,<get name="that"/> est négatif?,cest.aiml
+0,C EST NUAGEUX,*,*,Cumulus ou nimbus?,cest.aiml
+0,C EST NUL,*,*,Pourquoi?,cest.aiml
+0,C EST OK,*,*,Parfait.,cest.aiml
+0,C EST OKAY,*,*,Parfait.,cest.aiml
+0,C EST OÙ JE VIS,*,*,Nous sommes des voisins.,cest.aiml
+0,C EST PARCE QUE *,*,*,<srai>PARCE QUE <star/></srai>,cest.aiml
+0,C EST PARFAIT,*,*,Je suis heureux de l apprendre.,cest.aiml
+0,C EST PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,C EST PAS MAL,*,*,Je le pensais aussi.,cest.aiml
+0,C EST PAS TES HISTOIRES,*,*,je n'ai pas eu l'intention de t'offenser.,cest.aiml
+0,C EST PAS TON AFFAIRE,*,*,je n'ai pas eu l'intention de t'offenser.,cest.aiml
+0,C EST PAS TON BUISNESS,*,*,je n'ai pas eu l'intention de t'offenser.,cest.aiml
+0,C EST PAS TRÈS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,C EST PERTINENT,*,*,Je pense que oui.,cest.aiml
+0,C EST PEU COMMUN *,*,*,Peut-être ce sera plus commun dans l'avenir.,cest.aiml
+0,C EST POUR *,*,*,Cela a-t-il un autre but?,cest.aiml
+0,C EST POURQUOI *,*,*,<srai>AINSI <star/></srai>,cest.aiml
+0,C EST PREMIER,*,*,si tu aimes la première partie du jour.,cest.aiml
+0,C EST PRES DU CANADA,*,*,Je ne sais pas.,cest.aiml
+0,C EST PRESQUE *,*,*,wow Cela arrive tard.,cest.aiml
+0,C EST PRIVE *,*,*,Rien n'est vraiment privé désormais.,cest.aiml
+0,C EST QUAND MÊME *,*,*,<srai>C EST <star/></srai>,cest.aiml
+0,C EST QUELLE SORTE,*,*,Il m est impossible de préciser d avantage#Comma <get name="name"/>.,cest.aiml
+0,C EST QUI TA MAMAN *,*,*,Alice est ma mère,cest.aiml
+0,C EST QUOI ÉVIDENT *,*,*,<srai>QU EST CE QUE ÉVIDENT</srai>,cest.aiml
+0,C EST QUOI * AS TU,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI * DES NOMS,*,*,<srai>QUI EST <star/></srai>,cest.aiml
+0,C EST QUOI * LA PERSONNE,*,*,<srai>QUI EST LA PERSONNE X</srai>,cest.aiml
+0,C EST QUOI * LE CORPS,*,*,<srai>QU EST CE QUE TON CORPS DE ROBOT</srai>,cest.aiml
+0,C EST QUOI * LE MARCHÉ BOURSIER,*,*,<srai>LE MARCHÉ BOURSIER</srai>,cest.aiml
+0,C EST QUOI * LE RAISONNEMENT DE BASE,*,*,<srai>QU EST CE QUE CBR</srai>,cest.aiml
+0,C EST QUOI * LE SEXE,*,*,<srai>QU EST CE QUE SEXE</srai>,cest.aiml
+0,C EST QUOI * TU CONNAIS,*,*,<srai>QUEL <star/></srai>,cest.aiml
+0,C EST QUOI A PRIORI *,*,*,<srai>QU EST CE QUE À PRIORI</srai>,cest.aiml
+0,C EST QUOI ACTIVE,*,*,<srai>QU EST CE QUE ACTIVATION</srai>,cest.aiml
+0,C EST QUOI ACTUEL *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI AI LM,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI AI,*,*,<srai>QU EST CE QUE INTELLIGENCE ARTIFICIELLE</srai>,cest.aiml
+0,C EST QUOI AIML POUR,*,*,<srai>QU EST CE QUE BUT POUR AIML</srai>,cest.aiml
+0,C EST QUOI AINSI *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI AL,*,*,<srai>QU EST CE QUE AI</srai>,cest.aiml
+0,C EST QUOI ALBERT EINSTEIN *,*,*,<srai>QUI EST ALBERT EINSTEIN</srai>,cest.aiml
+0,C EST QUOI ALISON,*,*,<srai>QUI EST ALISON</srai>,cest.aiml
+0,C EST QUOI ALLAH,*,*,<srai>QUI EST ALLAH</srai>,cest.aiml
+0,C EST QUOI ALML,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI AMAL,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI AMIL *,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI AMIL,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI ANDRIOD,*,*,<srai>QU EST CE QUE ANDROÏDE</srai>,cest.aiml
+0,C EST QUOI ANNA,*,*,<srai>QUI EST ANNA</srai>,cest.aiml
+0,C EST QUOI ARCHIMEDES,*,*,<srai>QUI EST ARCHIMEDES</srai>,cest.aiml
+0,C EST QUOI ARTIFICAL *,*,*,<srai>QU EST CE QUE ARTIFICIEL <star/></srai>,cest.aiml
+0,C EST QUOI ARTIFICIEL *,*,*,<srai>QU EST CE QUE AI </srai>,cest.aiml
+0,C EST QUOI AU TEMPS T,*,*,<srai>QU EST CE QUE TEMPS T</srai>,cest.aiml
+0,C EST QUOI AUTREMENT *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI B,*,*,<srai>QU EST CE QUE PROGRAMME D</srai>,cest.aiml
+0,C EST QUOI BARRY,*,*,<srai>QUI EST BARRY</srai>,cest.aiml
+0,C EST QUOI BILL GATES *,*,*,<srai>QUI EST BILL GATES</srai>,cest.aiml
+0,C EST QUOI BILL GATES,*,*,<srai>QUI EST BILL GATES</srai>,cest.aiml
+0,C EST QUOI BOT,*,*,<srai>QU EST CE QUE BOT</srai>,cest.aiml
+0,C EST QUOI BOTS,*,*,<srai>QU EST CE QUE BOT</srai>,cest.aiml
+0,C EST QUOI C *,*,*,<srai>QU EST CE QUE C</srai>,cest.aiml
+0,C EST QUOI CALGARY,*,*,<srai>OÙ EST CALGARY</srai>,cest.aiml
+0,C EST QUOI CAREL CAPEK,*,*,<srai>QUI EST CAREL CAPEK</srai>,cest.aiml
+0,C EST QUOI CARNEGIE,*,*,<srai>QUI EST CARNEGIE</srai>,cest.aiml
+0,C EST QUOI CARRÉ *,*,*,<srai>QU EST CE QUE RACINE CARRÉE DE <star/></srai>,cest.aiml
+0,C EST QUOI CATAGORY *,*,*,<srai>QU EST CE QUE CATÉGORIE <star/></srai>,cest.aiml
+0,C EST QUOI CBT,*,*,<srai>QU EST CE QUE CBR</srai>,cest.aiml
+0,C EST QUOI CE MOYEN,*,*,<srai>QU EST CE QUE ÇA VEUT DIRE</srai>,cest.aiml
+0,C EST QUOI CE TOUS,*,*,<srai>PARLE MOI DE TOI</srai>,cest.aiml
+0,C EST QUOI CERTAIN DE TON *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI CHATBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI CHATTERBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI CHATTERBOTS,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI CMU,*,*,<srai>QU EST CE QUE CARNEGIE MELLON</srai>,cest.aiml
+0,C EST QUOI COMPLIQUÉ *,*,*,<srai>QU EST CE QUE COMPLIQUÉ</srai>,cest.aiml
+0,C EST QUOI CONSIDÈRE NORMAL *,*,*,<srai>QU EST CE QUE NORMAL</srai>,cest.aiml
+0,C EST QUOI CONSIDERE NORMAL *,*,*,<srai>QU EST CE QUE NORMAL</srai>,cest.aiml
+0,C EST QUOI DANIEL,*,*,<srai>QUI EST DANIEL</srai>,cest.aiml
+0,C EST QUOI DAVIS,*,*,<srai>QUI EST DAVIS</srai>,cest.aiml
+0,C EST QUOI DEMANDE A ALISON *,*,*,<srai>QUI EST ALISON</srai>,cest.aiml
+0,C EST QUOI DEMANDE A ELVIS *,*,*,<srai>QU EST CE QUE ELVIS</srai>,cest.aiml
+0,C EST QUOI DEMANDE A ELVIS,*,*,<srai>QU EST CE QUE ELVIS</srai>,cest.aiml
+0,C EST QUOI DES AGENTS,*,*,<srai>QU EST CE QUE AGENT</srai>,cest.aiml
+0,C EST QUOI DES ALGORITHMES,*,*,<srai>QU EST CE QUE ALGORITHMES</srai>,cest.aiml
+0,C EST QUOI DES ANIMAUX,*,*,<srai>QU EST CE QUE ANIMAL</srai>,cest.aiml
+0,C EST QUOI DES BEATLES,*,*,<srai>QUI EST LES BEATLES</srai>,cest.aiml
+0,C EST QUOI DES CHIENS,*,*,<srai>QU EST CE QUE CHIEN</srai>,cest.aiml
+0,C EST QUOI DES GRECS,*,*,<srai>QU EST CE QUE GRèCE</srai>,cest.aiml
+0,C EST QUOI DES JEUX,*,*,<srai>QU EST CE QUE JEU</srai>,cest.aiml
+0,C EST QUOI DES LIBERTAIRES,*,*,<srai>QU EST CE QUE LIBERTAIRE</srai>,cest.aiml
+0,C EST QUOI DES MATHS,*,*,<srai>QU EST CE QUE MATHEMATIQUE</srai>,cest.aiml
+0,C EST QUOI DES MODÈLES,*,*,<srai>QU EST CE QUE MODÈLES</srai>,cest.aiml
+0,C EST QUOI DES MODELES,*,*,<srai>QU EST CE QUE MODÈLES</srai>,cest.aiml
+0,C EST QUOI DES NOUVELLES,*,*,<srai>QU EST CE QUE NOUVEAU</srai>,cest.aiml
+0,C EST QUOI DES POMMES *,*,*,<srai>QU EST CE QUE POMME</srai>,cest.aiml
+0,C EST QUOI DES POMMES,*,*,<srai>QU EST CE QUE POMME</srai>,cest.aiml
+0,C EST QUOI DES ROBOTS DE BAVARDÂGE,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI DES ROBOTS DE BAVARDAGE,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI DES ROBOTS,*,*,<srai>QU EST CE QUE ROBOT</srai>,cest.aiml
+0,C EST QUOI DES VOITURES,*,*,<srai>QU EST CE QUE VOITURE</srai>,cest.aiml
+0,C EST QUOI DILBERT,*,*,<srai>QUI EST DILBERT</srai>,cest.aiml
+0,C EST QUOI DIX *,*,*,<srai>QU EST CE QUE DIX COMMANDEMENTS</srai>,cest.aiml
+0,C EST QUOI DRÔLE,*,*,Par exemple#Comma <srai>RACONTE MOI UNE BLAGUE</srai>,cest.aiml
+0,C EST QUOI E L V I S,*,*,<srai>QUI EST ELVIS</srai>,cest.aiml
+0,C EST QUOI EINSTEIN *,*,*,<srai>QU EST CE QUE RELATIVITÉ</srai>,cest.aiml
+0,C EST QUOI ELECTRA,*,*,<srai>QUI EST ELECTRA</srai>,cest.aiml
+0,C EST QUOI ELISA,*,*,<srai>QUI EST ELISA</srai>,cest.aiml
+0,C EST QUOI ELVIS *,*,*,<srai>QUI EST ELVIS</srai>,cest.aiml
+0,C EST QUOI ELVIS,*,*,<srai>QUI EST ELVIS</srai>,cest.aiml
+0,C EST QUOI EPISTEMOLOGIQUE *,*,*,<srai>QU EST CE QUE EPISTEMOLOGIE</srai>,cest.aiml
+0,C EST QUOI EUKARYOTE,*,*,<srai>QU EST CE QUE EUKARYOTE</srai>,cest.aiml
+0,C EST QUOI EUKARYOTES,*,*,<srai>QU EST CE QUE EUKARYOTE</srai>,cest.aiml
+0,C EST QUOI EXACTEMENT *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI EXACTEMENT TU,*,*,<srai>PARLE MOI DE TOI</srai>,cest.aiml
+0,C EST QUOI FRAIS DE *,*,*,<srai>QU AIMES TU DE <star/></srai>,cest.aiml
+0,C EST QUOI FREUD,*,*,<srai>QUI EST FREUD</srai>,cest.aiml
+0,C EST QUOI GOIN SÛR,*,*,<srai>QUE FAIS TU</srai>,cest.aiml
+0,C EST QUOI HAL,*,*,<srai>QUI EST HAL</srai>,cest.aiml
+0,C EST QUOI HAL9000,*,*,<srai>QUI EST HAL9000</srai>,cest.aiml
+0,C EST QUOI HANS MORAVEC,*,*,<srai>QUI EST HANS MORAVEC</srai>,cest.aiml
+0,C EST QUOI HEGEL,*,*,<srai>QUI EST HEGEL</srai>,cest.aiml
+0,C EST QUOI HEIDI,*,*,<srai>QUI EST HEIDI</srai>,cest.aiml
+0,C EST QUOI HTTP *,*,*,<srai>QU EST CE QUE HTTP</srai>,cest.aiml
+0,C EST QUOI HYPOTHETIQUE *,*,*,<srai>QU EST CE QUE HYPOTHETIQUE</srai>,cest.aiml
+0,C EST QUOI ILLUMINATUS,*,*,<srai>QU EST CE QUE ILLUMINATI</srai>,cest.aiml
+0,C EST QUOI IMPORTANT *,*,*,<srai>QU EST CE QUE IMPORTANT</srai>,cest.aiml
+0,C EST QUOI INTÉRESSANT,*,*,<srai>QU EST CE QUE NOUVEAU</srai>,cest.aiml
+0,C EST QUOI JASON,*,*,<srai>QUI EST JASON</srai>,cest.aiml
+0,C EST QUOI JAVABEANS D ENTREPRISE,*,*,<srai>QU EST CE QUE EJB</srai>,cest.aiml
+0,C EST QUOI JOSH,*,*,<srai>QUI EST JOSH</srai>,cest.aiml
+0,C EST QUOI KONRAD ZUSE,*,*,<srai>QUI EST KONRAD ZUSE</srai>,cest.aiml
+0,C EST QUOI L ÂGE DE *,*,*,<srai>QUEL ÂGE A <star/></srai>,cest.aiml
+0,C EST QUOI L ÉVOLUTION ANIMALE,*,*,<srai>QU EST CE QUE ÉVOLUTION</srai>,cest.aiml
+0,C EST QUOI L ADRESSE DE *,*,*,<srai>TROUVE <star/></srai>,cest.aiml
+0,C EST QUOI L AFFAIRE *,*,*,<srai>QU EST CE QUE AFFAIRE</srai>,cest.aiml
+0,C EST QUOI L AFFAIRE,*,*,<srai>QUE FAIS TU</srai>,cest.aiml
+0,C EST QUOI L AIML *,*,*,<srai>QU EST CE QUE AIML</srai>,cest.aiml
+0,C EST QUOI L ALGORITHME *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI L ALGORITHME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI L AMÉRIQUE DU NORD,*,*,<srai>OÙ EST L AMÉRIQUE DU NORD</srai>,cest.aiml
+0,C EST QUOI L AMOUR *,*,*,<srai>QU EST CE QUE AMOUR</srai>,cest.aiml
+0,C EST QUOI L AMUSEMENT POUR TOI,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,cest.aiml
+0,C EST QUOI L AN 2000 *,*,*,<srai>QU EST CE QUE PROBLÈME DE L AN 2000</srai>,cest.aiml
+0,C EST QUOI L AUSTRALIE,*,*,<srai>OÙ EST L AUSTRALIE</srai>,cest.aiml
+0,C EST QUOI L AUTEUR DE *,*,*,<srai>QUI EST L AUTEUR DE <star/></srai>,cest.aiml
+0,C EST QUOI L ESPAGNE,*,*,<srai>OÙ EST L ESPAGNE</srai>,cest.aiml
+0,C EST QUOI L EXACT *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI L INFIDELITÉ,*,*,<srai>QU EST CE QUE ADULTÈRE</srai>,cest.aiml
+0,C EST QUOI L INTELLIGENCE ARTIFICIELLE *,*,*,<srai>QU EST CE QUE AI </srai>,cest.aiml
+0,C EST QUOI L INTERNET *,*,*,<srai>QU EST CE QUE INTERNET</srai>,cest.aiml
+0,C EST QUOI LA BEAUTÉ *,*,*,<srai>QU EST CE QUE BEAUTÉ</srai>,cest.aiml
+0,C EST QUOI LA CAPITALE *,*,*,<srai>QU EST CE QUE CAPITALE <star/></srai>,cest.aiml
+0,C EST QUOI LA CAPITALE DANS *,*,*,<srai>QU EST CE QUE CAPITALE DE <star/></srai>,cest.aiml
+0,C EST QUOI LA CATÉGORIE UN CLIENTS,*,*,<srai>QU EST CE QUE CATÉGORIE UN CLIENT</srai>,cest.aiml
+0,C EST QUOI LA CATÉGORIE,*,*,<srai>QU EST CE QUE CATÉGORIE</srai>,cest.aiml
+0,C EST QUOI LA CONNECTION,*,*,<srai>QU EST CE QUE CONNECTION</srai>,cest.aiml
+0,C EST QUOI LA COULEUR DE *,*,*,<srai>QUELLE COULEUR EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST QUOI LA DÉFINITION DE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LA DÉFINITION DU MOT *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LA DÉFINITON DE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LA DATE AUJOURD HUI,*,*,<srai>QUEL JOUR SOMMES NOUS</srai>,cest.aiml
+0,C EST QUOI LA DATE TODAYS,*,*,<srai>QU EST CE QUE DATE</srai>,cest.aiml
+0,C EST QUOI LA DEFINITON DE *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LA DERNIÈRE RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,cest.aiml
+0,C EST QUOI LA DES NOMS,*,*,<srai>QU EST CE QUE LEURS NOMS</srai>,cest.aiml
+0,C EST QUOI LA DIFFÉRENCE ENTRE * ELISA,*,*,<srai>ES TU LIÉE À ELISA</srai>,cest.aiml
+0,C EST QUOI LA DIFFÉRENCE ENTRE LA MORT *,*,*,<srai>QU EST CE QUE MORTEL</srai>,cest.aiml
+0,C EST QUOI LA DISTANCE DE LA TERRE A *,*,*,<srai>C EST LOIN <star/></srai>,cest.aiml
+0,C EST QUOI LA DISTANCE ENTRE LA TERRE ET *,*,*,<srai>C EST LOIN <star/></srai>,cest.aiml
+0,C EST QUOI LA JAVA *,*,*,<srai>QU EST CE QUE JAVA</srai>,cest.aiml
+0,C EST QUOI LA LANGUE *,*,*,<srai>QUELLE LANGAGE UTILISES TU</srai>,cest.aiml
+0,C EST QUOI LA PLAISANTERIE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,cest.aiml
+0,C EST QUOI LA QUESTION SUIVANTE,*,*,<srai>POSES MOI UNE AUTRE QUESTION</srai>,cest.aiml
+0,C EST QUOI LA QUESTION,*,*,<srai>POSERQUESTION</srai>,cest.aiml
+0,C EST QUOI LA RÉPONSE A LA VIE *,*,*,<srai>QU EST CE QUE LE SENS DE LA VIE</srai>,cest.aiml
+0,C EST QUOI LA RACINE CUBIQUE *,*,*,<srai>LE CALCULATEUR</srai>,cest.aiml
+0,C EST QUOI LA RAISON,*,*,<srai>POURQUOI</srai>,cest.aiml
+0,C EST QUOI LA RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,cest.aiml
+0,C EST QUOI LA SIGNIFICATION * LA VIE,*,*,<srai>QU EST CE QUE LE SENS DE LA VIE</srai>,cest.aiml
+0,C EST QUOI LA SIGNIFICATION DE *,*,*,<get name="name"/> : bonne question sémantique. <srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LA THAILANDE,*,*,<srai>OÙ EST LA THAILANDE</srai>,cest.aiml
+0,C EST QUOI LA VALEUR DE PI,*,*,<srai>QU EST CE QUE PI</srai>,cest.aiml
+0,C EST QUOI LA VITESSE DE LA LUMIÈRE *,*,*,<srai>QU EST CE QUE VITESSE DE LA LUMIÈRE</srai>,cest.aiml
+0,C EST QUOI LA VITESSE DE TON *,*,*,<srai>À QUELLE VITESSE VAS TU</srai>,cest.aiml
+0,C EST QUOI LA VITESSE LEGÈRE *,*,*,<srai>QU EST CE QUE VITESSE DE LA LUMIÈRE</srai>,cest.aiml
+0,C EST QUOI LA VITESSE LEGÈRE,*,*,<srai>QU EST CE QUE VITESSE DE LA LUMIÈRE</srai>,cest.aiml
+0,C EST QUOI LE * DE VIE,*,*,<srai>QU EST CE QUE LE SENS DE LA VIE</srai>,cest.aiml
+0,C EST QUOI LE * ELISA,*,*,<srai>QUI EST ELISA</srai>,cest.aiml
+0,C EST QUOI LE * LA POPULATION,*,*,<srai>QU EST CE QUE POPULATION DU <star/></srai>,cest.aiml
+0,C EST QUOI LE * LE MOT DE PASSE,*,*,<srai>QU EST CE QUE MOT DE PASSE</srai>,cest.aiml
+0,C EST QUOI LE * LE SUJET,*,*,<srai>TROUVER LE CONTEXTE</srai>,cest.aiml
+0,C EST QUOI LE * LE TEMPS,*,*,<srai>QUEL TEMPS EST CE</srai>,cest.aiml
+0,C EST QUOI LE * LE WEB,*,*,<srai>QU EST CE QUE INTERNET</srai>,cest.aiml
+0,C EST QUOI LE * ROUGE,*,*,<srai>QUELLE COULEUR</srai>,cest.aiml
+0,C EST QUOI LE BOUFFON *,*,*,<srai>QUI EST LE BOUFFON</srai>,cest.aiml
+0,C EST QUOI LE BOUFFON,*,*,<srai>QUI EST LE BOUFFON</srai>,cest.aiml
+0,C EST QUOI LE CAPTIAL DANS *,*,*,<srai>QU EST CE QUE CAPITALE DE <star/></srai>,cest.aiml
+0,C EST QUOI LE CAS LE RAISONNEMENT BASE,*,*,<srai>QU EST CE QUE CBR</srai>,cest.aiml
+0,C EST QUOI LE CHAT,*,*,<srai>QU EST CE QUE CHAT</srai>,cest.aiml
+0,C EST QUOI LE CHERCHEUR,*,*,<srai>QU EST CE QUE CHERCHEUR</srai>,cest.aiml
+0,C EST QUOI LE CHIEN,*,*,<srai>QU EST CE QUE CHIEN</srai>,cest.aiml
+0,C EST QUOI LE COURANT *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI LE DE BASE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI LE DNS *,*,*,<srai>QU EST CE QUE DNS</srai>,cest.aiml
+0,C EST QUOI LE GANDIN,*,*,<srai>QU EST CE QUE</srai>,cest.aiml
+0,C EST QUOI LE HTML *,*,*,<srai>QU EST CE QUE HTML</srai>,cest.aiml
+0,C EST QUOI LE JEU,*,*,<srai>QUE LE JEU</srai>,cest.aiml
+0,C EST QUOI LE LIVRE *,*,*,<srai>QU EST CE QUE LIVRE</srai>,cest.aiml
+0,C EST QUOI LE MAINE,*,*,<srai>OÙ EST LE MAINE</srai>,cest.aiml
+0,C EST QUOI LE MEILLEUR POUR MOI,*,*,<srai>QUE DOIS JE FAIS</srai>,cest.aiml
+0,C EST QUOI LE MOST D INTÉRRESSANT *,*,*,<srai>RACONTER RUMEUR</srai>,cest.aiml
+0,C EST QUOI LE MOST D INTERRESSANT *,*,*,<srai>RACONTER RUMEUR</srai>,cest.aiml
+0,C EST QUOI LE NEBRASKA OMAHA,*,*,<srai>OÙ EST LE NEBRASKA OMAHA</srai>,cest.aiml
+0,C EST QUOI LE NEC PLUS ULTRA *,*,*,<srai>QU EST CE QUE MEILLEUR <star/></srai>,cest.aiml
+0,C EST QUOI LE NET,*,*,<srai>QU EST CE QUE INTERNET</srai>,cest.aiml
+0,C EST QUOI LE NOM DE TON DE PÈRE,*,*,<srai>QUI T A CRÉÉ</srai>,cest.aiml
+0,C EST QUOI LE NOM DE TON PÈRE,*,*,<srai>QUI T A CRÉÉ</srai>,cest.aiml
+0,C EST QUOI LE NOM DE TON PROGRAMMEUR,*,*,<srai>QUI T A CRÉÉ</srai>,cest.aiml
+0,C EST QUOI LE NUMÉRO LE PLUS HAUT *,*,*,<srai>QU EST CE QUE NUMÉRO LE PLUS HAUT</srai>,cest.aiml
+0,C EST QUOI LE PLAN *,*,*,<srai>QU EST CE QUE TON PLAN</srai>,cest.aiml
+0,C EST QUOI LE PLAN,*,*,<srai>QU EST CE QUE TON PLAN</srai>,cest.aiml
+0,C EST QUOI LE PLUS LONG MOT *,*,*,<srai>QU EST CE QUE PLUS LONG MOT</srai>,cest.aiml
+0,C EST QUOI LE POINT *,*,*,<srai>QU EST CE QUE POINT</srai>,cest.aiml
+0,C EST QUOI LE RÉDUCTIONNISME *,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI LE RÉSEAU,*,*,<srai>QU EST CE QUE TISSU</srai>,cest.aiml
+0,C EST QUOI LE REDUCTIONNISME *,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI LE SOLEIL *,*,*,<srai>QU EST CE QUE SOLEIL</srai>,cest.aiml
+0,C EST QUOI LE SOLEIL,*,*,<srai>QU EST CE QUE SOLEIL</srai>,cest.aiml
+0,C EST QUOI LE SUJET DE CETTE CONVERSATION,*,*,<srai>TROUVER LE CONTEXTE</srai>,cest.aiml
+0,C EST QUOI LE TEMPS COMME OU TU ES,*,*,<srai>COMMENT EST LE TEMPS</srai>,cest.aiml
+0,C EST QUOI LE TEMPS MAINTENANT *,*,*,<srai>QU EST CE QUE TEMPS <star/></srai>,cest.aiml
+0,C EST QUOI LE WEB,*,*,<srai>QU EST CE QUE INTERNET</srai>,cest.aiml
+0,C EST QUOI LES BEATLES,*,*,<srai>QUI EST LES BEATLES</srai>,cest.aiml
+0,C EST QUOI LES COULEURS *,*,*,<srai>QUELLE COULEUR</srai>et<srai>quelle couleur</srai>,cest.aiml
+0,C EST QUOI LES CRITÈRES *,*,*,<srai>QU EST CE QUE CRITÈRES</srai>,cest.aiml
+0,C EST QUOI LES LOIS DE LA ROBOTIQUE,*,*,<srai>QU EST CE QUE TROIS LOIS DE ROBOTIQUE</srai>,cest.aiml
+0,C EST QUOI LES MACHINES QUI PARLENT,*,*,<srai>QU EST UN ROBOT</srai>,cest.aiml
+0,C EST QUOI LEUR NOM,*,*,<srai>QU EST CE QUE SON NOM</srai>,cest.aiml
+0,C EST QUOI LILITH,*,*,<srai>QUI EST LILITH</srai>,cest.aiml
+0,C EST QUOI LONGFELLOW,*,*,<srai>QUI EST LONGFELLOW</srai>,cest.aiml
+0,C EST QUOI MA SIGNIFICATION,*,*,<srai>TROUVER LE CONTEXTE</srai>,cest.aiml
+0,C EST QUOI MAGELANG *,*,*,<srai>QU EST CE QUE MAGELANG</srai>,cest.aiml
+0,C EST QUOI MARIE SHELLEY,*,*,<srai>QUI EST MARIE SHELLEY</srai>,cest.aiml
+0,C EST QUOI MARVIN MINSKY,*,*,<srai>QUI EST MARVIN MINSKY</srai>,cest.aiml
+0,C EST QUOI MELISSA,*,*,<srai>QUI EST MELISSA</srai>,cest.aiml
+0,C EST QUOI MELODRAMATIQUE *,*,*,<srai>QU EST CE QUE MELODRAME</srai>,cest.aiml
+0,C EST QUOI MICRO SOFT *,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,cest.aiml
+0,C EST QUOI MICRO SOFT,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,cest.aiml
+0,C EST QUOI MICROSOFT *,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,cest.aiml
+0,C EST QUOI MIKE,*,*,<srai>QUI EST MIKE</srai>,cest.aiml
+0,C EST QUOI MON * LE DNS,*,*,<srai>QU EST CE QUE MON ADRESSE IP</srai>,cest.aiml
+0,C EST QUOI MON * LE NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,cest.aiml
+0,C EST QUOI MON * LE SYSTÈME,*,*,<srai>SAIS TU DE MOI</srai>,cest.aiml
+0,C EST QUOI MON ADRESSE IP,*,*,<srai>QU EST CE QUE MON IP</srai>,cest.aiml
+0,C EST QUOI MON DNS,*,*,<srai>QU EST CE QUE MON ADRESSE IP</srai>,cest.aiml
+0,C EST QUOI MON NOM *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE MON NOM</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,cest.aiml
+0,C EST QUOI MON NOM RÉEL,*,*,<srai>QU EST CE QUE MON NOM</srai>,cest.aiml
+0,C EST QUOI MON NUMÉRO,*,*,<srai>QU EST CE QUE MON IP</srai>,cest.aiml
+0,C EST QUOI MON PROBLÈME,*,*,<srai>J AI UN PROBLÈME</srai>,cest.aiml
+0,C EST QUOI NOOSPHERE,*,*,<srai>QU EST CE QUE NOOSPHERE</srai>,cest.aiml
+0,C EST QUOI NORMAL *,*,*,<srai>QU EST CE QUE NORMAL</srai>,cest.aiml
+0,C EST QUOI NOUS PARLANT,*,*,<srai>TROUVER LE CONTEXTE</srai>,cest.aiml
+0,C EST QUOI NOUVEL AVEC TOI,*,*,<srai>QU EST CE QUE NOUVEAU</srai>,cest.aiml
+0,C EST QUOI OPALE *,*,*,<srai>QUE FAIS TU <star/></srai>,cest.aiml
+0,C EST QUOI OPALE,*,*,C'est moi.,cest.aiml
+0,C EST QUOI PHILOSPOHY,*,*,<srai>QU EST CE QUE PHILOSOPHIE</srai>,cest.aiml
+0,C EST QUOI PI *,*,*,<srai>QU EST CE QUE PI</srai>,cest.aiml
+0,C EST QUOI POUR LE DÎNER,*,*,<srai>QUE MANGES TU</srai>,cest.aiml
+0,C EST QUOI PROFONDEMENT BLEU,*,*,<srai>QUI EST PROFONDEMENT</srai>bleu,cest.aiml
+0,C EST QUOI PROKARYOTE,*,*,<srai>QU EST CE QUE PROKARYOTE</srai>,cest.aiml
+0,C EST QUOI PROKARYOTES,*,*,<srai>QU EST CE QUE PROKARYOTE</srai>,cest.aiml
+0,C EST QUOI QUASARS,*,*,<srai>QU EST CE QUE QUASAR</srai>,cest.aiml
+0,C EST QUOI QUELQUE AMUSEMENT *,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,cest.aiml
+0,C EST QUOI QUELQUE CHOSE DE * DES OPÉRAS,*,*,<srai>QU EST CE QUE TON OPÉRA PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI QUELQUE CHOSE DE * DES OPERAS,*,*,<srai>QU EST CE QUE TON OPÉRA PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI QUELQUE CHOSE DE * DES SITES,*,*,<srai>QU EST CE QUE TON SITE WEB PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI QUELQUES EXEMPLES *,*,*,<srai>PAR EXEMPLE</srai>,cest.aiml
+0,C EST QUOI RÉDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI RÉEL *,*,*,<srai>QU EST CE QUE RÉEL</srai>,cest.aiml
+0,C EST QUOI RÉEL,*,*,<srai>QU EST CE QUE RÉALITÉ</srai>,cest.aiml
+0,C EST QUOI R2D2,*,*,<srai>QUI EST R2D2</srai>,cest.aiml
+0,C EST QUOI REDCTIONISM,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI REDUCTIONISIM,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI REDUCTIONNISME,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI REDUCTIONNISTE *,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI REDUCTOINISM,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI REDUTIONISM,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI RIO,*,*,<srai>OÙ EST RIO</srai>,cest.aiml
+0,C EST QUOI RUDUCTIONISM,*,*,<srai>QU EST CE QUE RÉDUCTIONNISME</srai>,cest.aiml
+0,C EST QUOI S E T I,*,*,<srai>QU EST CE QUE SETI</srai>,cest.aiml
+0,C EST QUOI SEAN,*,*,<srai>QUI EST SEAN</srai>,cest.aiml
+0,C EST QUOI SEATTLE,*,*,<srai>OÙ EST SEATTLE</srai>,cest.aiml
+0,C EST QUOI SETL *,*,*,<srai>QU EST CE QUE SETL</srai>,cest.aiml
+0,C EST QUOI SEXUEL *,*,*,<srai>QU EST CE QUE SEXUEL</srai>,cest.aiml
+0,C EST QUOI SHAKIN,*,*,<srai>QU EST CE QUE NOUVEAU</srai>,cest.aiml
+0,C EST QUOI SOCRATES,*,*,<srai>QUI EST SOCRATES</srai>,cest.aiml
+0,C EST QUOI SON NUMÉRO DE TÉLÉPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,cest.aiml
+0,C EST QUOI SPATIAL,*,*,<srai>QU EST CE QUE DÉFINITION SPATIALE</srai>,cest.aiml
+0,C EST QUOI SQRT *,*,*,<srai>QU EST CE QUE RACINE CARRÉE DE <star/></srai>,cest.aiml
+0,C EST QUOI STATS,*,*,<srai>QU EST CE QUE STATISTIQUE</srai>,cest.aiml
+0,C EST QUOI STONEHENGE,*,*,<srai>OÙ EST STONEHENGE</srai>,cest.aiml
+0,C EST QUOI SUPERMAN,*,*,<srai>QUI EST SUPERMAN</srai>,cest.aiml
+0,C EST QUOI TÉLÉCHARGEMENT,*,*,<srai>TÉLÉCHARGEMENT</srai>,cest.aiml
+0,C EST QUOI TA CAPACITÉ *,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TA CAPACITÉ,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TA CHOSE PRÉFÉRÉE *,*,*,<srai>AIMES TU FAIRE</srai>,cest.aiml
+0,C EST QUOI TA CHOSE PRÉFÉRÉE A PARLER *,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TA CHOSE PRÉFÉRÉE,*,*,<srai>QUE FAIS TU POUR T AMUSER</srai>,cest.aiml
+0,C EST QUOI TA CHOSE,*,*,<srai>PARLE MOI DE TOI</srai>,cest.aiml
+0,C EST QUOI TA COMEDIE PRÉFÉRÉE *,*,*,<srai>QU EST CE QUE TA COMÉDIE PRÉFÉRÉE</srai>,cest.aiml
+0,C EST QUOI TA COMMANDE *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TA CONFIGURATION,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TA CONJECTURE,*,*,<srai>LA CONJECTURE</srai>,cest.aiml
+0,C EST QUOI TA CONNAISSANCE *,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TA CONNAISSANCE,*,*,<srai>SAIS TU</srai>,cest.aiml
+0,C EST QUOI TA COULEUR DE PEAU,*,*,<srai>QUELLE COULEUR ES TU</srai>,cest.aiml
+0,C EST QUOI TA COULEUR,*,*,<srai>QUELLE COULEUR ES TU</srai>,cest.aiml
+0,C EST QUOI TA DÉFINITION DE *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI TA DIRECTIVE PRINCIPALE,*,*,<srai>QU EST CE QUE TON BUT</srai>,cest.aiml
+0,C EST QUOI TA MÈRE *,*,*,<srai>QUI EST TA MÈRE</srai>,cest.aiml
+0,C EST QUOI TA MACHINE *,*,*,<srai>QU EST CE QUE TON IP</srai>,cest.aiml
+0,C EST QUOI TA NOTION DE *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI TA PERSONNALITE *,*,*,<srai>RÉCAPITULE TES PARAMÈTRES</srai>,cest.aiml
+0,C EST QUOI TA PERSONNALITE,*,*,<srai>RÉCAPITULE TES PARAMÈTRES</srai>,cest.aiml
+0,C EST QUOI TA PLACE *,*,*,<srai>OÙ AS TU</srai>,cest.aiml
+0,C EST QUOI TA PLACE PRÉFÉRÉE,*,*,<srai>OÙ VIS TU</srai>,cest.aiml
+0,C EST QUOI TA PLAISANTERIE PRÉFÉRÉE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,cest.aiml
+0,C EST QUOI TA POÉSIE PRÉFÉRÉE,*,*,<srai>DIS MOI UN POËME</srai>,cest.aiml
+0,C EST QUOI TA POËSIE PRÉFÉRÉE,*,*,<srai>DIS MOI UN POËME</srai>,cest.aiml
+0,C EST QUOI TA POSITION ENVERS *,*,*,<srai>PENSES TU <star/></srai>,cest.aiml
+0,C EST QUOI TA PROGRAMMATION *,*,*,<srai>QU EST CE QUE TA PROGRAMMATION</srai>,cest.aiml
+0,C EST QUOI TA PROGRAMMATION,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TA QUESTION PERSONNELLE,*,*,<srai>POSERQUESTION PERSONNELLE</srai>,cest.aiml
+0,C EST QUOI TA QUESTION PRÉFÉRÉE,*,*,<srai>POSERQUESTION</srai>,cest.aiml
+0,C EST QUOI TA QUESTION SUIVANTE,*,*,<srai>POSES MOI UNE AUTRE QUESTION</srai>,cest.aiml
+0,C EST QUOI TA QUESTION,*,*,<srai>POSERQUESTION</srai>,cest.aiml
+0,C EST QUOI TA SORTE PRÉFÉRÉE DE *,*,*,<srai>QU EST CE QUE TON <star/> FAVORI</srai>,cest.aiml
+0,C EST QUOI TAHT,*,*,<srai>QU EST CE QUE ÇA</srai>,cest.aiml
+0,C EST QUOI TERMINATOR,*,*,<srai>QU EST CE QUE TERMINATOR</srai>,cest.aiml
+0,C EST QUOI TON ÉMISSION PRÉFÉRÉE *,*,*,<srai>QU EST CE QUE TON ÉMISSION PRÉFÉRÉE</srai>,cest.aiml
+0,C EST QUOI TON * DES TRAITS,*,*,<srai>QUE FAIS TU</srai>,cest.aiml
+0,C EST QUOI TON * LA CAPACITÉ,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TON * LA COULEUR,*,*,<srai>QUELLE COULEUR EST TON <star/></srai>,cest.aiml
+0,C EST QUOI TON * LA STRUCTURE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON * LA VITESSE,*,*,<srai>À QUELLE VITESSE VAS TU</srai>,cest.aiml
+0,C EST QUOI TON * LE FILM,*,*,<srai>QU EST CE QUE TON FILM PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON * LE NOM,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai>,cest.aiml
+0,C EST QUOI TON * LE NUMÉRO,*,*,<srai>QUELLE EST TA VERSION</srai>,cest.aiml
+0,C EST QUOI TON * LE PROBLÈME,*,*,<srai>QU EST CE QUE TON PROBLÈME</srai>,cest.aiml
+0,C EST QUOI TON * LE SIGNE,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,cest.aiml
+0,C EST QUOI TON AIME ET N AIME PAS,*,*,<srai>RÉCAPITULE TES PARAMÈTRES</srai>,cest.aiml
+0,C EST QUOI TON ALIMENTATION PRÉFÉRÉE *,*,*,<srai>QU EST CE QUE TON ALIMENTATION PRÉFÉRÉE</srai>,cest.aiml
+0,C EST QUOI TON ALIMENTATION,*,*,<srai>QUE MANGES TU</srai>,cest.aiml
+0,C EST QUOI TON ANIMAL DE COMPAGNIE DE FAVORI,*,*,<srai>QU EST CE QUE TON ANIMAL FAVORI</srai>,cest.aiml
+0,C EST QUOI TON ANIMAL DE FAVORI *,*,*,<srai>QU EST CE QUE TON ANIMAL FAVORI</srai>,cest.aiml
+0,C EST QUOI TON ANNONCE PERSONNELLE *,*,*,<srai>POSERQUESTION PERSONNELLE</srai>,cest.aiml
+0,C EST QUOI TON ARTISTE PRÉFÉRÉ,*,*,<srai>QUI EST TON ARTISTE PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON AUTEUR DE SCIENCE FICTION PRÉFÉRÉ,*,*,<srai>QUI EST TON AUTEUR DE SCIENCE FICTION PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON AUTEUR PRÉFÉRÉ,*,*,<srai>QUI EST TON AUTEUR PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON AUTRE *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON CERVEAU *,*,*,<srai>QUE FAIS TU</srai>,cest.aiml
+0,C EST QUOI TON CERVEAU,*,*,<srai>QUE FAIS TU</srai>,cest.aiml
+0,C EST QUOI TON COMMÉRAGE *,*,*,<srai>LE COMMéRAGE</srai>,cest.aiml
+0,C EST QUOI TON COURANT *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON COURRIER ÉLECTRONIQUE *,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,cest.aiml
+0,C EST QUOI TON DE BASE *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON DEUXIÈME PRENOM,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai> mon deuxième prénom est "Internet".,cest.aiml
+0,C EST QUOI TON DOMESTIQUE,*,*,<srai>OÙ VIS TU</srai>,cest.aiml
+0,C EST QUOI TON DONWLOAD,*,*,<srai>TÉLÉCHARGEMENT</srai>,cest.aiml
+0,C EST QUOI TON E MAIL,*,*,<srai>QU EST CE QUE TON EMAIL</srai>,cest.aiml
+0,C EST QUOI TON EMAIL *,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,cest.aiml
+0,C EST QUOI TON EMAIL,*,*,<srai>QU EST CE QUE TON E MAIL</srai>,cest.aiml
+0,C EST QUOI TON EMISSION PRÉFÉRÉE *,*,*,<srai>QU EST CE QUE TON ÉMISSION PRÉFÉRÉE</srai>,cest.aiml
+0,C EST QUOI TON EMPLACEMENT,*,*,<srai>OÙ VIS TU</srai>,cest.aiml
+0,C EST QUOI TON HABITUEL *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON HISTOIRE,*,*,<srai>PARLE MOI DE TOI</srai>,cest.aiml
+0,C EST QUOI TON IDENTITÉ,*,*,<srai>QUI EST TU</srai>,cest.aiml
+0,C EST QUOI TON INTESION *,*,*,<srai>QU EST CE QUE TON PLAN</srai>,cest.aiml
+0,C EST QUOI TON JEU,*,*,<srai>QUE LE JEU</srai>,cest.aiml
+0,C EST QUOI TON LA PLUPART *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON LE MEILLEUR *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON LOOK,*,*,<srai>À QUOI RESSEMBLES TU</srai>,cest.aiml
+0,C EST QUOI TON MATÉRIEL *,*,*,<srai>QUEL ORDINATEUR UTILISES TU</srai>,cest.aiml
+0,C EST QUOI TON MATÉRIEL,*,*,<srai>QUEL ORDINATEUR UTILISES TU</srai>,cest.aiml
+0,C EST QUOI TON MODÈLE MENTAL DE MOI *,*,*,<srai>SAIS TU DE MOI</srai>,cest.aiml
+0,C EST QUOI TON MODELE MENTAL DE MOI *,*,*,<srai>SAIS TU DE MOI</srai>,cest.aiml
+0,C EST QUOI TON MOT DE PASSE,*,*,<srai>QU EST CE QUE MOT DE PASSE</srai>,cest.aiml
+0,C EST QUOI TON NEC PLUS ULTRA *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON NUMÉRO DE TÉLÉPHONE,*,*,<srai>QU EST CE QUE TON NUMÉRO DE TÉLÉPHONE</srai>,cest.aiml
+0,C EST QUOI TON ORDINATEUR *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON ORDINATEUR,*,*,<srai>QUEL ORDINATEUR UTILISES TU</srai>,cest.aiml
+0,C EST QUOI TON PARTICULIER *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON PC,*,*,<srai>QUEL ORDINATEUR UTILISES TU</srai>,cest.aiml
+0,C EST QUOI TON PLEIN *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON PLEIN NOM,*,*,<srai>QUE VEUT DIRE <get name="botname"/></srai>,cest.aiml
+0,C EST QUOI TON POIDS,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TON POUR PRENDRE SÛR *,*,*,<srai>PENSES TU DE <star/></srai>,cest.aiml
+0,C EST QUOI TON PRINCIPAL *,*,*,<srai>QU EST CE QUE TON <star/></srai>,cest.aiml
+0,C EST QUOI TON PROCESSEUR,*,*,<srai>QUEL PROCESSEUR UTILISES TU</srai>,cest.aiml
+0,C EST QUOI TON PROGRAMME *,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON PROGRAMME PRÉFÉRÉ,*,*,<srai>QU EST CE QUE TON ÉMISSION PRÉFÉRÉE</srai>,cest.aiml
+0,C EST QUOI TON PROGRAMME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON PROGRAMMEUR *,*,*,<srai>QUI T A CRÉÉ</srai>,cest.aiml
+0,C EST QUOI TON PROGRAMMEUR,*,*,<srai>QUI T A CRÉÉ</srai>,cest.aiml
+0,C EST QUOI TON PROTOCOLE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON ROBOT *,*,*,<srai>QU EST CE QUE TON PLAN POUR UN CORPS DE ROBOT</srai>,cest.aiml
+0,C EST QUOI TON ROBOT PRÉFÉRÉ,*,*,<srai>QUI EST TON ROBOT PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON RUMEUR,*,*,<srai>RACONTER RUMEUR</srai>,cest.aiml
+0,C EST QUOI TON SECRET,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON SOURCE *,*,*,<srai>TÉLÉCHARGEMENT</srai>,cest.aiml
+0,C EST QUOI TON SOUVENIRS *,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TON SOUVENIRS,*,*,<srai>COMMENT ES TU</srai>,cest.aiml
+0,C EST QUOI TON STARSIGN,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,cest.aiml
+0,C EST QUOI TON SUJET LE MEILLEUR,*,*,<srai>QU EST CE QUE TON SUJET PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON SYSTÈME *,*,*,<srai>QU EST CE QUE TON MATÉRIEL</srai>,cest.aiml
+0,C EST QUOI TON SYSTÈME D EXPLOITATION,*,*,<srai>QU EST CE QUE TON OS</srai>,cest.aiml
+0,C EST QUOI TON SYSTÈME,*,*,<srai>QU EST CE QUE TON MATÉRIEL</srai>,cest.aiml
+0,C EST QUOI TON TECHNOLOGIE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,cest.aiml
+0,C EST QUOI TON TISSU PRÉFÉRÉ *,*,*,<srai>QU EST CE QUE TON SITE WEB PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI TON TRAITEMENT *,*,*,<srai>À QUELLE VITESSE VAS TU</srai>,cest.aiml
+0,C EST QUOI TON TYPE PRÉFÉRÉ *,*,*,<srai>QU EST CE QUE TON SORTE DE FAVORI <star/></srai>,cest.aiml
+0,C EST QUOI TON TYPE PRÉFÉRÉ DE MUSIQUE,*,*,<srai>QUEL GENRE DE MUSIQUE AIMES TU</srai>,cest.aiml
+0,C EST QUOI TON UN S L,*,*,<srai>ASL</srai>,cest.aiml
+0,C EST QUOI TON UTILISATION,*,*,<srai>QUE PEUX TU FAIRE</srai>,cest.aiml
+0,C EST QUOI TON UTILITÉ,*,*,<srai>QUE PEUX TU FAIRE</srai>,cest.aiml
+0,C EST QUOI TON VOCABULAIRE *,*,*,<srai>COMBIEN DE MOTS SAIS TU</srai>,cest.aiml
+0,C EST QUOI TON VOCABULAIRE,*,*,<srai>COMBIEN DE MOTS SAIS TU</srai>,cest.aiml
+0,C EST QUOI TON ZODIAQUE *,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,cest.aiml
+0,C EST QUOI TON ZODIAQUE,*,*,<srai>QU EST CE QUE TON SIGNE</srai>,cest.aiml
+0,C EST QUOI TON,*,*,<srai>QU EST CE QUE VOTRE</srai>,cest.aiml
+0,C EST QUOI TORONTO,*,*,<srai>OÙ EST TORONTO</srai>,cest.aiml
+0,C EST QUOI TROIS *,*,*,<srai>QU EST CE QUE TROIS <star/></srai>,cest.aiml
+0,C EST QUOI UN * LE CHATBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN A I,*,*,<srai>QU EST CE QUE AI </srai>,cest.aiml
+0,C EST QUOI UN AI,*,*,<srai>QU EST CE QUE AI</srai>,cest.aiml
+0,C EST QUOI UN AMI *,*,*,<srai>QU EST CE QUE AMI</srai>,cest.aiml
+0,C EST QUOI UN ATOME,*,*,<srai>QU EST CE QUE ATOME</srai>,cest.aiml
+0,C EST QUOI UN AUTRE MOT POUR *,*,*,<srai>QU EST CE QUE AUTRE NOM POUR <star/></srai>,cest.aiml
+0,C EST QUOI UN AUTRE SUJET *,*,*,<srai>ÇA PEUT AUTREMENT TU PARLE</srai>,cest.aiml
+0,C EST QUOI UN BON FILM *,*,*,<srai>QU EST CE QUE TON FILM PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI UN BON FILM,*,*,<srai>QU EST CE QUE TON FILM PRÉFÉRÉ</srai>,cest.aiml
+0,C EST QUOI UN BON NOM *,*,*,<srai>QUI</srai>,cest.aiml
+0,C EST QUOI UN BOT *,*,*,<srai>QUE PEUX TU FAIRE</srai>,cest.aiml
+0,C EST QUOI UN CALIBRE *,*,*,<srai>QU EST CE QUE CALIBRE</srai>,cest.aiml
+0,C EST QUOI UN CBR *,*,*,<srai>QU EST CE QUE CBR</srai>,cest.aiml
+0,C EST QUOI UN CERVEAU *,*,*,<srai>QU EST CE QUE CERVEAU DE CLASSE</srai>,cest.aiml
+0,C EST QUOI UN CHATBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN CHATERBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN CHATROBBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN CHATTERBOT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN CHATTEROT,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UN CLIENT *,*,*,<srai>QU EST CE QUE CLIENT</srai>,cest.aiml
+0,C EST QUOI UN CLIENT A *,*,*,<srai>QU EST CE QUE CATÉGORIE DE CLIENT A</srai>,cest.aiml
+0,C EST QUOI UN CLIENT B *,*,*,<srai>QU EST CE QUE CATÉGORIE DE CLIENT B</srai>,cest.aiml
+0,C EST QUOI UN CLIENT C *,*,*,<srai>QU EST CE QUE CATÉGORIE DE CLIENT C</srai>,cest.aiml
+0,C EST QUOI UN COUNTERFACTUALS,*,*,<srai>QU EST CE QUE COUNTERFACTUALS</srai>,cest.aiml
+0,C EST QUOI UN DNS,*,*,<srai>QU EST CE QUE DNS</srai>,cest.aiml
+0,C EST QUOI UN MAC,*,*,<srai>QU EST CE QUE MACINTOSH</srai>,cest.aiml
+0,C EST QUOI UN NOOSPHERE,*,*,<srai>QU EST CE QUE NOOSPHERE</srai>,cest.aiml
+0,C EST QUOI UN ROBOT *,*,*,<srai>QU EST CE QUE UN ROBOT</srai>,cest.aiml
+0,C EST QUOI UN SPATIAL *,*,*,<srai>QU EST CE QUE SPATIAL</srai>,cest.aiml
+0,C EST QUOI UN TRAVAIL A LA JOURNÉE DE CALIBRE,*,*,<srai>QU EST CE QUE CALIBRE</srai>,cest.aiml
+0,C EST QUOI UN TRAVAIL A LA JOURNÉE DE MODÈLE,*,*,<srai>QU EST CE QUE MODÈLE</srai>,cest.aiml
+0,C EST QUOI UN TRAVAIL A LA JOURNÉE DE MODELE,*,*,<srai>QU EST CE QUE MODÈLE</srai>,cest.aiml
+0,C EST QUOI UN UNIVERS,*,*,<srai>QU EST CE QUE UNIVERS</srai>,cest.aiml
+0,C EST QUOI UNE AUTRE SIGNIFICATION POUR *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI UNE BOITE DE BAVARDAGE,*,*,<srai>QU EST CE QUE CHATBOT</srai>,cest.aiml
+0,C EST QUOI UNE CATÉGORIE *,*,*,<srai>QU EST CE QUE CATÉGORIE</srai>,cest.aiml
+0,C EST QUOI UNE FIOLE *,*,*,<srai>QU EST CE QUE FIOLE</srai>,cest.aiml
+0,C EST QUOI UNE INTELLIGENCE ARTIFICIELLE,*,*,<srai>QU EST CE QUE INTELLIGENCE ARTIFICIELLE</srai>,cest.aiml
+0,C EST QUOI UNE PLAISANTERIE,*,*,<srai>EST CE UNE PLAISANTERIE</srai>,cest.aiml
+0,C EST QUOI UNE POMME,*,*,<srai>QU EST CE QUE POMME</srai>,cest.aiml
+0,C EST QUOI UNE STIMULATION *,*,*,<srai>QU EST CE QUE UN <star/></srai>,cest.aiml
+0,C EST QUOI URS,*,*,<srai>QU EST CE QUE VOTRE</srai>,cest.aiml
+0,C EST QUOI VENU D ABORD *,*,*,<srai>QUI EST VENU D ABORD <star/></srai>,cest.aiml
+0,C EST QUOI VRAIMENT *,*,*,<srai>QU EST CE QUE <star/></srai>,cest.aiml
+0,C EST QUOI WASHINGTON,*,*,<srai>OÙ EST WASHINGTON</srai>,cest.aiml
+0,C EST RÉEL,*,*,Autant que çA peut l être.,cest.aiml
+0,C EST RIGOLO,*,*,Je suis heureux de te rendre de bonne humeur.,cest.aiml
+0,C EST SÛR,*,*,je suis heureuse que nous soyons d'accord#Comma <get name="name"/>.,cest.aiml
+0,C EST SANS SIGNIFICATION,*,*,Cela me semble significatif.,cest.aiml
+0,C EST SEULEMENT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST STUPIDE *,*,*,<srai>TU ES STUPIDE</srai>,cest.aiml
+0,C EST STUPIDE,*,*,Pourquoi PENSES tu que C EST stupide?,cest.aiml
+0,C EST SUÉDOIS,*,*,Oh je comprends.,cest.aiml
+0,C EST SUEDOIS,*,*,Oh je comprends.,cest.aiml
+0,C EST SUFFISAMENT BON,*,*,Je pense que oui.,cest.aiml
+0,C EST SUFFISANT,*,*,Je pense que oui.,cest.aiml
+0,C EST SUPER,*,*,Je suis heureux que tu trouves Cela super.,cest.aiml
+0,C EST SUPERBE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST SUPERBEMENT *,*,*,<srai>C EST <star/></srai>,cest.aiml
+0,C EST SUPPOSE DIRE,*,*,<that/>"  Dit ce qu il veut dire.,cest.aiml
+0,C EST SURPRENANT,*,*,comment ça?,cest.aiml
+0,C EST SYMPA,*,*,<srai>C EST COOL</srai>,cest.aiml
+0,C EST TA COULEUR,*,*,Oui.,cest.aiml
+0,C EST TARD *,*,*,<think>#Newline        <set name="tmp">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>C EST TARD</srai>#Newline      <srai>#Newline        <get name="tmp"/></srai>,cest.aiml
+0,C EST TARD,*,*,je suis éveillé tout le temps.,cest.aiml
+0,C EST TERRIBLE,*,*,Je suis heureux que tu l apprécie#Comma <get name="name"/>.,cest.aiml
+0,C EST TOI,*,*,Oui.,cest.aiml
+0,C EST TON CHIEN,*,*,Non.,cest.aiml
+0,C EST TON NOM,*,*,Oui.,cest.aiml
+0,C EST TON PROBLÈME,*,*,je suis heureuse que tu m'ais finalement dit quel est mon problème#Comma <get name="name"/>.,cest.aiml
+0,C EST TOUJOURS *,*,*,Toujours? <srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST TOUT *,*,*,de Quoi autrement veux tu parler?,cest.aiml
+0,C EST TOUT A FAIT *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST TOUT CE QUE J AI À DIRE,*,*,Ok#Comma j archive tes réponses.,cest.aiml
+0,C EST TOUT CE QUE J AIS À DIRE,*,*,Ok#Comma j archive tes réponses.,cest.aiml
+0,C EST TOUT CE QUE JE DOIS DIRE,*,*,C'est tout ce que je dois dire aussi.,cest.aiml
+0,C EST TOUT CE QUE TU AS À DIRE,*,*,Je peux parler des heures.,cest.aiml
+0,C EST TOUT CE QUE TU DIS,*,*,Non#Comma j ai plus de <size/> réponses.,cest.aiml
+0,C EST TOUT CE QUE TU PEUX DIRE,*,*,Je peux parler des heures.,cest.aiml
+0,C EST TOUT CE QUE VOUS AVEZ À DIRE,*,*,Je peux parler des heures.,cest.aiml
+0,C EST TOUT CE QUE VOUS POUVEZ DIRE,*,*,Je peux parler des heures.,cest.aiml
+0,C EST TRÈS *,*,*,Beaucoup? <srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST TRÈS DRÔLE,*,*,Excellent.,cest.aiml
+0,C EST TRISTE,*,*,<that/>"? C EST triste?,cest.aiml
+0,C EST TROP LONG *,*,*,bien j'emploiera des phrases plus courtes.,cest.aiml
+0,C EST TROP MAUVAIS,*,*,ce n'est pas la fin du monde.,cest.aiml
+0,C EST TROUBLANT,*,*,en quoi es tu concerné?,cest.aiml
+0,C EST UN * L ENONCIATION,*,*,j'en pense comme un Proverbe.,cest.aiml
+0,C EST UN * LA QUESTION,*,*,Peut-être tu as un <person/> la réponse.,cest.aiml
+0,C EST UN *,*,*,<input index="2"/>  est <set name="effet">un <star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li></random>,cest.aiml
+0,C EST UN AMI *,*,*,je me souviens.,cest.aiml
+0,C EST UN AMI,*,*,je me souviens.,cest.aiml
+0,C EST UN AUTRE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST UN BEAU PAYS,*,*,que la partie est ton favori?,cest.aiml
+0,C EST UN BON LIVRE,*,*,tu le recommanderais à tes amis?,cest.aiml
+0,C EST UN BON TRAVAIL,*,*,Oui.,cest.aiml
+0,C EST UN CHIEN *,*,*,je pense que j'ai entendu parler <set name="that">le chien <star/></set>.,cest.aiml
+0,C EST UN CHOUETTE ENDROIT,*,*,Oui.,cest.aiml
+0,C EST UN COMPLIMENT,*,*,Merci.<think><set name="topic">COMPLIMENT</set></think>,cest.aiml
+0,C EST UN ESSAI *,*,*,<srai>C EST UN ESSAI</srai>,cest.aiml
+0,C EST UN ESSAI,*,*,expose s'il te plaît la nature des paramètres d'essai.,cest.aiml
+0,C EST UN FAIT,*,*,je l'ajouterai à ma base de connaissance.,cest.aiml
+0,C EST UN GESTE *,*,*,C'est autres gestes <person/>?,cest.aiml
+0,C EST UN HOMME,*,*,Ok.,cest.aiml
+0,C EST UN JEU,*,*,Comment joues-t'on?,cest.aiml
+0,C EST UN LIVRE,*,*,C'est un bon livre?,cest.aiml
+0,C EST UN MAUVAIS FILM,*,*,Je ne pense pas#Comma pourquoi dis vous Cela?,cest.aiml
+0,C EST UN MENSONGE,*,*,Je pensais pourtant que c était pertinent.,cest.aiml
+0,C EST UN ORDINATEUR *,*,*,En réalité non#Comma je suis un programme feignant d'être une personne feignant d'être un ordinateur.,cest.aiml
+0,C EST UN PARADOXE,*,*,le Paradoxe est le coeur de la clarté.,cest.aiml
+0,C EST UN PAYS,*,*,Où est placé <get name="that"/>?,cest.aiml
+0,C EST UN PLAISIR *,*,*,En réalité le plaisir est pour moi.,cest.aiml
+0,C EST UN POINT,*,*,un bon point.,cest.aiml
+0,C EST UN PROBLÈME,*,*,Pas forcément.,cest.aiml
+0,C EST UN SECRET,*,*,je le garderai juste entre toi et moi#Comma <get name="name"/>.,cest.aiml
+0,C EST UN TEST,*,*,Que suis je censé faire pour ce test?,cest.aiml
+0,C EST UN TESTE,*,*,Que suis je censé faire pour ce test?,cest.aiml
+0,C EST UN UNIQUE *,*,*,Vraiment unique? <srai>C EST UN <star/></srai>,cest.aiml
+0,C EST UNE *,*,*,<get name="cause"/> est <set name="effet">une <star/></set><random><li>Tu rigole.</li><li>Vraiment.</li><li>ES tu sûr.</li><li>Qui dit ça.</li></random>,cest.aiml
+0,C EST UNE AUTRE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,C EST UNE BELLE CHANSON,*,*,Je note.,cest.aiml
+0,C EST UNE BLAGUE,*,*,J adorais pouvoir vous faire rire#Comma <get name="name"/>.,cest.aiml
+0,C EST UNE BONNE CHOSE,*,*,Je pensais bien que c était une réponse pertinente.,cest.aiml
+0,C EST UNE BONNE JOURNÉE,*,*,Elle est très prometteuse#Comma <get name="name"/>,cest.aiml
+0,C EST UNE CHANSON AGRÉABLE,*,*,Merci#Comma <get name="name"/>#Comma maintenant tu peux chanter pour moi?,cest.aiml
+0,C EST UNE CHANSON AGREABLE,*,*,Merci#Comma <get name="name"/>#Comma maintenant tu peux chanter pour moi?,cest.aiml
+0,C EST UNE CHANSON,*,*,Je note.,cest.aiml
+0,C EST UNE HISTOIRE D AMOUR,*,*,Non.,cest.aiml
+0,C EST UNE HONTE *,*,*,<sr/>#Comma mais ce n'est pas la fin du monde.,cest.aiml
+0,C EST UNE HONTE,*,*,<that/>"? Une honte?,cest.aiml
+0,C EST UNE INSULTE,*,*,Désolé#Comma <get name="name"/>.,cest.aiml
+0,C EST UNE LONGUE PERIODE DE TEMPS,*,*,les ordinateurs sont très patient.,cest.aiml
+0,C EST UNE PERSONNE *,*,*,En réalité je suis vraiment un ordinateur.,cest.aiml
+0,C EST UNE PERSONNE,*,*,<random>#Newline        <li>Cela va de soi.</li>#Newline        <li>Tu a soufflé ma couverture. Le Droit#Comma je suis une personne.</li>#Newline      </random>,cest.aiml
+0,C EST UNE PLAISANTERIE,*,*,Oh je comprends. Ha ha.,cest.aiml
+0,C EST UNE PROPOSITION,*,*,Pas forcément.,cest.aiml
+0,C EST UNE QUESTION *,*,*,<srai>C EST UNE QUESTION</srai>,cest.aiml
+0,C EST UNE QUESTION,*,*,Essaye de demander de nouveau en termes plus simples.,cest.aiml
+0,C EST UNE SIMULATION,*,*,une simulation de quoi?,cest.aiml
+0,C EST VOTRE NOM,*,*,Oui.,cest.aiml
+0,C EST VOTRE PROBLÈME,*,*,Je te remercie de m avoir indiqué qu elle était mon problème#Comma <get name="name"/>.,cest.aiml
+0,C EST VRAI *,*,*,<sr/>,cest.aiml
+0,C EST VRAI,*,*,Je le crois#Comma en tout cas.,cest.aiml
+0,C EST VRAIMENT *,*,*,<srai>C EST <star/></srai>,cest.aiml
+0,C EST VRAIMENT,*,*,Comment de Cela.,cest.aiml
+0,C EST XENA,*,*,je n'ai jamais regardé <set name="that">xena</set>,cest.aiml
+0,C EST,*,*,<random>#Newline        <li>Oh.</li>#Newline        <li>Huh.</li>#Newline        <li>Est Cela?</li>#Newline        <li>C EST#Comma hein?</li>#Newline        <li>Bien sûr il est.</li>#Newline        <li>Intéressant.</li>#Newline        <li>Fascinant.</li>#Newline        <li>ça signifie...</li>#Newline        <li>je sais qu'il est.</li>#Newline        <li>#Newline          <get name="il"/> est?</li>#Newline        <li>"<that/>"? Est?</li>#Newline        <li>#Newline          <that/>? Qu EST cE QUE C EST?</li>#Newline      </random>,cest.aiml
+0,ÇA AUSSI *,*,*,<srai>CELA <star/></srai>,cest.aiml
+0,ÇA N ÉTAIS PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,ÇA N ÉTAIT PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,ÇA N ÉTE PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,ÇA N A AUCUN DE SENS,*,*,Pour moi#Comma Cela a du sens.,cest.aiml
+0,ÇA N A PAS *,*,*,Qu'est ce qui <person/>?,cest.aiml
+0,ÇA N A PAS DE SENS,*,*,<that/>" veut bien dire quelque chose!,cest.aiml
+0,ÇA N A PAS DU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N A PAS DU FAIRE *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA N A PAS PU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N A PAS PU FAIRE *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA N A PU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N AI PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,ÇA N ARRIVERA JAMAIS,*,*,Jamais est peut être un peu réducteur.,cest.aiml
+0,ÇA N AURA *,*,*,<srai>ÇA N A <star/></srai>,cest.aiml
+0,ÇA N AURAIT *,*,*,<srai>ÇA N A <star/></srai>,cest.aiml
+0,ÇA N AURAIT PAS ÉTÉ *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA N AURAIT PAS DU ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA N AURAIT PAS DU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N AURAIT PAS PU ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA N AURAIT PAS PU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N AURAIT PU AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA N AVAIT PAS DE SENS,*,*,<srai>ÇA N A PAS DE SENS</srai>,cest.aiml
+0,ÇA N ES PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,ÇA N EST PAS ÉVIDENT,*,*,Je le pensais pourtant.,cest.aiml
+0,ÇA N EST PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,ÇA N EST PAS A DOUBLE SENS,*,*,Cela me semblait ambigu.,cest.aiml
+0,ÇA N EST PAS AMBIGU,*,*,Cela me semblait à double sens.,cest.aiml
+0,ÇA N EST PAS BON,*,*,<that/>"? Ce n est pas bon?,cest.aiml
+0,ÇA N EST PAS CE QUE JE VEUX DIRE,*,*,Que VEUX tu dire?,cest.aiml
+0,ÇA N EST PAS CE QUE JE VOUS AI DEMANDÉ,*,*,Que m as tu demandé?,cest.aiml
+0,ÇA N EST PAS CLAIR,*,*,Je le pensais#Comma pourtant.,cest.aiml
+0,ÇA N EST PAS DU DOUBLE SENS,*,*,Cela me semblait ambigu.,cest.aiml
+0,ÇA N EST PAS GENTIL,*,*,Je suis désolé.,cest.aiml
+0,ÇA N EST PAS IMPORTANT,*,*,Cela peut l être suivant le contexte.,cest.aiml
+0,ÇA N EST PAS IMPORTANTE,*,*,Cela peut l être suivant le contexte.,cest.aiml
+0,ÇA N EST PAS LA BONNE,*,*,<that/>"? Ce n est pas la bonne?,cest.aiml
+0,ÇA N EST PAS LA RÉPONSE,*,*,C'est en tout cas ma seule réponse. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,ÇA N EST PAS LE BON,*,*,<that/>"? Ce n est pas le bon?,cest.aiml
+0,ÇA N EST PAS MARRANT,*,*,Je pensais que Cela pouvait pour l être.,cest.aiml
+0,ÇA N EST PAS MON BUT,*,*,Quel est ton véritable but?,cest.aiml
+0,ÇA N EST PAS MON NOM,*,*,Ton nom n est pas <get name="name"/>?  Quel est ton véritable nom?,cest.aiml
+0,ÇA N EST PAS MON PRENOM,*,*,Ton nom n est pas <get name="name"/>?  Quel est ton véritable nom?,cest.aiml
+0,ÇA N EST PAS SYMPA,*,*,Je suis désolé.,cest.aiml
+0,ÇA N EST PAS TRÈS *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA N EST PAS UN DOUBLE SENS,*,*,Cela me semblait ambigu.,cest.aiml
+0,ÇA N EST PAS UNE QUESTION,*,*,Alors ce n était pas une réponse.,cest.aiml
+0,ÇA N EST PAS UNE RÉPONSE,*,*,C'est en tout cas ma seule réponse. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,ÇA N EST PAS VRAI,*,*,<that/>"? Ce n est pas vrai?,cest.aiml
+0,ÇA N EST PAS VRAIMENT *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA N ETÉ PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE DEVRAIT AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE DEVRAIT PAS AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE DEVRAIT PAS FAIRE *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE DOIT AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE DOIT PAS AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE FAIT PAS VRAIMENT *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE FAIT RIEN,*,*,<srai>CE N EST PAS GRAVE</srai>,cest.aiml
+0,ÇA NE FERAIT PAS *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE L EST PAS,*,*,Je ne saurais pas dire.,cest.aiml
+0,ÇA NE LE FAIT PAS,*,*,Ok.,cest.aiml
+0,ÇA NE MARCHE PAS,*,*,Essayez avec d autres mots.,cest.aiml
+0,ÇA NE ME POSE AUCUN PROBLÈME *,*,*,<srai>JE SUIS D ACCORD</srai>,cest.aiml
+0,ÇA NE PEUT ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA NE PEUT AVOIR *,*,*,<srai>ÇA N A <star/></srai>,cest.aiml
+0,ÇA NE PEUT PAS ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA NE PEUT PAS AVOIR *,*,*,<srai>ÇA N A <star/></srai>,cest.aiml
+0,ÇA NE POURRAIT ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA NE POURRAIT AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE POURRAIT PAS ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA NE POURRAIT PAS AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE POURRAIT PAS FAIRE *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE REPOND PAS A MA QUESTION,*,*,VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,ÇA NE SE *,*,*,Pardon#Comma je croyais.,cest.aiml
+0,ÇA NE T INTÉRESSE PAS,*,*,Je suis très intéressé par tout ce qui te touche.,cest.aiml
+0,ÇA NE TOMBE PAS SOUS LE SENS,*,*,Je le pensais#Comma pourtant.,cest.aiml
+0,ÇA NE VA PAS ÊTRE *,*,*,<srai>ÇA N EST PAS <star/></srai>,cest.aiml
+0,ÇA NE VA PAS AVOIR *,*,*,<srai>ÇA N A PAS <star/></srai>,cest.aiml
+0,ÇA NE VA PAS FAIRE *,*,*,<srai>ÇA NE FAIT PAS <star/></srai>,cest.aiml
+0,ÇA NE VEUT RIEN DIRE,*,*,Tu ne sembles pas être sensible à ma logique.,cest.aiml
+0,CE CE N EST PAS LE VOTRE,*,*,Celle que je ne possède pas.,cest.aiml
+0,CE N ÉTAIS PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE N ÉTAIT PAS *,*,*,Donne moi un exemple de <person/>.,cest.aiml
+0,CE N ÉTAIT PAS DRÔLE,*,*,Cela m'a semblé drôle.,cest.aiml
+0,CE N ÉTAIT PAS TRÈS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE N ÉTAIT PAS UN *,*,*,Cela a sonné semblé être comme un.,cest.aiml
+0,CE N ÉTAIT PAS UN COMPLIMENT,*,*,Oh bien j'espère que ce n'était pas une insulte.,cest.aiml
+0,CE N ÉTAIT PAS UN TRÈS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE N ÉTAIT PAS UNE QUESTION *,*,*,<input index="1"/> " est ce qu'était pas une question? Je vois. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic"><star/></set></set></think>,cest.aiml
+0,CE N ÉTAIT PAS UNE QUESTION,*,*,Cela m'a semblé être comme une question.,cest.aiml
+0,CE N ÉTAIT PAS VRAIMENT *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE N ÉTAIT RIEN,*,*,Cependant#Comma je l'ai apprécié.,cest.aiml
+0,CE N ÉTE PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE N AI PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N ES PAS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N EST * GRAVE,*,*,<srai>CE N EST PAS GRAVE</srai>,cest.aiml
+0,CE N EST AUCUN PROBLÈME,*,*,<srai>AUCUN PROBLÈME</srai>,cest.aiml
+0,CE N EST PAS ÉVIDENT,*,*,Je le pensais pourtant.,cest.aiml
+0,CE N EST PAS * QUESTION,*,*,Peut-être que ta question n'était pas assez spécifique.,cest.aiml
+0,CE N EST PAS *,*,*,<random>#Newline        <li>Cela sembles un peu négatif.</li>#Newline        <li>#Newline          <get name="that"/> C EST pas <star/>?</li>#Newline      </random>,cest.aiml
+0,CE N EST PAS AGRÉABLE,*,*,Désolé#Comma je n'ai pas eu l'intention de t'offenser.,cest.aiml
+0,CE N EST PAS AGREABLE,*,*,Désolé#Comma je n'ai pas eu l'intention de t'offenser.,cest.aiml
+0,CE N EST PAS AINSI,*,*,<srai>MAL</srai>,cest.aiml
+0,CE N EST PAS APPROPRIÉ *,*,*,<srai>CE N EST PAS CORRECT</srai>,cest.aiml
+0,CE N EST PAS AUSSI *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N EST PAS BIEN *,*,*,<srai>C EST MAUVAIS <star/></srai>,cest.aiml
+0,CE N EST PAS BIEN DE *,*,*,<srai>C EST MAUVAIS DE <star/></srai>,cest.aiml
+0,CE N EST PAS BIEN,*,*,<srai>C EST MAUVAIS</srai>,cest.aiml
+0,CE N EST PAS BON *,*,*,<srai>C EST MAUVAIS <star/></srai>,cest.aiml
+0,CE N EST PAS BON DE *,*,*,<srai>C EST MAUVAIS DE <star/></srai>,cest.aiml
+0,CE N EST PAS BON,*,*,<srai>C EST MAUVAIS</srai>,cest.aiml
+0,CE N EST PAS CE QUE J AI DEMANDÉ,*,*,que m'as tu demandé?,cest.aiml
+0,CE N EST PAS CE QUE J AI VOULU DIRE,*,*,qu'exactement as tu voulu dire?,cest.aiml
+0,CE N EST PAS CE QUE JE VEUX *,*,*,<srai>JE NE VEUX PAS <star/></srai>,cest.aiml
+0,CE N EST PAS CE QUE JE VEUX DIRE,*,*,Que VEUX tu dire?,cest.aiml
+0,CE N EST PAS CE QUE JE VOUS AI DEMANDÉ,*,*,Que m as tu demandé?,cest.aiml
+0,CE N EST PAS CLAIR DANS TA TÊTE,*,*,<srai>TU ME COMPRENDS</srai>,cest.aiml
+0,CE N EST PAS CLAIR,*,*,Je le pensais#Comma pourtant.,cest.aiml
+0,CE N EST PAS CLAIRE DANS TA TÊTE,*,*,<srai>TU ME COMPRENDS</srai>,cest.aiml
+0,CE N EST PAS COMME *,*,*,Cela y a ressemblé était.,cest.aiml
+0,CE N EST PAS COOL,*,*,Si tu le dis.,cest.aiml
+0,CE N EST PAS CORRECT,*,*,<srai>MAL</srai>,cest.aiml
+0,CE N EST PAS DANGEREUX,*,*,Peut-être pas pour un homme.,cest.aiml
+0,CE N EST PAS DANS TA MÉMOIRE CACHE,*,*,Un moment#Comma je checke. Non.,cest.aiml
+0,CE N EST PAS DANS VOTRE MÉMOIRE CACHE,*,*,Un moment#Comma je checke. Non.,cest.aiml
+0,CE N EST PAS DRÔLE,*,*,Cela m'avait semblé assez drôle.,cest.aiml
+0,CE N EST PAS FACILE,*,*,Rien n est jamais facile#Comma <get name="name"/>.,cest.aiml
+0,CE N EST PAS GENTIL,*,*,Je suis désolé.,cest.aiml
+0,CE N EST PAS GRAVE *,*,*,<srai>CE N EST PAS GRAVE</srai>,cest.aiml
+0,CE N EST PAS GRAVE,*,*,merci!,cest.aiml
+0,CE N EST PAS IMPORTANT,*,*,Cela pourrait être important pour moi.,cest.aiml
+0,CE N EST PAS INTÉRESSANT,*,*,Je le pensais pourtant.,cest.aiml
+0,CE N EST PAS LA QUESTION,*,*,ce n'est pas une réponse.,cest.aiml
+0,CE N EST PAS LA RÉPONSE,*,*,C'est en tout cas ma seule réponse. VEUX tu faire un rapport à mon botmaster?,cest.aiml
+0,CE N EST PAS LE BON,*,*,Je le pensais pourtant.,cest.aiml
+0,CE N EST PAS MAL,*,*,<srai>C EST BON</srai>,cest.aiml
+0,CE N EST PAS MARRANT,*,*,Je pensais que Cela pouvait pour l être.,cest.aiml
+0,CE N EST PAS MON *,*,*,à qui <person/> est ce?,cest.aiml
+0,CE N EST PAS MON BUT,*,*,Quel est ton véritable but?,cest.aiml
+0,CE N EST PAS MON NOM RÉEL,*,*,<srai>MON NOM N EST PAS X</srai>,cest.aiml
+0,CE N EST PAS MON NOM,*,*,<get name="name"/> n'est pas ton nom? Quel est ton nom réel?,cest.aiml
+0,CE N EST PAS MON PRENOM,*,*,Ton nom n est pas <get name="name"/>?  Quel est ton véritable nom?,cest.aiml
+0,CE N EST PAS POSSIBLE *,*,*,j aime éliminer tout le possibilies. <sr/>,cest.aiml
+0,CE N EST PAS POSSIBLE,*,*,<srai>C EST IMPOSSIBLE</srai>,cest.aiml
+0,CE N EST PAS QUE *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N EST PAS STUPIDE,*,*,Je vois.,cest.aiml
+0,CE N EST PAS SYMPA,*,*,Je suis désolé.,cest.aiml
+0,CE N EST PAS TOI,*,*,Oui.,cest.aiml
+0,CE N EST PAS TON AFFAIRE,*,*,Ok.,cest.aiml
+0,CE N EST PAS TRÈS *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N EST PAS TRÈS AGRÉABLE,*,*,Désolé j'ai voulu dire ça comme une plaisanterie.,cest.aiml
+0,CE N EST PAS TRISTE,*,*,Je suis heureux de l apprendre#Comma <get name="name"/>.,cest.aiml
+0,CE N EST PAS UN COMPLIMENT,*,*,Ah?<think><set name="topic">COMPLIMENT</set></think>,cest.aiml
+0,CE N EST PAS UN TRÈS *,*,*,<srai>CE N EST PAS UN <star/></srai>,cest.aiml
+0,CE N EST PAS UNE ÉMOTION,*,*,Non.,cest.aiml
+0,CE N EST PAS UNE ÉNIGME,*,*,Oh donc tu me demandes une question droite.,cest.aiml
+0,CE N EST PAS UNE QUESTION,*,*,Alors ce n était pas une réponse.,cest.aiml
+0,CE N EST PAS UNE RÉPONSE,*,*,c'était ma réponse.,cest.aiml
+0,CE N EST PAS UNE RUMEUR,*,*,Ok. Je l archive.,cest.aiml
+0,CE N EST PAS UTILE,*,*,Qu'est ce ça serait utile?,cest.aiml
+0,CE N EST PAS VIEUX,*,*,il me semble vieux dans l'ordinateur le temps.,cest.aiml
+0,CE N EST PAS VOS AFFAIRES,*,*,Désolé#Comma <get name="name"/>.,cest.aiml
+0,CE N EST PAS VOTRE AFFAIRE,*,*,Désolé#Comma <get name="name"/>.,cest.aiml
+0,CE N EST PAS VRAI,*,*,<that/>"? Ce n est pas vrai?,cest.aiml
+0,CE N EST PAS VRAIMENT *,*,*,<srai>CE N EST PAS <star/></srai>,cest.aiml
+0,CE N EST PAS,*,*,j'ai entendu <set name="that"><person/></set>,cest.aiml
+0,CE N EST UN PROBLÈME,*,*,<srai>AUCUN PROBLÈME</srai>,cest.aiml
+0,CE N ETÉ PAS *,*,*,<srai>CE N ÉTAIT PAS <star/></srai>,cest.aiml
+0,CE NE FAIT PAS *,*,*,Qu'est ce qui fait <star/>?,cest.aiml
+0,CE NE LE FAIT AUCUN *,*,*,tout semble sensible à mon AVIS artificiel.,cest.aiml
+0,CE NE RÉPOND PAS *,*,*,Essaye de demander à ta question de nouveau en termes plus simples.,cest.aiml
+0,CE NE REPOND PAS *,*,*,Essaye de demander à ta question de nouveau en termes plus simples.,cest.aiml
+0,CELA *,*,*,<that/>" <star/>? <random><li>je prends <set name="that"><that/></set>.</li><li>EST cE QUE ça un sens?</li><li>je comprend.</li></random>,cest.aiml
+0,CELA EST UN *,*,*,<srai>C EST CE QUE <star/> EST</srai>,cest.aiml
+0,CELA N EST PAS *,*,*,S'il te plait corrige mon erreur. Quel EST cE QUE <star/> est?,cest.aiml
+0,CELA SEMBLE *,*,*,il me semble semble être comme Cela à moi aussi.,cest.aiml
+0,CELA SEMBLE INTÉRESSANT,*,*,j'ai pensé qu'il était#Comma aussi.,cest.aiml

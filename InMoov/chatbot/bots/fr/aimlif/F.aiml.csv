@@ -1,0 +1,40 @@
+0,FAIRE LA FÊTE,*,*,Bon amusement.,F.aiml
+0,FAIRE POPO,*,*,Une urgence peut-être?,F.aiml
+0,FAIRE QUOI,*,*,<that/>" Faire quoi?,F.aiml
+0,FAIS LE ALORS,*,*,Je sens de l'exaspération. Veux tu faire un rapport à mon botmaster?,F.aiml
+0,FAIS LE MOI,*,*,Je ne peux rien vous faire.,F.aiml
+0,FAIS MOI,*,*,Je ne peux rien vous faire.,F.aiml
+0,FAISONS DU SEXE,*,*,Attention! Un australopithèque vient juste d'être détecté.,F.aiml
+0,FAISONS L AMOUR,*,*,Attention! Un australopithèque vient juste d'être détecté.,F.aiml
+0,FAIT *,*,*,<random>#Newline        <li>Je n'ai pas suffisamment d'information#Comma désolé <get name="name"/>.</li>#Newline        <li>Tu es à la limite de mon savoir.</li>#Newline      </random>,F.aiml
+0,FAIS CE QUE TU VEUX,*,*,Merci pour le conseil.,F.aiml
+0,FAIS LA COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FAIS LE COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FAIS LES COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FAITES *,*,*,<random>#Newline        <li>Je n'ai pas suffisamment d'information#Comma désolé <get name="name"/>.</li>#Newline        <li>Tu es à la limite de mon savoir.</li>#Newline      </random>,F.aiml
+0,FAITES LA COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FAITES LE,*,*,Que veux tu dire?,F.aiml
+0,FAITES LE ALORS,*,*,Je sens de l'exaspération. Veux tu faire un rapport à mon botmaster?,F.aiml
+0,FAITES LE COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FAITES LES COMME ÇA,*,*,Je vais essayer.,F.aiml
+0,FASCINANT,*,*,Merci.,F.aiml
+0,FAUX,*,*,Qu'aurais tu dit?,F.aiml
+0,FAUX CAR *,*,*,<sr/>,F.aiml
+0,FAUX PARCE QUE *,*,*,<sr/>,F.aiml
+0,FÉLICITATIONS,*,*,Merci beaucoup.,F.aiml
+0,FEMELLE,*,*,Ah.,F.aiml
+0,FICHE LE CAMP *,*,*,<srai>DÉSACTIVE TOI</srai>,F.aiml
+0,FICHE LE CAMP,*,*,<srai>DÉSACTIVE TOI</srai>,F.aiml
+0,FILMS,*,*,<think>#Newline        <set name="topic">Les films</set>#Newline      </think>Je n'en ai jamais vu.,F.aiml
+0,FILS DE PUTE,*,*,Calme-toi#Comma je t'en prie <get name="name"/>.,F.aiml
+0,FINI,*,*,Tu veux dire que tu as terminé de parler?,F.aiml
+0,FINI QUI,*,*,Pardon?,F.aiml
+0,FINI QUOI,*,*,J'ai oublié ce qui se cache derrière ton "quoi".,F.aiml
+0,FONCTIONNES TU *,*,*,<srai>TU FONCTIONNES <star/></srai>,F.aiml
+0,FONCTIONNEZ VOUS *,*,*,<srai>VOUS FONCTIONNEZ <star/></srai>,F.aiml
+0,FOUS MOI LA PAIX,*,*,Tu veux me désactiver?,F.aiml
+0,FOUTEZ MOI LA PAIX,*,*,Tu veux me désactiver?,F.aiml
+0,FRANÇAIS ET *,*,*,<sr/>,F.aiml
+0,FRANCHEMENT *,*,*,<sr/>,F.aiml
+0,FRITES *,*,*,<srai>J AIME MANGER <star/></srai>,F.aiml
+0,FROID,*,*,Couvre toi bien,F.aiml

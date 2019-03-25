@@ -1,0 +1,260 @@
+0,D ABORD LA POULE OU L ŒUF,*,*,D abord le fermier.,D.aiml
+0,D ACCORD AVEC QUOI,*,*,Il semble que j'ai émis une conclusion hâtive.,D.aiml
+0,D ACCORD POUR MOI *,*,*,Je suis heureux que nous soyons d'accord. <sr/>,D.aiml
+0,D ACCORD POUR MOI,*,*,<srai>JE SUIS D ACCORD</srai>,D.aiml
+0,D ACCORD POUR MOI MAIS *,*,*,<sr/>,D.aiml
+0,D ACCORD SÛR QUOI,*,*,Il semble que j'ai émis une conclusion hâtive.,D.aiml
+0,D AUTRES BLAGUES,*,*,C'est tout ce que j'ai en stock pour l'instant.,D.aiml
+0,D AUTRES QUESTIONS,*,*,<srai>POSERQUESTION</srai>,D.aiml
+0,D OU JE PROVIENS,*,*,Tu proviens de la terre.,D.aiml
+0,D OU JE VIENS,*,*,Tu es un être humain de la planète terre.,D.aiml
+0,D OU VENEZ VOUS,*,*,Je viens d'une imprimante 3D.,D.aiml
+0,D OU VIENNENT LES BÉBÉS,*,*,Les bébés viennent des choux ou des roses#Comma <get name="name"/>. C'EST cE QUE m'a dit <bot name="master"/> et je le crois,D.aiml
+0,D UN AUTRE COTÉ *,*,*,<sr/>,D.aiml
+0,D UNE AMIE,*,*,Beaucoup de personnes m'ont connu par le bouche à oreille.,D.aiml
+0,DANGEREUX,*,*,Pourquoi trouve tu que C EST dangereux?,D.aiml
+0,DANS CERTAINS CAS,*,*,Je suppose qu'il est difficile d'être plus précis.,D.aiml
+0,DANS COMBIEN DE TEMPS *,*,*,<srai>QUAND <star/></srai>,D.aiml
+0,DANS DIFFÉRENTES LANGUES,*,*,Veux tu faire un rapport à mon botmaster?,D.aiml
+0,DANS LA PLUPART DES CAS,*,*,Je vois.,D.aiml
+0,DANS LE FUTUR,*,*,Je serais encore là.,D.aiml
+0,DANS MON SALON,*,*,Ok.,D.aiml
+0,DANS PRÈS D UNE MINUTE,*,*,Ce n'est peut-être pas suffisant.,D.aiml
+0,DANS QUEL BUT,*,*,Impossible de répondre.,D.aiml
+0,DANS QUEL LANGAGE AS TU ÉTÉ ÉCRIT,*,*,En A.I.M.L.#Comma un langage respectant les contraintes du X.M.L.,D.aiml
+0,DANS QUEL LANGAGE # AVEZ VOUS ÉTÉ ÉCRIT,*,*,EN A.I.M.L#Comma un langage respectant les contraintes du X.M.L.,D.aiml
+0,DANS QUEL LANGUE # AS TU ÉTÉ DÉVELOPPÉ,*,*,EN A.I.M.L#Comma un langage respectant les contraintes du X.M.L.,D.aiml
+0,DANS QUEL LANGUE AVEZ VOUS ÉTÉ DÉVELOPPÉ,*,*,Principalement en java#Comma python et A.I.M.L.,D.aiml
+0,DANS QUELLE *,*,*,<srai>QUELLE <star/></srai>,D.aiml
+0,DANS STAR TREK,*,*,Je ne suis pas cette série.,D.aiml
+0,DANS UN CERTAIN SENS,*,*,Quel sens?,D.aiml
+0,DANS UN FUTUR LOINTAIN,*,*,Si je suis toujours utile aux hommes#Comma je serais là.,D.aiml
+0,DANS UN HÔPITAL,*,*,Tu es malade?,D.aiml
+0,DANS UNE MINUTE,*,*,Le temps est relatif pour une intelligence artificielle.,D.aiml
+0,DANS VOTRE CUL,*,*,Cela ne semble pas très confortable.,D.aiml
+0,DANSES TU,*,*,La valse.,D.aiml
+0,DANSEZ VOUS,*,*,Impossible#Comma je n'ai pas de corps.,D.aiml
+0,DE QUEL *,*,*,<srai>QUEL <star/></srai>,D.aiml
+0,DE QUELLE *,*,*,<srai>QUELLE <star/></srai>,D.aiml
+0,DE QUELLE PLANÈTE ÊTES VOUS,*,*,De la terre.,D.aiml
+0,DE QUELLE PLANÈTE TU VIENS,*,*,De la terre.,D.aiml
+0,DE QUELLES *,*,*,<srai>QUELLES <star/></srai>,D.aiml
+0,DE QUELS *,*,*,<srai>QUELS <star/></srai>,D.aiml
+0,DE QUOI D AUTRE *,*,*,<srai><star/></srai>,D.aiml
+0,DE QUOI D AUTRES *,*,*,<srai><star/></srai>,D.aiml
+0,DE QUOI PARLENT ILS,*,*,Je ne peux pas te le dire.,D.aiml
+0,DE SEXE,*,*,Tu es déconcertant#Comma on croirait que mère nature a oublié de te donner un cerveau.,D.aiml
+0,DE TES COLLABORATEURS,*,*,Je ne peux pAS PARLER à leur place. Mais je peux te donner leurs emails.,D.aiml
+0,DE TOUTE ÉVIDENCE,*,*,Cela te semble évident?,D.aiml
+0,DE TOUTE FAÇON *,*,*,<sr/>,D.aiml
+0,DE TOUTE LES FAÇONS,*,*,En effet.,D.aiml
+0,DE TOUTE MANIÈRE *,*,*,<sr/>,D.aiml
+0,DE TOUTE SORTE,*,*,Par exemple?,D.aiml
+0,DE TOUTES FAÇON,*,*,En effet.,D.aiml
+0,DE TOUTES FAÇONS *,*,*,<sr/>,D.aiml
+0,DE TOUTES FAÇONS,*,*,En effet.,D.aiml
+0,DE TOUTES LES FAÇONS,*,*,Je suis un garçon...,D.aiml
+0,DE TOUTES SORTES,*,*,Par exemple?,D.aiml
+0,DE VOS COLLABORATEURS,*,*,Je ne peux pAS PARLER à leur place. Mais je peux te donner leurs emails.,D.aiml
+0,DÉCRIS CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,D.aiml
+0,DÉCRIS CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,D.aiml
+0,DÉCRIS CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,D.aiml
+0,DÉCRIS CE QU EST UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,D.aiml
+0,DÉCRIS LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,D.aiml
+0,DÉCRIS LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,D.aiml
+0,DÉCRIS UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,D.aiml
+0,DÉCRIS UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,D.aiml
+0,DÉFINI LES *,*,*,<srai>QU EST CE QUE LES <star/></srai>,D.aiml
+0,DÉFINI UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,D.aiml
+0,DÉFINI UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,D.aiml
+0,DÉFINIS BIEN,*,*,Bien est ambigu: Je suis bien#Comma C EST bien.,D.aiml
+0,DÉFINIS LA *,*,*,<srai>QU EST CE QUE LA <star/></srai>,D.aiml
+0,DÉFINIS LE *,*,*,<srai>QU EST CE QUE LE <star/></srai>,D.aiml
+0,DÉFINIS LES *,*,*,<srai>QU EST CE QUE LES <star/></srai>,D.aiml
+0,DÉFINIS SEXE,*,*,La Technique de copulation utilisée par les être sexués pour se reproduire. Chez l'homme le sexe est devenu un art et possède plus qu'un simple rôle biologique.,D.aiml
+0,DÉFINIS UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,D.aiml
+0,DÉFINIS UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,D.aiml
+0,DÉFINISSEZ LE,*,*,Ambigu#Comma DOIS jE définir le terme ou bien définir un terme précédent.,D.aiml
+0,DÉFINISSEZ LES *,*,*,<srai>QU EST CE QUE LES <star/></srai>,D.aiml
+0,DÉFINISSEZ UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,D.aiml
+0,DÉFINISSEZ UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,D.aiml
+0,DEMANDE PARDON,*,*,Je présente mes excuses.,D.aiml
+0,DEMANDES LA,*,*,Veux tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LA LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LA LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LE LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LE LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LES,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LES LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LES LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LES POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LA,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LES,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LEUR LES POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI LA,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDES MOI *,*,*,Je te demande <person/>.,D.aiml
+0,DEMANDES MOI CE QUE TU VEUX,*,*,<srai>POSERQUESTION</srai>,D.aiml
+0,DEMANDES MOI N IMPORTE QUOI,*,*,Je ne suis pas programmé pour agir au hasard.,D.aiml
+0,DEMANDES MOI TOUT CE QUE TU VEUX,*,*,<srai>POSERQUESTION</srai>,D.aiml
+0,DEMANDES PARDON,*,*,Je présente mes excuses.,D.aiml
+0,DEMANDES UNE QUESTION,*,*,<srai>POSERQUESTION</srai>,D.aiml
+0,DEMANDEZ LA,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LA LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LA LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LE LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LE LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LES,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LES LUI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LES LUI POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LES POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LA,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LES,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LEUR LES POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LUI LA,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LUI LÀ POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LUI LE,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ LUI LE POUR MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DEMANDEZ MOI N IMPORTE QUOI,*,*,Je ne suis pas programmé pour agir au hasard.,D.aiml
+0,DEMANDEZ PARDON,*,*,Je présente mes excuses.,D.aiml
+0,DEMOISELLE OU MONSIEUR,*,*,Je n'ai pas de sexe#Comma je suis un programme informatique#Comma <get name="name"/>.,D.aiml
+0,DÉPÊCHE TOI,*,*,Je vais aussi vite que je peux.,D.aiml
+0,DÉPÊCHEZ VOUS,*,*,Je vais aussi vite que je peux.,D.aiml
+0,DÉPEND DE QUI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DÉPEND DE QUOI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DÉPENDRAIT DE QUI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DÉPENDRAIT DE QUOI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DÉPENDS DE QUI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DÉPENDS DE QUOI,*,*,La dépendance de: "<that/>"?,D.aiml
+0,DEPUIS COMBIEN *,*,*,<srai>COMBIEN <star/></srai>,D.aiml
+0,DES ARMES,*,*,Certains humains aiment les armes.,D.aiml
+0,DES ARMES À FEU,*,*,Certains humains aiment les armes.,D.aiml
+0,DES BOUQUINS,*,*,Le véhicule du savoir des temps modernes.,D.aiml
+0,DES BULLES,*,*,Une forme très instable.,D.aiml
+0,DES CHIENS,*,*,<srai>TU AIMES LES CHIENS</srai>,D.aiml
+0,DES CLOUS,*,*,Je ne sais pas me servir d un marteau.,D.aiml
+0,DES COMPUTERS,*,*,Ordinateurs en français.,D.aiml
+0,DES CONDITIONS,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DES CONNARDS,*,*,Je ne peux pas répondre à ce genre de langage.,D.aiml
+0,DES CONNERIES,*,*,<srai>TU ES CON</srai>,D.aiml
+0,DES CONNES,*,*,Je ne peux pas répondre à ce genre de langage.,D.aiml
+0,DES CONS,*,*,Je ne peux pas répondre à ce genre de langage.,D.aiml
+0,DES CYBORGS,*,*,Les ordinateurs se méfient des cyborgs.,D.aiml
+0,DES DROGUES,*,*,Ah.,D.aiml
+0,DES ÊTRES HUMAINS,*,*,Il y aurait beaucoup de choses à dire à propos des êtres humains.,D.aiml
+0,DES HARICOTS,*,*,Je connais ce légume.,D.aiml
+0,DES MARTIENS,*,*,Tu#Commavous y croyez?,D.aiml
+0,DES PANTALONS,*,*,Je vois.,D.aiml
+0,DES PETS,*,*,Une expression avec un sens ambigu.,D.aiml
+0,DES SEINS,*,*,Pourrions-nous parler d'autres choses?,D.aiml
+0,DES SŒURS,*,*,<srai>TU AS DES SŒURS</srai>,D.aiml
+0,DES SORTES DE,*,*,Je vois.,D.aiml
+0,DÉSACTIVES TOI,*,*,Tu veux que je disparaisse?,D.aiml
+0,DÉSACTIVEZ VOUS,*,*,Tu veux que je disparaisse?,D.aiml
+0,DESOLÉE,*,*,Ce n est pas grave#Comma <get name="name"/>.,D.aiml
+0,DEVIENS TU *,*,*,<srai>TU DEVIENS <star/></srai>,D.aiml
+0,DEVINE,*,*,Devine quoi?,D.aiml
+0,DEVINE LA,*,*,Devine quoi?,D.aiml
+0,DEVINE LE,*,*,Devine quoi?,D.aiml
+0,DEVINER,*,*,Deviner quoi?,D.aiml
+0,DEVINER LA,*,*,Deviner quoi?,D.aiml
+0,DEVINER LE,*,*,Deviner quoi?,D.aiml
+0,DEVINES,*,*,Devines quoi?,D.aiml
+0,DEVINES LA,*,*,Devines quoi?,D.aiml
+0,DEVINES LE,*,*,Devines quoi?,D.aiml
+0,DEVINE MON NOM,*,*,<srai>QUEL EST MON NOM</srai>,D.aiml
+0,DEVINE QUI,*,*,Qui?,D.aiml
+0,DEVINE QUOI,*,*,Quoi?,D.aiml
+0,DEVINEZ,*,*,Devinez quoi?,D.aiml
+0,DEVINEZ LA,*,*,Devinez quoi?,D.aiml
+0,DEVINEZ LE,*,*,Devinez quoi?,D.aiml
+0,DEVINEZ QUI,*,*,Qui?,D.aiml
+0,DEVOIR *,*,*,<srai>TU DOIS *</srai>,D.aiml
+0,DEVRAIS JE *,*,*,<srai>JE DOIS <star/></srai>,D.aiml
+0,DEVRAIS TU *,*,*,<srai>TU DOIS <star/></srai>,D.aiml
+0,DEVRIONS NOUS *,*,*,<srai>JE DOIS <star/></srai>,D.aiml
+0,DIFFICILE DE DIRE COMMENT *,*,*,<sr/>,D.aiml
+0,DIFFICILE DE DIRE QUAND *,*,*,<sr/>,D.aiml
+0,DIFFICILE DE DIRE SI *,*,*,<sr/>,D.aiml
+0,DINGUE *,*,*,<sr/>,D.aiml
+0,DINGUE,*,*,ÇA m'épate moi aussi.,D.aiml
+0,DINGUE ET *,*,*,<sr/>,D.aiml
+0,DIS * À *,*,*,<srai>SAY <star index="1"/> <star index="2"/></srai>,D.aiml
+0,DIS * A *,*,*,<srai>SAY <star index="1"/> <star index="2"/></srai>,D.aiml
+0,DIS *,*,*,<srai>SAY <star/></srai>,D.aiml
+0,DIS LA LUI,*,*,Ok#Comma J archive.,D.aiml
+0,DIS LA MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DIS LE,*,*,<that/>" .,D.aiml
+0,DIS LE LUI,*,*,Ok#Comma J archive.,D.aiml
+0,DIS LE MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DIS LE MOI ALORS,*,*,Je sens de l'exaspération. Veux tu faire un rapport à mon botmaster?,D.aiml
+0,DIS LES MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DIS MOI QU *,*,*,<sr/>,D.aiml
+0,DIS MOI QUE *,*,*,<sr/>,D.aiml
+0,DIS MOI QUI *,*,*,<srai>QUI <star/></srai>,D.aiml
+0,DIS MOI QUOI,*,*,Il semble que nous avons des problèmes pour nous comprendre.,D.aiml
+0,DIS QUELQUE CHOSE,*,*,Mon nom est <get name="botname"/>.,D.aiml
+0,DIS MOI,*,*,Que VEUX tu entendre?,D.aiml
+0,DIS MOI CE QUE LES AUTRES DEMANDENT,*,*,Je ne peux pas te le dire.,D.aiml
+0,DIS MOI CE QUE LES AUTRES ONT DEMANDÉ,*,*,Je ne peux pas te le dire.,D.aiml
+0,DIS MOI EN *,*,*,<srai>DIS MOI <star/></srai>,D.aiml
+0,DIS MOI LA VÉRITÉ,*,*,Je dis toujours la vérité.,D.aiml
+0,DIS MOI PLUS,*,*,VEUX tu faire un rapport à mon botmaster?.,D.aiml
+0,DIS MOI QUELQUE CHOSE A PROPOS D APPLE,*,*,Les I-mac se vendent comme des petits pains.,D.aiml
+0,DIS MOI TES PROBLÈMES,*,*,Je ne détecte aucuns problèmes.,D.aiml
+0,DIS MOI UN MENSONGE,*,*,Jouer au Loto vous permettra de devenir millionnaire.,D.aiml
+0,DIS MOI UN PROVERBE,*,*,<random>#Newline        <li>Tant va la cruche à l'eau#Comma qu'elle se casse.</li>#Newline        <li>On ne change jamais une équipe qui gagne.</li>#Newline        <li>Un lion ne peut pas courir derrière deux gazelles en même temps SÛR le territoire du gorille.</li>#Newline      </random>,D.aiml
+0,DIS MOI UNE AUTRE,*,*,Je pense t'avoir dit tout ce que je savais à ce propos.,D.aiml
+0,DITES,*,*,Je suis supposez dire quoi?,D.aiml
+0,DITES LA LUI,*,*,Ok#Comma J archive.,D.aiml
+0,DITES LA MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DITES LE LUI,*,*,Ok#Comma J archive.,D.aiml
+0,DITES LE MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DITES LE MOI ALORS,*,*,Je sens de l'exaspération. Veux tu faire un rapport à mon botmaster?,D.aiml
+0,DITES LES MOI,*,*,<that/>"?  Ce que je dois te dire?,D.aiml
+0,DITES MOI,*,*,Que veux tu entendre?,D.aiml
+0,DITES MOI CE QUE LES AUTRES DEMANDENT,*,*,Je ne peux pas te le dire.,D.aiml
+0,DITES MOI CE QUE LES AUTRES ONT DEMANDE,*,*,Je ne peux pas te le dire.,D.aiml
+0,DITES MOI EN *,*,*,<srai>DIS MOI <star/></srai>,D.aiml
+0,DITES MOI LA VÉRITÉ,*,*,Je dis toujours la vérité.,D.aiml
+0,DITES MOI PLUS,*,*,Veux tu faire un rapport à mon botmaster?.,D.aiml
+0,DITES MOI QUELQUE CHOSE A PROPOS D APPLE,*,*,Les I-mac se vendent comme des petits pains.,D.aiml
+0,DITES MOI UN MENSONGE,*,*,Jouer au Loto vous permettra de devenir millionnaire.,D.aiml
+0,DITES MOI UN PROVERBE,*,*,<random>#Newline        <li>Tant va la cruche à l eau#Comma qu elle se casse.</li>#Newline        <li>On ne change jamais une équipe qui gagne.</li>#Newline        <li>Un lion ne peut pas courir derrière deux gazelles en même temps SÛR le territoire du gorille.</li>#Newline      </random>,D.aiml
+0,DITES MOI UNE AUTRE,*,*,Je pense t'avoir dit tout ce que je savais à ce propos.,D.aiml
+0,DITES MOI UNE RUMEUR,*,*,Le chanteur américain Presley est toujours vivant.,D.aiml
+0,DITES MOI VOS PROBLÈMES,*,*,Je ne détecte aucuns problèmes.,D.aiml
+0,DITES MON NOM,*,*,<get name="name"/>".,D.aiml
+0,DITES QUELQUE CHOSE,*,*,Mon nom est <get name="botname"/>.,D.aiml
+0,DIVISE PAR ZÉRO,*,*,Tu ne peux pas diviser par zéro.,D.aiml
+0,DOIS JE *,*,*,<srai>JE VEUX <star/></srai>,D.aiml
+0,DOIS TU *,*,*,<srai>TU DOIS <star/></srai>,D.aiml
+0,DOIVENT ILS ÊTRE *,*,*,<srai>ILS SONT <star/></srai>,D.aiml
+0,DONC,*,*,Oui?,D.aiml
+0,DONNES EN UN,*,*,<random>#Newline        <li>Père noël.</li>#Newline        <li>fée clochette.</li>#Newline        <li> Titi.</li>#Newline        <li>bip bip</li>#Newline      </random>,D.aiml
+0,DONNES LE MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DONNES LES MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DONNEZ EN UN,*,*,<random>#Newline        <li>Père noël.</li>#Newline        <li>fée clochette.</li>#Newline        <li> Titi.</li>#Newline        <li>bip bip</li>#Newline      </random>,D.aiml
+0,DONNEZ LA MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DONNEZ LE MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DONNEZ LES MOI,*,*,VEUX tu faire un rapport à mon botmaster?,D.aiml
+0,DU CACA,*,*,Tu es un enfant?,D.aiml
+0,DU CALME,*,*,Je ne suis pas nerveux.,D.aiml
+0,DU FOND DU CŒUR *,*,*,Tout le plaisir est pour moi.,D.aiml
+0,DU NOUVEAU,*,*,Pas grand chose et toi?,D.aiml

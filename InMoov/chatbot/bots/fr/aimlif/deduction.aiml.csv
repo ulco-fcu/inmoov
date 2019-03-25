@@ -1,0 +1,80 @@
+0,* ET TOI *,*,*,<srai>#Newline        <input index="2"/></srai>#Newline      <srai>#Newline        <person>#Newline          <star index="2"/>#Newline        </person>#Newline      </srai>,deduction.aiml
+0,C EST QUOI,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QU EST CE QUE <get name="topic"/></srai>,deduction.aiml
+0,DÉFINI LE,*,*,<srai>QU EST CE QUE <get name="courant"/></srai>,deduction.aiml
+0,DÉFINI,*,*,<srai>QU EST CE QUE</srai>,deduction.aiml
+0,DÉFINIS LE,*,*,<srai>QU EST CE QUE <get name="courant"/></srai>,deduction.aiml
+0,DÉFINIS,*,*,que veux tu définir???,deduction.aiml
+0,ET LE TIEN,*,*,le mien?#Comma <srai><person><input index="2"/></person></srai>,deduction.aiml
+0,ET TOI MÊME,*,*,Moi-même? <srai><person><input index="2"/></person></srai>,deduction.aiml
+0,ET TOI,*,*,moi? <srai><person><input index="2"/></person></srai>,deduction.aiml
+0,ET,*,*,Mais... <srai><person><input index="2"/></person></srai>,deduction.aiml
+0,MOI NON PLUS,*,*,toi non plus#Comma <srai><person><that index="1#Comma1"/></person></srai>,deduction.aiml
+0,MOI OUI,*,*,toi oui? <person><that index="1#Comma1"/></person>,deduction.aiml
+0,MOI SI,*,*,toi oui? <person><that index="1#Comma1"/></person>,deduction.aiml
+0,NE DÉFINIS QUESTION,*,*,<random>#Newline        <li>Rien#Comma quelle est la question?.</li>#Newline        <li>de Quoi une chose est faite; substance constitutive ou matériel. De quoi tout des choses matérielles substantielles sont fait; indépendamment d'occupe l'espace et est perceptible aux sens de quelque façon. Dans la physique moderne#Comma la question et l'énergie est considérée comme des équivalents#Comma mutuellement convertibles selon la formule d'Einstein#Comma E = MC2.</li>#Newline      </random>,deduction.aiml
+0,NE DÉFINIS RIEN,*,*,une chose qui n'existe pas ou quelque chose de valeur petite ou aucune#Comma le sérieux#Comma l'importance#Comma etc,deduction.aiml
+0,NEGATIF,*,*,<random>#Newline        <li>bien.</li>#Newline        <li>je comprends.</li>#Newline        <li>je vois.</li>#Newline        <li>Pourquoi être si négatif?</li>#Newline        <li>EST cE tout ce que tu as à dire?</li>#Newline        <li>Non?</li>#Newline      </random>,deduction.aiml
+0,NON *,C EST *,*,alors#Comma je ne connais pas#Comma tu dis "<person/>"?,deduction.aiml
+0,NON,*,*,<srai>#Newline        <person>NÉGATIF <that index="1#Comma1"/></person>#Newline      </srai>,deduction.aiml
+0,NON,C EST *,*,alors#Comma je ne connais pas.,deduction.aiml
+0,NON,ET TOI,*,<srai>#Newline        <person>NÉGATIF <that index="1#Comma1"/></person>#Newline      </srai>,deduction.aiml
+0,NON,NOTE *,*,Merci#Comma ça fait plaisir.,deduction.aiml
+0,NON,TU NE VEUX *,*,<srai>#Newline        <person>#Newline          <that index="1#Comma1"/>#Newline        </person>#Newline      </srai>,deduction.aiml
+0,NON,TU VEUX *,*,<srai>#Newline        <person>NÉGATIF <that index="1#Comma1"/></person>#Newline      </srai>,deduction.aiml
+0,OÙ ÉTAIT *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>OÙ ÉTAIT SYNONYME <star/></srai>,deduction.aiml
+0,OÙ ÉTAIT JE NE SAIS PAS,*,*,<srai>OÙ EST <get name="courant"/></srai>,deduction.aiml
+0,OÙ ÉTAIT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>OÙ ÉTAIT <get name="tmp"/></srai>,deduction.aiml
+0,OÙ EST *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>OÙ EST SYNONYME <star/></srai>,deduction.aiml
+0,OÙ EST CE QUE * EST,*,*,<srai>OÙ EST <star/></srai>,deduction.aiml
+0,OÙ EST JE NE SAIS PAS,*,*,je ne sais pas où Cela peut être,deduction.aiml
+0,OÙ EST SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>OÙ EST <get name="tmp"/></srai>,deduction.aiml
+0,OUI,* OUI,*,ah! d'accord.,deduction.aiml
+0,OUI,* TU TROUVE,*,Merci#Comma ça fait plaisir.,deduction.aiml
+0,OUI,* TXTSRC WIDTH 640 HEIGHT 480 RESIZABLE NO SCROLLBARS NO STATUS NO TOOLBAR NO *,*,<srai>J AIME ÇA</srai>,deduction.aiml
+0,OUI,*,*,<srai>#Newline        <person><that index="1#Comma1"/></person>#Newline      </srai>,deduction.aiml
+0,OUI,NOTE *,*,Merci#Comma ça fait plaisir.,deduction.aiml
+0,OUI,OUI *,*,ah! d'accord.,deduction.aiml
+0,OUI,OUI,*,ah! d'accord.,deduction.aiml
+0,OUI,TU NE VEUX *,*,<srai>#Newline        <person>NÉGATIF <that index="1#Comma1"/></person>#Newline      </srai>,deduction.aiml
+0,OUI,TU VEUX *,*,<srai>#Newline        <person>#Newline          <that index="1#Comma1"/>#Newline        </person>#Newline      </srai>,deduction.aiml
+0,QU EST CE QUE ÇA,*,*,<srai>QU EST CE QUE <that index="1#Comma1"/></srai>,deduction.aiml
+0,QU EST CE QUE *,*,*,<think><set name="courant"><star/></set></think>#Newline      <srai>QU EST CE QUE <srai>SYNONYME <star/></srai></srai>,deduction.aiml
+0,QU EST CE QUE,*,*,<think>#Newline        <set name="search">quoi</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,deduction.aiml
+0,QU EST CE QUI A *,*,*,<srai>QUI A <star/></srai>,deduction.aiml
+0,QUAND ÉTAIT CE *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUAND ÉTAIT CE SYNONYME <star/></srai>,deduction.aiml
+0,QUAND ÉTAIT CE JE NE SAIS PAS,*,*,<srai>QUAND EST CE <get name="courant"/></srai>,deduction.aiml
+0,QUAND ÉTAIT CE SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUAND ÉTAIT CE <get name="tmp"/></srai>,deduction.aiml
+0,QUAND EST CE *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUAND EST CE SYNONYME <star/></srai>,deduction.aiml
+0,QUAND EST CE JE NE SAIS PAS,*,*,je ne sais pas.,deduction.aiml
+0,QUAND EST CE QUE * EST,*,*,<srai>QUAND EST <star/></srai>,deduction.aiml
+0,QUAND EST CE SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUAND EST CE <get name="tmp"/></srai>,deduction.aiml
+0,QUE SONT *,*,*,<srai>QU EST CE QUE <star/></srai>,deduction.aiml
+0,QUI ÉTAIT JE NE SAIS PAS,*,*,<srai>QUI EST <get name="courant"/></srai>,deduction.aiml
+0,QUI ÉTAIT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI ÉTAIT <get name="tmp"/></srai>,deduction.aiml
+0,QUI A ÉCRIT *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A ÉCRIT SYNONYME <star/></srai>,deduction.aiml
+0,QUI A ÉCRIT JE NE SAIS PAS,*,*,<srai>QUI A FAIT <get name="courant"/></srai>,deduction.aiml
+0,QUI A ÉCRIT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A ÉCRIT <get name="tmp"/></srai>,deduction.aiml
+0,QUI A DIT *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A DIT SYNONYME <star/></srai>,deduction.aiml
+0,QUI A DIT JE NE SAIS PAS,*,*,<srai>QUI A FAIT <get name="courant"/></srai>,deduction.aiml
+0,QUI A DIT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A DIT <get name="tmp"/></srai>,deduction.aiml
+0,QUI A FAIT *,*,*,<srai>QUI A FAIT SYNONYME <star/></srai>,deduction.aiml
+0,QUI A FAIT JE NE SAIS PAS,*,*,je ne sais pas,deduction.aiml
+0,QUI A FAIT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A FAIT <get name="tmp"/></srai>,deduction.aiml
+0,QUI A TROUVÉ *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A TROUVÉ SYNONYME <star/></srai>,deduction.aiml
+0,QUI A TROUVÉ JE NE SAIS PAS,*,*,<srai>QUI A FAIT <get name="courant"/></srai>,deduction.aiml
+0,QUI A TROUVÉ SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI A TROUVÉ <get name="tmp"/></srai>,deduction.aiml
+0,QUI EST *,*,*,<think>#Newline			<set name="courant">#Newline			  <star/>#Newline			</set>#Newline            <set name="articles">#Newline            <get name="null"/>#Newline            </set>#Newline		</think>#Newline      <srai>QUI EST SYNONYME <star/></srai>,deduction.aiml
+0,QUI EST CE QUE * EST,*,*,<srai>QUI EST <star/></srai>,deduction.aiml
+0,QUI EST SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST <get name="tmp"/></srai>,deduction.aiml
+0,QUI SONT *,*,*,<think>#Newline        <set name="courant">#Newline          <star/>#Newline        </set>#Newline      </think>#Newline      <srai>QUI EST <star/></srai>,deduction.aiml
+0,QUI SONT JE NE SAIS PAS,*,*,<srai>QUI EST <get name="tmp"/></srai>,deduction.aiml
+0,QUI SONT SYNONYME *,*,*,<think>#Newline        <set name="tmp">#Newline          <srai>synonyme <star/></srai>#Newline        </set>#Newline      </think>#Newline      <srai>QUI SONT <get name="tmp"/></srai>,deduction.aiml
+0,SI *,*,*,<srai>NÉGATIF <person><that/></person></srai>,deduction.aiml
+0,SI JE TE DEMANDE *,*,*,<srai><star/></srai>,deduction.aiml
+0,SI MAIS *,*,*,<srai>NÉGATIF <that/></srai>#Newline      <sr/>,deduction.aiml
+0,SI MAIS *,TU NE VEUX *,*,<srai>NÉGATIF <person><that index="1#Comma1"/></person></srai>#Newline      <sr/>,deduction.aiml
+0,SI MAIS *,TU VEUX *,*,<srai>#Newline        <person>#Newline          <that index="1#Comma1"/>#Newline        </person>#Newline      </srai>#Newline      <sr/>,deduction.aiml
+0,SI,*,*,<srai>NÉGATIF <person><that/></person></srai>,deduction.aiml
+0,SI,TU NE VEUX *,*,<srai>NÉGATIF <person><that index="1#Comma1"/></person></srai>,deduction.aiml
+0,SI,TU VEUX *,*,<srai>#Newline        <person>#Newline          <that index="1#Comma1"/>#Newline        </person>#Newline      </srai>,deduction.aiml
+0,TOI,*,*,<srai>#Newline        <input index="2"/></srai>,deduction.aiml

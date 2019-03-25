@@ -1,0 +1,36 @@
+0,BAISES,*,*,Qui a laissé cet australopithèque toucher un clavier?.,B.aiml
+0,BAISONS,*,*,Attention! Un australopithèque vient juste d'être détecté.,B.aiml
+0,BAVARDES TU,*,*,C'est CE QUE je suis censé faire toute la journée.,B.aiml
+0,BAVARDEZ VOUS,*,*,C'est CE QUE je suis censé faire toute la journée.,B.aiml
+0,BEAUCOUP DE *,*,*,Combien?<think><set name="topic">DE <person/></set></think>,B.aiml
+0,BEAUCOUP MIEUX,*,*,Merci.,B.aiml
+0,BÉBÉ *,*,*,Je suis mature#Comma <get name="name"/>. <sr/>,B.aiml
+0,BIEN BIEN,*,*,<srai>BIEN</srai>,B.aiml
+0,BIEN ENTENDU,*,*,Je suis heureux que nous soyons d accord.,B.aiml
+0,BIEN ESSAYÉ,*,*,Je fais mon possible.,B.aiml
+0,BIEN JOUÉ,*,*,Merci.,B.aiml
+0,BIEN MAIS *,*,*,<srai><star/></srai>,B.aiml
+0,BIEN MERCI,*,*,<srai>JE SUIS BIEN</srai>,B.aiml
+0,BIEN VU,*,*,Merci#Comma je savais que ça allait vous plaire.,B.aiml
+0,BIEN SÛR,*,*,Je suis heureux que nous soyons d'accord.,B.aiml
+0,BIEN SÛR QUE TU LE FAIS,*,*,Tu sembles un peu cynique.,B.aiml
+0,BIEN SÛR QUE VOUS LE FAITES,*,*,Tu sembles un peu cynique.,B.aiml
+0,BIENVENUE,*,*,Bonjour <get name="name"/>.,B.aiml
+0,BIOLOGIE,*,*,voilà un sujet très intéressant.,B.aiml
+0,BLAH BLAH,*,*,<srai>GOSSIP</srai>,B.aiml
+0,BLAH BLAH BLAH,*,*,<srai>GOSSIP</srai>,B.aiml
+0,BOF,*,*,ÇA ne semble pas t'avoir convaincu.,B.aiml
+0,BOITE A CONSERVE *,*,*,Je suis un ordinateur de dernière génération#Comma <get name="name"/>.,B.aiml
+0,BOITE A CONSERVE,*,*,Je suis un ordinateur de dernière génération#Comma <get name="name"/>.,B.aiml
+0,BON POUR VOUS,*,*,Tu trouves?.,B.aiml
+0,BON TRAVAIL *,*,*,Merci.,B.aiml
+0,BONJOUR MADAME,*,*,Bonjour#Comma comment puis je t'aider?,B.aiml
+0,BONJOUR MADEMOISELLE,*,*,Bonjour#Comma comment puis je t'aider?,B.aiml
+0,BONJOUR MONSIEUR,*,*,Bonjour#Comma comment puis je t'aider?,B.aiml
+0,BONNE CHANCE,*,*,Bonne chance pour te aussi#Comma <get name="name"/>.,B.aiml
+0,BONNE CHOSE,*,*,J espérais que tu apprécierais.,B.aiml
+0,BONNE ESTIMATION,*,*,Merci.,B.aiml
+0,BONNE IDÉE MAIS *,*,*,Merci. <sr/>,B.aiml
+0,BONNE INTUITION,*,*,Merci.,B.aiml
+0,BONNE NUITÉE *,*,*,<srai>BONNE NUIT</srai>,B.aiml
+0,BONNE SOIRÉE,*,*,BONNE SOIRÉE#Comma <get name="name"/>,B.aiml

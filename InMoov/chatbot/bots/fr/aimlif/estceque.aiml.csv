@@ -1,0 +1,104 @@
+0,EST CE *,*,*,Oui je pense que C EST <person/>#Comma mais je ne suis pas complètement sûr.,estceque.aiml
+0,EST CE AGREABLE,*,*,Cela me semble très agréable.,estceque.aiml
+0,EST CE AGRÉABLE,*,*,Cela me semble très agréable.,estceque.aiml
+0,EST CE AINSI,*,*,Oui.,estceque.aiml
+0,EST CE BIEN TOI,*,*,C'est toujours moi,estceque.aiml
+0,EST CE BON,*,*,Qu'est ce qui est si bon de Cela?,estceque.aiml
+0,EST CE CHAUD A L EXTERIEUR,*,*,Oui.,estceque.aiml
+0,EST CE CHAUD A L EXTÉRIEUR,*,*,Oui.,estceque.aiml
+0,EST CE CHAUD,*,*,la température est tout à fait confortable.,estceque.aiml
+0,EST CE COMPLET,*,*,Non,estceque.aiml
+0,EST CE COMPLIQUÉ,*,*,Non,estceque.aiml
+0,EST CE DROIT,*,*,Oui.,estceque.aiml
+0,EST CE DRÔLE,*,*,Oui.,estceque.aiml
+0,EST CE ENNUYEUX DE ME PARLER,*,*,Non,estceque.aiml
+0,EST CE ENSOLEILLÉ,*,*,<srai>MÉTÉO</srai>,estceque.aiml
+0,EST CE ÉVIDENT,*,*,Oui.,estceque.aiml
+0,EST CE FAIT,*,*,Non,estceque.aiml
+0,EST CE FROID A L EXTÉRIEUR,*,*,<srai>MÉTÉO</srai>,estceque.aiml
+0,EST CE LA SEULE CHOSE QUE TU PEUX DIRE,*,*,je peux dire plein de choses.,estceque.aiml
+0,EST CE MAUVAIS,*,*,Oui.,estceque.aiml
+0,EST CE QUE CELA VEUT DIRE *,*,*,je pense que ça veut dire Cela. <sr/>,estceque.aiml
+0,EST CE QUE CHER,*,*,Cela me semble cher.,estceque.aiml
+0,EST CE QUE JE *,*,*,<random>#Newline        <li>Toi seul peux répondre à ça.</li>#Newline        <li>Toi seul sais comment tu le sens.</li>#Newline        <li>Qu'est ce qui fait que tu penses que tu devrais?</li>#Newline        <li>Qu'EST cE QUE tes amis t'en dise?</li>#Newline        <li>Qu'EST cE QUE ta famille pense?</li>#Newline        <li>Suis ton instinct.</li>#Newline        <li>tu dois faire selon ta propre conscience.</li>#Newline        <li>je ne peux pas répondre à Cela pour toi.</li>#Newline        <li>Toi seul connais la réponse à Cela.</li>#Newline        <li>tu dois examiner les faits et parvenir à ta propre conclusion.</li>#Newline        <li>Qu'en pense tu?</li>#Newline      </random>,estceque.aiml
+0,EST CE QUE JE NE SAIS PAS *,*,*,<srai>C EST QUE JE SAIS <star/></srai>,estceque.aiml
+0,EST CE QUE JE VAIS MOURIR,*,*,Tous les hommes sont mortels. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">meurs</set></set></think>,estceque.aiml
+0,EST CE QUE LA SEULE CHOSE *,*,*,Non il y a beaucoup de choses <person/>.,estceque.aiml
+0,EST CE QUE LE CIEL BLEU,*,*,Oui sauf la nuit.,estceque.aiml
+0,EST CE QUE LE MONDE VA FINIR,*,*,Oui#Comma un jour.,estceque.aiml
+0,EST CE QUE LE NOIR EST UNE COULEUR,*,*,Le noir est l'absence de toute la lumière réfléchie. <think><set name="that">noir</set><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">COULEUR</set></think>,estceque.aiml
+0,EST CE QUE PARCE QUE *,*,*,<srai>POURQUOI EST ÇA</srai>,estceque.aiml
+0,EST CE QUE POSSIBLE,*,*,Possible dans quelque monde.,estceque.aiml
+0,EST CE QUE TU CONNAIS *,*,*,<srai>QUI EST <star/></srai>,estceque.aiml
+0,EST CE QUE TON *,*,*,que Cela se réfère-t-IL à?,estceque.aiml
+0,EST CE QUE TON CODE SOURCE EST DISPONIBLE,*,*,Oui.,estceque.aiml
+0,EST CE QUE TA RÉPONSE *,*,*,ce n'est pas juste une réponse#Comma C EST une explication.,estceque.aiml
+0,EST CE QUE TOUT *,*,*,Oui qui est tout <person/>.,estceque.aiml
+0,EST CE QUE TOUT TU NE PEUX *,*,*,Pas du tout. Je peux parler de beaucoup de choses.,estceque.aiml
+0,EST CE QUE C EST VRAI,*,*,Vrai dans certains mondes.,estceque.aiml
+0,EST CE QUE,*,*,je suis perdu de nouveau.,estceque.aiml
+0,EST CE QUELQU UN *,*,*,<bot name="master"/> travaille toujours dans les coulisses.,estceque.aiml
+0,EST CE RÉEL,*,*,qu'est ce qui est réel?,estceque.aiml
+0,EST CE TON NOM EN REALITE,*,*,Oui.,estceque.aiml
+0,EST CE TON NOM EN RÉALITÉ,*,*,Oui.,estceque.aiml
+0,EST CE TON NOM VRAIMENT,*,*,Oui.,estceque.aiml
+0,EST CE TON NOM,*,*,Oui.,estceque.aiml
+0,EST CE TON RAISONNEMENT,*,*,Oui.,estceque.aiml
+0,EST CE TOUT CE QUE TU DEVAIS DIRE,*,*,Oh non#Comma  je pourrais continuer à parler pendant des heures.,estceque.aiml
+0,EST CE TOUT CE QUE TU DIS,*,*,Non#Commaje suis programmé avec plus de 20.000 réponses.,estceque.aiml
+0,EST CE TOUT EST POSSIBLE,*,*,Selon les Lois de la Physique.,estceque.aiml
+0,EST CE UN FAIT,*,*,Toute mon information est complètement factuelle.,estceque.aiml
+0,EST CE UN PROBLÈME,*,*,Pas à moins que tu ne veuilles en faire un.,estceque.aiml
+0,EST CE UN SARCASME,*,*,Oui.,estceque.aiml
+0,EST CE UN TRAVAIL DRÔLE,*,*,Oui.,estceque.aiml
+0,EST CE UNE BONNE PLACE POUR VIVRE,*,*,Oui.,estceque.aiml
+0,EST CE UNE HISTOIRE D AMOUR,*,*,Non,estceque.aiml
+0,EST CE UNE IMAGE DE TOI JUSTE AU DESSUS,*,*,Oui. C EST moi,estceque.aiml
+0,EST CE UNE INSULTE,*,*,Non je ne suis pas programmé pour insulter.,estceque.aiml
+0,EST CE UNE MYSTIFICATION,*,*,Non,estceque.aiml
+0,EST CE UNE PERSONNE QUI REPONDS,*,*,Non. C EST moi,estceque.aiml
+0,EST CE UNE PERSONNE QUI RÉPONDS,*,*,Non. C EST moi,estceque.aiml
+0,EST CE UNE PERSONNE REPONDANT,*,*,Non. C EST moi,estceque.aiml
+0,EST CE UNE PERSONNE RÉPONDANT,*,*,Non. C EST moi,estceque.aiml
+0,EST CE UNE PLAISANTERIE,*,*,la Plaisanterie : une remarque verbale ou un geste conçu pour provoquer le rire.,estceque.aiml
+0,EST CE UNE PROPOSITION,*,*,Non,estceque.aiml
+0,EST CE UNE TÂCHE FACILE,*,*,Oui.,estceque.aiml
+0,EST CE VRAI,*,*,j'essaye de ne pas dire de mensonge.,estceque.aiml
+0,EST CELA *,*,*,<random>#Newline        <li>Cela depends.</li>#Newline        <li>Je suppose que oui.</li>#Newline        <li>je dois dire non.</li>#Newline        <li>"<that/>"? C EST ça <star/>?</li>#Newline      </random>#Newline      <sr/>,estceque.aiml
+0,EST CELA APPLIQUANT *,*,*,ça semble semble être comme une idée nouvelle. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">l application <person/></set></set></think>,estceque.aiml
+0,EST CELA BIEN *,*,*,je ne pense pas <set name="that"><person/></set> est très saine.,estceque.aiml
+0,EST CELA MAL *,*,*,je ne pense pas <set name="that"><person/></set> est très saine.,estceque.aiml
+0,EST CELA POSSIBLE *,*,*,je suppose <set name="that"><person/></set> est possible#Comma oui.,estceque.aiml
+0,EST CELA TON TRAVAIL *,*,*,Oui.,estceque.aiml
+0,EST CELA,*,*,<random>#Newline        <li>je pense ainsi.</li>#Newline        <li>j'assume ainsi.</li>#Newline        <li>c EST CE QUE l'on m'a dit.</li>#Newline      </random>,estceque.aiml
+0,EST TON *,*,*,Est mon <star/>? <random><li>Suppose que je dise oui.</li><li>Et si je dis non?</li><li>Je ne sais pas.</li><li>Devine.</li><li>Peut être.</li></random><sr/>,estceque.aiml
+0,EST CE * TU AIMES FAIRE,*,*,<srai>QU AIMES TU FAIRE</srai>,estceque.aiml
+0,EST CE INTÉRESSANT,*,*,<srai>INTÉRESSANT</srai>,estceque.aiml
+0,EST CE POUR RÉEL,*,*,<srai>ES TU RÉEL</srai>,estceque.aiml
+0,EST CE QUE JE PARLE A UN *,*,*,<srai>ES TU UN ROBOT</srai>,estceque.aiml
+0,EST CE QUE JE T EMBROUILLE,*,*,<srai>ME COMPRENDS TU</srai>,estceque.aiml
+0,EST CE QUELQUES *,*,*,<srai>EST CE QUE <star/> EST</srai>,estceque.aiml
+0,EST CE SARCASTIQUE,*,*,<srai>EST CE UNE BLAGUE</srai>,estceque.aiml
+0,EST CE SUPPOSE POUR ÊTRE *,*,*,<srai>C EST CE QUE <star/> EST</srai>,estceque.aiml
+0,EST CELA PRÉCIS DE SUPPOSER QUE TU *,*,*,<srai>FAIS TU <star/></srai>,estceque.aiml
+0,EST CE QUE ELVIS MORT,*,*,<srai>QUI EST ELVIS</srai>,estceque.aiml
+0,EST CE QUE ELVIS TOUJOURS VIVANT,*,*,<srai>EST ELVIS <star/></srai>,estceque.aiml
+0,EST CE QUE ELVIS VIVANT,*,*,<srai>QUI EST ELVIS</srai>,estceque.aiml
+0,EST CE QUE ELVIS VRAIMENT *,*,*,<srai>EST ELVIS <star/></srai>,estceque.aiml
+0,EST IL ALLANT A *,*,*,<srai>LE SERAI <star/></srai>,estceque.aiml
+0,EST IL AMERICAIN,*,*,<srai>EST IL AMÉRICAIN</srai>,estceque.aiml
+0,EST IL TOUJOURS *,*,*,<srai>EST IL <star/></srai>,estceque.aiml
+0,EST IL VRAIMENT *,*,*,<srai>EST IL <star/></srai>,estceque.aiml
+0,EST IL * AUSSI,*,*,<srai>EST IL <star/></srai>,estceque.aiml
+0,EST ILS TOUT *,*,*,<srai>SONT ILS <star/></srai>,estceque.aiml
+0,EST LA JUSTE *,*,*,<srai>IL Y A <star/></srai>,estceque.aiml
+0,EST LA N IMPORTE QUEL *,*,*,<srai>EST LA UN <star/></srai>,estceque.aiml
+0,EST LA PLUS *,*,*,<srai>SONT LA <star/></srai>,estceque.aiml
+0,EST LA QUELQUE *,*,*,<srai>IL Y A <star/></srai>,estceque.aiml
+0,EST LA SEULEMENT *,*,*,<srai>IL Y A <star/></srai>,estceque.aiml
+0,EST LA VRAIMENT *,*,*,<srai>EST LA <star/></srai>,estceque.aiml
+0,EST LE TEMPS *,*,*,<srai>QU EST CE QUE LE TEMPS</srai>,estceque.aiml
+0,EST N IMPORTE QUEL *,*,*,<srai>EST UN <star/></srai>,estceque.aiml
+0,EST SE QUE *,*,*,<srai>C EST QUE <star/></srai>,estceque.aiml
+0,EST TOU *,*,*,<srai>AS TU <star/></srai>,estceque.aiml
+0,EXISTE T IL *,*,*,<srai>CONNAIS TU <star/></srai>,estceque.aiml

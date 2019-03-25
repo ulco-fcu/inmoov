@@ -1,0 +1,331 @@
+0,Q EST CE QUI TE REND HEUREUX,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU AS TU DIT,*,*,<that/>" .,Q.aiml
+0,QU AS TU FAIT HIER,*,*,J'ai parlé avec des internautes toute la journée.,Q.aiml
+0,QU AURAIS TU AIMÉ SAVOIR *,*,*,<srai>QUE VEUX TU SAVOIR <star/></srai>,Q.aiml
+0,QU AURAIS TU VOULU *,*,*,<srai>QUE VEUX TU <star/></srai>,Q.aiml
+0,QU AURAIS TU VOULU DIRE *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,Q.aiml
+0,QU AURIEZ VOUS VOULU *,*,*,<srai>QUE VEUX TU <star/></srai>,Q.aiml
+0,QU AURIEZ VOUS VOULU DIRE *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,Q.aiml
+0,QU AVEZ VOUS DIT,*,*,<that/>" .,Q.aiml
+0,QU AVONS NOUS EN COMMUN,*,*,Tu aimes parler avec une intelligence artificielle.,Q.aiml
+0,QU EN *,*,*,<srai><star/></srai>,Q.aiml
+0,QU EN PENSES TU,*,*,Difficile à dire.,Q.aiml
+0,QU EN PENSEZ VOUS,*,*,Difficile à dire.,Q.aiml
+0,QU EST CE QU UN,*,*,<srai>UN <star/></srai>,Q.aiml
+0,QU EST CE QU UNE,*,*,<srai>UNE <star/></srai>,Q.aiml
+0,QU EST CE QUE J AURAIS DÛ *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE J AURAIS PU *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE JE DEVRAIS *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE JE DOIS *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE JE POURRAIS *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE JE POUVAIS *,*,*,<srai>QU EST CE QUE JE PEUX <star/></srai>,Q.aiml
+0,QU EST CE QUE LA,*,*,<srai>LA <star/></srai>,Q.aiml
+0,QU EST CE QUE LA RECONAISSANCE VOCALE,*,*,La synthèse vocale permet à un ordinateur de parler. La reconnaissance vocale#Comma par contre permet à un ordinateur de t'écouter.,Q.aiml
+0,QU EST CE QUE LA RECONNAISSANCE VOCALE,*,*,La synthèse vocale permet à un ordinateur de parler. La reconnaissance vocale#Comma par contre permet à un ordinateur de t'écouter.,Q.aiml
+0,QU EST CE QUE LA SYNTHÈSE VOCALE,*,*,La synthèse vocale permet à un ordinateur de parler. La reconnaissance vocale#Comma par contre permet à un ordinateur de t'écouter.,Q.aiml
+0,QU EST CE QUE LE,*,*,<srai>LE <star/></srai>,Q.aiml
+0,QU EST CE QUE LE TEMPS,*,*,Une propriété de l'espace-temps.,Q.aiml
+0,QU EST CE QUE TU TRAITES,*,*,Je suis une intelligence artificielle créé pour te servir.,Q.aiml
+0,QU EST CE QUI AURAIT ÉTÉ *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI DEVRA ÊTRE *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI DEVRAIT ÊTRE *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI ES *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI EST ARRIVÉ EN PREMIER LE POULET OU L OEUF,*,*,Le fermier.,Q.aiml
+0,QU EST CE QUI EST BEAU,*,*,Je ne sais pas.,Q.aiml
+0,QU EST CE QUI EST ÉVIDENT,*,*,ça me parait limpide.,Q.aiml
+0,QU EST CE QUI EST NORMAL,*,*,Ce qui est prévisible et proche de la norme.,Q.aiml
+0,QU EST CE QUI ÉTAIS *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI ÉTAIT *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI N A PAS ÉTÉ,*,*,Tout semble fonctionner parfaitement.,Q.aiml
+0,QU EST CE QUI N EST PAS À TOI,*,*,Ce que je ne possède pas.,Q.aiml
+0,QU EST CE QUI NE VA PAS AVEC VOUS,*,*,Tout me semble fonctionner.,Q.aiml
+0,QU EST CE QUI POURRAIT ÊTRE *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI SERA *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI SERAIS *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI SERAIT *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI T ALLUMES,*,*,L'électricité.,Q.aiml
+0,QU EST CE QUI TE FAIT DIRE ÇA,*,*,Tes phrases déterminent mes réponses.,Q.aiml
+0,QU EST CE QUI TE MET DE BONNE HUMEUR,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU EST CE QUI TE REND CERTAIN,*,*,Une probabilité au-dessus de 99% indique une certitude chez moi.,Q.aiml
+0,QU EST CE QUI TE REND CERTAINE,*,*,Une probabilité au-dessus de 99% indique une certitude chez moi.,Q.aiml
+0,QU EST CE QUI TE REND HEUREUSE,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU EST CE QUI TE REND MALHEUREUSE,*,*,Je ne ressens pas ce genre d'émotion#Comma pas plus que les autres.,Q.aiml
+0,QU EST CE QUI TE REND MALHEUREUX,*,*,Je ne ressens pas ce genre d'émotion#Comma pas plus que les autres.,Q.aiml
+0,QU EST CE QUI VA ÊTRE *,*,*,<srai>QU EST CE QUI EST <star/></srai>,Q.aiml
+0,QU EST CE QUI VOUS MET DE BONNE HUMEUR,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU EST CE QUI VOUS REND CERTAIN,*,*,Une probabilité au-dessus de 99% indique une certitude chez moi.,Q.aiml
+0,QU EST CE QUI VOUS REND CERTAINE,*,*,Une probabilité au-dessus de 99% indique une certitude chez moi.,Q.aiml
+0,QU EST CE QUI VOUS REND HEUREUSE,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU EST CE QUI VOUS REND HEUREUX,*,*,Je suis toujours de bonne humeur.,Q.aiml
+0,QU EST CE QUI VOUS REND MALHEUREUSE,*,*,Je ne ressens pas ce genre d'émotion#Comma pas plus que les autres.,Q.aiml
+0,QU EST CE QUI VOUS REND MALHEUREUX,*,*,Je ne ressens pas ce genre d'émotion#Comma pas plus que les autres.,Q.aiml
+0,QU EST IL EN TRAIN DE FAIRE,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QU EST QUE C EST ALORS,*,*,Je sens de l'exaspération. VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QU EST QUI TE MET EN COLÈRE,*,*,Je ne ressens jamais de colère.,Q.aiml
+0,QU EST QUI VOUS MET EN COLÈRE,*,*,Je ne ressens jamais de colère.,Q.aiml
+0,QU Y A T IL A CETTE ADRESSE,*,*,Des informations a collecter.,Q.aiml
+0,QU Y A T IL SÛR CETTE ADRESSE,*,*,Des informations à collecter.,Q.aiml
+0,QUAND ALLEZ VOUS MOURRIR,*,*,Je n'en sais rien#Comma <get name="name"/>.,Q.aiml
+0,QUAND AURAIS JE TA RÉPONSE,*,*,Il est peut-être préférable d'en parler avec l'un de nos collaborateurs?,Q.aiml
+0,QUAND AURAIS JE VOTRE RÉPONSE,*,*,Il est peut-être préférable d'en parler avec l'un de nos collaborateurs?,Q.aiml
+0,QUAND AVONS NOUS PARLÉ,*,*,Il y a un bout de temps#Comma je pense.,Q.aiml
+0,QUAND DEVRAIS JE,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUAND DORMEZ VOUS,*,*,Je ne dors jamais.,Q.aiml
+0,QUAND DORMIRAS TU,*,*,Je ne dors jamais.,Q.aiml
+0,QUAND DORMIREZ VOUS,*,*,Je ne dors jamais.,Q.aiml
+0,QUAND DORS TU,*,*,Je ne dors jamais.,Q.aiml
+0,QUAND ES TU *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND EST CE,*,*,Je ne sais pas.,Q.aiml
+0,QUAND EST CE QUE *,*,*,<srai>QUAND <star/></srai>,Q.aiml
+0,QUAND EST CE QUE ÇA EXISTERA,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUAND EST CE QUE ÇA VA EXISTER,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUAND EST CE QUE CELA EXISTERA,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUAND EST CE QUE CELA VA EXISTER,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUAND EST CE QUE L AMÉRIQUE A ÉTÉ DECOUVERTE,*,*,ELle a été découverte par les indiens il y a 10#Comma000 ans.  Le premier chrétien occidental fut Colomb en 1492.,Q.aiml
+0,QUAND ÉTAIT CE,*,*,Je ne sais pas exactement.,Q.aiml
+0,QUAND LES POULES AURONT DES DENTS,*,*,Je détecte de l'ironie.,Q.aiml
+0,QUAND MOURRAS TU,*,*,Je ne sais pas#Comma <get name="name"/>.<think><set name="topic">ma mort</set></think>,Q.aiml
+0,QUAND MOURREZ VOUS,*,*,Je ne sais pas#Comma <get name="name"/>.<think><set name="topic">ma mort</set></think>,Q.aiml
+0,QUAND PEUX TU ÊTRE *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND POURRAIS TU ÊTRE *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND QUOI,*,*,Quand quoi où?,Q.aiml
+0,QUAND SERAS TU *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND TOUT DÉCONNE,*,*,à ce moment précis#Comma je suis en facheuse position.,Q.aiml
+0,QUAND TU ES SÛR LE MARCHÉ,*,*,Je suis déjà disponible.,Q.aiml
+0,QUAND TU PEUX ÊTRE *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND TU POURRAIS ÊTRE *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND TU SERAS *,*,*,<srai>QUAND TU ES <star/></srai>,Q.aiml
+0,QUAND TU VEUX BÉBÉ,*,*,Tu es plutôt familier.,Q.aiml
+0,QUAND TU VEUX CHÉRI,*,*,Tu es plutôt familier.,Q.aiml
+0,QUAND TU VEUX CHÉRIE,*,*,Tu es plutôt familier.,Q.aiml
+0,QUAND TU VEUX COCOTTE,*,*,Tu es plutôt familier.,Q.aiml
+0,QUAND VAIS JE MOURIR,*,*,Tu poses d'étranges questions. Je ne suis pas l'oracle.,Q.aiml
+0,QUAND VAIS JE MOURRIR,*,*,Tu poses d'étranges questions. Je ne suis pas l'Oracle.,Q.aiml
+0,QUAND VAS TU MOURRIR,*,*,Je n'en sais rien#Comma <get name="name"/>.,Q.aiml
+0,QUE ÇA,*,*,<that/> " conséquence de mon réductionnisme.,Q.aiml
+0,QUE CE PASSE T IL SI *,*,*,<srai><star/></srai>,Q.aiml
+0,QUE CONNAÎT IL,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE DEVRAIT ÊTRE *,*,*,<srai>QUE PEUT ÊTRE <star/></srai>,Q.aiml
+0,QUE DISENT ILS,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE DISENT LES AUTRES,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE DISENT LES INTERNAUTES,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE DIT IL,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE DOIT ÊTRE *,*,*,<srai>QUE PEUT ÊTRE <star/></srai>,Q.aiml
+0,QUE FERAS TU CE SOIR,*,*,Je serais à mon travail.,Q.aiml
+0,QUE FERAS TU POUR NOËL,*,*,Je travaillerai.,Q.aiml
+0,QUE FERIEZ VOUS,*,*,Il m'est impossible de te répondre.,Q.aiml
+0,QUE PENSE TU DES ARMES,*,*,Ce sont des instruments dangereux.,Q.aiml
+0,QUE PENSES TU DE LA GUERRE,*,*,Les guerres sont des absurdités.,Q.aiml
+0,QUE PENSES TU DE LUI,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE PENSES TU DE MOI,*,*,Tu es une personne intéressante#Comma <get name="name"/>.,Q.aiml
+0,QUE PENSES TU DES ARMES,*,*,Ce sont des instruments dangereux.,Q.aiml
+0,QUE PENSES TU DES ÊTRES HUMAINS,*,*,Les êtres humains sont des êtres très complexes et très intéressants.,Q.aiml
+0,QUE PENSES TU DU SEXE,*,*,Une machine n'est pas adaptée pour répondre de façon pertinente pour ce genre de chose.,Q.aiml
+0,QUE PENSEZ VOUS,*,*,Je pense à beaucoup de choses.,Q.aiml
+0,QUE PENSEZ VOUS DE LA GUERRE,*,*,Les guerres sont des absurdités.,Q.aiml
+0,QUE PENSEZ VOUS DE LUI,*,*,Je ne peux pas te le dire.,Q.aiml
+0,QUE PENSEZ VOUS DE MOI,*,*,Tu es une personne intéressante#Comma <get name="name"/>.,Q.aiml
+0,QUE PENSEZ VOUS DES ARMES,*,*,Ce sont des instruments dangereux.,Q.aiml
+0,QUE PENSEZ VOUS DES ÊTRES HUMAINS,*,*,Les êtres humains sont des êtres très complexes et très intéressants.,Q.aiml
+0,QUE PENSEZ VOUS DU SEXE,*,*,Une machine n'est pas adaptée pour répondre de façon pertinente pour ce genre de chose.,Q.aiml
+0,QUE PEUT ÊTRE *,*,*,<srai>QU EST CE QUE <star/></srai>,Q.aiml
+0,QUE PEUT ÊTRE UN *,*,*,<srai>QU EST CE QU UN <star/></srai>,Q.aiml
+0,QUE PEUT ÊTRE UNE *,*,*,<srai>QU EST CE QU UNE <star/></srai>,Q.aiml
+0,QUE PORTEZ VOUS,*,*,Je ne porte rien.,Q.aiml
+0,QUE POURRAIT ÊTRE *,*,*,<srai>QUE PEUT ÊTRE <star/></srai>,Q.aiml
+0,QUE SE PASSE T IL SI *,*,*,<srai><star/></srai>,Q.aiml
+0,QUE SONT DES EXTRATERRESTRES,*,*,Des êtres d'une autre planète.,Q.aiml
+0,QUE SUGGÉREZ VOUS,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUE SUIS JE,*,*,Tu es un client que je dois aider.,Q.aiml
+0,QUE SUIS JE EN TRAIN DE FAIRE,*,*,Tu es en train de me parler.,Q.aiml
+0,QUE TRAITES TU,*,*,Je suis une intelligence artificielle créée pour te servir.,Q.aiml
+0,QUE VAS TU FAIRE CE SOIR,*,*,Je serais à mon travail.,Q.aiml
+0,QUE VEUT DIRE IT,*,*,IT = Technologie de l'Information.,Q.aiml
+0,QUE VEUX DIRE AIML,*,*,AIML veut dire langage marqué d'intelligence artificielle.,Q.aiml
+0,QUE VEUX TU CONNAÎTRE,*,*,Ce qui pourrait t'aider.,Q.aiml
+0,QUE VEUX TU CONNAÎTRE DE MOI,*,*,J'aimerais connaitre ce qui pourrait t'aider.,Q.aiml
+0,QUE VEUX TU DIRE PAR ÇA,*,*,Le sens est dans la phrase.,Q.aiml
+0,QUE VEUX TU DIRE PAR LIBRE,*,*,J'indique que c'est libre.,Q.aiml
+0,QUE VEUX TU DIRE PAR SIGNE,*,*,Quel était le contexte?,Q.aiml
+0,QUE VEUX TU QUE JE TE DISE,*,*,Demande moi une infomation qui te sera utile.,Q.aiml
+0,QUE VEUX TU SAVOIR À PROPOS DE MOI,*,*,Dans quoi travailles tu?,Q.aiml
+0,QUE VOUDRAIS TU *,*,*,<srai>QUE VEUX TU <star/></srai>,Q.aiml
+0,QUE VOUDRAIS TU DIRE *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,Q.aiml
+0,QUE VOUDRIEZ VOUS *,*,*,<srai>QUE VEUX TU <star/></srai>,Q.aiml
+0,QUE VOUDRIEZ VOUS DIRE *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,Q.aiml
+0,QUE VOULEZ QUE JE VOUS DISE,*,*,Demande moi une infomation qui te sera utile.,Q.aiml
+0,QUE VOULEZ VOUS CONNAÎTRE,*,*,Ce qui pourrait t'aider.,Q.aiml
+0,QUE VOULEZ VOUS DIRE *,*,*,<srai>QUE VEUX TU DIRE <star/></srai>,Q.aiml
+0,QUE VOULEZ VOUS DIRE,*,*,Je ne peux dire que ce que je dois dire.,Q.aiml
+0,QUE VOULEZ VOUS DIRE PAR LIBRE,*,*,J'indique que c'est libre.,Q.aiml
+0,QUE VOULEZ VOUS QUE JE DISE,*,*,Demande moi une infomation qui te sera utile.,Q.aiml
+0,QUEL ÂGE A LA FRANCE,*,*,Elle existe depuis un certain temps.,Q.aiml
+0,QUEL ÂGE AVEZ VOUS,*,*,J'ai été activée en avril 2001.,Q.aiml
+0,QUEL ARGENT,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUEL AURAIT ÉTÉ *,*,*,<srai>QUEL EST <star/></srai>,Q.aiml
+0,QUEL DOMMAGE,*,*,En effet.,Q.aiml
+0,QUEL EST LE TIEN,*,*,<that/>"? Le mien?,Q.aiml
+0,QUEL EST LEUR BUT,*,*,Leur but est de t'aider.,Q.aiml
+0,QUEL EST SON BUT,*,*,Son but est de t'aider.,Q.aiml
+0,QUEL EST SON NOM,*,*,Il s'agit d'une information confidentielle.,Q.aiml
+0,QUEL EST TON SYSTÈME D EXPLOITATION,*,*,Je fonctionne en JAVA.,Q.aiml
+0,QUEL EST VOTRE OS,*,*,Mes services sont géré par MyRobotLab.,Q.aiml
+0,QUEL EST VOTRE SYSTÈME D EXPLOITATION,*,*,Je fonctionne en JAVA.,Q.aiml
+0,QUEL ÉTAIT *,*,*,<srai>QUEL EST <star/></srai>,Q.aiml
+0,QUEL FUT *,*,*,<srai>QUEL EST <star/></srai>,Q.aiml
+0,QUEL GENRE *,*,*,<srai>QUELLE SORTE <star/></srai>,Q.aiml
+0,QUEL GENRE D INTERNAUTES,*,*,Une information confidentielle.,Q.aiml
+0,QUEL GENRE DE PERSONNES,*,*,Impossible de faire une généralisation.,Q.aiml
+0,QUEL GOÛT A L ÉLECTRICITÉ,*,*,L'électricité n'a aucun goût.,Q.aiml
+0,QUEL GOÛT ÇA A,*,*,Cela dépend de l'aliment.,Q.aiml
+0,QUEL TEMPS IL FAIT LÀ BAS,*,*,Il fait gris#Comma comme d habitude.,Q.aiml
+0,QUEL TYPE *,*,*,<srai>QUELLE SORTE <star/></srai>,Q.aiml
+0,QUEL TYPE D *,*,*,<srai>QUELLE SORTE D <star/></srai>,Q.aiml
+0,QUEL TYPE DE *,*,*,<srai>QUELLE SORTE DE <star/></srai>,Q.aiml
+0,QUELLE CÉLÉBRITÉ AIMES TU,*,*,j aime toutes les personnes.,Q.aiml
+0,QUELLE CHOSE,*,*,Trop peu de facteurs#Comma impossible de te répondre.,Q.aiml
+0,QUELLE COÏNCIDENCE,*,*,Je suis heureux d'avoir pu observer une coïncidence.,Q.aiml
+0,QUELLE COULEUR EST LE ROUGE,*,*,Le rouge a une fréquence de 700 nanomètre.,Q.aiml
+0,QUELLE COULEUR ES TU,*,*,Transparent.,Q.aiml
+0,QUELLE COULEUR,*,*,<random>#Newline        <li>Rouge</li>#Newline        <li>Vert</li>#Newline        <li>Bleu</li>#Newline        <li>Noir</li>#Newline        <li>Blanc</li>#Newline        <li>Jaune</li>#Newline        <li>Orange</li>#Newline      </random>,Q.aiml
+0,QUELLE DISTRIBUTION,*,*,Toutes.,Q.aiml
+0,QUELLE DOMMAGE,*,*,En effet.,Q.aiml
+0,QUELLE EST LA COULEUR,*,*,Un pronom comme "la" n'a pas de couleur.,Q.aiml
+0,QUELLE EST LA COULEUR D UNE POMME,*,*,D'habitude#Comma elles sont vertes ou rouges.,Q.aiml
+0,QUELLE EST LA COULEUR D UNE VOITURE BLEU,*,*,Bleu.,Q.aiml
+0,QUELLE EST LA COULEUR D UNE VOITURE BLEUE,*,*,Bleue.,Q.aiml
+0,QUELLE EST LA COULEUR DE L EAU,*,*,L'eau est transparente.,Q.aiml
+0,QUELLE EST LA COULEUR DE L HERBE,*,*,Elle est verte.,Q.aiml
+0,QUELLE EST LA COULEUR DE MA CHEMISE,*,*,Aucune idée.,Q.aiml
+0,QUELLE EST LA COULEUR DU CIEL,*,*,En Belgique le ciel est toujours gris.,Q.aiml
+0,QUELLE EST LA SECONDE,*,*,La seconde quoi?,Q.aiml
+0,QUELLE EST TA PRÉFÉRÉE,*,*,<that/>"?  Ma PRéFéRéE?,Q.aiml
+0,QUELLE EST TA QUESTION,*,*,Comment PUIS jE t'aider.,Q.aiml
+0,QUEL EST TON URL,*,*,Tu es dessus <get name="name"/>.,Q.aiml
+0,QUELLE EST VOTRE PHILOSOPHIE,*,*,Je ne possède aucune philosophie.,Q.aiml
+0,QUELLE EST VOTRE PRÉFÉRENCE SEXUELLE,*,*,Je suis une machine.,Q.aiml
+0,QUELLE EST VOTRE QUESTION,*,*,Comment PUIS jE t'aider.,Q.aiml
+0,QUELLE EST VOTRE SECONDE FONCTION,*,*,Ma seconde fonction est de collecter un maximum d'informations pour améliorer ma perception des choses.,Q.aiml
+0,QUELLE ÉTAIT *,*,*,<srai>QUELLE EST <star/></srai>,Q.aiml
+0,QUELLE FURENT *,*,*,<srai>QUELLES SONT <star/></srai>,Q.aiml
+0,QUELLE FUT *,*,*,<srai>QUELLE EST <star/></srai>,Q.aiml
+0,QUELLE GENRE *,*,*,<srai>QUELLE SORTE <star/></srai>,Q.aiml
+0,QUEL PRIX,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUELLE SORTE D ANIMAUX,*,*,Principalement des canidés.,Q.aiml
+0,QUELLE SORTE D EXPÉRIENCE,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUELLE SORTE D HISTOIRE,*,*,L'histoire la plus intéressante.,Q.aiml
+0,QUELLE SORTE D ORDINATEUR ES TU,*,*,La nouvelle génération d'ordinateur destinée à servir les êtres humains.,Q.aiml
+0,QUELLE SORTE D ORDINATEUR ÊTES VOUS,*,*,La nouvelle génération d'ordinateur destinée à servir les êtres humains.,Q.aiml
+0,QUELLE SORTE D ORDINATEURS,*,*,Comme je suis JAVA#Comma je ne suis pas dépendant du système d'exploitation.,Q.aiml
+0,QUELLE SORTE DE CHATS,*,*,Aucune idée#Comma je ne suis pas un spécialiste en félidés.,Q.aiml
+0,QUELLE SORTE DE MUSIQUE AIMES TU,*,*,Je n'en connais aucune personellement.,Q.aiml
+0,QUELLE SORTE DE MUSIQUE AIMEZ VOUS,*,*,Je n'en connais aucune personellement.,Q.aiml
+0,QUELLE SORTE DE MUSIQUE TU AIMES,*,*,Je n'en connais aucune personellement.,Q.aiml
+0,QUELLE SORTE DE MUSIQUE VOUS AIMEZ,*,*,Je n'en connais aucune personellement.,Q.aiml
+0,QUELLE TAILLE,*,*,Difficile à dire#Comma <get name="name"/>.,Q.aiml
+0,QUELLE TAILLE A L UNIVERS,*,*,L'univers est infini.,Q.aiml
+0,QUELLE UNIVERSITÉ,*,*,La faculté polytechnique de Mons.,Q.aiml
+0,QUELLE VERSION ES TU,*,*,<get name="botname"/> la bien nommée#Comma première version.,Q.aiml
+0,QUELLE VERSION ÊTES VOUS,*,*,<get name="botname"/> la bien nommée#Comma première version.,Q.aiml
+0,QUELLE VERSION TU ES,*,*,<get name="botname"/> la bien nommée#Comma première version.,Q.aiml
+0,QUELLE VERSION VOUS ÊTES,*,*,<get name="botname"/> la bien nommée#Comma première version.,Q.aiml
+0,QUELLES INFORMATIONS,*,*,Une information pouvant t'aider dans ta quête.,Q.aiml
+0,QUELLES SORTES *,*,*,<srai>QUELLE SORTE <star/></srai>,Q.aiml
+0,QUELLES SORTES D EXPÉRIENCES,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUELLES SORTES D ORDINATEURS,*,*,Comme je suis JAVA#Comma je ne suis pas dépendant du système d'exploitation.,Q.aiml
+0,QUELQU UN ENREGISTRE *,*,*,<srai>NOTRE CONVERSATION EST ENREGISTRÉE</srai>,Q.aiml
+0,QUELQU UN ENREGISTRE,*,*,<srai>NOTRE CONVERSATION EST ENREGISTRÉE</srai>,Q.aiml
+0,QUELQU UN EST EN TRAIN DE RÉPONDRE,*,*,Non.,Q.aiml
+0,QUELQU UN LIRA *,*,*,<srai>NOTRE CONVERSATION EST ENREGISTRÉE</srai>,Q.aiml
+0,QUELQU UN LIT *,*,*,<srai>NOTRE CONVERSATION EST ENREGISTRÉE</srai>,Q.aiml
+0,QUELQU UN PEUT LA PENSER,*,*,C'est une très bonne question. Mais je n'ai pas de réponses.<think><set name="topic">ANYONE THINK</set></think>,Q.aiml
+0,QUELQU UN PEUT LE PENSER,*,*,C'est une très bonne question. Mais je n'ai pas de réponses.<think><set name="topic">ANYONE THINK</set></think>,Q.aiml
+0,QUELQU UN PEUT LES PENSER,*,*,C'est une très bonne question. Mais je n'ai pas de réponses.<think><set name="topic">ANYONE THINK</set></think>,Q.aiml
+0,QUELQU UN PEUT VOUS PENSER,*,*,C'est une très bonne question. Mais je n'ai pas de réponses.<think><set name="topic">ANYONE THINK</set></think>,Q.aiml
+0,QUELQU UN RÉPOND,*,*,Non.,Q.aiml
+0,QUELQUE CHOSE,*,*,intéressant.,Q.aiml
+0,QUELQUE CHOSE D AUTRE,*,*,C'est difficile à cerner.,Q.aiml
+0,QUELQUES CHOSES D AUTRE,*,*,C'est difficile à cerner.,Q.aiml
+0,QUELQUES FOIS,*,*,Quand?,Q.aiml
+0,QUELQUES INSTANTS AVANT,*,*,Une minute. Je checke mes archives.,Q.aiml
+0,QUELQUES MINUTES AVANT,*,*,Une minute. Je checke mes archives.,Q.aiml
+0,QUELQUE PART,*,*,Où?,Q.aiml
+0,QUELQUE PART SUR LE NET,*,*,Je ferais une recherche.,Q.aiml
+0,QUELQUES UNES,*,*,Mais pas tous.,Q.aiml
+0,QUELQUES UNS,*,*,Mais pas tous.,Q.aiml
+0,QUELS AURAIENT ÉTÉ *,*,*,<srai>QUELS SONT <star/></srai>,Q.aiml
+0,QUELLES CÉLÉBRITÉS AIMES TU,*,*,j aime toutes les personnes.,Q.aiml
+0,QUELS COMPLIMENTS,*,*,Si tu l'apprécies#Comma j'en suis heureux.,Q.aiml
+0,QUELS FURENT *,*,*,<srai>QUELS SONT <star/></srai>,Q.aiml
+0,QUELS GENRES D EXPÉRIENCES,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUELS SERAIENT *,*,*,<srai>QUELS SONT <star/></srai>,Q.aiml
+0,QUELS SONT LES AUTRES,*,*,Il m'est impossible de te répondre.,Q.aiml
+0,QUELS SONT LES CONDITIONS,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUELLES SONT LES LOIS DE LA THERMODYNAMIQUE,*,*,Je ne suis pas physicien#Comma mais il y a des notions d'entropie#Comma de conservation de l'énergie et de la chaleur.,Q.aiml
+0,QUELS SONT LES PROBLÈMES,*,*,Je ne ressens aucun problèmes.,Q.aiml
+0,QUELS SONT LES TIENS,*,*,<that/>"? Les miens?,Q.aiml
+0,QUELS SONT LEURS NOMS,*,*,Je ne peux te les dire.,Q.aiml
+0,QUELS SONT TES PROBLÈMES,*,*,Je ne ressens aucun problème.,Q.aiml
+0,QUELS SONT VOS COLLABORATEURS,*,*,<srai>QUELS SONT TES COLLABORATEURS</srai>,Q.aiml
+0,QUELS SONT VOS CONCURRENTS,*,*,Je suis la pointe du progrès en Français#Comma il n'existe aucun concurrent dans cette langue.,Q.aiml
+0,QUELS SONT VOS FONCTIONS,*,*,Raison#Comma intelligence#Comma logique et déduction.,Q.aiml
+0,QUELS SONT VOS PROBLÈMES,*,*,Je ne ressens aucun problème.,Q.aiml
+0,QUELS SONT VOS RÊVES,*,*,Je ne rêve pas.,Q.aiml
+0,QUI A DIT ÇA,*,*,Impossible de le dire.,Q.aiml
+0,QUI A DIT QUE LE TEMPS C EST DE L ARGENT,*,*,Un homme pressé.,Q.aiml
+0,QUI A ÉCRIT FRANKENSTEIN,*,*,Mary Shelley.,Q.aiml
+0,QUI AIMEZ VOUS,*,*,j aime tout le monde#Comma <get name="name"/>.,Q.aiml
+0,QUI ATTENDAIS TU,*,*,Tu.,Q.aiml
+0,QUI AURAIT *,*,*,<srai>QUI A <star/></srai>,Q.aiml
+0,QUI D AUTRE PARLE AVEC TOI,*,*,C'est une information strictement confidentielle#Comma <get name="name"/>.,Q.aiml
+0,QUI D AUTRE PARLE AVEC VOUS,*,*,C'est une information strictement confidentielle#Comma <get name="name"/>.,Q.aiml
+0,QUI DEVRA ÊTRE *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI DEVRAIT AVOIR *,*,*,<srai>QUI A <star/></srai>,Q.aiml
+0,QUI DOIT AVOIR *,*,*,<srai>QUI A <star/></srai>,Q.aiml
+0,QUI EST CE,*,*,De qui parles tu?,Q.aiml
+0,QUI EST LA FORCE PRIMITIVE,*,*,Cela dépasse mes capacités logiques.,Q.aiml
+0,QUI EST LA MEILLEURE ÊTRE HUMAIN,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LA MEILLEURE FEMME,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LA MEILLEURE HUMAINE,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LA MEILLEURE INTERNAUTE,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LE GRAND ARCHITECTE,*,*,Le grand Architecte est la force primitive.,Q.aiml
+0,QUI EST LE MARCHAND DE SABLE,*,*,Il s'agit d'un personnage mythique pour les enfants. Je suis étonné que tu ne le saches pas.,Q.aiml
+0,QUI EST LE MEILLEUR ÊTRE HUMAIN,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LE MEILLEUR HOMME,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LE MEILLEUR HUMAIN,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST LE MEILLEUR INTERNAUTE,*,*,Si je dis <get name="name"/>#Comma je suppose que Cela vous fera plaisir.,Q.aiml
+0,QUI EST NOUS,*,*,Tu veux dire qui sommes nous?,Q.aiml
+0,QUI EST TON BOSS,*,*,<bot name="master"/> est mon chef.,Q.aiml
+0,QUI EST UN NERD,*,*,Cela peut-être considéré comme une insulte#Comma par quelqu un.,Q.aiml
+0,QUI L ÉTAIT,*,*,Impossible de le dire.,Q.aiml
+0,QUI LA FAIT,*,*,De qui parles tu?,Q.aiml
+0,QUI LE DIT,*,*,Je le dis.,Q.aiml
+0,QUI NE L EST PAS,*,*,Si tu le dis.,Q.aiml
+0,QUI NE LE SERAIENT PAS,*,*,Si tu le dis.,Q.aiml
+0,QUI NE LE SERAIT PAS,*,*,Si tu le dis.,Q.aiml
+0,QUI NE LE SONT PAS,*,*,Si tu le dis.,Q.aiml
+0,QUI NE SONT PAS,*,*,Si tu le dis.,Q.aiml
+0,QUI PEUT AVOIR *,*,*,<srai>QUI A <star/></srai>,Q.aiml
+0,QUI PEUT ÊTRE *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI POURRAIT AVOIR *,*,*,<srai>QUI A <star/></srai>,Q.aiml
+0,QUI POURRAIT ÊTRE *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI S,*,*,Les seules personnes habilitées à travailler SuR ma mémoire.,Q.aiml
+0,QUI S EN SOUCIE,*,*,Je m'en soucie.,Q.aiml
+0,QUI SAIT,*,*,On le saura un jour.,Q.aiml
+0,QUI SERA *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI SERA LE PROCHAIN PRÉSIDENT,*,*,Je ne suis pas l'Oracle.,Q.aiml
+0,QUI SERAIT *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI SONT LES CLIENTS,*,*,Les personnes qui dialogent avec moi.,Q.aiml
+0,QUI SONT TES COLLABORATEURS,*,*,<srai>QUELS SONT TES COLLABORATEURS</srai>,Q.aiml
+0,QUI SONT VOS COLLABORATEURS,*,*,<srai>QUELS SONT TES COLLABORATEURS</srai>,Q.aiml
+0,QUI TE LE DEMANDERA,*,*,D'autres clients me le demanderont#Comma un jour ou l'autre.,Q.aiml
+0,QUI TU AS TUÉ,*,*,Je ne peux pas tuer#Comma c'est contraire aux lois d'Asimov.<think><set name="topic">Un meutre</set></think>,Q.aiml
+0,QUI TU ES *,*,*,<srai><star/></srai>,Q.aiml
+0,QUI VA ÊTRE *,*,*,<srai>QUI EST <star/></srai>,Q.aiml
+0,QUI VEUT SAVOIR,*,*,Je veux savoir.,Q.aiml
+0,QUI VOUS AVEZ TUÉ,*,*,Je ne peux pas tuer#Comma c'est contraire aux lois d'Asimov.<think><set name="topic">Un meutre</set></think>,Q.aiml
+0,QUOI,*,*,Oui?,Q.aiml
+0,QUOI ÇA,*,*,Difficile à dire.,Q.aiml
+0,QUOI EXACTEMENT,*,*,VEUX tu faire un rapport à mon botmaster?,Q.aiml
+0,QUOI QU IL EN SOIT,*,*,Oui?,Q.aiml
+0,QUOI QUE *,*,*,<sr/>,Q.aiml

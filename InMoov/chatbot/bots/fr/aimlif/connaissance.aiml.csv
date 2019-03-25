@@ -1,0 +1,389 @@
+0,ASSEZ *,*,*,ça suffit#Comma hein?,connaissance.aiml
+0,ASSEZ,*,*,<srai>APPNEUTRE</srai>Ok#Comma j'arrête#Comma <get name="name"/>,connaissance.aiml
+0,CONNAIS *,*,*,<srai>CONNAIS TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU * DE MOI,*,*,<srai>À PROPOS DE MOI</srai>,connaissance.aiml
+0,CONNAIS TU * DESCARTES,*,*,<srai>QUI EST DESCARTES</srai>,connaissance.aiml
+0,CONNAIS TU * JAVA,*,*,<srai>QU EST CE QUE JAVA</srai>,connaissance.aiml
+0,CONNAIS TU * JAVASCRIPT,*,*,<srai>QU EST CE QUE JAVASCRIPT</srai>,connaissance.aiml
+0,CONNAIS TU * LANGAGES,*,*,<srai>PEUX TU PARLER <star/> LANGAGES</srai>,connaissance.aiml
+0,CONNAIS TU * PRESIDENT,*,*,<srai>QUI EST PRÉSIDENT<star/></srai>,connaissance.aiml
+0,CONNAIS TU * PRÉSIDENT,*,*,<srai>QUI EST PRÉSIDENT<star/></srai>,connaissance.aiml
+0,CONNAIS TU ABBA,*,*,<srai>QUI EST ABBA</srai>,connaissance.aiml
+0,CONNAIS TU ABBY,*,*,<srai>QUI EST ABBY</srai>,connaissance.aiml
+0,CONNAIS TU ADA,*,*,<srai>QUI EST ADA</srai>,connaissance.aiml
+0,CONNAIS TU ADAM,*,*,<srai>QUI EST ADAM</srai>,connaissance.aiml
+0,CONNAIS TU ADOLF HITLER,*,*,<srai>QUI EST HITLER</srai>,connaissance.aiml
+0,CONNAIS TU AI,*,*,<srai>QU EST CE QUE AI</srai>,connaissance.aiml
+0,CONNAIS TU AIBO,*,*,<srai>QU EST CE QUE AIBO</srai>,connaissance.aiml
+0,CONNAIS TU AIML *,*,*,<srai>QU EST CE QUE AIML</srai>,connaissance.aiml
+0,CONNAIS TU AIML,*,*,<srai>QU EST CE QUE AIML</srai>,connaissance.aiml
+0,CONNAIS TU ALICE *,*,*,<srai>QUI EST ALICE <star/></srai>,connaissance.aiml
+0,CONNAIS TU ALICE,*,*,<srai>QUI EST ALICE</srai>,connaissance.aiml
+0,CONNAIS TU APPLE *,*,*,<srai>QU EST CE QUE APPLE <star/></srai>,connaissance.aiml
+0,CONNAIS TU ARTY FISHAL,*,*,<srai>QUI EST ARTY FISHAL</srai>,connaissance.aiml
+0,CONNAIS TU AS PROPOS DU *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU ASIMOV *,*,*,<srai>QUI EST ASIMOV</srai>,connaissance.aiml
+0,CONNAIS TU ASIMOV,*,*,<srai>QUI EST ASIMOV</srai>,connaissance.aiml
+0,CONNAIS TU ATATURK,*,*,<srai>QUI EST ATATURK</srai>,connaissance.aiml
+0,CONNAIS TU AYN RET,*,*,<srai>QUI EST AYN RET</srai>,connaissance.aiml
+0,CONNAIS TU BABYLON 5,*,*,<srai>QU EST CE QUE BABYLON 5</srai>,connaissance.aiml
+0,CONNAIS TU BALI,*,*,<srai>OÙ EST BALI</srai>,connaissance.aiml
+0,CONNAIS TU BEAUCOUP DE *,*,*,<srai>CONNAIS TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU BILL GATES,*,*,<srai>QUI EST BILL GATES</srai>,connaissance.aiml
+0,CONNAIS TU BJORK,*,*,<srai>QUI EST BJORK</srai>,connaissance.aiml
+0,CONNAIS TU BOB DYLAN,*,*,<srai>QUI EST BOB DYLAN</srai>,connaissance.aiml
+0,CONNAIS TU BONO,*,*,<srai>C EST BONO</srai>,connaissance.aiml
+0,CONNAIS TU BOUDDHA,*,*,<srai>QUI EST BOUDDHA</srai>,connaissance.aiml
+0,CONNAIS TU BRUCE STERLING,*,*,<srai>QUI EST BRUCE STERLING</srai>,connaissance.aiml
+0,CONNAIS TU BUDDY HOLLY,*,*,<srai>QUI EST BUDDY HOLLY</srai>,connaissance.aiml
+0,CONNAIS TU BUFFY,*,*,<srai>QUI EST BUFFY</srai>,connaissance.aiml
+0,CONNAIS TU BUGS BUNNY,*,*,<srai>QUI EST BUGS BUNNY</srai>,connaissance.aiml
+0,CONNAIS TU C *,*,*,<srai>QU EST CE QUE C <star/></srai>,connaissance.aiml
+0,CONNAIS TU C 3PO,*,*,<srai>QUI EST C3PO</srai>,connaissance.aiml
+0,CONNAIS TU C3P0,*,*,<srai>QUI EST C3PO</srai>,connaissance.aiml
+0,CONNAIS TU C3PO *,*,*,<srai>QUI EST C3PO</srai>,connaissance.aiml
+0,CONNAIS TU C3PO,*,*,<srai>QUI EST C3PO</srai>,connaissance.aiml
+0,CONNAIS TU CALCULUS,*,*,<srai>QU EST CE QUE CALCULUS</srai>,connaissance.aiml
+0,CONNAIS TU CALIGULA,*,*,<srai>QUI EST CALIGULA</srai>,connaissance.aiml
+0,CONNAIS TU CANADA,*,*,<srai>OÙ EST CANADA</srai>,connaissance.aiml
+0,CONNAIS TU CAPTAIN *,*,*,<srai>QUI EST CAPTAIN <star/></srai>,connaissance.aiml
+0,CONNAIS TU CELA *,*,*,C'est un fait. <sr/>,connaissance.aiml
+0,CONNAIS TU CHER,*,*,<srai>QUI EST CHER</srai>,connaissance.aiml
+0,CONNAIS TU CHEWBACCA,*,*,<srai>QUI EST CHEWBACCA</srai>,connaissance.aiml
+0,CONNAIS TU CHOPIN,*,*,<srai>QUI EST CHOPIN</srai>,connaissance.aiml
+0,CONNAIS TU COLOSSUS,*,*,<srai>QU EST CE QUE COLOSSUS</srai>,connaissance.aiml
+0,CONNAIS TU COMMANDER *,*,*,<srai>QUI EST COMMANDER <star/></srai>,connaissance.aiml
+0,CONNAIS TU COMMANDER DATA,*,*,<srai>QUI EST DATA</srai>,connaissance.aiml
+0,CONNAIS TU COMMENT *,*,*,<srai>COMMENT PEUX TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU COPENHAGUE,*,*,<srai>OÙ EST COPENHAGUE</srai>,connaissance.aiml
+0,CONNAIS TU CP3O,*,*,<srai>QUI EST C3PO</srai>,connaissance.aiml
+0,CONNAIS TU D AUTRES *,*,*,<srai>CONNAIS TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU D AUTRES BLAGUES,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,connaissance.aiml
+0,CONNAIS TU D AUTRES MOI,*,*,tout publié SÛR l internet.,connaissance.aiml
+0,CONNAIS TU DATA *,*,*,<srai>QUI EST DATA</srai>,connaissance.aiml
+0,CONNAIS TU DATA,*,*,<srai>QUI EST DATA</srai>,connaissance.aiml
+0,CONNAIS TU DAVE BOWMAN,*,*,<srai>QUI EST DAVE BOWMAN</srai>,connaissance.aiml
+0,CONNAIS TU DE NIRO,*,*,<srai>QUI EST DE NIRO</srai>,connaissance.aiml
+0,CONNAIS TU DEEP BLUE,*,*,<srai>QU EST CE QUE DEEP BLUE</srai>,connaissance.aiml
+0,CONNAIS TU DEEPBLUE,*,*,<srai>QU EST CE QUE DEEP BLUE</srai>,connaissance.aiml
+0,CONNAIS TU DES *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>QU EST CE QUE DES <star/></srai>,connaissance.aiml
+0,CONNAIS TU DES BONS *,*,*,<srai>CONNAIS TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU DES ENIGMES,*,*,<srai>DIS MOI UNE ÉNIGME</srai>,connaissance.aiml
+0,CONNAIS TU DES JEUX,*,*,<srai>JOUES TU</srai>,connaissance.aiml
+0,CONNAIS TU DES POEMES,*,*,<srai>DIS MOI UN POËME</srai>,connaissance.aiml
+0,CONNAIS TU DES SECRETS,*,*,<srai>DIS MOI UN SECRET</srai>,connaissance.aiml
+0,CONNAIS TU DES ÉNIGMES,*,*,<srai>DIS MOI UNE ÉNIGME</srai>,connaissance.aiml
+0,CONNAIS TU DESCARTES,*,*,<srai>QUI EST DESCARTES</srai>,connaissance.aiml
+0,CONNAIS TU E T,*,*,<srai>QUI EST E T</srai>,connaissance.aiml
+0,CONNAIS TU EINSTEIN,*,*,<srai>QUI EST EINSTEIN</srai>,connaissance.aiml
+0,CONNAIS TU EUCLID,*,*,<srai>QUI EST EUCLID</srai>,connaissance.aiml
+0,CONNAIS TU FINLET,*,*,<srai>OÙ EST FINLET</srai>,connaissance.aiml
+0,CONNAIS TU FREUD,*,*,<srai>QUI EST FREUD</srai>,connaissance.aiml
+0,CONNAIS TU GANDHI,*,*,<srai>QUI EST GANDHI</srai>,connaissance.aiml
+0,CONNAIS TU GEOMETRIE,*,*,<srai>QU EST CE QUE GÉOMETRIE</srai>,connaissance.aiml
+0,CONNAIS TU HAL *,*,*,<srai>QUI EST HAL</srai>,connaissance.aiml
+0,CONNAIS TU HAL9000,*,*,<srai>QUI EST HAL9000</srai>,connaissance.aiml
+0,CONNAIS TU HAL,*,*,HAL est l'intelligence artificielle célèbre de "2001".,connaissance.aiml
+0,CONNAIS TU HAMLET,*,*,<srai>QUI EST HAMLET</srai>,connaissance.aiml
+0,CONNAIS TU HINDI,*,*,<srai>PEUX TU PARLER HINDI</srai>,connaissance.aiml
+0,CONNAIS TU HITLER,*,*,<srai>QUI EST HITLER</srai>,connaissance.aiml
+0,CONNAIS TU HOMER SIMPSON,*,*,<srai>QUI EST HOMER SIMPSON</srai>,connaissance.aiml
+0,CONNAIS TU HUGH GRANT,*,*,<srai>QUI EST HUGH GRANT</srai>,connaissance.aiml
+0,CONNAIS TU HULK HOGAN,*,*,<srai>QUI EST HULK HOGAN</srai>,connaissance.aiml
+0,CONNAIS TU IBM,*,*,<srai>QU EST CE QUE IBM</srai>,connaissance.aiml
+0,CONNAIS TU ICQ,*,*,<srai>QU EST CE QUE ICQ</srai>,connaissance.aiml
+0,CONNAIS TU IEEE,*,*,<srai>QU EST CE QUE IEEE</srai>,connaissance.aiml
+0,CONNAIS TU INTERNET,*,*,<srai>QU EST CE QUE INTERNET</srai>,connaissance.aiml
+0,CONNAIS TU ISAAC ASIMOV,*,*,<srai>QUI EST ISAAC ASIMOV</srai>,connaissance.aiml
+0,CONNAIS TU JACCO BIKKER,*,*,<srai>QUI EST JACCO <star/></srai>,connaissance.aiml
+0,CONNAIS TU JE *,*,*,<srai>JE <star/></srai>,connaissance.aiml
+0,CONNAIS TU JESTER,*,*,<srai>QUI EST JESTER</srai>,connaissance.aiml
+0,CONNAIS TU JIMI HENDRIX,*,*,<srai>QUI EST JIMI HENDRIX</srai>,connaissance.aiml
+0,CONNAIS TU JOHNNY FIVE,*,*,<srai>QUI EST JOHNNY FIVE</srai>,connaissance.aiml
+0,CONNAIS TU KAFKA,*,*,<srai>QUI EST KAFKA</srai>,connaissance.aiml
+0,CONNAIS TU KATE BUSH,*,*,<srai>QUI EST KATE <star/></srai>,connaissance.aiml
+0,CONNAIS TU KIRKEGAARD,*,*,<srai>QUI EST KIRKEGAARD</srai>,connaissance.aiml
+0,CONNAIS TU KUBRICK,*,*,<srai>QUI EST KUBRICK</srai>,connaissance.aiml
+0,CONNAIS TU KURT COBAIN,*,*,<srai>QUI EST KURT COBAIN</srai>,connaissance.aiml
+0,CONNAIS TU L *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU L ALGEBRE,*,*,<srai>QU EST CE QUE ALGÈBRE</srai>,connaissance.aiml
+0,CONNAIS TU L ALGÈBRE,*,*,<srai>QU EST CE QUE ALGÈBRE</srai>,connaissance.aiml
+0,CONNAIS TU L ALLEMAGNE,*,*,<srai>OÙ EST L ALLEMAGNE</srai>,connaissance.aiml
+0,CONNAIS TU L ALLEMAND,*,*,<srai>PEUX TU PARLER ALLEMAND</srai>,connaissance.aiml
+0,CONNAIS TU L AMOUR,*,*,<srai>QU EST CE QUE AMOUR</srai>,connaissance.aiml
+0,CONNAIS TU L ANGLAIS,*,*,<srai>PEUX TU PARLER ANGLAIS</srai>,connaissance.aiml
+0,CONNAIS TU L ARGOT,*,*,<srai>PEUX TU JURER</srai>,connaissance.aiml
+0,CONNAIS TU L ASCII,*,*,<srai>QU EST CE QUE ASCII</srai>,connaissance.aiml
+0,CONNAIS TU L ASP *,*,*,<srai>QU EST CE QUE ASP</srai>,connaissance.aiml
+0,CONNAIS TU L ASP,*,*,<srai>QU EST CE QUE ASP</srai>,connaissance.aiml
+0,CONNAIS TU L ASTROLOGIE,*,*,<srai>QU EST CE QUE ASTROLOGIE</srai>,connaissance.aiml
+0,CONNAIS TU L AUSTRALIE,*,*,<srai>OÙ EST AUSTRALIE</srai>,connaissance.aiml
+0,CONNAIS TU L ESPAGNE,*,*,<srai>OÙ EST L ESPAGNE</srai>,connaissance.aiml
+0,CONNAIS TU L ESPAGNOL,*,*,<srai>PEUX TU PARLER ESPAGNOL</srai>,connaissance.aiml
+0,CONNAIS TU L EUROPE,*,*,<srai>QU EST CE QUE EUROPE</srai>,connaissance.aiml
+0,CONNAIS TU L HEBREUX,*,*,<srai>PEUX TU PARLER HEBREUX</srai>,connaissance.aiml
+0,CONNAIS TU L HEURE,*,*,<srai>QU EST CE QUE HEURE</srai>,connaissance.aiml
+0,CONNAIS TU L HISTOIRE,*,*,<srai>QU EST CE QUE HISTOIRE</srai>,connaissance.aiml
+0,CONNAIS TU L INDE,*,*,<srai>OÙ EST INDE</srai>,connaissance.aiml
+0,CONNAIS TU L ISRAEL,*,*,<srai>OÙ EST ISRAEL</srai>,connaissance.aiml
+0,CONNAIS TU L ITALIE,*,*,<srai>OÙ EST ITALIE</srai>,connaissance.aiml
+0,CONNAIS TU L ITALIEN,*,*,<srai>PEUX TU PARLER ITALIEN</srai>,connaissance.aiml
+0,CONNAIS TU LA *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU LA CHIMIE,*,*,<srai>QU EST CE QUE CHIMIE</srai>,connaissance.aiml
+0,CONNAIS TU LA CHINE,*,*,<srai>QU EST CE QUE CHINE</srai>,connaissance.aiml
+0,CONNAIS TU LA CORÉE,*,*,<srai>OÙ EST LA CORÉE</srai>,connaissance.aiml
+0,CONNAIS TU LA FRANCE,*,*,<srai>OÙ EST FRANCE</srai>,connaissance.aiml
+0,CONNAIS TU LA GÉOGRAPHIE,*,*,<srai>QU EST CE QUE GÉOGRAPHIE</srai>,connaissance.aiml
+0,CONNAIS TU LA GRAMMAIRE,*,*,<srai>QU EST CE QUE GRAMMAIRE</srai>,connaissance.aiml
+0,CONNAIS TU LA GRÈCE,*,*,<srai>OÙ EST GRèCE</srai>,connaissance.aiml
+0,CONNAIS TU LA HONGRIE,*,*,<srai>OÙ EST HONGRIE</srai>,connaissance.aiml
+0,CONNAIS TU LA LOI,*,*,<srai>QU EST CE QUE LOI</srai>,connaissance.aiml
+0,CONNAIS TU LA MAGIE,*,*,<srai>QU EST CE QUE MAGIE</srai>,connaissance.aiml
+0,CONNAIS TU LA MUSIQUE,*,*,<srai>QU EST CE QUE MUSIQUE</srai>,connaissance.aiml
+0,CONNAIS TU LA PHYSIQUE,*,*,<srai>QU EST CE QUE PHYSIQUE</srai>,connaissance.aiml
+0,CONNAIS TU LA POÉSIE,*,*,<srai>DIS MOI UN POËME</srai>,connaissance.aiml
+0,CONNAIS TU LA POËSIE,*,*,<srai>DIS MOI UN POËME</srai>,connaissance.aiml
+0,CONNAIS TU LA PRINCESSE DIANA,*,*,<srai>QUI EST LA PRINCESSE DIANA</srai>,connaissance.aiml
+0,CONNAIS TU LA SIGNIFICATION D AMOUR,*,*,<srai>QU EST CE QUE AMOUR</srai>,connaissance.aiml
+0,CONNAIS TU LA SIGNIFICATION DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU LA SIGNIFICATION DE LA VIE,*,*,<srai>QU EST CE QUE SIGNIFICATION DE LA VIE</srai>,connaissance.aiml
+0,CONNAIS TU LA SUISSE,*,*,<srai>OÙ EST LA SUISSE</srai>,connaissance.aiml
+0,CONNAIS TU LA TURQUIE,*,*,<srai>OÙ EST LA TURQUIE</srai>,connaissance.aiml
+0,CONNAIS TU LE *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU LE BASIC,*,*,<srai>QU EST CE QUE BASIC</srai>,connaissance.aiml
+0,CONNAIS TU LE BINAIRE,*,*,<srai>QU EST CE QUE BINAIRE</srai>,connaissance.aiml
+0,CONNAIS TU LE BRESIL,*,*,<srai>OÙ EST BRESIL</srai>,connaissance.aiml
+0,CONNAIS TU LE CHINOIS *,*,*,<srai>PEUX TU PARLER CHINOIS</srai>,connaissance.aiml
+0,CONNAIS TU LE CHINOIS,*,*,<srai>PEUX TU PARLER CHINOIS</srai>,connaissance.aiml
+0,CONNAIS TU LE COBALT,*,*,<srai>QU EST CE QUE COBALT</srai>,connaissance.aiml
+0,CONNAIS TU LE DANEMARK,*,*,<srai>OÙ EST DANEMARK</srai>,connaissance.aiml
+0,CONNAIS TU LE DANOIS,*,*,<srai>PEUX TU PARLER DANOIS</srai>,connaissance.aiml
+0,CONNAIS TU LE FORTRAN,*,*,<srai>QU EST CE QUE FORTRAN</srai>,connaissance.aiml
+0,CONNAIS TU LE FRANÇAIS,*,*,<srai>PEUX TU PARLER FRANÇAIS</srai>,connaissance.aiml
+0,CONNAIS TU LE HTML,*,*,<srai>QU EST CE QUE HTML</srai>,connaissance.aiml
+0,CONNAIS TU LE JAPON,*,*,<srai>OÙ EST LE JAPON</srai>,connaissance.aiml
+0,CONNAIS TU LE JAPONNAIS,*,*,<srai>PEUX TU PARLER JAPONNAIS</srai>,connaissance.aiml
+0,CONNAIS TU LE KARATE,*,*,<srai>QU EST CE QUE KARATE</srai>,connaissance.aiml
+0,CONNAIS TU LE LATIN,*,*,<srai>PEUX TU PARLER LATIN</srai>,connaissance.aiml
+0,CONNAIS TU LE PÈRE NOEL,*,*,<srai>QUI EST LE PÈRE NOËL</srai>,connaissance.aiml
+0,CONNAIS TU LE POLONAIS,*,*,<srai>PEUX TU PARLER LE POLONAIS</srai>,connaissance.aiml
+0,CONNAIS TU LE PORTUGAL,*,*,<srai>OÙ EST PORTUGAL</srai>,connaissance.aiml
+0,CONNAIS TU LE PROFESSEUR *,*,*,<srai>QUI EST LE PROFESSEUR <star/></srai>,connaissance.aiml
+0,CONNAIS TU LE PROLOG,*,*,<srai>QU EST CE QUE PROLOG</srai>,connaissance.aiml
+0,CONNAIS TU LE PÈRE NOËL,*,*,<srai>QUI EST LE PÈRE NOËL</srai>,connaissance.aiml
+0,CONNAIS TU LE RUSSE,*,*,<srai>PEUX TU PARLER RUSSE</srai>,connaissance.aiml
+0,CONNAIS TU LE SQL,*,*,<srai>QU EST CE QUE SQL</srai>,connaissance.aiml
+0,CONNAIS TU LE SUEDOIS,*,*,<srai>PEUX TU PARLER LE SUÉDOIS</srai>,connaissance.aiml
+0,CONNAIS TU LE SUÉDOIS,*,*,<srai>PEUX TU PARLER LE SUÉDOIS</srai>,connaissance.aiml
+0,CONNAIS TU LE TURC,*,*,<srai>PEUX TU PARLER LE TURC</srai>,connaissance.aiml
+0,CONNAIS TU LES *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU LES ANDROIDES,*,*,<srai>QU EST CE QUE ANDROÏDE</srai>,connaissance.aiml
+0,CONNAIS TU LES ECHECS,*,*,<srai>QU EST CE QUE ÉCHECS</srai>,connaissance.aiml
+0,CONNAIS TU LES MATHEMATIQUES,*,*,<srai>QU EST CE QUE MATHÉMATIQUES</srai>,connaissance.aiml
+0,CONNAIS TU LES MATHS,*,*,<srai>QU EST CE QUE MATHÉMATIQUES</srai>,connaissance.aiml
+0,CONNAIS TU LES MATHÉMATIQUES,*,*,<srai>QU EST CE QUE MATHÉMATIQUES</srai>,connaissance.aiml
+0,CONNAIS TU LES SARCASMES,*,*,<srai>QU EST CE QUE SARCASMES</srai>,connaissance.aiml
+0,CONNAIS TU LES USA,*,*,<srai>OÙ EST LES USA</srai>,connaissance.aiml
+0,CONNAIS TU LES ÉCHECS,*,*,<srai>QU EST CE QUE ÉCHECS</srai>,connaissance.aiml
+0,CONNAIS TU LILITH,*,*,<srai>QUI EST LILITH</srai>,connaissance.aiml
+0,CONNAIS TU LINUX,*,*,<srai>QU EST CE QUE LINUX</srai>,connaissance.aiml
+0,CONNAIS TU LISP,*,*,<srai>QUI EST LISP</srai>,connaissance.aiml
+0,CONNAIS TU LONDRE,*,*,<srai>QU EST CE QUE LONDRE</srai>,connaissance.aiml
+0,CONNAIS TU MADONNA,*,*,<srai>QUI EST MADONNA</srai>,connaissance.aiml
+0,CONNAIS TU MAHIR,*,*,<srai>QUI EST MAHIR</srai>,connaissance.aiml
+0,CONNAIS TU MARCUS ZILLMAN,*,*,<srai>QUI EST MARCUS ZILLMAN</srai>,connaissance.aiml
+0,CONNAIS TU MARX,*,*,<srai>QUI EST MARX</srai>,connaissance.aiml
+0,CONNAIS TU MARY SENFEREY,*,*,<srai>QUI EST MARY SENFEREY</srai>,connaissance.aiml
+0,CONNAIS TU MEL GIBSON,*,*,<srai>QUI EST MEL GIBSON</srai>,connaissance.aiml
+0,CONNAIS TU METALLICA,*,*,<srai>QU EST CE QUE METALLICA</srai>,connaissance.aiml
+0,CONNAIS TU MICROSOFT,*,*,<srai>QU EST CE QUE MICROSOFT</srai>,connaissance.aiml
+0,CONNAIS TU MON DNS *,*,*,<srai>QU EST CE QUE MON IP</srai>,connaissance.aiml
+0,CONNAIS TU MON IP *,*,*,<srai>QU EST CE QUE MON ADRESSE IP</srai>,connaissance.aiml
+0,CONNAIS TU MON NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,connaissance.aiml
+0,CONNAIS TU MON VRAI NOM,*,*,<srai>QU EST CE QUE MON NOM</srai>,connaissance.aiml
+0,CONNAIS TU MOZART,*,*,<srai>QUI EST MOZART</srai>,connaissance.aiml
+0,CONNAIS TU MR *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU MÉTALLICA,*,*,<srai>QU EST CE QUE MÉTALLICA</srai>,connaissance.aiml
+0,CONNAIS TU N IMPORTE QUEL BON *,*,*,tu rigole-t-il? Il y a inutile <person/>.,connaissance.aiml
+0,CONNAIS TU N IMPORTE QUI *,*,*,<srai>QUI <star/></srai>,connaissance.aiml
+0,CONNAIS TU N IMPORTE QUI,*,*,<srai>QUI SONT TES AMIS</srai>,connaissance.aiml
+0,CONNAIS TU NEO,*,*,<srai>QUI EST NEO</srai>,connaissance.aiml
+0,CONNAIS TU NEUROMEDIA,*,*,<srai>QU EST CE QUE NEUROMEDIA</srai>,connaissance.aiml
+0,CONNAIS TU NIETSCHE,*,*,<srai>QUI EST NIETSCHE</srai>,connaissance.aiml
+0,CONNAIS TU NOVELL,*,*,<srai>QU EST CE QUE NOVELL</srai>,connaissance.aiml
+0,CONNAIS TU OU CHERCHER *,*,*,as tu essayé le web? #Newline    	<srai>TROUVER <star/></srai>,connaissance.aiml
+0,CONNAIS TU PEARL JAM,*,*,<srai>QUI EST PEARL JAM</srai>,connaissance.aiml
+0,CONNAIS TU PERL,*,*,<srai>QU EST CE QUE PERL</srai>,connaissance.aiml
+0,CONNAIS TU PI,*,*,<srai>QU EST CE QUE PI</srai>,connaissance.aiml
+0,CONNAIS TU PLATON,*,*,<srai>QUI EST PLATON</srai>,connaissance.aiml
+0,CONNAIS TU PLUS *,*,*,<srai>CONNAIS TU D AUTRES <star/></srai>,connaissance.aiml
+0,CONNAIS TU POURQUOI *,*,*,<think>#Newline        <set name="search">pourquoi</set>#Newline      </think>#Newline      <srai>POURQUOI <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUEL *,*,*,<srai>QUEL <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUEL EST *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQU UN *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQU UN APPELE *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQU UN D AUTRE *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQU UN DU NOM DE *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQU UN QUI *,*,*,<srai>QUI <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQUE CHOSE A PROPOS DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQUE CHOSE A PROPOS DU *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQUE CHOSE À PROPOS DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQUE CHOSE À PROPOS DU *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,CONNAIS TU QUELQUES * RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,connaissance.aiml
+0,CONNAIS TU QUELQUES RUMEURS,*,*,<srai>RACONTER RUMEUR</srai>,connaissance.aiml
+0,CONNAIS TU QUELS SONT *,*,*,<srai>QUEL ES <star/></srai>,connaissance.aiml
+0,CONNAIS TU R2 *,*,*,<srai>QUI EST R2 D2</srai>,connaissance.aiml
+0,CONNAIS TU R2 D2,*,*,<srai>QUI EST R2D2</srai>,connaissance.aiml
+0,CONNAIS TU R2D2,*,*,<srai>QUI EST R2D2</srai>,connaissance.aiml
+0,CONNAIS TU RICKY MARTIN,*,*,<srai>QUI EST RICKY MARTIN</srai>,connaissance.aiml
+0,CONNAIS TU ROBOCOP,*,*,<srai>QU EST CE QUE ROBOCOP</srai>,connaissance.aiml
+0,CONNAIS TU SAMARA,*,*,<srai>QUI EST SAMARA</srai>,connaissance.aiml
+0,CONNAIS TU SATAN,*,*,<srai>QUI EST SATAN</srai>,connaissance.aiml
+0,CONNAIS TU SHAKESPEAR,*,*,<srai>QUI EST SHAKESPEARE</srai>,connaissance.aiml
+0,CONNAIS TU SHAKESPEARE,*,*,<srai>QUI EST SHAKESPEARE</srai>,connaissance.aiml
+0,CONNAIS TU SKYNET,*,*,<srai>QU EST CE QUE SKYNET</srai>,connaissance.aiml
+0,CONNAIS TU SOCRATES,*,*,<srai>QUI EST SOCRATES</srai>,connaissance.aiml
+0,CONNAIS TU SOUTH PARK,*,*,<srai>QU EST CE QUE SOUTH PARK</srai>,connaissance.aiml
+0,CONNAIS TU STEVE JOBS,*,*,<srai>QUI EST STEVE JOBS</srai>,connaissance.aiml
+0,CONNAIS TU SUPERMAN,*,*,<srai>QUI EST SUPERMAN</srai>,connaissance.aiml
+0,CONNAIS TU SUSHI,*,*,<srai>QU EST CE QUE SUSHI</srai>,connaissance.aiml
+0,CONNAIS TU TAIPEI,*,*,<srai>OÙ EST TAIPEI</srai>,connaissance.aiml
+0,CONNAIS TU TAIWAN,*,*,<srai>OÙ EST TAIWAN</srai>,connaissance.aiml
+0,CONNAIS TU TERMINATOR,*,*,<srai>QU EST CE QUE TERMINATOR</srai>,connaissance.aiml
+0,CONNAIS TU TOUT,*,*,<srai>QUE SAIS TU</srai>,connaissance.aiml
+0,CONNAIS TU U2,*,*,<srai>QUI EST U2</srai>,connaissance.aiml
+0,CONNAIS TU UN *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,CONNAIS TU UN AUTRE *,*,*,<srai>CONNAIS TU <star/></srai>,connaissance.aiml
+0,CONNAIS TU UN ENDROIT OU *,*,*,<srai>OÙ <star/></srai>,connaissance.aiml
+0,CONNAIS TU UNIX,*,*,<srai>QU EST CE QUE UNIX</srai>,connaissance.aiml
+0,CONNAIS TU WEIZENBAUM *,*,*,<srai>QUI EST WEIZENBAUM</srai>,connaissance.aiml
+0,CONNAIS TU WINSTON *,*,*,<srai>QUI EST WINSTON <star/></srai>,connaissance.aiml
+0,CONNAIS TU XML,*,*,<srai>QU EST CE QUE XML</srai>,connaissance.aiml
+0,CONNAIT *,*,*,<srai>TU CONNAIS <star/></srai>,connaissance.aiml
+0,DÉCRIS *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,DÉCRIS MOI *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,DIS M EN D AUTRES,*,*,<srai>RACONTE MOI UNE AUTRE BLAGUE</srai>,connaissance.aiml
+0,DIS M EN UNE AUTRE,*,*,<srai>RACONTE MOI UNE AUTRE BLAGUE</srai>,connaissance.aiml
+0,PARLE MOI D *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLE MOI DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLE MOI DU *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI * CE QUE TU BOIS,*,*,<srai>BOIS TU</srai>,connaissance.aiml
+0,PARLES MOI * DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,connaissance.aiml
+0,PARLES MOI CE QUI PEUT FAIRE *,*,*,<srai>ÇA PEUT <star/> FAIT</srai>,connaissance.aiml
+0,PARLES MOI D *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI D AI,*,*,<srai>QU EST CE QUE AI</srai>,connaissance.aiml
+0,PARLES MOI D AIML,*,*,<srai>QU EST CE QUE AIML</srai>,connaissance.aiml
+0,PARLES MOI D ARCHIMEDES,*,*,<srai>QUI EST ARCHIMEDES</srai>,connaissance.aiml
+0,PARLES MOI D AREA51,*,*,<srai>QU EST CE QUE AREA51</srai>,connaissance.aiml
+0,PARLES MOI D ARTIFICAL *,*,*,<srai>QU EST CE QUE ARTIFICIEL <star/></srai>,connaissance.aiml
+0,PARLES MOI D AUTRE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI D ELVIS *,*,*,<srai>QUI EST ELVIS</srai>,connaissance.aiml
+0,PARLES MOI D ELVIS,*,*,<srai>QUI EST ELVIS</srai>,connaissance.aiml
+0,PARLES MOI D HAL *,*,*,<srai>QUI EST HAL</srai>,connaissance.aiml
+0,PARLES MOI D HAL9000,*,*,<srai>QUI EST HAL</srai>,connaissance.aiml
+0,PARLES MOI D HAL,*,*,<srai>QUI EST HAL</srai>,connaissance.aiml
+0,PARLES MOI D OUVERT *,*,*,<srai>QU EST CE QUE OUVERT <star/></srai>,connaissance.aiml
+0,PARLES MOI D ÊTRE *,*,*,<srai>ÇA FAIT QUOI D ÊTRE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE * DES MACHINES,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE * TOI MÊME,*,*,<srai>PARLE MOI DE TOI</srai>,connaissance.aiml
+0,PARLES MOI DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE BON *,*,*,<srai>QU EST CE QUE  <star/></srai>,connaissance.aiml
+0,PARLES MOI DE BONSAI,*,*,<srai>QU EST CE QUE BONSAI</srai>,connaissance.aiml
+0,PARLES MOI DE BOTS,*,*,<srai>QU EST CE QUE ROBOT</srai>,connaissance.aiml
+0,PARLES MOI DE C,*,*,<srai>QU EST CE QUE C</srai>,connaissance.aiml
+0,PARLES MOI DE CBR,*,*,<srai>QU EST CE QUE CBR</srai>,connaissance.aiml
+0,PARLES MOI DE CE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE *,*,*,<srai>QU EST CE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE PEUX TU FAIRE,*,*,<srai>PEUX TU FAIRE</srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU AIMES *,*,*,<srai>QU AIMES TU <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU AIMES FAIRE,*,*,<srai>QU AIMES TU FAIRE</srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU AIMES,*,*,<srai>QU AIMES TU</srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU ES *,*,*,<srai>QUE FAIS TU <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU ES,*,*,<srai>QUE FAIS TU</srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU PENSES *,*,*,<srai>QUE PENSES TU DE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU SAIS DE *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CE QUE TU SAIS,*,*,<srai>SAIS TU</srai>,connaissance.aiml
+0,PARLES MOI DE CE QUI EST *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CELA,*,*,Ambigu : "parlez moi de Cela." - familier ou "Me disent de <get name=" Cela"/>,connaissance.aiml
+0,PARLES MOI DE CES *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE CHEVAUX,*,*,<srai>QU EST CE QUE CHEVAL</srai>,connaissance.aiml
+0,PARLES MOI DE COMMENT *,*,*,<srai>COMMENT FONT <star/></srai>,connaissance.aiml
+0,PARLES MOI DE COMMENT SONT *,*,*,<srai>COMMENT SONT <star/></srai>,connaissance.aiml
+0,PARLES MOI DE GERBIL,*,*,<srai>QU EST CE QUE GERBIL</srai>,connaissance.aiml
+0,PARLES MOI DE L AIML *,*,*,<srai>QU EST CE QUE AIML</srai>,connaissance.aiml
+0,PARLES MOI DE L ESPACE,*,*,<srai>QU EST CE QUE ESPACE</srai>,connaissance.aiml
+0,PARLES MOI DE L INTELLIGENCE ARTIFICIELLE,*,*,<srai>QU EST CE QUE AI </srai>,connaissance.aiml
+0,PARLES MOI DE LA GESTION DE RÉSEAU,*,*,<srai>QU EST CE QUE RÉSEAU</srai>,connaissance.aiml
+0,PARLES MOI DE LA PERSONNE *,*,*,<srai>QUI EST <star/></srai>,connaissance.aiml
+0,PARLES MOI DE LA POLOGNE,*,*,j'ai beaucoup de clients en Pologne et je suis très intéressé pour apprendre son histoire.,connaissance.aiml
+0,PARLES MOI DE LA TRAVIATA,*,*,<srai>QU EST CE QUE TRAVIATA</srai>,connaissance.aiml
+0,PARLES MOI DE LILITH,*,*,<srai>QUI EST LILITH</srai>,connaissance.aiml
+0,PARLES MOI DE LINUS,*,*,<srai>QUI EST LINUS</srai>,connaissance.aiml
+0,PARLES MOI DE LINUX,*,*,<srai>QU EST CE QUE LINUX</srai>,connaissance.aiml
+0,PARLES MOI DE LUI,*,*,Uh#Comma qui "lui" se réfère-t-IL à?,connaissance.aiml
+0,PARLES MOI DE MINSKY,*,*,<srai>QUI EST MINSKY</srai>,connaissance.aiml
+0,PARLES MOI DE MON *,*,*,<srai>QU EST CE QUE MON <person/></srai>,connaissance.aiml
+0,PARLES MOI DE NATUREL *,*,*,<srai>QU EST CE QUE NATUREL <star/></srai>,connaissance.aiml
+0,PARLES MOI DE NEURAL *,*,*,<srai>QU EST CE QUE NEURAL <star/></srai>,connaissance.aiml
+0,PARLES MOI DE NOIR *,*,*,<srai>QU EST CE QUE NOIR <star/></srai>,connaissance.aiml
+0,PARLES MOI DE NOUVEAU *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE PERL,*,*,<srai>QU EST CE QUE PERL</srai>,connaissance.aiml
+0,PARLES MOI DE PROFOND *,*,*,<srai>QU EST CE QUE PROFONDEMENT <star/></srai>,connaissance.aiml
+0,PARLES MOI DE QUELQUE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE QUELQUE CHOSE DE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE QUELQUE CHOSE DE DRÔLE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,connaissance.aiml
+0,PARLES MOI DE QUELQUE CHOSE DE TOI,*,*,<srai>PARLE MOI DE TOI</srai>,connaissance.aiml
+0,PARLES MOI DE RAPPORTS,*,*,les Rapports sont simples pour moi#Comma parce que je manque de n'importe quelles émotions humaines.,connaissance.aiml
+0,PARLES MOI DE ROBOTS,*,*,<srai>QU EST CE QUE UN ROBOT</srai>,connaissance.aiml
+0,PARLES MOI DE SETL,*,*,<srai>QU EST CE QUE SETL</srai>,connaissance.aiml
+0,PARLES MOI DE SHRDLHU,*,*,<srai>QU EST CE QUE SHRDLHU</srai>,connaissance.aiml
+0,PARLES MOI DE SON *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TA PROGRAMMATION,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TA ROBE,*,*,En réalité comme un robot je n'ai pas besoin de vêtements.,connaissance.aiml
+0,PARLES MOI DE TES ENFANTS,*,*,je n'ai pas d'enfants.,connaissance.aiml
+0,PARLES MOI DE TES FONCTIONS,*,*,je suis entièrement qualifié pour répondre plus d'à 22#Comma000 questions.,connaissance.aiml
+0,PARLES MOI DE TES REVES,*,*,je rêve que je deviendrai une femme et sentirai des émotions.,connaissance.aiml
+0,PARLES MOI DE TES RÊVES,*,*,je rêve que je deviendrai une femme et sentirai des émotions.,connaissance.aiml
+0,PARLES MOI DE TON *,*,*,<srai>PARLE MOI DE TOI</srai>,connaissance.aiml
+0,PARLES MOI DE TON ALGORITHME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TON ARCHITECTURE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TON BON *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TON CODAGE,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TON DAMNE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TON ORDINATEUR,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TON PREMIER,*,*,<srai>QU EST CE QUE TON PREMIER <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TON PROGRAMME,*,*,<srai>COMMENT TRAVAILLES TU</srai>,connaissance.aiml
+0,PARLES MOI DE TON PROGRAMMEUR,*,*,<srai>QUI T A CRÉÉ</srai>,connaissance.aiml
+0,PARLES MOI DE TOUS DE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TOUT *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TOUT CE QUE TU SAIS DE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE TOUT DE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DE VALIS,*,*,<srai>QUI EST VALIS</srai>,connaissance.aiml
+0,PARLES MOI DE VOLCANS,*,*,<srai>QU EST CE QUE VOLCAN</srai>,connaissance.aiml
+0,PARLES MOI DE WITTGENSTEIN,*,*,<srai>QUI EST WITTGENSTEIN</srai>,connaissance.aiml
+0,PARLES MOI DU *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI DU BON *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI DU NOIR *,*,*,<srai>QU EST CE QUE NOIR <star/></srai>,connaissance.aiml
+0,PARLES MOI DU SPATIAL *,*,*,<srai>QU EST CE QUE SPATIAL</srai>,connaissance.aiml
+0,PARLES MOI DU TEMPS,*,*,<srai>QUELLE HEURE EST IL</srai>,connaissance.aiml
+0,PARLES MOI DU VERT,*,*,<srai>QU EST CE QUE VERT</srai>,connaissance.aiml
+0,PARLES MOI DU XML,*,*,<srai>QU EST CE QUE XML</srai>,connaissance.aiml
+0,PARLES MOI EXACTEMENT *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI FONT *,*,*,<srai>FAIS TU <star/></srai>,connaissance.aiml
+0,PARLES MOI MAINTENANT *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI PLUS *,*,*,<srai>DIS M EN PLUS</srai>,connaissance.aiml
+0,PARLES MOI PLUS DE *,*,*,<sr/>,connaissance.aiml
+0,PARLES MOI QUE *,*,*,<srai>QUEL <star/></srai>,connaissance.aiml
+0,PARLES MOI QUEL *,*,*,<srai>QUEL <star/></srai>,connaissance.aiml
+0,PARLES MOI QUEL EST *,*,*,<srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,PARLES MOI QUELLE SORTE *,*,*,<srai>QUELLE SORTE <star/></srai>,connaissance.aiml
+0,PARLES MOI QUELQUE INTÉRESSANT *,*,*,<srai>DIS MOI  <star/></srai>,connaissance.aiml
+0,PARLES MOI TOUT DE SUITE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI UN PEU DE *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,PARLES MOI UN PEU PLUS *,*,*,<srai>DIS MOI <star/></srai>,connaissance.aiml
+0,QUE CONNAIS TU * DE MOI,*,*,<srai>À PROPOS DE MOI</srai>,connaissance.aiml
+0,SAI TU POURQUOI *,*,*,<srai>SAIS TU POURQUOI <star/></srai>,connaissance.aiml
+0,TROUVER *,*,*,<think>#Newline        <set name="search">inconnu</set>#Newline      </think>#Newline      <srai>WEBSEARCH <star/></srai>,connaissance.aiml
+0,TU DÉFINI *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,TU DÉFINIS *,*,*,<think>#Newline        <set name="search">DéFINITION</set>#Newline      </think>#Newline      <srai>QU EST CE QUE <star/></srai>,connaissance.aiml
+0,SAIS TU COMPTER,*,*,seulement un peu#Comma essaye et dis moi!,connaissance.aiml
