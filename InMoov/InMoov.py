@@ -51,23 +51,23 @@ execfile(RuningFolder+'/system/InitCheckup.py')
 # Go further !!! you can find almost all chatbot vocal command into chatbot\bots\[lang]\aiml\_inmoovGestures.aiml
 # ###################################################################################
 
-ear.addCommand("attach your finger", "i01.rightHand.index", "attach") #to remove soon
-ear.addCommand("disconnect your finger", "i01.rightHand.index", "detach")
+ear.addCommand("attach your finger", "i01.leftHand.index", "attach") #to remove soon
+ear.addCommand("disconnect your finger", "i01.leftHand.index", "detach")
 ear.addCommand("open your finger", "python", "fingeropen")
 ear.addCommand("close your finger", "python", "fingerclose")
 ear.addCommand("finger to the middle", "python", "fingermiddle")
 
 # functions called by the basic vocal commands engine
 def fingeropen():
-  i01.moveHand("right",0,0,0,0,0)
+  i01.moveHand("left",0,0,0,0,0)
   talkBlocking("ok I open my finger")
 
 def fingerclose():
-  i01.moveHand("right",180,180,180,180,180)
+  i01.moveHand("left",180,180,180,180,180)
   talkBlocking("my finger is closed")
 
 def fingermiddle():
-  i01.moveHand("right",90,90,90,90,90)
+  i01.moveHand("left",90,90,90,90,90)
   talkBlocking("ok you have my attention")  
   
 

@@ -1477,7 +1477,6 @@
 <category><pattern>QUI EST TA MAMAN</pattern>
 <template><srai>QUI EST TA MÈRE</srai></template>
 </category>
-
 <category><pattern>QUI EST TA MÈRE</pattern>
 <template>En réalité je n'ai pas de mère.</template>
 </category>

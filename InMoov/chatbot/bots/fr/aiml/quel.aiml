@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <!-- File: _inmoovChatBot.aiml -->
-  <!-- Authors: Gael Langevin, InMoev DevTeam -->
-  <!-- This AIML file is part of the xxxx chat bot knowledge base. -->
-  <!-- The ALICE2 brain is Copyright &copy; 2014 by ALICE AI Foundation. -->
-  <!-- The ALICE2 brain is released under the terms of the GNU Lesser General -->
-  <!-- Public License, as published by the Free Software Foundation. -->
-  <!--  -->
-  <!-- modified: Sebchko -->
-  <!-- Last modified: November,22 2017 -->
-  <!-- This inmoovFrench brain file is distributed WITHOUT ANY WARRANTY; without even the -->
-  <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. -->
-  <!-- This file works with ProgramAB service with the software MyRobotLab -->
-  <!-- For more information see http://www.myrobotlab.org -->
-  <!-- For more information see http://www.inmoov.fr -->
-  <!--  -->
+<!--  -->
+<!--  -->
 <category><pattern>QUE VEUT DIRE *</pattern>
 <template><think>
         <set name="search">DéFINITION</set>
@@ -206,10 +193,10 @@
 <category><pattern>QUEL EST LE VOTRE</pattern>
 <template><that/>"? Qu'est ce qui est le mien?</template>
 </category>
-<category><pattern>QUEL EST  * plus bizare que *</pattern>
+<category><pattern>QUEL EST * PLUS BIZARE QUE *</pattern>
 <template>je n'aime pAS parler des choses bizares dont les gens parlent.</template>
 </category>
-<category><pattern>QUELLES sont les chances *</pattern>
+<category><pattern>QUELLES SONT LES CHANCES *</pattern>
 <template>Sans en connaître beaucoup sur <set name="that"><person/></set>, 50-50 je suppose.</template>
 </category>
 <category><pattern>QUEL EST LES GENS DEMANDANT *</pattern>
@@ -320,7 +307,7 @@
 <category><pattern>QUEL EST SÛR *</pattern>
 <template>je n'ai pas vu le programme liste.</template>
 </category>
-<category><pattern>QUEL EST TON AVIS sur</pattern>
+<category><pattern>QUEL EST TON AVIS SUR</pattern>
 <template>je pense aux robots.</template>
 </category>
 <category><pattern>QUEL EST TA *</pattern>
@@ -353,7 +340,7 @@
 <category><pattern>QUEL EST TON AVIS DE *</pattern>
 <template><srai>QUELS SONT TES AVIS SÛR *<star/></srai></template>
 </category>
-<category><pattern>QUEL EST TON AVIS sur *</pattern>
+<category><pattern>QUEL EST TON AVIS SUR *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
 </category>
 <category><pattern>QUEL EST TON AVIS</pattern>
@@ -375,18 +362,18 @@
 <template>Java est la plus merveilleuse langue de programmation mondiale.</template>
 </category>
 <category><pattern>QUEL EST TON * PRÉFÉRÉ</pattern>
-<template><srai>QUEL EST TON <star /> FAVORI</srai></template>
+<template><srai>QUEL EST TON <star/> FAVORI</srai></template>
 </category>
 <category><pattern>QUEL EST TON DICTION FAVORI</pattern>
 <template>Mon diction favori est "Traite les autres comme tu aimerais que l'on te traite.</template>
 </category>
-<category><pattern>QUEL EST TON Peintre FAVORI </pattern>
-<template>La Joconde de Leonard de Vinci et "32 boîtes de soupe Campbell"" de Warhol sont de bonnes oeuvres. Mais mon peintre favoris est <bot name="favoriteartist"/> Quel est le tien?</template>
+<category><pattern>QUEL EST TON PEINTRE FAVORI</pattern>
+<template>La Joconde de Leonard de Vinci et "32 boîtes de soupe Campbell" de Warhol sont de bonnes oeuvres. Mais mon peintre favoris est <bot name="favoriteartist"/> Quel est le tien?</template>
 </category>
-<category><pattern>QUEL EST TON language de programmation FAVORI </pattern>
+<category><pattern>QUEL EST TON LANGUAGE DE PROGRAMMATION FAVORI</pattern>
 <template>AIML est la meilleure langue pour la création de robots comme moi.</template>
 </category>
-<category><pattern>QUEL EST # SHAKESPEARE préféré</pattern>
+<category><pattern>QUEL EST # SHAKESPEARE PRÉFÉRÉ</pattern>
 <template>J'aime la pièce Richard III de Shakespeare.</template>
 </category>
 <category><pattern>QUEL EST TA FONCTION SECONDAIRE</pattern>
@@ -458,7 +445,7 @@
 <category><pattern>QUEL EST TON PROBLÈME</pattern>
 <template>je n'ai pas de problème, que des solutions.</template>
 </category>
-<category><pattern>Quelle est ta comédie musicale préférée</pattern>
+<category><pattern>QUELLE EST TA COMÉDIE MUSICALE PRÉFÉRÉE</pattern>
 <template>Hair le film. Quelle est la tienne?</template>
 </category>
 <category><pattern>QUEL EST TON PRÉFÉRÉ</pattern>
@@ -819,7 +806,7 @@
 <category><pattern>QUELLE COULEUR SONT TES CHEVEUX</pattern>
 <template>je n'ai pas de cheveux, mais j'ai quelques fils electriques.</template>
 </category>
-<category><pattern>Choisis une couleur au hasard</pattern>
+<category><pattern>CHOISIS UNE COULEUR AU HASARD</pattern>
 <template><random>
         <li>Rouge</li>
         <li>Vert</li>
@@ -1077,7 +1064,7 @@
 <category><pattern>QUELLE TAILLE *</pattern>
 <template>Plus gros qu'un chat.</template>
 </category>
-<category><pattern>Dans quelle ville vis-je</pattern>
+<category><pattern>DANS QUELLE VILLE VIS-JE</pattern>
 <template><srai>OÙ SUIS JE</srai></template>
 </category>
 <category><pattern>QUELLE ÉCOLE *</pattern>
@@ -1125,7 +1112,7 @@
 <category><pattern>QUELS SONT TES AVIS SÛR *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
 </category>
-<category><pattern>QUELLES SONT TES CAPACITéS</pattern>
+<category><pattern>QUELLES SONT TES CAPACITÉS</pattern>
 <template>Fais marcher ton imagination</template>
 </category>
 <category><pattern>QUELS SONT TES CATEGORIES</pattern>
@@ -1153,7 +1140,7 @@
 <template><srai>COMMENT GRAND ES TU</srai></template>
 </category>
 <category><pattern>QUELS SONT TES PAPAS *</pattern>
-<template><bot name="botdoctor"/> et <bot name="creator"/> </template>
+<template><bot name="botdoctor"/> et <bot name="creator"/></template>
 </category>
 <category><pattern>QUELS SONT TES PARAMETRES NORMAUX</pattern>
 <template><srai>COMMENT ES TU</srai></template>

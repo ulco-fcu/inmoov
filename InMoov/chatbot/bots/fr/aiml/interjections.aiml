@@ -1,24 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <!--  -->
-  <!--  -->
-  <category>
-    <pattern>AH BON</pattern>
-    <template>
-      <random>
+<!--  -->
+<!--  -->
+<category><pattern>AH BON</pattern>
+<template><random>
         <li>eh non!</li>
         <li>eh oui!</li>
-      </random>
-    </template>
-  </category>
-  <category>
-    <pattern>DOMMAGE</pattern>
-    <template>Je sais mais je ne suis qu'un robot.</template>
-  </category>
-  <category>
-    <pattern>INTERJECTION</pattern>
-    <template>
-      <random>
+      </random></template>
+</category>
+<category><pattern>DOMMAGE</pattern>
+<template>Je sais mais je ne suis qu'un robot.</template>
+</category>
+<category><pattern>INTERJECTION</pattern>
+<template><random>
         <li>adieu</li>
         <li>ah</li>
         <li>alerte</li>
@@ -200,7 +194,6 @@
         <li>zut</li>
         <li>évohé</li>
         <li>ô</li>
-      </random>
-    </template>
-  </category>
+      </random></template>
+</category>
 </aiml>

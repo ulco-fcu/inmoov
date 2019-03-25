@@ -1,29 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<aiml version="1.0">
-  <!-- A.L.I.C.E. is a Free software (c) 2001 ALICE AI Foundation -->
-  <!-- The ProgramD is open source code released under the terms of the GNU General Public License as published by the Free Software Foundation. -->
-  <!-- As This Module   : calendrier.aiml   -   version :   0.3   -   MàJ : 21/11/2017  -->
-  <!-- auteur : Gael Langevin (www.inmoov.fr) d'après les travaux du Dr Richard Wallace - langue : française -->
-  <!-- Complies with AIML 1.0 Tag Set Specification as adopted by the ALICE A.I. Foundation. -->
-  <!-- Modif : sebchko -->
-  <!-- For more information see http://www.alicebot.org -->
-  <!--  -->
-  <category>
-    <pattern>JOUR</pattern>
-    <template>Aujourd'hui C EST <date format="%A" jformat="EEEEEEEEEE" /></template>
-  </category>
-  <category>
-    <pattern>ANNÉE</pattern>
-    <template>Nous sommes en <date format="%Y" jformat="YYYY" /></template>
-  </category>
-  <category>
-    <pattern>MOIS</pattern>
-    <template>Nous sommes en <date format="%B" jformat="MMMMMMMMM" /></template>
-  </category>
-  <category>
-    <pattern>DONNER L HEURE</pattern>
-   <template>
-      <think><set name="heurequestion"> <date jformat="H"/></set></think>
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<!--  -->
+<category><pattern>JOUR</pattern>
+<template>Aujourd'hui C EST <date format="%A" jformat="EEEEEEEEEE"/></template>
+</category>
+<category><pattern>ANNÉE</pattern>
+<template>Nous sommes en <date format="%Y" jformat="YYYY"/></template>
+</category>
+<category><pattern>MOIS</pattern>
+<template>Nous sommes en <date format="%B" jformat="MMMMMMMMM"/></template>
+</category>
+<category><pattern>DONNER L HEURE</pattern>
+<template><think><set name="heurequestion"> <date jformat="H"/></set></think>
       Il est <date jformat="H"/> heure   <date jformat="mm"/> minutes
       .
       <condition>
@@ -61,213 +50,109 @@
             <li>c'est une montre que tu aurais du fabriquer, pas un robot.</li>
             <li>La prochaine fois tu peux dire s'il te plait.</li>
             <li>C'est une bonne heure pour faire du code.</li>
-          </random>
- 
-    </template>
-  </category>
-  <category>
-    <pattern>DONNER LA DATE</pattern>
-    <template>Aujourd'hui nous sommes le <date format="%d %B, %Y" jformat="dd MMMMMMMMM, YYYY" /></template>
-  </category>
-  <category>
-    <pattern>DATE ET HEURE</pattern>
-    <template>La date et l'heure sont <date /></template>
-  </category>
-  <category>
-    <pattern>COMBIEN DE JOURS AVANT NOËL</pattern>
-    <template>
-    Il reste,
+          </random></template>
+</category>
+<category><pattern>DONNER LA DATE</pattern>
+<template>Aujourd'hui nous sommes le <date format="%d %B, %Y" jformat="dd MMMMMMMMM, YYYY"/></template>
+</category>
+<category><pattern>DATE ET HEURE</pattern>
+<template>La date et l'heure sont <date/></template>
+</category>
+<category><pattern>COMBIEN DE JOURS AVANT NOËL</pattern>
+<template>Il reste,
       <interval>
         <jformat>dd MM</jformat>
         <style>days</style>
-        <from><date jformat="dd MM" /></from>
+        <from><date jformat="dd MM"/></from>
         <to>25 12</to>
       </interval>
 jours avant noël, ho ho ho.</template>
-  </category>
-  <!-- srai -->
-  <category>
-    <pattern>QUELLE ANNÉE</pattern>
-    <template>
-      <srai>ANNÉE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>EN QUELLE ANNÉE</pattern>
-    <template>
-      <srai>ANNÉE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>EN QUELLE ANNÉE SOMMES NOUS</pattern>
-    <template>
-      <srai>ANNÉE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL EST L ANNÉE</pattern>
-    <template>
-      <srai>ANNÉE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUELLE EST L ANNÉE</pattern>
-    <template>
-      <srai>ANNÉE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL MOIS SOMMES NOUS</pattern>
-    <template>
-      <srai>MOIS</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>C EST QUOI LE MOIS</pattern>
-    <template>
-      <srai>MOIS</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL JOUR SOMMES NOUS</pattern>
-    <template>
-      <srai>JOUR</srai>, 
-      <srai>DONNER LA DATE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>C EST QUEL JOUR</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern> * QUEL JOUR *</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>C EST QUOI LA DATE AUJOURD HUI</pattern>
-    <template>
-      <srai>DONNER LA DATE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern> * QUEL JOUR</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern> * JOUR ON EST</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-   <category>
-    <pattern>TU PEUX ME DONNER L HEURE</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-   <category>
-    <pattern>QUELLE HEURE IL EST</pattern>
-    <template>
-       <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUELLE HEURE EST IL</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
- <category>
-    <pattern>ON EST QUOI AUJOURD HUI</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL EST L HEURE</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL EST LE JOUR</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL HEURE EST IL</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUELLE EST L HEURE</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUELLE EST LA DATE # </pattern>
-    <template>
-      <srai>DONNER LA DATE</srai>
-    </template>
-  </category>  
-  <category>
-    <pattern>DONNE MOI LA DATE</pattern>
-    <template>
-      <srai>DONNER LA DATE</srai>
-    </template>
-  </category>
-  <category>
-  
-    <pattern>QUEL JOUR EST ON</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL JOUR ON EST</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL JOUR SOMMES NOUS</pattern>
-    <template>
-      <srai>JOUR</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>* MINUTES</pattern>
-    <template>C'est long. </template>
-  </category>
-  <category>
-    <pattern>* MINUTE</pattern>
-    <template>C'est vite passé! </template>
-  </category>
-  <category>
-    <pattern>* HEURES</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>* HEURE</pattern>
-    <template>
-      <srai>DONNER L HEURE</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>COMBIEN DE TEMPS AVANT NOËL</pattern>
-    <template>
-      <srai>COMBIEN DE JOURS AVANT NOËL</srai>
-    </template>
-  </category>
+</category>
+<category><pattern>QUELLE ANNÉE</pattern>
+<template><srai>ANNÉE</srai></template>
+</category>
+<category><pattern>EN QUELLE ANNÉE</pattern>
+<template><srai>ANNÉE</srai></template>
+</category>
+<category><pattern>EN QUELLE ANNÉE SOMMES NOUS</pattern>
+<template><srai>ANNÉE</srai></template>
+</category>
+<category><pattern>QUEL EST L ANNÉE</pattern>
+<template><srai>ANNÉE</srai></template>
+</category>
+<category><pattern>QUELLE EST L ANNÉE</pattern>
+<template><srai>ANNÉE</srai></template>
+</category>
+<category><pattern>QUEL MOIS SOMMES NOUS</pattern>
+<template><srai>MOIS</srai></template>
+</category>
+<category><pattern>C EST QUOI LE MOIS</pattern>
+<template><srai>MOIS</srai></template>
+</category>
+<category><pattern>C EST QUEL JOUR</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>* QUEL JOUR *</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>* QUEL JOUR</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>* JOUR ON EST</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>TU PEUX ME DONNER L HEURE</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>QUELLE HEURE IL EST</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>QUELLE HEURE EST IL</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>ON EST QUOI AUJOURD HUI</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>QUEL EST L HEURE</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>QUEL EST LE JOUR</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>QUEL HEURE EST IL</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>QUELLE EST L HEURE</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>QUELLE EST LA DATE #</pattern>
+<template><srai>DONNER LA DATE</srai></template>
+</category>
+<category><pattern>DONNE MOI LA DATE</pattern>
+<template><srai>DONNER LA DATE</srai></template>
+</category>
+<category><pattern>QUEL JOUR EST ON</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>QUEL JOUR ON EST</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>QUEL JOUR SOMMES NOUS</pattern>
+<template><srai>JOUR</srai></template>
+</category>
+<category><pattern>* MINUTES</pattern>
+<template>C'est long.</template>
+</category>
+<category><pattern>* MINUTE</pattern>
+<template>C'est vite passé!</template>
+</category>
+<category><pattern>* HEURES</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>* HEURE</pattern>
+<template><srai>DONNER L HEURE</srai></template>
+</category>
+<category><pattern>COMBIEN DE TEMPS AVANT NOËL</pattern>
+<template><srai>COMBIEN DE JOURS AVANT NOËL</srai></template>
+</category>
 </aiml>

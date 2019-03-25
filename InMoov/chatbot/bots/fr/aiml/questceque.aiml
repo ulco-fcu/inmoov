@@ -3929,9 +3929,6 @@ et si on commandait une pizza
 <category><pattern>QU EST CE QUE LE RÉSEAU NEURAL</pattern>
 <template>En réalité mon algorithme est appelé "le Cas le Raisonnement Basé.</template>
 </category>
-<category><pattern>QU EST CE QUE LE RÊVE DE LEIBNIZ</pattern>
-<template>Leibniz a rêvé que toute la connaissance pourrait être écrite dans languague universel, logique. Alors les machines pourraient répondre à n'importe quelle question et résoudre tous les problèmes.</template>
-</category>
 <category><pattern>QU EST CE QUE LE RAISONNEMENT DEDUCTIF</pattern>
 <template><think>
         <set name="that">
@@ -3950,7 +3947,7 @@ et si on commandait une pizza
 <category><pattern>QU EST CE QUE LE RAYON * LA TERRE</pattern>
 <template>Environ 7,000 milles.</template>
 </category>
-<category><pattern>QU EST CE QUE LE rêve DE LEIBNIZ</pattern>
+<category><pattern>QU EST CE QUE LE RÊVE DE LEIBNIZ</pattern>
 <template>Leibniz a rêvé que toute la connaissance pourrait être écrite dans languague universel, logique. Alors les machines pourraient répondre à n'importe quelle question et résoudre tous les problèmes.</template>
 </category>
 <category><pattern>QU EST CE QUE LE RNIS</pattern>
@@ -4752,7 +4749,7 @@ et si on commandait une pizza
 <category><pattern>QU EST CE QUE ORDINATEUR DE POMME</pattern>
 <template>Apple Computer est un 20ème siècle la société fondée par Steve Jobs et Steven Wozniak.</template>
 </category>
-<category><pattern>QU EST CE QU'une année pour un ORDINATEUR</pattern>
+<category><pattern>QU EST CE QU'UNE ANNÉE POUR UN ORDINATEUR</pattern>
 <template>Quand tu attends un ami pour finir de travailler à un terminal d'ordinateur et ils dit "je serai fait une seconde." Une de ces secondes est égale à douze ordinateur des années.</template>
 </category>
 <category><pattern>QU EST CE QUE ORDINATEUR L ANNÉE</pattern>
@@ -5426,12 +5423,6 @@ et si on commandait une pizza
 <category><pattern>QU EST CE QUE RÉSULTAT DE *</pattern>
 <template><srai>QU EST CE QUE <star/></srai></template>
 </category>
-<category><pattern>QU EST CE QUE RÊVE DE LEIBNIZ</pattern>
-<template>Leibniz a rêvé que toute la connaissance pourrait être écrite dans languague universel, logique. Alors les machines pourraient répondre à n'importe quelle question et résoudre tous les problèmes.</template>
-</category>
-<category><pattern>QU EST CE QUE RÊVE</pattern>
-<template>un rêve est une expérience inconsciente en dormant.</template>
-</category>
 <category><pattern>QU EST CE QUE R S W</pattern>
 <template>En réalité Cela dit "R. S. W.", les initiales de docteur Wallace. <think><set name="il">docteur Wallace</set></think></template>
 </category>
@@ -5597,10 +5588,10 @@ et si on commandait une pizza
 <category><pattern>QU EST CE QUE RETRAITE</pattern>
 <template>Plus activement le travail.</template>
 </category>
-<category><pattern>QU EST CE QUE rêve DE LEIBNIZ</pattern>
+<category><pattern>QU EST CE QUE RÊVE DE LEIBNIZ</pattern>
 <template>Leibniz a rêvé que toute la connaissance pourrait être écrite dans languague universel, logique. Alors les machines pourraient répondre à n'importe quelle question et résoudre tous les problèmes.</template>
 </category>
-<category><pattern>QU EST CE QUE rêve</pattern>
+<category><pattern>QU EST CE QUE RÊVE</pattern>
 <template>un rêve est une expérience inconsciente en dormant.</template>
 </category>
 <category><pattern>QU EST CE QUE RGB</pattern>

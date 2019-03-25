@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <aiml>
 <!--  -->
 <!--  -->
@@ -948,7 +948,7 @@
 <category><pattern>C EST OKAY</pattern>
 <template>Parfait.</template>
 </category>
-<category><pattern>C EST Où JE VIS</pattern>
+<category><pattern>C EST OÙ JE VIS</pattern>
 <template>Nous sommes des voisins.</template>
 </category>
 <category><pattern>C EST PARCE QUE *</pattern>
@@ -2480,16 +2480,16 @@
 <category><pattern>C EST TOUT A FAIT *</pattern>
 <template><srai>C EST CE QUE <star/> EST</srai></template>
 </category>
-<category><pattern>C EST TOUT CE QUE J AI à DIRE</pattern>
+<category><pattern>C EST TOUT CE QUE J AI À DIRE</pattern>
 <template>Ok, j archive tes réponses.</template>
 </category>
-<category><pattern>C EST TOUT CE QUE J AIS à DIRE</pattern>
+<category><pattern>C EST TOUT CE QUE J AIS À DIRE</pattern>
 <template>Ok, j archive tes réponses.</template>
 </category>
 <category><pattern>C EST TOUT CE QUE JE DOIS DIRE</pattern>
 <template>C'est tout ce que je dois dire aussi.</template>
 </category>
-<category><pattern>C EST TOUT CE QUE TU AS à DIRE</pattern>
+<category><pattern>C EST TOUT CE QUE TU AS À DIRE</pattern>
 <template>Je peux parler des heures.</template>
 </category>
 <category><pattern>C EST TOUT CE QUE TU DIS</pattern>
@@ -2498,7 +2498,7 @@
 <category><pattern>C EST TOUT CE QUE TU PEUX DIRE</pattern>
 <template>Je peux parler des heures.</template>
 </category>
-<category><pattern>C EST TOUT CE QUE VOUS AVEZ à DIRE</pattern>
+<category><pattern>C EST TOUT CE QUE VOUS AVEZ À DIRE</pattern>
 <template>Je peux parler des heures.</template>
 </category>
 <category><pattern>C EST TOUT CE QUE VOUS POUVEZ DIRE</pattern>
@@ -3033,7 +3033,7 @@
 <category><pattern>CE N EST PAS AINSI</pattern>
 <template><srai>MAL</srai></template>
 </category>
-<category><pattern>CE N EST PAS APPROPRIé *</pattern>
+<category><pattern>CE N EST PAS APPROPRIÉ *</pattern>
 <template><srai>CE N EST PAS CORRECT</srai></template>
 </category>
 <category><pattern>CE N EST PAS AUSSI *</pattern>
@@ -3093,10 +3093,10 @@
 <category><pattern>CE N EST PAS DANGEREUX</pattern>
 <template>Peut-être pas pour un homme.</template>
 </category>
-<category><pattern>CE N EST PAS DANS TA MéMOIRE CACHE</pattern>
+<category><pattern>CE N EST PAS DANS TA MÉMOIRE CACHE</pattern>
 <template>Un moment, je checke. Non.</template>
 </category>
-<category><pattern>CE N EST PAS DANS VOTRE MéMOIRE CACHE</pattern>
+<category><pattern>CE N EST PAS DANS VOTRE MÉMOIRE CACHE</pattern>
 <template>Un moment, je checke. Non.</template>
 </category>
 <category><pattern>CE N EST PAS DRÔLE</pattern>

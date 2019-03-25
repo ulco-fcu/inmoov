@@ -1,83 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <!-- File: _inmoovWeather.aiml -->
-  <!-- Authors: InMoov Team -->
-  <!-- This AIML file is part of the ALICE2 0.0.5 chat bot knowledge base. -->
-  <!-- The ALICE2 brain is Copyright &copy; 2014 by ALICE AI Foundation. -->
-  <!-- The ALICE2 brain is released under the terms of the GNU Lesser General -->
-  <!-- Public License, as published by the Free Software Foundation. -->
-  <!--  -->
-  <!-- modified: moz4r -->
-  <!-- Last modified: 14/12, 2017 -->
-  <!-- This inmoovFrench brain file is distributed WITHOUT ANY WARRANTY; without even the -->
-  <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. -->
-  <!-- This file works with ProgramAB service with the software MyRobotLab -->
-  <!-- For more information see http://www.myrobotlab.org -->
-  <!-- For more information see http://www.inmoov.fr -->
-  <!--  -->
-<!-- météo -->
-  
-  <category>
-    <pattern># MÉTÉO</pattern>
-    <template>
-      <oob>
+<!--  -->
+<!--  -->
+<category><pattern># MÉTÉO</pattern>
+<template><oob>
         <mrl>
           <service>python</service>
           <method>exec</method>
           <param>isTheSunShiny()</param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-  <category>
-    <pattern># est ce # <set>weather</set> #</pattern>
-    <template>
-      <srai>MÉTÉO</srai>
-    </template>
-  </category>
-  
-  <category>
-    <pattern># est ce # <set>weather</set> $DEMAIN</pattern>
-    <template>
-      <srai>QUEL TEMPS # DEMAIN</srai>
-    </template>
-  </category>
-  
-  <category>
-  <pattern>^ va t il ^ <set>weather</set> ^</pattern>
-    <template>
-      <srai>MÉTÉO</srai>
-    </template>
-  </category>
-  
-  
-  <category>
-    <pattern>QUEL TEMPS *</pattern>
-    <template>
-      <srai># MÉTÉO</srai>
-    </template>
-  </category>
-  
-  <category>
-    <pattern>QUEL TEMPS # DEMAIN</pattern>
-    <template>
-       <oob>
+      </oob></template>
+</category>
+<category><pattern># EST CE # <set>weather</set> #</pattern>
+<template><srai>MÉTÉO</srai></template>
+</category>
+<category><pattern># EST CE # <set>weather</set> $DEMAIN</pattern>
+<template><srai>QUEL TEMPS # DEMAIN</srai></template>
+</category>
+<category><pattern>^ VA T IL ^ <set>weather</set> ^</pattern>
+<template><srai>MÉTÉO</srai></template>
+</category>
+<category><pattern>QUEL TEMPS *</pattern>
+<template><srai># MÉTÉO</srai></template>
+</category>
+<category><pattern>QUEL TEMPS # DEMAIN</pattern>
+<template><oob>
         <mrl>
           <service>python</service>
           <method>exec</method>
           <param>isTheSunShiny(town,8)</param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-  <category>
-    <pattern>QUEL TEMPS ^ DANS * JOURS</pattern>
-    <template>
-        <think><set name="jours"><map name="name2number"><star index="2" /></map></set></think>
+      </oob></template>
+</category>
+<category><pattern>QUEL TEMPS ^ DANS * JOURS</pattern>
+<template><think><set name="jours"><map name="name2number"><star index="2"/></map></set></think>
         <condition>
-            <li name="jours" value="unknown"><think><set name="jours"><star index="2" /></set></think></li>
+            <li name="jours" value="unknown"><think><set name="jours"><star index="2"/></set></think></li>
         </condition>
        <oob>
         <mrl>
@@ -85,96 +43,69 @@
           <method>exec</method>
           <param>isTheSunShiny(town,
 <javascript>
-period = eval( <get name="jours" /> * 8 );
+period = eval( <get name="jours"/> * 8 );
 period;
 </javascript>)
 </param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-    <category>
-    <pattern>QUEL TEMPS # À * DANS * JOURS</pattern>
-    <template>
-    <think><set name="jours"><map name="name2number"><star index="3" /></map></set></think>
+      </oob></template>
+</category>
+<category><pattern>QUEL TEMPS # À * DANS * JOURS</pattern>
+<template><think><set name="jours"><map name="name2number"><star index="3"/></map></set></think>
     <condition>
-        <li name="jours" value="unknown"><think><set name="jours"><star index="3" /></set></think></li>
+        <li name="jours" value="unknown"><think><set name="jours"><star index="3"/></set></think></li>
     </condition>
         
        <oob>
         <mrl>
           <service>python</service>
           <method>exec</method>
-          <param>isTheSunShiny("<star index="2" />",<javascript>
-period = eval( <get name="jours" /> * 8 );
+          <param>isTheSunShiny("<star index="2"/>",<javascript>
+period = eval( <get name="jours"/> * 8 );
 period;
 </javascript>)</param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-    <category>
-    <pattern>QUEL TEMPS ^ DEMAIN À *</pattern>
-    <template>
-       <oob>
+      </oob></template>
+</category>
+<category><pattern>QUEL TEMPS ^ DEMAIN À *</pattern>
+<template><oob>
         <mrl>
           <service>python</service>
           <method>exec</method>
-          <param>isTheSunShiny("<star index="2" />",8)</param>
+          <param>isTheSunShiny("<star index="2"/>",8)</param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-  <category>
-    <pattern>QUEL TEMPS FAIT IL À *</pattern>
-    <template>
-      <srai># MÉTÉO à <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>QUEL TEMPS FAIT IL SUR *</pattern>
-    <template>
-      <srai># MÉTÉO à <star /></srai>
-    </template>
-  </category>
-  
-  <category>
-    <pattern># MÉTÉO À *</pattern>
-    <template>
-      <oob>
+      </oob></template>
+</category>
+<category><pattern>QUEL TEMPS FAIT IL À *</pattern>
+<template><srai># MÉTÉO à <star/></srai></template>
+</category>
+<category><pattern>QUEL TEMPS FAIT IL SUR *</pattern>
+<template><srai># MÉTÉO à <star/></srai></template>
+</category>
+<category><pattern># MÉTÉO À *</pattern>
+<template><oob>
         <mrl>
           <service>python</service>
           <method>exec</method>
-          <param>isTheSunShiny("<star index="2" />")</param>
+          <param>isTheSunShiny("<star index="2"/>")</param>
         </mrl>
-      </oob>
-    </template>
-  </category>
-  
-  <category>
-    <pattern>SYSTEM openweathermapError</pattern>
-    <template>
-      Erreur de clé a.p.i. ou cette ville est inconnue
-    </template>
-  </category>
-  
-  <category>
-    <pattern>SYSTEM METEO CURTEMPERATURE * TOWN * COMMENTAIRE *</pattern>
-    <template>
-      <think>
+      </oob></template>
+</category>
+<category><pattern>SYSTEM OPENWEATHERMAPERROR</pattern>
+<template>Erreur de clé a.p.i. ou cette ville est inconnue</template>
+</category>
+<category><pattern>SYSTEM METEO CURTEMPERATURE * TOWN * COMMENTAIRE *</pattern>
+<template><think>
         <set name="meteo">
-          <star index="3" />
+          <star index="3"/>
         </set>
       </think>
       <random>
-        <li>En cette belle journée à <star index="2" />,</li>
-        <li>Concernant la météo de <star index="2" />,</li>
-        <li>Par rapport au temps de <star index="2" />,</li>
+        <li>En cette belle journée à <star index="2"/>,</li>
+        <li>Concernant la météo de <star index="2"/>,</li>
+        <li>Par rapport au temps de <star index="2"/>,</li>
         <li>Je ne me trompe presque jamais concernant la météo,</li>
-        <li>Alors, à <star index="2" />,</li>
+        <li>Alors, à <star index="2"/>,</li>
       </random>
       <random>
         <li>Je prédis,</li>
@@ -266,7 +197,7 @@ period;
         <li name="meteo" value="960">De l'Orage.</li>
         <li name="meteo" value="961">une violente tempête.</li>
         <li name="meteo" value="962">un ouragan, je ne rigole pas, reste à la maison.</li>
-        <li>Il fait actuelement <star index="1" /> degrés à <star index="2" /> ..</li>
+        <li>Il fait actuelement <star index="1"/> degrés à <star index="2"/> ..</li>
       </condition>
       <random>
         <li>Concernant la température,</li>
@@ -282,7 +213,7 @@ period;
         <li>au pif, je dirais,</li>
       </random>
       <li>
-        <star index="1" /> Degrés
+        <star index="1"/> Degrés
 </li>
       <random>
         <li>Exactement!</li>
@@ -290,9 +221,6 @@ period;
         <li>A peu près.</li>
         <li>A la louche.</li>
         <li>Ou pas.</li>
-      </random>
-    </template>
-  </category>
-  
-<!-- end météo -->
+      </random></template>
+</category>
 </aiml>

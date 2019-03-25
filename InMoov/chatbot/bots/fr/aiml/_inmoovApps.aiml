@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <!-- File: gesturesFrench.aiml -->
-  <!-- Author: Gael Langevin, Anthony Gallot -->
-  <!-- Last modified: Jun 6, 2017 -->
-  <!-- by Anthony Gallot : initial -->
-  <!-- This inmoovFrench brain file is distributed WITHOUT ANY WARRANTY; without even the  -->
-  <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
-  <!-- This file works with ProgramAB service with the software MyRobotLab -->
-  <!-- For more information see http://www.myrobotlab.org -->
-  <!-- For more information see http://www.inmoov.fr -->
-  <!--  -->
-
-<!-- kids game 1 -->  
-    <category>
-    <pattern> # JOUER AUX MOTS # </pattern>
-    <template>
-	<think><set name="topic">playwordsgame</set></think>
+<!--  -->
+<!--  -->
+<category><pattern># JOUER AUX MOTS #</pattern>
+<template><think><set name="topic">playwordsgame</set></think>
 	<random>
 		<li>
 		Chouette! j aime apprendre avec toi. Quel mot veux-tu apprendre?
@@ -29,48 +17,27 @@
 	</random>
 	<li>
 	Dis moi, STOP JEUX! pour arrêter
-	</li>
-	
-    </template>
-  </category>
-  
-	<category>
-    <pattern>jouer au jeu démo</pattern>
-    <template>
-	<srai># JOUER AUX MOTS #</srai>
-    </template>
-	</category>
-  
-  <topic name="playwordsgame">
-    <category>
-      <pattern>*</pattern>
-      <template>
-        <oob>
+	</li></template>
+</category>
+<category><pattern>JOUER AU JEU DÉMO</pattern>
+<template><srai># JOUER AUX MOTS #</srai></template>
+</category>
+<topic name="PLAYWORDSGAME">
+<category><pattern>*</pattern>
+<template><oob>
           <mrl>
             <service>python</service>
             <method>exec</method>
-            <param>PlayWithWords("<star index="1" />")</param>
+            <param>PlayWithWords("<star index="1"/>")</param>
           </mrl>
-        </oob>
-      </template>
-    </category>  
-  </topic>
-    
-<!-- end kids game -->  
+        </oob></template>
+</category></topic>
 
-<!-- rockpaperscissors game -->   
- 	<category>
-    <pattern># PIERRE FEUILLE CISEAU #</pattern>
-    <template>
-	<srai># chifoumi #</srai>
-    </template>
-	</category>
- 
- 
-  <category>
-  <pattern># chifoumi #</pattern>
-  <template>
-	<think><set name="topic">rockpaperscissors</set></think>
+<category><pattern># PIERRE FEUILLE CISEAU #</pattern>
+<template><srai># chifoumi #</srai></template>
+</category>
+<category><pattern># CHIFOUMI #</pattern>
+<template><think><set name="topic">rockpaperscissors</set></think>
   <think><set name="rockpaperscissorsHumanPoints">0</set></think>
   <think><set name="rockpaperscissorsRobotPoints">0</set></think>
 	<random>
@@ -83,25 +50,17 @@
 	</random>
 	<li>
 	3 points pour gagner! Dis moi, STOP JEUX! pour arrêter. Tu commences. Dis PIERRE FEUILLE ou CISEAU.
-	</li>
-	
-    </template>
-  </category>
-
-  
-  <topic name="rockpaperscissors">
-  
-    <category>
-      <pattern>PIERRE</pattern>
-      <template>
-      
-       <random>
+	</li></template>
+</category>
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>PIERRE</pattern>
+<template><random>
         <li>
         <oob><mrl><service>python</service><method>exec</method><param>paper()</param></mrl></oob>
         J'ai une FEUILLE désolé elle recouvre la pierre!
         <think><set name="rockpaperscissorsRobotPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsRobotPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsRobotPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>  
@@ -110,7 +69,7 @@
         J'ai des ciseaux, ta pierre les a cassé.
         <think><set name="rockpaperscissorsHumanPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsHumanPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsHumanPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>
@@ -119,20 +78,18 @@
         J'ai une pierre aussi.
 </li> 
       </random>
-      <srai>SYSTEM_COUNT_POINTS</srai>
-      </template>
-    </category> 
+      <srai>SYSTEM_COUNT_POINTS</srai></template>
+</category></topic>
 
-    <category>
-      <pattern>FEUILLE</pattern>
-      <template>
-        <random>
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>FEUILLE</pattern>
+<template><random>
         <li>
         <oob><mrl><service>python</service><method>exec</method><param>scissors()</param></mrl></oob>
         Désolé j'ai des ciseaux, ils coupent le papier!
         <think><set name="rockpaperscissorsRobotPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsRobotPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsRobotPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>  
@@ -141,7 +98,7 @@
         Félicitation, j'ai une pierre, ton papier la recouvre.
         <think><set name="rockpaperscissorsHumanPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsHumanPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsHumanPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>
@@ -150,28 +107,23 @@
         J'ai une feuille aussi.
 </li> 
       </random>
-      <srai>SYSTEM_COUNT_POINTS</srai>
-      </template>
-    </category> 
-    
- 	<category>
-    <pattern>CISEAUX</pattern>
-    <template>
-	<srai>CISEAU</srai>
-    </template>
-	</category>
- 
-    <category>
-      <pattern>CISEAU</pattern>
-      <template>
-      
-       <random>
+      <srai>SYSTEM_COUNT_POINTS</srai></template>
+</category></topic>
+
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>CISEAUX</pattern>
+<template><srai>CISEAU</srai></template>
+</category></topic>
+
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>CISEAU</pattern>
+<template><random>
         <li>
         <oob><mrl><service>python</service><method>exec</method><param>rock()</param></mrl></oob>
         J'ai une pierre, désolé ça casse les ciseaux! 
         <think><set name="rockpaperscissorsRobotPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsRobotPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsRobotPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>  
@@ -180,7 +132,7 @@
         J'ai une feuille, tes ciseaux l'ont coupée
         <think><set name="rockpaperscissorsHumanPoints">
         <javascript>
-        eval( <get name="rockpaperscissorsHumanPoints" /> + 1 );
+        eval( <get name="rockpaperscissorsHumanPoints"/> + 1 );
         </javascript>
         </set></think>
 </li>
@@ -189,58 +141,35 @@
         égalité, j'ai des ciseaux aussi.
 </li> 
       </random>
-      <srai>SYSTEM_COUNT_POINTS</srai>
-      </template>
-    </category> 
+      <srai>SYSTEM_COUNT_POINTS</srai></template>
+</category></topic>
 
-  <category>
-      <pattern>SYSTEM_COUNT_POINTS</pattern>
-      <template>
-      <li><get name="rockpaperscissorsHumanPoints" /> points pour toi.</li>
-      <li><get name="rockpaperscissorsRobotPoints" /> points pour moi.</li>
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>SYSTEM_COUNT_POINTS</pattern>
+<template><li><get name="rockpaperscissorsHumanPoints"/> points pour toi.</li>
+      <li><get name="rockpaperscissorsRobotPoints"/> points pour moi.</li>
       <condition>
       <li name="rockpaperscissorsRobotPoints" value="3">J'ai gagné! <random><li>Je suis tellement doué</li><li>c'était trop facile</li><li>ne pleure pas</li></random>. Jouont encore! ou bien dis stop jeux. <srai>PIERRE FEUILLE CISEAU</srai></li>
       <li name="rockpaperscissorsHumanPoints" value="3">You won! <random><li>Félicitation</li><li>Je pense que tu as triché</li><li>Tu es trop fort</li></random>. Jouont encore! ou bien dis stop jeux. <srai>PIERRE FEUILLE CISEAU</srai></li>
       <li>. continuont.</li>
-      </condition>
-      </template>
-  </category>
-      
-     <category>
-      <pattern>*</pattern>
-      <template>
-      J'ai pas compris, Dis PIERRE FEUILLE ou CISEAU.
-      </template>
-    </category> 
-    
-  </topic>
-  
- 
-<!-- end rockpaperscissors  -->  
+      </condition></template>
+</category></topic>
 
-	<category>
-    <pattern>TOP JEUX</pattern>
-    <template>
-	<srai>STOP JEUX</srai>
-    </template>
-	</category>
-	
-	<category>
-    <pattern>STOP JE</pattern>
-    <template>
-	<srai>STOP JEUX</srai>
-    </template>
-	</category>
-    
-   <category>
-    <pattern>STOP JEUX</pattern>
-    <template>
-	<think><set name="topic">default</set></think>
+<topic name="ROCKPAPERSCISSORS">
+<category><pattern>*</pattern>
+<template>J'ai pas compris, Dis PIERRE FEUILLE ou CISEAU.</template>
+</category></topic>
+
+<category><pattern>TOP JEUX</pattern>
+<template><srai>STOP JEUX</srai></template>
+</category>
+<category><pattern>STOP JE</pattern>
+<template><srai>STOP JEUX</srai></template>
+</category>
+<category><pattern>STOP JEUX</pattern>
+<template><think><set name="topic">default</set></think>
     <li>
     A bientôt, j aime jouer!
-</li>  
-    </template>
-	</category>
-
-    
+</li></template>
+</category>
 </aiml>
