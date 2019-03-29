@@ -10,7 +10,6 @@ pids/
 ProgramAB/
 repo/
 resource/
-tts/
 *.log
 *.dll
 ivychain.xml
