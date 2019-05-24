@@ -6,10 +6,20 @@ Techniquement :
 - Le DEv de NEO se fera depuis la branche 'dev-manticore'.
 - Vous veillerez donc à travailler depuis cette branche 
 
+Dependances : 
+MyRobotLab version Manticore 
+[A Telecharger ICI](https://github.com/MyRobotLab/myrobotlab/releases/tag/1.0.2693)
+Intégré dans la branche dev-manticore
 
 
+#Tutos : 
+- git : https://git-scm.com/book/fr/v2
+- chatbot (programAB) : 
+1. https://code.google.com/archive/p/program-ab/wikis
+2. https://www.tutorialspoint.com/aiml/index.htm
 
 
+--------------
 
 # InMooV - Service launcher v 1.0.0   
 
