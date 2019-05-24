@@ -1,17 +1,20 @@
-lui:parce que normalement
+lui:acheter gentil
 courant:
-quoi:parce que normalement
+cava:ok
+quoi:acheter gentil
 effet:la date d aujourd hui je vais faire un tag
-memoriser:incomprehension de "parce que normalement" dans le contexte : la la pour "fcu"
-mastercontent:incomprehension de "parce que normalement" dans le contexte : la la
-toi:parce que normalement
+usermood:seul
+memoriser:incomprehension de "acheter gentil" dans le contexte : les les pour "fcu"
+mastercontent:incomprehension de "acheter gentil" dans le contexte : les les
+toi:acheter gentil
+elle:ton mère
 botname:néo
-that:micro
+that:me parles c est normal
 search:ou
 jsenabled:true
 identity:0
 tmp:ouais
 name:fcu
-topic:la la
+topic:les les
 articles:
 heurequestion:18
