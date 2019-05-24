@@ -13,5 +13,6 @@ resource/
 *.log
 *.dll
 ivychain.xml
-#myrobotlab.jar
 repo.json
+audioFile/
+InMoov/chatbot/bots/fr/aiml/folder_updated
