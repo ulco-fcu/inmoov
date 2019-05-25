@@ -19,6 +19,7 @@ Intégré dans la branche dev-manticore
 - git : 
 1. https://git-scm.com/book/fr/v2
 2. http://rogerdudler.github.io/git-guide/index.fr.html
+3. https://nvie.com/posts/a-successful-git-branching-model/
 
 - chatbot (programAB) : 
 1. https://code.google.com/archive/p/program-ab/wikis
