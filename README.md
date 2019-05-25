@@ -12,8 +12,14 @@ MyRobotLab version Manticore
 Intégré dans la branche dev-manticore
 
 
-#Tutos : 
-- git : https://git-scm.com/book/fr/v2
+#Tutos :
+- myrobotlab + gestes :
+1. https://inmoov.monsite-orange.fr/page-5c5c0b5c22b9a.html
+ 
+- git : 
+1. https://git-scm.com/book/fr/v2
+2. http://rogerdudler.github.io/git-guide/index.fr.html
+
 - chatbot (programAB) : 
 1. https://code.google.com/archive/p/program-ab/wikis
 2. https://www.tutorialspoint.com/aiml/index.htm
