@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<!--  -->
+<category><pattern>PRESENTATION FCU</pattern>
+<template>bonjour je m appele <get name="botname"/> j ai étais assemblé par <!-- Morgan Pruvot Sophie Deleglise Alexandre Agneray Alexandre Larue Hasnaa ouadoudi Jaouad ifatssane Ayoub Khouya Mohamed Amine Ben Fatma Romain Elleboode Christopher Vasseur Julien ?  et ? ? --></template>
+</category>
+<category><pattern>CAMENBERT</pattern>
+<template>tu aime le camenbert moi je ne sais pas je ne peux pas gouter</template>
+</category>
+<category><pattern>PREND ET FAIT DE LA MUSCU</pattern>
+<template><li>met l objet dans ma main</li>
+<oob> <mrl>
+            <service>python</service>
+            <method>exec</method>
+            <param>prendre()</param>
+          </mrl></oob></template>
+</category>
+<category><pattern>PRESENTATION NORD LITTORAL</pattern>
+<template>
+<oob> <mrl>
+            <service>python</service>
+            <method>exec</method>
+            <param>presentationnordlittoral()</param>
+          </mrl></oob></template>
+</category>
+</aiml>
