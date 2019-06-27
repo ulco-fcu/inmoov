@@ -1,0 +1,26 @@
+# -- coding: utf-8 --
+
+def salutun():
+  relax()
+  i01.startedGesture()
+  sleep(1)
+  i01.moveArm("right",0,0,0,0)	# right ?1=minimun output biceps droit   ?2=minimun output rotate+10 droit   ?3=minimun output omoplate droit
+  i01.moveHand("right",0,0,0,0,0,0)
+  sleep(2)
+  i01.moveArm("right",85,30,45,20)
+  i01.mouth.speakBlocking("salut tout le monde")
+  sleep(2)
+  i01.moveArm("right",85,10,45,20)
+  sleep(2)
+  i01.moveArm("right",85,30,45,20)
+  i01.mouth.speakBlocking("vous étes nombreux a suivre mon évolution j éspere que cela vous plait")
+  sleep(2)
+  i01.moveArm("right",85,10,45,20)
+  sleep(2)
+  i01.moveArm("right",85,30,45,20)
+  sleep(2)
+  i01.moveArm("right",0,30,0,0)
+  i01.mouth.speakBlocking("je vous dit a la prochaine fois")
+  sleep(2)
+  i01.finishedGesture()
+  relax()

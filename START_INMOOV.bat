@@ -62,8 +62,4 @@ echo ERROR : %cd%\InMoov\InMoov.py is not available
 echo CHECK ABOUT SPACES INSIDE FOLDERS NAME or SPECIAL CHARACTERS 
 echo "c:\mrl" is a great place to start
 timeout 10 > NUL
-) else (
-set _JAVA_OPTIONS=-Xmx1g
-java  -Dfile.encoding=UTF-8 -jar myrobotlab.jar -jvmargs="-Dfile.encoding=UTF-8" -invoke python execFile %cd%/InMoov/InMoov.py -service python Python
-pause
-)
+) else (java -Dfile.encoding=UTF-8 -jar myrobotlab.jar -jvmargs="-Dfile.encoding=UTF-8" -invoke python execFile %cd%/InMoov/InMoov.py -service python Python)
