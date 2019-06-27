@@ -11,7 +11,7 @@ def presentationnordlittoral():
   i01.moveHand("right",55,2,50,48,30,90)
   i01.moveTorso(90,90,90)
   sleep(3)
-  i01.mouth.speakBlocking("bonjour la voix du nord et tous ceux qui nous regarde")
+  i01.mouth.speakBlocking("bonjour nord littoral et tous ceux qui nous regarde")
   i01.moveHead(80,98)
   i01.moveArm("left",5,90,30,10)
   i01.moveArm("right",5,90,30,10)
